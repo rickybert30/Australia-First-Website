@@ -31,8 +31,13 @@ from collections import defaultdict
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 SRC = os.path.join(HERE, "..", "data", "sources")
+POS_DIR = os.path.join(HERE, "..", "data", "positions")
 DEST = os.path.join(HERE, "..", "data", "candidates.json")
 BUILD_DATE = "2026-06-26"
+
+# Policy-position issue keys, in display priority order. Each may have a file
+# data/positions/<issue>.json mapping candidate id -> {summary, sources, verified}.
+ISSUES = ["faith", "immigration", "foreign_policy", "economic_nationalism", "citizenship_eligibility"]
 
 AEC_HOUSE_URL = "https://results.aec.gov.au/31496/Website/HouseDownloadsMenu-31496-Csv.htm"
 AEC_DONOR_URL = "https://transparency.aec.gov.au/MemberOfParliament"
@@ -59,6 +64,19 @@ ALIASES = {
 }
 
 
+def proper_case(surname):
+    """Convert an all-caps AEC surname to proper case, preserving Mc, apostrophes
+    and hyphens (ALBANESE->Albanese, McBAIN->McBain, O'BRIEN->O'Brien)."""
+    def cap(w):
+        if not w:
+            return w
+        if w[:2].lower() == "mc" and len(w) > 2:
+            return "Mc" + w[2].upper() + w[3:].lower()
+        return w[:1].upper() + w[1:].lower()
+    parts = re.split(r"([-' ])", surname)
+    return "".join(p if p in "-' " else cap(p) for p in parts)
+
+
 def norm_key(name):
     """Normalise a personal name to 'first last' lowercase, titles stripped."""
     n = TITLES.sub(" ", name)
@@ -71,9 +89,10 @@ def norm_key(name):
 
 
 def slugify(name, suffix=""):
-    base = TITLES.sub(" ", name)
-    base = re.sub(r"[^a-zA-Z0-9]+", "-", base).strip("-").lower()
-    return f"{base}-{suffix}".strip("-") if suffix else base
+    def clean(s):
+        return re.sub(r"[^a-zA-Z0-9]+", "-", TITLES.sub(" ", s)).strip("-").lower()
+    base = clean(name)
+    return f"{base}-{clean(suffix)}".strip("-") if suffix else base
 
 
 def read_csv(path, skip=0):
@@ -147,7 +166,7 @@ def build_roster():
     # House — AEC Members Elected (authoritative). File has a 1-line metadata
     # banner above the header row.
     for row in read_csv(os.path.join(SRC, "aec_house_members_elected_2025.csv"), skip=1):
-        given, surname = row["GivenNm"].strip(), row["Surname"].strip()
+        given, surname = row["GivenNm"].strip(), proper_case(row["Surname"].strip())
         name = f"{given} {surname}".strip()
         key = norm_key(name)
         keys.add(key)
@@ -202,6 +221,35 @@ def build_roster():
     return records, keys
 
 
+def load_positions():
+    """Load hand-sourced positions, merged by candidate id. Rebuild-safe:
+    positions live in data/positions/<issue>.json, never in candidates.json."""
+    positions = defaultdict(dict)  # candidate id -> {issue: position}
+    if not os.path.isdir(POS_DIR):
+        return positions
+    for issue in ISSUES:
+        path = os.path.join(POS_DIR, f"{issue}.json")
+        if not os.path.isfile(path):
+            continue
+        with open(path, encoding="utf-8") as f:
+            data = json.load(f)
+        for cand_id, pos in data.items():
+            positions[cand_id][issue] = pos
+    return positions
+
+
+def attach_positions(records, positions):
+    matched = 0
+    for rec in records:
+        pos = positions.get(rec["id"])
+        if not pos:
+            continue
+        # Preserve ISSUES display order.
+        rec["positions"] = {k: pos[k] for k in ISSUES if k in pos}
+        matched += 1
+    return matched
+
+
 def main():
     donors = build_donors()
     roster, roster_keys = build_roster()
@@ -246,6 +294,9 @@ def main():
     all_records = sorted(roster, key=lambda r: (r["chamber"], r.get("state", ""), r["name"])) + \
         sorted(former, key=lambda r: r["name"])
 
+    positions = load_positions()
+    pos_matched = attach_positions(all_records, positions)
+
     out = {
         "meta": {
             "description": "Australian federal candidate transparency dataset (48th Parliament). "
@@ -266,6 +317,7 @@ def main():
     print(f"Wrote {len(all_records)} records "
           f"({len(roster)} incumbents, {len(former)} former).")
     print(f"Donor records matched to current members: {matched}/{len(donors)}.")
+    print(f"Records with hand-sourced positions: {pos_matched}.")
     if former:
         print("Retained as former (donor data, not in current roster):")
         for r in former:

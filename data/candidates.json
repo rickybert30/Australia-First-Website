@@ -9,7 +9,7 @@
   "candidates": [
     {
       "id": "alicia-payne-canberra",
-      "name": "Alicia PAYNE",
+      "name": "Alicia Payne",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Canberra",
@@ -39,7 +39,7 @@
     },
     {
       "id": "andrew-leigh-fenner",
-      "name": "Andrew LEIGH",
+      "name": "Andrew Leigh",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Fenner",
@@ -69,7 +69,7 @@
     },
     {
       "id": "david-smith-bean",
-      "name": "David SMITH",
+      "name": "David Smith",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Bean",
@@ -99,7 +99,7 @@
     },
     {
       "id": "alex-hawke-mitchell",
-      "name": "Alex HAWKE",
+      "name": "Alex Hawke",
       "party": "Liberal",
       "chamber": "House of Representatives",
       "electorate": "Mitchell",
@@ -122,7 +122,7 @@
     },
     {
       "id": "alison-byrnes-cunningham",
-      "name": "Alison BYRNES",
+      "name": "Alison Byrnes",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Cunningham",
@@ -145,7 +145,7 @@
     },
     {
       "id": "alison-penfold-lyne",
-      "name": "Alison PENFOLD",
+      "name": "Alison Penfold",
       "party": "The Nationals",
       "chamber": "House of Representatives",
       "electorate": "Lyne",
@@ -168,7 +168,7 @@
     },
     {
       "id": "allegra-spender-wentworth",
-      "name": "Allegra SPENDER",
+      "name": "Allegra Spender",
       "party": "Independent",
       "chamber": "House of Representatives",
       "electorate": "Wentworth",
@@ -367,7 +367,7 @@
     },
     {
       "id": "andrew-charlton-parramatta",
-      "name": "Andrew CHARLTON",
+      "name": "Andrew Charlton",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Parramatta",
@@ -390,7 +390,7 @@
     },
     {
       "id": "andrew-gee-calare",
-      "name": "Andrew GEE",
+      "name": "Andrew Gee",
       "party": "Independent",
       "chamber": "House of Representatives",
       "electorate": "Calare",
@@ -420,7 +420,7 @@
     },
     {
       "id": "angus-taylor-hume",
-      "name": "Angus TAYLOR",
+      "name": "Angus Taylor",
       "party": "Liberal",
       "chamber": "House of Representatives",
       "electorate": "Hume",
@@ -443,7 +443,7 @@
     },
     {
       "id": "anne-maree-stanley-werriwa",
-      "name": "Anne Maree STANLEY",
+      "name": "Anne Maree Stanley",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Werriwa",
@@ -466,7 +466,7 @@
     },
     {
       "id": "anthony-albanese-grayndler",
-      "name": "Anthony ALBANESE",
+      "name": "Anthony Albanese",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Grayndler",
@@ -489,7 +489,7 @@
     },
     {
       "id": "ash-ambihaipahar-barton",
-      "name": "Ash AMBIHAIPAHAR",
+      "name": "Ash Ambihaipahar",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Barton",
@@ -511,8 +511,8 @@
       }
     },
     {
-      "id": "barnaby-joyce-new england",
-      "name": "Barnaby JOYCE",
+      "id": "barnaby-joyce-new-england",
+      "name": "Barnaby Joyce",
       "party": "The Nationals",
       "chamber": "House of Representatives",
       "electorate": "New England",
@@ -535,7 +535,7 @@
     },
     {
       "id": "carol-berry-whitlam",
-      "name": "Carol BERRY",
+      "name": "Carol Berry",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Whitlam",
@@ -558,7 +558,7 @@
     },
     {
       "id": "chris-bowen-mcmahon",
-      "name": "Chris BOWEN",
+      "name": "Chris Bowen",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "McMahon",
@@ -581,7 +581,7 @@
     },
     {
       "id": "dai-le-fowler",
-      "name": "Dai LE",
+      "name": "Dai Le",
       "party": "Independent",
       "chamber": "House of Representatives",
       "electorate": "Fowler",
@@ -604,7 +604,7 @@
     },
     {
       "id": "dan-repacholi-hunter",
-      "name": "Dan REPACHOLI",
+      "name": "Dan Repacholi",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Hunter",
@@ -627,7 +627,7 @@
     },
     {
       "id": "david-moncrieff-hughes",
-      "name": "David MONCRIEFF",
+      "name": "David Moncrieff",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Hughes",
@@ -650,7 +650,7 @@
     },
     {
       "id": "ed-husic-chifley",
-      "name": "Ed HUSIC",
+      "name": "Ed Husic",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Chifley",
@@ -673,7 +673,7 @@
     },
     {
       "id": "emma-mcbride-dobell",
-      "name": "Emma McBRIDE",
+      "name": "Emma McBride",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Dobell",
@@ -696,7 +696,7 @@
     },
     {
       "id": "fiona-phillips-gilmore",
-      "name": "Fiona PHILLIPS",
+      "name": "Fiona Phillips",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Gilmore",
@@ -719,7 +719,7 @@
     },
     {
       "id": "gordon-reid-robertson",
-      "name": "Gordon REID",
+      "name": "Gordon Reid",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Robertson",
@@ -742,7 +742,7 @@
     },
     {
       "id": "jamie-chaffey-parkes",
-      "name": "Jamie CHAFFEY",
+      "name": "Jamie Chaffey",
       "party": "The Nationals",
       "chamber": "House of Representatives",
       "electorate": "Parkes",
@@ -765,7 +765,7 @@
     },
     {
       "id": "jason-clare-blaxland",
-      "name": "Jason CLARE",
+      "name": "Jason Clare",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Blaxland",
@@ -788,7 +788,7 @@
     },
     {
       "id": "jerome-laxale-bennelong",
-      "name": "Jerome LAXALE",
+      "name": "Jerome Laxale",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Bennelong",
@@ -811,7 +811,7 @@
     },
     {
       "id": "julian-leeser-berowra",
-      "name": "Julian LEESER",
+      "name": "Julian Leeser",
       "party": "Liberal",
       "chamber": "House of Representatives",
       "electorate": "Berowra",
@@ -834,7 +834,7 @@
     },
     {
       "id": "justine-elliot-richmond",
-      "name": "Justine ELLIOT",
+      "name": "Justine Elliot",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Richmond",
@@ -857,7 +857,7 @@
     },
     {
       "id": "kevin-hogan-page",
-      "name": "Kevin HOGAN",
+      "name": "Kevin Hogan",
       "party": "The Nationals",
       "chamber": "House of Representatives",
       "electorate": "Page",
@@ -880,7 +880,7 @@
     },
     {
       "id": "kristy-mcbain-eden-monaro",
-      "name": "Kristy McBAIN",
+      "name": "Kristy McBain",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Eden-Monaro",
@@ -902,8 +902,8 @@
       }
     },
     {
-      "id": "matt-thistlethwaite-kingsford smith",
-      "name": "Matt THISTLETHWAITE",
+      "id": "matt-thistlethwaite-kingsford-smith",
+      "name": "Matt Thistlethwaite",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Kingsford Smith",
@@ -926,7 +926,7 @@
     },
     {
       "id": "melissa-mcintosh-lindsay",
-      "name": "Melissa McINTOSH",
+      "name": "Melissa McIntosh",
       "party": "Liberal",
       "chamber": "House of Representatives",
       "electorate": "Lindsay",
@@ -949,7 +949,7 @@
     },
     {
       "id": "meryl-swanson-paterson",
-      "name": "Meryl SWANSON",
+      "name": "Meryl Swanson",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Paterson",
@@ -972,7 +972,7 @@
     },
     {
       "id": "michael-mccormack-riverina",
-      "name": "Michael McCORMACK",
+      "name": "Michael McCormack",
       "party": "The Nationals",
       "chamber": "House of Representatives",
       "electorate": "Riverina",
@@ -995,7 +995,7 @@
     },
     {
       "id": "michelle-rowland-greenway",
-      "name": "Michelle ROWLAND",
+      "name": "Michelle Rowland",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Greenway",
@@ -1018,7 +1018,7 @@
     },
     {
       "id": "mike-freelander-macarthur",
-      "name": "Mike FREELANDER",
+      "name": "Mike Freelander",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Macarthur",
@@ -1041,7 +1041,7 @@
     },
     {
       "id": "nicolette-boele-bradfield",
-      "name": "Nicolette BOELE",
+      "name": "Nicolette Boele",
       "party": "Independent",
       "chamber": "House of Representatives",
       "electorate": "Bradfield",
@@ -1064,7 +1064,7 @@
     },
     {
       "id": "pat-conaghan-cowper",
-      "name": "Pat CONAGHAN",
+      "name": "Pat Conaghan",
       "party": "The Nationals",
       "chamber": "House of Representatives",
       "electorate": "Cowper",
@@ -1087,7 +1087,7 @@
     },
     {
       "id": "pat-conroy-shortland",
-      "name": "Pat CONROY",
+      "name": "Pat Conroy",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Shortland",
@@ -1110,7 +1110,7 @@
     },
     {
       "id": "sally-sitou-reid",
-      "name": "Sally SITOU",
+      "name": "Sally Sitou",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Reid",
@@ -1133,7 +1133,7 @@
     },
     {
       "id": "sharon-claydon-newcastle",
-      "name": "Sharon CLAYDON",
+      "name": "Sharon Claydon",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Newcastle",
@@ -1156,7 +1156,7 @@
     },
     {
       "id": "simon-kennedy-cook",
-      "name": "Simon KENNEDY",
+      "name": "Simon Kennedy",
       "party": "Liberal",
       "chamber": "House of Representatives",
       "electorate": "Cook",
@@ -1179,7 +1179,7 @@
     },
     {
       "id": "sophie-scamps-mackellar",
-      "name": "Sophie SCAMPS",
+      "name": "Sophie Scamps",
       "party": "Independent",
       "chamber": "House of Representatives",
       "electorate": "Mackellar",
@@ -1294,7 +1294,7 @@
     },
     {
       "id": "susan-templeman-macquarie",
-      "name": "Susan TEMPLEMAN",
+      "name": "Susan Templeman",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Macquarie",
@@ -1324,7 +1324,7 @@
     },
     {
       "id": "sussan-ley-farrer",
-      "name": "Sussan LEY",
+      "name": "Sussan Ley",
       "party": "Liberal",
       "chamber": "House of Representatives",
       "electorate": "Farrer",
@@ -1347,7 +1347,7 @@
     },
     {
       "id": "tanya-plibersek-sydney",
-      "name": "Tanya PLIBERSEK",
+      "name": "Tanya Plibersek",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Sydney",
@@ -1370,7 +1370,7 @@
     },
     {
       "id": "tony-burke-watson",
-      "name": "Tony BURKE",
+      "name": "Tony Burke",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Watson",
@@ -1393,7 +1393,7 @@
     },
     {
       "id": "zali-steggall-warringah",
-      "name": "Zali STEGGALL",
+      "name": "Zali Steggall",
       "party": "Independent",
       "chamber": "House of Representatives",
       "electorate": "Warringah",
@@ -1648,7 +1648,7 @@
     },
     {
       "id": "zhi-soon-banks",
-      "name": "Zhi SOON",
+      "name": "Zhi Soon",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Banks",
@@ -1671,7 +1671,7 @@
     },
     {
       "id": "luke-john-gosling-solomon",
-      "name": "Luke John GOSLING",
+      "name": "Luke John Gosling",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Solomon",
@@ -1694,7 +1694,7 @@
     },
     {
       "id": "marion-scrymgour-lingiari",
-      "name": "Marion SCRYMGOUR",
+      "name": "Marion Scrymgour",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Lingiari",
@@ -1724,7 +1724,7 @@
     },
     {
       "id": "ali-france-dickson",
-      "name": "Ali FRANCE",
+      "name": "Ali France",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Dickson",
@@ -1747,7 +1747,7 @@
     },
     {
       "id": "andrew-wallace-fisher",
-      "name": "Andrew WALLACE",
+      "name": "Andrew Wallace",
       "party": "Liberal National Party of Queensland",
       "chamber": "House of Representatives",
       "electorate": "Fisher",
@@ -1770,7 +1770,7 @@
     },
     {
       "id": "andrew-willcox-dawson",
-      "name": "Andrew WILLCOX",
+      "name": "Andrew Willcox",
       "party": "Liberal National Party of Queensland",
       "chamber": "House of Representatives",
       "electorate": "Dawson",
@@ -1793,7 +1793,7 @@
     },
     {
       "id": "angie-bell-moncrieff",
-      "name": "Angie BELL",
+      "name": "Angie Bell",
       "party": "Liberal National Party of Queensland",
       "chamber": "House of Representatives",
       "electorate": "Moncrieff",
@@ -1816,7 +1816,7 @@
     },
     {
       "id": "anika-wells-lilley",
-      "name": "Anika WELLS",
+      "name": "Anika Wells",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Lilley",
@@ -1839,7 +1839,7 @@
     },
     {
       "id": "bob-katter-kennedy",
-      "name": "Bob KATTER",
+      "name": "Bob Katter",
       "party": "Katter's Australian Party (KAP)",
       "chamber": "House of Representatives",
       "electorate": "Kennedy",
@@ -1869,7 +1869,7 @@
     },
     {
       "id": "cameron-caldwell-fadden",
-      "name": "Cameron CALDWELL",
+      "name": "Cameron Caldwell",
       "party": "Liberal National Party of Queensland",
       "chamber": "House of Representatives",
       "electorate": "Fadden",
@@ -1892,7 +1892,7 @@
     },
     {
       "id": "colin-boyce-flynn",
-      "name": "Colin BOYCE",
+      "name": "Colin Boyce",
       "party": "Liberal National Party of Queensland",
       "chamber": "House of Representatives",
       "electorate": "Flynn",
@@ -1915,7 +1915,7 @@
     },
     {
       "id": "david-batt-hinkler",
-      "name": "David BATT",
+      "name": "David Batt",
       "party": "Liberal National Party of Queensland",
       "chamber": "House of Representatives",
       "electorate": "Hinkler",
@@ -1938,7 +1938,7 @@
     },
     {
       "id": "david-littleproud-maranoa",
-      "name": "David LITTLEPROUD",
+      "name": "David Littleproud",
       "party": "Liberal National Party of Queensland",
       "chamber": "House of Representatives",
       "electorate": "Maranoa",
@@ -1961,7 +1961,7 @@
     },
     {
       "id": "elizabeth-watson-brown-ryan",
-      "name": "Elizabeth WATSON-BROWN",
+      "name": "Elizabeth Watson-Brown",
       "party": "The Greens",
       "chamber": "House of Representatives",
       "electorate": "Ryan",
@@ -1984,7 +1984,7 @@
     },
     {
       "id": "emma-comer-petrie",
-      "name": "Emma COMER",
+      "name": "Emma Comer",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Petrie",
@@ -2007,7 +2007,7 @@
     },
     {
       "id": "garth-hamilton-groom",
-      "name": "Garth HAMILTON",
+      "name": "Garth Hamilton",
       "party": "Liberal National Party of Queensland",
       "chamber": "House of Representatives",
       "electorate": "Groom",
@@ -2030,7 +2030,7 @@
     },
     {
       "id": "henry-pike-bowman",
-      "name": "Henry PIKE",
+      "name": "Henry Pike",
       "party": "Liberal National Party of Queensland",
       "chamber": "House of Representatives",
       "electorate": "Bowman",
@@ -2053,7 +2053,7 @@
     },
     {
       "id": "jim-chalmers-rankin",
-      "name": "Jim CHALMERS",
+      "name": "Jim Chalmers",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Rankin",
@@ -2076,7 +2076,7 @@
     },
     {
       "id": "julie-ann-campbell-moreton",
-      "name": "Julie-Ann CAMPBELL",
+      "name": "Julie-Ann Campbell",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Moreton",
@@ -2099,7 +2099,7 @@
     },
     {
       "id": "kara-cook-bonner",
-      "name": "Kara COOK",
+      "name": "Kara Cook",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Bonner",
@@ -2129,7 +2129,7 @@
     },
     {
       "id": "leon-rebello-mcpherson",
-      "name": "Leon REBELLO",
+      "name": "Leon Rebello",
       "party": "Liberal National Party of Queensland",
       "chamber": "House of Representatives",
       "electorate": "McPherson",
@@ -2151,8 +2151,8 @@
       }
     },
     {
-      "id": "llew-o-brien-wide bay",
-      "name": "Llew O'BRIEN",
+      "id": "llew-o-brien-wide-bay",
+      "name": "Llew O'Brien",
       "party": "Liberal National Party of Queensland",
       "chamber": "House of Representatives",
       "electorate": "Wide Bay",
@@ -2175,7 +2175,7 @@
     },
     {
       "id": "madonna-jarrett-brisbane",
-      "name": "Madonna JARRETT",
+      "name": "Madonna Jarrett",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Brisbane",
@@ -2198,7 +2198,7 @@
     },
     {
       "id": "matt-smith-leichhardt",
-      "name": "Matt SMITH",
+      "name": "Matt Smith",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Leichhardt",
@@ -2221,7 +2221,7 @@
     },
     {
       "id": "michelle-landry-capricornia",
-      "name": "Michelle LANDRY",
+      "name": "Michelle Landry",
       "party": "Liberal National Party of Queensland",
       "chamber": "House of Representatives",
       "electorate": "Capricornia",
@@ -2244,7 +2244,7 @@
     },
     {
       "id": "milton-dick-oxley",
-      "name": "Milton DICK",
+      "name": "Milton Dick",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Oxley",
@@ -2267,7 +2267,7 @@
     },
     {
       "id": "phillip-thompson-herbert",
-      "name": "Phillip THOMPSON",
+      "name": "Phillip Thompson",
       "party": "Liberal National Party of Queensland",
       "chamber": "House of Representatives",
       "electorate": "Herbert",
@@ -2290,7 +2290,7 @@
     },
     {
       "id": "renee-coffey-griffith",
-      "name": "Renee COFFEY",
+      "name": "Renee Coffey",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Griffith",
@@ -2313,7 +2313,7 @@
     },
     {
       "id": "rowan-holzberger-forde",
-      "name": "Rowan HOLZBERGER",
+      "name": "Rowan Holzberger",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Forde",
@@ -2336,7 +2336,7 @@
     },
     {
       "id": "scott-buchholz-wright",
-      "name": "Scott BUCHHOLZ",
+      "name": "Scott Buchholz",
       "party": "Liberal National Party of Queensland",
       "chamber": "House of Representatives",
       "electorate": "Wright",
@@ -2359,7 +2359,7 @@
     },
     {
       "id": "shayne-neumann-blair",
-      "name": "Shayne NEUMANN",
+      "name": "Shayne Neumann",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Blair",
@@ -2382,7 +2382,7 @@
     },
     {
       "id": "ted-o-brien-fairfax",
-      "name": "Ted O'BRIEN",
+      "name": "Ted O'Brien",
       "party": "Liberal National Party of Queensland",
       "chamber": "House of Representatives",
       "electorate": "Fairfax",
@@ -2405,7 +2405,7 @@
     },
     {
       "id": "terry-young-longman",
-      "name": "Terry YOUNG",
+      "name": "Terry Young",
       "party": "Liberal National Party of Queensland",
       "chamber": "House of Representatives",
       "electorate": "Longman",
@@ -2428,7 +2428,7 @@
     },
     {
       "id": "amanda-rishworth-kingston",
-      "name": "Amanda RISHWORTH",
+      "name": "Amanda Rishworth",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Kingston",
@@ -2451,7 +2451,7 @@
     },
     {
       "id": "claire-clutterham-sturt",
-      "name": "Claire CLUTTERHAM",
+      "name": "Claire Clutterham",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Sturt",
@@ -2474,7 +2474,7 @@
     },
     {
       "id": "louise-miller-frost-boothby",
-      "name": "Louise MILLER-FROST",
+      "name": "Louise Miller-Frost",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Boothby",
@@ -2497,7 +2497,7 @@
     },
     {
       "id": "mark-butler-hindmarsh",
-      "name": "Mark BUTLER",
+      "name": "Mark Butler",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Hindmarsh",
@@ -2520,7 +2520,7 @@
     },
     {
       "id": "matt-burnell-spence",
-      "name": "Matt BURNELL",
+      "name": "Matt Burnell",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Spence",
@@ -2543,7 +2543,7 @@
     },
     {
       "id": "rebekha-sharkie-mayo",
-      "name": "Rebekha SHARKIE",
+      "name": "Rebekha Sharkie",
       "party": "Centre Alliance",
       "chamber": "House of Representatives",
       "electorate": "Mayo",
@@ -2566,7 +2566,7 @@
     },
     {
       "id": "steve-georganas-adelaide",
-      "name": "Steve GEORGANAS",
+      "name": "Steve Georganas",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Adelaide",
@@ -2589,7 +2589,7 @@
     },
     {
       "id": "tom-venning-grey",
-      "name": "Tom VENNING",
+      "name": "Tom Venning",
       "party": "Liberal",
       "chamber": "House of Representatives",
       "electorate": "Grey",
@@ -2612,7 +2612,7 @@
     },
     {
       "id": "tony-pasin-barker",
-      "name": "Tony PASIN",
+      "name": "Tony Pasin",
       "party": "Liberal",
       "chamber": "House of Representatives",
       "electorate": "Barker",
@@ -2657,7 +2657,7 @@
     },
     {
       "id": "tony-zappia-makin",
-      "name": "Tony ZAPPIA",
+      "name": "Tony Zappia",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Makin",
@@ -2687,7 +2687,7 @@
     },
     {
       "id": "andrew-wilkie-clark",
-      "name": "Andrew WILKIE",
+      "name": "Andrew Wilkie",
       "party": "Independent",
       "chamber": "House of Representatives",
       "electorate": "Clark",
@@ -2717,7 +2717,7 @@
     },
     {
       "id": "anne-urquhart-braddon",
-      "name": "Anne URQUHART",
+      "name": "Anne Urquhart",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Braddon",
@@ -2740,7 +2740,7 @@
     },
     {
       "id": "jess-teesdale-bass",
-      "name": "Jess TEESDALE",
+      "name": "Jess Teesdale",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Bass",
@@ -2763,7 +2763,7 @@
     },
     {
       "id": "julie-collins-franklin",
-      "name": "Julie COLLINS",
+      "name": "Julie Collins",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Franklin",
@@ -2786,7 +2786,7 @@
     },
     {
       "id": "rebecca-white-lyons",
-      "name": "Rebecca WHITE",
+      "name": "Rebecca White",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Lyons",
@@ -2809,7 +2809,7 @@
     },
     {
       "id": "aaron-violi-casey",
-      "name": "Aaron VIOLI",
+      "name": "Aaron Violi",
       "party": "Liberal",
       "chamber": "House of Representatives",
       "electorate": "Casey",
@@ -2832,7 +2832,7 @@
     },
     {
       "id": "alice-jordan-baird-gorton",
-      "name": "Alice JORDAN-BAIRD",
+      "name": "Alice Jordan-Baird",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Gorton",
@@ -2855,7 +2855,7 @@
     },
     {
       "id": "andrew-giles-scullin",
-      "name": "Andrew GILES",
+      "name": "Andrew Giles",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Scullin",
@@ -2878,7 +2878,7 @@
     },
     {
       "id": "anne-webster-mallee",
-      "name": "Anne WEBSTER",
+      "name": "Anne Webster",
       "party": "The Nationals",
       "chamber": "House of Representatives",
       "electorate": "Mallee",
@@ -2901,7 +2901,7 @@
     },
     {
       "id": "basem-abdo-calwell",
-      "name": "Basem ABDO",
+      "name": "Basem Abdo",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Calwell",
@@ -2924,7 +2924,7 @@
     },
     {
       "id": "carina-garland-chisholm",
-      "name": "Carina GARLAND",
+      "name": "Carina Garland",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Chisholm",
@@ -2947,7 +2947,7 @@
     },
     {
       "id": "cassandra-fernando-holt",
-      "name": "Cassandra FERNANDO",
+      "name": "Cassandra Fernando",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Holt",
@@ -2970,7 +2970,7 @@
     },
     {
       "id": "catherine-king-ballarat",
-      "name": "Catherine KING",
+      "name": "Catherine King",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Ballarat",
@@ -2993,7 +2993,7 @@
     },
     {
       "id": "clare-o-neil-hotham",
-      "name": "Clare O'NEIL",
+      "name": "Clare O'Neil",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Hotham",
@@ -3016,7 +3016,7 @@
     },
     {
       "id": "dan-tehan-wannon",
-      "name": "Dan TEHAN",
+      "name": "Dan Tehan",
       "party": "Liberal",
       "chamber": "House of Representatives",
       "electorate": "Wannon",
@@ -3039,7 +3039,7 @@
     },
     {
       "id": "daniel-mulino-fraser",
-      "name": "Daniel MULINO",
+      "name": "Daniel Mulino",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Fraser",
@@ -3062,7 +3062,7 @@
     },
     {
       "id": "darren-chester-gippsland",
-      "name": "Darren CHESTER",
+      "name": "Darren Chester",
       "party": "The Nationals",
       "chamber": "House of Representatives",
       "electorate": "Gippsland",
@@ -3085,7 +3085,7 @@
     },
     {
       "id": "gabriel-ng-menzies",
-      "name": "Gabriel NG",
+      "name": "Gabriel Ng",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Menzies",
@@ -3108,7 +3108,7 @@
     },
     {
       "id": "ged-kearney-cooper",
-      "name": "Ged KEARNEY",
+      "name": "Ged Kearney",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Cooper",
@@ -3131,7 +3131,7 @@
     },
     {
       "id": "helen-haines-indi",
-      "name": "Helen HAINES",
+      "name": "Helen Haines",
       "party": "Independent",
       "chamber": "House of Representatives",
       "electorate": "Indi",
@@ -3160,8 +3160,8 @@
       }
     },
     {
-      "id": "jason-wood-la trobe",
-      "name": "Jason WOOD",
+      "id": "jason-wood-la-trobe",
+      "name": "Jason Wood",
       "party": "Liberal",
       "chamber": "House of Representatives",
       "electorate": "La Trobe",
@@ -3184,7 +3184,7 @@
     },
     {
       "id": "jo-briskey-maribyrnong",
-      "name": "Jo BRISKEY",
+      "name": "Jo Briskey",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Maribyrnong",
@@ -3207,7 +3207,7 @@
     },
     {
       "id": "joanne-ryan-lalor",
-      "name": "Joanne RYAN",
+      "name": "Joanne Ryan",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Lalor",
@@ -3230,7 +3230,7 @@
     },
     {
       "id": "jodie-belyea-dunkley",
-      "name": "Jodie BELYEA",
+      "name": "Jodie Belyea",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Dunkley",
@@ -3253,7 +3253,7 @@
     },
     {
       "id": "josh-burns-macnamara",
-      "name": "Josh BURNS",
+      "name": "Josh Burns",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Macnamara",
@@ -3276,7 +3276,7 @@
     },
     {
       "id": "julian-hill-bruce",
-      "name": "Julian HILL",
+      "name": "Julian Hill",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Bruce",
@@ -3299,7 +3299,7 @@
     },
     {
       "id": "kate-thwaites-jagajaga",
-      "name": "Kate THWAITES",
+      "name": "Kate Thwaites",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Jagajaga",
@@ -3322,7 +3322,7 @@
     },
     {
       "id": "libby-coker-corangamite",
-      "name": "Libby COKER",
+      "name": "Libby Coker",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Corangamite",
@@ -3345,7 +3345,7 @@
     },
     {
       "id": "lisa-chesters-bendigo",
-      "name": "Lisa CHESTERS",
+      "name": "Lisa Chesters",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Bendigo",
@@ -3368,7 +3368,7 @@
     },
     {
       "id": "mark-dreyfus-isaacs",
-      "name": "Mark DREYFUS",
+      "name": "Mark Dreyfus",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Isaacs",
@@ -3391,7 +3391,7 @@
     },
     {
       "id": "mary-aldred-monash",
-      "name": "Mary ALDRED",
+      "name": "Mary Aldred",
       "party": "Liberal",
       "chamber": "House of Representatives",
       "electorate": "Monash",
@@ -3414,7 +3414,7 @@
     },
     {
       "id": "mary-doyle-aston",
-      "name": "Mary DOYLE",
+      "name": "Mary Doyle",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Aston",
@@ -3437,7 +3437,7 @@
     },
     {
       "id": "matt-gregg-deakin",
-      "name": "Matt GREGG",
+      "name": "Matt Gregg",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Deakin",
@@ -3460,7 +3460,7 @@
     },
     {
       "id": "monique-ryan-kooyong",
-      "name": "Monique RYAN",
+      "name": "Monique Ryan",
       "party": "Independent",
       "chamber": "House of Representatives",
       "electorate": "Kooyong",
@@ -3645,7 +3645,7 @@
     },
     {
       "id": "peter-khalil-wills",
-      "name": "Peter KHALIL",
+      "name": "Peter Khalil",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Wills",
@@ -3668,7 +3668,7 @@
     },
     {
       "id": "richard-marles-corio",
-      "name": "Richard MARLES",
+      "name": "Richard Marles",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Corio",
@@ -3691,7 +3691,7 @@
     },
     {
       "id": "rob-mitchell-mcewen",
-      "name": "Rob MITCHELL",
+      "name": "Rob Mitchell",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "McEwen",
@@ -3714,7 +3714,7 @@
     },
     {
       "id": "sam-birrell-nicholls",
-      "name": "Sam BIRRELL",
+      "name": "Sam Birrell",
       "party": "The Nationals",
       "chamber": "House of Representatives",
       "electorate": "Nicholls",
@@ -3737,7 +3737,7 @@
     },
     {
       "id": "sam-rae-hawke",
-      "name": "Sam RAE",
+      "name": "Sam Rae",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Hawke",
@@ -3760,7 +3760,7 @@
     },
     {
       "id": "sarah-witty-melbourne",
-      "name": "Sarah WITTY",
+      "name": "Sarah Witty",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Melbourne",
@@ -3783,7 +3783,7 @@
     },
     {
       "id": "tim-watts-gellibrand",
-      "name": "Tim WATTS",
+      "name": "Tim Watts",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Gellibrand",
@@ -3806,7 +3806,7 @@
     },
     {
       "id": "tim-wilson-goldstein",
-      "name": "Tim WILSON",
+      "name": "Tim Wilson",
       "party": "Liberal",
       "chamber": "House of Representatives",
       "electorate": "Goldstein",
@@ -3829,7 +3829,7 @@
     },
     {
       "id": "zoe-mckenzie-flinders",
-      "name": "Zoe McKENZIE",
+      "name": "Zoe McKenzie",
       "party": "Liberal",
       "chamber": "House of Representatives",
       "electorate": "Flinders",
@@ -3852,7 +3852,7 @@
     },
     {
       "id": "andrew-hastie-canning",
-      "name": "Andrew HASTIE",
+      "name": "Andrew Hastie",
       "party": "Liberal",
       "chamber": "House of Representatives",
       "electorate": "Canning",
@@ -3897,7 +3897,7 @@
     },
     {
       "id": "anne-aly-cowan",
-      "name": "Anne ALY",
+      "name": "Anne Aly",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Cowan",
@@ -3927,7 +3927,7 @@
     },
     {
       "id": "ben-small-forrest",
-      "name": "Ben SMALL",
+      "name": "Ben Small",
       "party": "Liberal",
       "chamber": "House of Representatives",
       "electorate": "Forrest",
@@ -3950,7 +3950,7 @@
     },
     {
       "id": "josh-wilson-fremantle",
-      "name": "Josh WILSON",
+      "name": "Josh Wilson",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Fremantle",
@@ -3973,7 +3973,7 @@
     },
     {
       "id": "kate-chaney-curtin",
-      "name": "Kate CHANEY",
+      "name": "Kate Chaney",
       "party": "Independent",
       "chamber": "House of Representatives",
       "electorate": "Curtin",
@@ -4046,7 +4046,7 @@
     },
     {
       "id": "madeleine-king-brand",
-      "name": "Madeleine KING",
+      "name": "Madeleine King",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Brand",
@@ -4069,7 +4069,7 @@
     },
     {
       "id": "matt-keogh-burt",
-      "name": "Matt KEOGH",
+      "name": "Matt Keogh",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Burt",
@@ -4092,7 +4092,7 @@
     },
     {
       "id": "melissa-price-durack",
-      "name": "Melissa PRICE",
+      "name": "Melissa Price",
       "party": "Liberal",
       "chamber": "House of Representatives",
       "electorate": "Durack",
@@ -4115,7 +4115,7 @@
     },
     {
       "id": "patrick-gorman-perth",
-      "name": "Patrick GORMAN",
+      "name": "Patrick Gorman",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Perth",
@@ -4137,8 +4137,8 @@
       }
     },
     {
-      "id": "rick-wilson-o'connor",
-      "name": "Rick WILSON",
+      "id": "rick-wilson-o-connor",
+      "name": "Rick Wilson",
       "party": "Liberal",
       "chamber": "House of Representatives",
       "electorate": "O'Connor",
@@ -4161,7 +4161,7 @@
     },
     {
       "id": "sam-lim-tangney",
-      "name": "Sam LIM",
+      "name": "Sam Lim",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Tangney",
@@ -4184,7 +4184,7 @@
     },
     {
       "id": "tania-lawrence-hasluck",
-      "name": "Tania LAWRENCE",
+      "name": "Tania Lawrence",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Hasluck",
@@ -4207,7 +4207,7 @@
     },
     {
       "id": "tom-french-moore",
-      "name": "Tom FRENCH",
+      "name": "Tom French",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Moore",
@@ -4230,7 +4230,7 @@
     },
     {
       "id": "tracey-roberts-pearce",
-      "name": "Tracey ROBERTS",
+      "name": "Tracey Roberts",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Pearce",
@@ -4253,7 +4253,7 @@
     },
     {
       "id": "trish-cook-bullwinkel",
-      "name": "Trish COOK",
+      "name": "Trish Cook",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Bullwinkel",
@@ -4276,7 +4276,7 @@
     },
     {
       "id": "zaneta-mascarenhas-swan",
-      "name": "Zaneta MASCARENHAS",
+      "name": "Zaneta Mascarenhas",
       "party": "Australian Labor Party",
       "chamber": "House of Representatives",
       "electorate": "Swan",
