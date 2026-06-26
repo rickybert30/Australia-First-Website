@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Australian Federal Candidate Transparency Database</title>
+  <link rel="icon" href="data:," />
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <h1>Australian Federal Candidate Transparency Database</h1>
+    <p class="tagline">
+      Publicly sourced, factual information on federal candidates and members.
+      Every claim links to its source. This is an information resource, not a scorecard.
+    </p>
+  </header>
+
+  <section class="controls" aria-label="Filters">
+    <input type="search" id="search" placeholder="Search by name, party, electorate…" aria-label="Search" />
+    <select id="filter-chamber" aria-label="Filter by chamber">
+      <option value="">All chambers</option>
+      <option value="House of Representatives">House of Representatives</option>
+      <option value="Senate">Senate</option>
+    </select>
+    <select id="filter-party" aria-label="Filter by party">
+      <option value="">All parties</option>
+    </select>
+    <select id="filter-state" aria-label="Filter by state">
+      <option value="">All states</option>
+      <option>NSW</option><option>VIC</option><option>QLD</option><option>WA</option>
+      <option>SA</option><option>TAS</option><option>ACT</option><option>NT</option>
+    </select>
+    <select id="filter-status" aria-label="Filter by status">
+      <option value="">Any status</option>
+      <option value="incumbent">Incumbent</option>
+      <option value="candidate">Candidate</option>
+      <option value="former">Former</option>
+    </select>
+  </section>
+
+  <p id="count" class="count" aria-live="polite"></p>
+  <main id="results" class="results"></main>
+
+  <footer class="site-footer">
+    <p>
+      Records public statements and conduct only. No ethnicity, ancestry, or
+      heritage is recorded. Citizenship reflects Section 44 constitutional
+      eligibility only. Found an error? Open an issue with a better source.
+    </p>
+  </footer>
+
+  <template id="card-template">
+    <article class="card">
+      <header class="card-head">
+        <h2 class="c-name"></h2>
+        <p class="c-meta"></p>
+      </header>
+      <dl class="positions"></dl>
+    </article>
+  </template>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>

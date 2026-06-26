@@ -1,0 +1,39 @@
+{
+  "id": "firstname-lastname-electorate",
+  "name": "Full Official Name",
+  "party": "Party or Independent",
+  "chamber": "House of Representatives",
+  "electorate": "Electorate name (House only)",
+  "state": "NSW",
+  "status": "candidate",
+  "official_page": "https://www.aph.gov.au/...",
+  "last_updated": "2026-06-26",
+  "positions": {
+    "immigration": {
+      "summary": "Neutral factual summary of stated position or recorded votes. Replace this.",
+      "sources": [
+        { "title": "Source name", "url": "https://...", "publisher": "Hansard", "date": "2026-01-01" }
+      ],
+      "verified": false
+    },
+    "faith": { "summary": "Publicly stated faith / on-record statements only.", "sources": [], "verified": false },
+    "economic_nationalism": { "summary": "Local infrastructure, manufacturing, employment, procurement, foreign ownership.", "sources": [], "verified": false },
+    "foreign_policy": { "summary": "Foreign-policy positions and votes, including foreign aid and Middle East policy.", "sources": [], "verified": false },
+    "citizenship_eligibility": { "summary": "Section 44 eligibility status ONLY (e.g. 'Confirmed sole citizen').", "sources": [], "verified": false }
+  },
+  "donors": {
+    "summary": "Summarise disclosed donations from AEC records.",
+    "entries": [
+      {
+        "donor": "Donor name",
+        "amount_aud": null,
+        "financial_year": "2023-24",
+        "source_type": "unknown",
+        "sources": [
+          { "title": "AEC disclosure", "url": "https://transparency.aec.gov.au/", "publisher": "Australian Electoral Commission", "date": "" }
+        ]
+      }
+    ],
+    "sources": []
+  }
+}

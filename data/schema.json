@@ -1,0 +1,112 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Australian Federal Candidate Record",
+  "type": "object",
+  "definitions": {
+    "source": {
+      "type": "object",
+      "description": "A citation for a factual claim. At least one is required for any populated position.",
+      "required": ["title", "url"],
+      "properties": {
+        "title": { "type": "string", "description": "Human-readable name of the source." },
+        "url": { "type": "string", "format": "uri", "description": "Direct link to the source." },
+        "publisher": { "type": "string", "description": "e.g. Hansard, AEC, party website, news outlet." },
+        "date": { "type": "string", "description": "ISO date the source was published (YYYY-MM-DD)." }
+      }
+    },
+    "position": {
+      "type": "object",
+      "description": "A factual summary of a candidate's recorded position, with sources.",
+      "required": ["summary", "sources"],
+      "properties": {
+        "summary": {
+          "type": "string",
+          "description": "Neutral factual summary of the candidate's stated position or recorded votes. No editorialising."
+        },
+        "sources": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/source" },
+          "description": "Citations. Must be non-empty for a verified entry."
+        },
+        "verified": {
+          "type": "boolean",
+          "description": "True only when summary is fully supported by the listed sources."
+        }
+      }
+    }
+  },
+  "required": ["id", "name", "chamber", "last_updated", "positions"],
+  "properties": {
+    "id": { "type": "string", "description": "URL-safe slug, e.g. 'jane-smith-wills'." },
+    "name": { "type": "string" },
+    "party": { "type": "string", "description": "Party or 'Independent'." },
+    "chamber": {
+      "type": "string",
+      "enum": ["House of Representatives", "Senate"]
+    },
+    "electorate": { "type": "string", "description": "Electorate name (House) — leave blank for Senate." },
+    "state": {
+      "type": "string",
+      "enum": ["NSW", "VIC", "QLD", "WA", "SA", "TAS", "ACT", "NT"]
+    },
+    "status": {
+      "type": "string",
+      "enum": ["incumbent", "candidate", "former"],
+      "description": "Current standing."
+    },
+    "photo_url": { "type": "string" },
+    "official_page": { "type": "string", "description": "Link to APH/parliament profile." },
+    "last_updated": { "type": "string", "description": "ISO date (YYYY-MM-DD) of last edit." },
+    "roster_source": {
+      "allOf": [{ "$ref": "#/definitions/source" }],
+      "description": "Citation for the roster facts (party, electorate, state, chamber)."
+    },
+    "positions": {
+      "type": "object",
+      "description": "Each key holds a sourced factual position. Omit a key if no sourced information exists yet.",
+      "properties": {
+        "immigration": { "$ref": "#/definitions/position" },
+        "faith": { "$ref": "#/definitions/position" },
+        "economic_nationalism": { "$ref": "#/definitions/position" },
+        "foreign_policy": { "$ref": "#/definitions/position" },
+        "citizenship_eligibility": {
+          "allOf": [{ "$ref": "#/definitions/position" }],
+          "description": "Section 44 constitutional eligibility ONLY (sole vs dual citizenship affecting eligibility to sit). Never heritage, ancestry, or origin."
+        }
+      },
+      "additionalProperties": false
+    },
+    "donors": {
+      "type": "object",
+      "description": "Disclosed donations from public AEC records.",
+      "properties": {
+        "summary": { "type": "string" },
+        "entries": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["donor", "sources"],
+            "properties": {
+              "donor": { "type": "string" },
+              "amount_aud": { "type": ["number", "null"] },
+              "financial_year": { "type": "string", "description": "e.g. '2023-24'." },
+              "source_type": {
+                "type": "string",
+                "enum": ["domestic", "foreign", "unknown"],
+                "description": "Whether the donor is a domestic or foreign entity per disclosure."
+              },
+              "sources": {
+                "type": "array",
+                "items": { "$ref": "#/definitions/source" }
+              }
+            }
+          }
+        },
+        "sources": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/source" }
+        }
+      }
+    }
+  }
+}
