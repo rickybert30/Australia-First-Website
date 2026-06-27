@@ -56,10 +56,14 @@ body {
   padding: 0 1.25rem 1rem;
 }
 
-.donor-table td.num { text-align: right; white-space: nowrap; font-variant-numeric: tabular-nums; }
+.donor-table td.num { text-align: right; white-space: nowrap; font-variant-numeric: tabular-nums; vertical-align: top; }
 .party-source { margin: .6rem 0 0; font-size: .8rem; }
 .party-source a { color: var(--accent); text-decoration: none; }
 .party-card .c-name { font-size: 1.15rem; }
+.party-years { margin: 0 0 .5rem; color: var(--muted); font-size: .82rem; }
+.party-more { margin: .5rem 0 0; color: var(--muted); font-size: .78rem; font-style: italic; }
+.donor-name { }
+.donor-years { color: var(--muted); font-size: .74rem; margin-top: .1rem; }
 .controls input,
 .controls select {
   background: var(--panel);

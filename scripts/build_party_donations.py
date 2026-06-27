@@ -67,32 +67,45 @@ def family(name):
 
 
 def main():
-    # party -> donor -> amount ; plus per-party totals, fys, donor set
-    donors = defaultdict(lambda: defaultdict(float))
+    # party -> donor -> {fy: amount}
+    donors = defaultdict(lambda: defaultdict(lambda: defaultdict(float)))
     fys = defaultdict(set)
     with open(SRC, newline="", encoding="utf-8-sig") as f:
         for row in csv.DictReader(f):
             party = family(row["Recipient Name"])
             donor = " ".join(row["Received From"].split()).strip() or "(unspecified)"
+            fy = row["Financial Year"]
             try:
                 amount = float(row["Value"] or 0)
             except ValueError:
                 amount = 0.0
-            donors[party][donor] += amount
-            fys[party].add(row["Financial Year"])
+            donors[party][donor][fy] += amount
+            fys[party].add(fy)
 
     parties = []
     for party, dmap in donors.items():
-        total = sum(dmap.values())
+        total = sum(sum(years.values()) for years in dmap.values())
         if total < MIN_PARTY_TOTAL:
             continue
-        top = sorted(dmap.items(), key=lambda kv: kv[1], reverse=True)[:TOP_N]
+        totals_by_year = defaultdict(float)
+        donor_list = []
+        for donor, years in dmap.items():
+            dtotal = sum(years.values())
+            for fy, amt in years.items():
+                totals_by_year[fy] += amt
+            donor_list.append({
+                "donor": donor,
+                "total_aud": round(dtotal),
+                "by_year": {fy: round(amt) for fy, amt in sorted(years.items())},
+            })
+        donor_list.sort(key=lambda d: d["total_aud"], reverse=True)
         parties.append({
             "party": party,
             "total_aud": round(total),
             "donor_count": len(dmap),
             "financial_years": sorted(fys[party]),
-            "top_donors": [{"donor": d, "amount_aud": round(a)} for d, a in top],
+            "totals_by_year": {fy: round(totals_by_year[fy]) for fy in sorted(totals_by_year)},
+            "donors": donor_list,
             "source": {
                 "title": f"AEC Transparency Register — detailed receipts, {party}",
                 "url": REGISTER_URL,

@@ -42,8 +42,14 @@ async function load() {
   renderCoverage();
   wireControls();
   wireTabs();
+  wireDonorSearch();
   render();
   loadPartyDonations();
+}
+
+function wireDonorSearch() {
+  const input = document.getElementById('donor-search');
+  if (input) input.addEventListener('input', () => renderDonorSearch(input.value));
 }
 
 async function loadPartyDonations() {
@@ -59,28 +65,56 @@ async function loadPartyDonations() {
 }
 
 const fmtAud = (n) => `$${Number(n).toLocaleString()}`;
+const shortFy = (fy) => `FY${fy.replace('20', "'").replace('-', '–')}`;
+const TOP_SHOWN = 25;
+const partyState = { parties: [], donorIndex: [] };
+
+function byYearLine(byYear) {
+  return Object.entries(byYear || {})
+    .map(([fy, amt]) => `${shortFy(fy)} ${fmtAud(amt)}`)
+    .join(' · ');
+}
+
+function donorRow(donor, amount, byYear) {
+  const tr = document.createElement('tr');
+  const nameTd = el('td');
+  nameTd.appendChild(el('div', 'donor-name', donor));
+  const yl = byYearLine(byYear);
+  if (yl) nameTd.appendChild(el('div', 'donor-years', yl));
+  tr.appendChild(nameTd);
+  tr.appendChild(el('td', 'num', fmtAud(amount)));
+  return tr;
+}
 
 function renderParties(data) {
-  const intro = document.getElementById('parties-intro');
   const m = data.meta || {};
-  intro.textContent =
-    `Disclosed donations TO political parties (AEC detailed receipts, ${m.window || ''}). ` +
-    `${m.note || ''}`;
+  document.getElementById('parties-intro').textContent =
+    `Disclosed donations TO political parties (AEC detailed receipts, ${m.window || ''}). ${m.note || ''} ` +
+    'Donor names appear exactly as disclosed to the AEC and the same entity may be listed under several spellings.';
+  partyState.parties = data.parties || [];
+
+  // Build a flat donor index for cross-party search.
+  partyState.donorIndex = [];
+  partyState.parties.forEach((p) => {
+    (p.donors || []).forEach((d) => {
+      partyState.donorIndex.push({ donor: d.donor, party: p.party, total_aud: d.total_aud, by_year: d.by_year });
+    });
+  });
+
   const tpl = document.getElementById('party-template');
   const out = document.getElementById('party-results');
   out.innerHTML = '';
-  (data.parties || []).forEach((p) => {
+  partyState.parties.forEach((p) => {
     const node = tpl.content.cloneNode(true);
     node.querySelector('.c-name').textContent = p.party;
     node.querySelector('.c-meta').textContent =
-      `${fmtAud(p.total_aud)} total disclosed · ${p.donor_count} donor(s) · FY ${(p.financial_years || []).join(', ')}`;
+      `${fmtAud(p.total_aud)} total disclosed · ${p.donor_count} donor(s)`;
+    node.querySelector('.party-years').textContent =
+      'By year: ' + Object.entries(p.totals_by_year || {}).map(([fy, a]) => `${shortFy(fy)} ${fmtAud(a)}`).join(' · ');
     const tbody = node.querySelector('.party-donors');
-    (p.top_donors || []).forEach((d) => {
-      const tr = document.createElement('tr');
-      tr.appendChild(el('td', null, d.donor));
-      tr.appendChild(el('td', 'num', fmtAud(d.amount_aud)));
-      tbody.appendChild(tr);
-    });
+    (p.donors || []).slice(0, TOP_SHOWN).forEach((d) => tbody.appendChild(donorRow(d.donor, d.total_aud, d.by_year)));
+    const more = (p.donors || []).length - TOP_SHOWN;
+    node.querySelector('.party-more').textContent = more > 0 ? `+ ${more} more disclosed donor(s) — use donor search to find them.` : '';
     const srcP = node.querySelector('.party-source');
     if (p.source && p.source.url) {
       const a = document.createElement('a');
@@ -89,6 +123,62 @@ function renderParties(data) {
       srcP.appendChild(a);
     }
     out.appendChild(node);
+  });
+}
+
+function renderDonorSearch(query) {
+  const partyResults = document.getElementById('party-results');
+  const donorResults = document.getElementById('donor-results');
+  const q = query.trim().toLowerCase();
+  if (!q) {
+    partyResults.hidden = false;
+    donorResults.hidden = true;
+    return;
+  }
+  partyResults.hidden = true;
+  donorResults.hidden = false;
+  donorResults.innerHTML = '';
+
+  // Group matching (party,donor) rows by donor name.
+  const groups = new Map();
+  partyState.donorIndex
+    .filter((r) => r.donor.toLowerCase().includes(q))
+    .forEach((r) => {
+      if (!groups.has(r.donor)) groups.set(r.donor, { donor: r.donor, total: 0, rows: [] });
+      const g = groups.get(r.donor);
+      g.total += r.total_aud;
+      g.rows.push(r);
+    });
+  const sorted = [...groups.values()].sort((a, b) => b.total - a.total).slice(0, 80);
+
+  if (sorted.length === 0) {
+    donorResults.innerHTML = `<p class="empty">No disclosed donor matches “${query}”.</p>`;
+    return;
+  }
+  sorted.forEach((g) => {
+    const card = el('article', 'card');
+    const head = el('header', 'card-head');
+    const ht = el('div', 'c-headtext');
+    ht.appendChild(el('h2', 'c-name', g.donor));
+    ht.appendChild(el('p', 'c-meta', `${fmtAud(g.total)} disclosed across ${g.rows.length} party/parties`));
+    head.appendChild(ht);
+    card.appendChild(head);
+    const table = el('table', 'donor-table');
+    table.innerHTML = '<thead><tr><th>Recipient party</th><th>Total (AUD)</th></tr></thead>';
+    const tbody = document.createElement('tbody');
+    g.rows.sort((a, b) => b.total_aud - a.total_aud).forEach((r) => {
+      const tr = document.createElement('tr');
+      const td = el('td');
+      td.appendChild(el('div', 'donor-name', r.party));
+      const yl = byYearLine(r.by_year);
+      if (yl) td.appendChild(el('div', 'donor-years', yl));
+      tr.appendChild(td);
+      tr.appendChild(el('td', 'num', fmtAud(r.total_aud)));
+      tbody.appendChild(tr);
+    });
+    table.appendChild(tbody);
+    card.appendChild(table);
+    donorResults.appendChild(card);
   });
 }
 

@@ -63,8 +63,12 @@
   </section>
 
   <section id="view-parties" hidden>
+    <section class="controls" aria-label="Donor search">
+      <input type="search" id="donor-search" placeholder="Search a donor across all parties (e.g. Pratt, Mineralogy, union)…" aria-label="Donor search" />
+    </section>
     <p class="coverage" id="parties-intro"></p>
     <main id="party-results" class="results"></main>
+    <main id="donor-results" class="results" hidden></main>
   </section>
 
   <footer class="site-footer">
@@ -102,10 +106,12 @@
           <p class="c-meta"></p>
         </div>
       </header>
+      <p class="party-years"></p>
       <table class="donor-table">
         <thead><tr><th>Top donors</th><th>Total (AUD)</th></tr></thead>
         <tbody class="party-donors"></tbody>
       </table>
+      <p class="party-more"></p>
       <p class="party-source"></p>
     </article>
   </template>

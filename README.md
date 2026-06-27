@@ -94,11 +94,17 @@ recorded as `unknown`.
 The **Party donations** tab shows where the larger money goes: donations made
 *to political parties*, from the AEC Transparency Register's detailed receipts
 (`Donation Received` only, so public funding and electoral-commission payments
-are excluded), summed per donor across the four most recent financial years
+are excluded), broken down **per financial year** across the four most recent
 (2021-22 to 2024-25). Branch returns (e.g. "ALP (N.S.W. Branch)", "Liberal Party
 NSW Division") are grouped into party families. Built by
 `scripts/build_party_donations.py` from `data/sources/aec_party_donations.csv`.
 Only donations above the AEC disclosure threshold are itemised.
+
+A **donor search** box searches every disclosed donor across all parties and
+shows which parties they gave to, with per-year amounts. Donor names are kept
+exactly as disclosed to the AEC (the same entity may appear under several
+spellings); search by substring surfaces the variants together rather than
+fuzzy-merging potentially distinct entities.
 
 ## Running it
 
