@@ -49,7 +49,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Labor"
+      "party_group": "Labor",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/10919.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/alicia_payne/canberra"
     },
     {
       "id": "andrew-leigh-fenner",
@@ -181,7 +183,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Labor"
+      "party_group": "Labor",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/10910.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/david_smith/bean"
     },
     {
       "id": "alex-hawke-mitchell",
@@ -305,7 +309,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Labor"
+      "party_group": "Labor",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/10973.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/alison_byrnes/cunningham"
     },
     {
       "id": "alison-penfold-lyne",
@@ -342,7 +348,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Coalition"
+      "party_group": "Coalition",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/11046.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/alison_penfold/lyne"
     },
     {
       "id": "allegra-spender-wentworth",
@@ -829,7 +837,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Labor"
+      "party_group": "Labor",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/11025.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/ash_ambihaipahar/barton"
     },
     {
       "id": "barnaby-joyce-new-england",
@@ -940,7 +950,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Labor"
+      "party_group": "Labor",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/11027.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/carol_berry/whitlam"
     },
     {
       "id": "chris-bowen-mcmahon",
@@ -1129,7 +1141,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Labor"
+      "party_group": "Labor",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/11044.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/david_moncrieff/hughes"
     },
     {
       "id": "ed-husic-chifley",
@@ -1312,7 +1326,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Labor"
+      "party_group": "Labor",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/10996.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/gordon_reid/robertson"
     },
     {
       "id": "jamie-chaffey-parkes",
@@ -1349,7 +1365,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Coalition"
+      "party_group": "Coalition",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/11032.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/jamie_chaffey/parkes"
     },
     {
       "id": "jason-clare-blaxland",
@@ -1662,7 +1680,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Coalition"
+      "party_group": "Coalition",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/10932.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/melissa_mcintosh/lindsay"
     },
     {
       "id": "meryl-swanson-paterson",
@@ -1863,7 +1883,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Labor"
+      "party_group": "Labor",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/10872.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/mike_freelander/macarthur"
     },
     {
       "id": "nicolette-boele-bradfield",
@@ -2080,7 +2102,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Labor"
+      "party_group": "Labor",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/10805.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/sharon_claydon/newcastle"
     },
     {
       "id": "simon-kennedy-cook",
@@ -2117,7 +2141,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Coalition"
+      "party_group": "Coalition",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/11019.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/simon_kennedy/cook"
     },
     {
       "id": "sophie-scamps-mackellar",
@@ -2826,7 +2852,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Labor"
+      "party_group": "Labor",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/11049.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/zhi_soon/banks"
     },
     {
       "id": "luke-john-gosling-solomon",
@@ -3100,7 +3128,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Coalition"
+      "party_group": "Coalition",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/10936.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/angie_bell/moncrieff"
     },
     {
       "id": "anika-wells-lilley",
@@ -3251,7 +3281,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Coalition"
+      "party_group": "Coalition",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/11016.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/cameron_caldwell/fadden"
     },
     {
       "id": "colin-boyce-flynn",
@@ -3332,7 +3364,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Coalition"
+      "party_group": "Coalition",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/11026.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/david_batt/hinkler"
     },
     {
       "id": "david-littleproud-maranoa",
@@ -3536,7 +3570,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Coalition"
+      "party_group": "Coalition",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/10969.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/henry_pike/bowman"
     },
     {
       "id": "jim-chalmers-rankin",
@@ -3732,7 +3768,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Coalition"
+      "party_group": "Coalition",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/11047.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/leon_rebello/mcpherson"
     },
     {
       "id": "llew-o-brien-wide-bay",
@@ -3833,7 +3871,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Labor"
+      "party_group": "Labor",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/11048.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/matt_smith/leichhardt"
     },
     {
       "id": "michelle-landry-capricornia",
@@ -4011,7 +4051,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Labor"
+      "party_group": "Labor",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/11041.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/rowan_holzberger/forde"
     },
     {
       "id": "scott-buchholz-wright",
@@ -4236,7 +4278,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Labor"
+      "party_group": "Labor",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/11033.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/claire_clutterham/sturt"
     },
     {
       "id": "louise-miller-frost-boothby",
@@ -4496,7 +4540,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Coalition"
+      "party_group": "Coalition",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/11051.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/tom_venning/grey"
     },
     {
       "id": "tony-pasin-barker",
@@ -4542,7 +4588,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Coalition"
+      "party_group": "Coalition",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/10784.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/tony_pasin/barker"
     },
     {
       "id": "tony-zappia-makin",
@@ -4713,7 +4761,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Labor"
+      "party_group": "Labor",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/10763.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/anne_urquhart/braddon"
     },
     {
       "id": "jess-teesdale-bass",
@@ -4737,7 +4787,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Labor"
+      "party_group": "Labor",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/11050.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/jess_teesdale/bass"
     },
     {
       "id": "julie-collins-franklin",
@@ -4826,7 +4878,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Coalition"
+      "party_group": "Coalition",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/10971.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/aaron_violi/casey"
     },
     {
       "id": "alice-jordan-baird-gorton",
@@ -4850,7 +4904,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Labor"
+      "party_group": "Labor",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/11043.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/alice_jordan-baird/gorton"
     },
     {
       "id": "andrew-giles-scullin",
@@ -4968,7 +5024,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Coalition"
+      "party_group": "Coalition",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/10935.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/anne_webster/mallee"
     },
     {
       "id": "basem-abdo-calwell",
@@ -5362,7 +5420,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Labor"
+      "party_group": "Labor",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/11045.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/gabriel_ng/menzies"
     },
     {
       "id": "ged-kearney-cooper",
@@ -5954,7 +6014,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Coalition"
+      "party_group": "Coalition",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/11024.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/mary_aldred/monash"
     },
     {
       "id": "mary-doyle-aston",
@@ -6004,7 +6066,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Labor"
+      "party_group": "Labor",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/11040.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/matt_gregg/deakin"
     },
     {
       "id": "monique-ryan-kooyong",
@@ -6367,7 +6431,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Labor"
+      "party_group": "Labor",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/10733.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/rob_mitchell/mcewen"
     },
     {
       "id": "sam-birrell-nicholls",
@@ -6430,7 +6496,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Labor"
+      "party_group": "Labor",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/10982.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/sam_rae/hawke"
     },
     {
       "id": "sarah-witty-melbourne",
@@ -6830,7 +6898,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Coalition"
+      "party_group": "Coalition",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/10962.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/ben_small/forrest"
     },
     {
       "id": "josh-wilson-fremantle",
@@ -7278,7 +7348,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Labor"
+      "party_group": "Labor",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/11000.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/sam_lim/tangney"
     },
     {
       "id": "tania-lawrence-hasluck",
@@ -7302,7 +7374,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Labor"
+      "party_group": "Labor",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/10981.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/tania_lawrence/hasluck"
     },
     {
       "id": "tom-french-moore",
@@ -7326,7 +7400,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Labor"
+      "party_group": "Labor",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/11039.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/tom_french/moore"
     },
     {
       "id": "tracey-roberts-pearce",
@@ -7350,7 +7426,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Labor"
+      "party_group": "Labor",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/10994.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/tracey_roberts/pearce"
     },
     {
       "id": "trish-cook-bullwinkel",
@@ -7374,7 +7452,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Labor"
+      "party_group": "Labor",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/11037.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/trish_cook/bullwinkel"
     },
     {
       "id": "zaneta-mascarenhas-swan",
@@ -7429,7 +7509,9 @@
         "publisher": "Australian Electoral Commission",
         "date": "2025-06-16"
       },
-      "party_group": "Labor"
+      "party_group": "Labor",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/10999.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/mp/zaneta_mascarenhas/swan"
     },
     {
       "id": "david-pocock-act",
@@ -7900,7 +7982,9 @@
         "publisher": "OpenAustralia.org",
         "date": ""
       },
-      "party_group": "Coalition"
+      "party_group": "Coalition",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/11055.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/senator/jessica_collins/nsw"
     },
     {
       "id": "maria-kovacic-nsw",
@@ -8041,7 +8125,9 @@
         "publisher": "OpenAustralia.org",
         "date": ""
       },
-      "party_group": "Coalition"
+      "party_group": "Coalition",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/11004.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/senator/ross_cadell/nsw"
     },
     {
       "id": "sean-bell-nsw",
@@ -8325,7 +8411,9 @@
         "publisher": "OpenAustralia.org",
         "date": ""
       },
-      "party_group": "Labor"
+      "party_group": "Labor",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/11057.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/senator/corinne_mulholland/queensland"
     },
     {
       "id": "james-mcgrath-qld",
@@ -8703,7 +8791,9 @@
         "publisher": "OpenAustralia.org",
         "date": ""
       },
-      "party_group": "Coalition"
+      "party_group": "Coalition",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/10949.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/senator/paul_scarr/queensland"
     },
     {
       "id": "pauline-hanson-qld",
@@ -8831,7 +8921,9 @@
         "publisher": "OpenAustralia.org",
         "date": ""
       },
-      "party_group": "Coalition"
+      "party_group": "Coalition",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/10951.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/senator/susan_mcdonald/queensland"
     },
     {
       "id": "alex-antic-sa",
@@ -9144,7 +9236,9 @@
         "publisher": "OpenAustralia.org",
         "date": ""
       },
-      "party_group": "Coalition"
+      "party_group": "Coalition",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/11022.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/senator/leah_blyth/sa"
     },
     {
       "id": "marielle-smith-sa",
@@ -9360,7 +9454,9 @@
         "publisher": "OpenAustralia.org",
         "date": ""
       },
-      "party_group": "Coalition"
+      "party_group": "Coalition",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/10955.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/senator/claire_chandler/tasmania"
     },
     {
       "id": "helen-polley-tas",
@@ -9551,7 +9647,9 @@
         "publisher": "OpenAustralia.org",
         "date": ""
       },
-      "party_group": "Labor"
+      "party_group": "Labor",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/11054.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/senator/josh_dolega/tasmania"
     },
     {
       "id": "nick-mckim-tas",
@@ -9731,7 +9829,9 @@
         "publisher": "OpenAustralia.org",
         "date": ""
       },
-      "party_group": "Labor"
+      "party_group": "Labor",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/11056.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/senator/richard_dowling/tasmania"
     },
     {
       "id": "tammy-tyrrell-tas",
@@ -9779,7 +9879,9 @@
         "publisher": "OpenAustralia.org",
         "date": ""
       },
-      "party_group": "Coalition"
+      "party_group": "Coalition",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/10914.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/senator/wendy_askew/tasmania"
     },
     {
       "id": "bridget-mckenzie-vic",
@@ -10076,7 +10178,9 @@
         "publisher": "OpenAustralia.org",
         "date": ""
       },
-      "party_group": "Labor"
+      "party_group": "Labor",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/11021.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/senator/lisa_darmanin/victoria"
     },
     {
       "id": "michelle-ananda-rajah-vic",
@@ -10136,7 +10240,9 @@
         "publisher": "OpenAustralia.org",
         "date": ""
       },
-      "party_group": "Labor"
+      "party_group": "Labor",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/10983.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/senator/michelle_ananda-rajah/victoria"
     },
     {
       "id": "raff-ciccone-vic",
@@ -10477,7 +10583,9 @@
         "publisher": "OpenAustralia.org",
         "date": ""
       },
-      "party_group": "Labor"
+      "party_group": "Labor",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/11059.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/senator/ellie_whiteaker/wa"
     },
     {
       "id": "fatima-payman-wa",
@@ -10863,7 +10971,9 @@
         "publisher": "OpenAustralia.org",
         "date": ""
       },
-      "party_group": "Labor"
+      "party_group": "Labor",
+      "photo_url": "https://www.openaustralia.org.au/images/mpsL/11017.jpg",
+      "photo_credit_url": "https://www.openaustralia.org.au/senator/varun_ghosh/wa"
     },
     {
       "id": "andrew-laming",

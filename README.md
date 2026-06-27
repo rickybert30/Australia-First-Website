@@ -138,11 +138,14 @@ python3 -m http.server 8000
 | Economic nationalism | 73 |
 | Citizenship (s44 eligibility) | 33 |
 
-Member portraits (170 of 226) come from each member's Wikipedia article
-(Wikimedia Commons, freely licensed) via `scripts/fetch_photos.py`. A portrait
-is attached only when the resolved page is described as a politician and the
-member's surname appears in the page title, so the wrong person's photo is never
-shown; each portrait links to its source page for attribution.
+Member portraits (225 of 226) come primarily from each member's Wikipedia
+article (Wikimedia Commons, freely licensed) via `scripts/fetch_photos.py` — a
+portrait is attached only when the resolved page is described as a politician and
+the member's surname appears in the page title, so the wrong person's photo is
+never shown. Members with no free Wikipedia image are backfilled from
+OpenAustralia.org by `scripts/backfill_photos.py`, which rejects placeholder and
+blank images (by shared-byte hash and a minimum size). Each portrait links to its
+source page for attribution.
 
 The citizenship field records constitutional eligibility under s44 only —
 renunciations of foreign citizenship, overseas birth with citizenship resolved,
