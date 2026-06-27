@@ -103,8 +103,21 @@ python3 -m http.server 8000
 - [x] Faith & religion positions where explicitly self-disclosed / publicly reported (54 sourced)
 - [x] Immigration positions where concretely stated / on record (78 sourced)
 - [x] Foreign policy & aid positions where concretely stated / on record (82 sourced)
-- [ ] Economic nationalism positions
+- [x] Economic nationalism positions where concretely stated / on record (73 sourced)
 - [ ] State and territory parliaments
+
+### Position coverage (of 226 incumbents)
+
+| Issue | Sourced positions |
+|-------|-------------------|
+| Faith & religion | 54 |
+| Immigration | 78 |
+| Foreign policy & aid | 82 |
+| Economic nationalism | 73 |
+
+151 of 226 members have at least one sourced position. Coverage is partial by
+design: a position is recorded only where it is concretely stated and backed by
+a source that was actually retrieved — never inferred from party or guessed.
 
 ### Coverage note on faith
 
