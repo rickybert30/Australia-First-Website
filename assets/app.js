@@ -23,8 +23,13 @@ const state = {
   filters: { search: '', chamber: '', group: '', party: '', state: '', status: '', issue: '' },
 };
 
+function hasDirectDonations(c) {
+  const d = c.donors;
+  return !!(d && ((d.entries && d.entries.length) || (d.total_aud && d.total_aud > 0)));
+}
+
 function hasIssue(c, key) {
-  if (key === 'donors') return !!(c.donors && c.donors.entries && c.donors.entries.length);
+  if (key === 'donors') return hasDirectDonations(c);
   return !!(c.positions && c.positions[key]);
 }
 
@@ -394,7 +399,10 @@ function renderCard(c) {
       if (partyPos) dl.appendChild(renderPosition(key, partyPos, true));
     }
   });
-  if (c.donors) dl.appendChild(renderDonors(c.donors));
+  // Only show the per-member donations block when the member actually has
+  // disclosed direct donations. For everyone else, party-level money is covered
+  // in the Party donations tab, so the empty "no donations" notice is omitted.
+  if (hasDirectDonations(c)) dl.appendChild(renderDonors(c.donors));
   return node;
 }
 

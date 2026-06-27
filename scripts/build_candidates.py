@@ -173,6 +173,7 @@ def build_donors():
     donors = {}
     for name in totals:
         yt = sorted(totals[name], reverse=True)
+        grand_total = sum(total for _, total, _ in yt)
         parts = [f"{fy}: ${total:,} across {cnt} donor(s)" for fy, total, cnt in yt if total or cnt]
         summary = (
             "Donations disclosed directly to this member in AEC Member of Parliament returns. "
@@ -190,6 +191,7 @@ def build_donors():
         key = ALIASES.get(key, key)
         donors[key] = (name, chamber_of.get(name, "House of Representatives"), {
             "summary": summary,
+            "total_aud": grand_total,
             "entries": entries,
             "sources": [aec_donor_source(name, latest_fy)] if latest_fy else [],
         })
@@ -316,6 +318,7 @@ def main():
                 "summary": "No donations disclosed directly to this member in AEC "
                            "Member of Parliament returns (money received via a party "
                            "is not attributed to individuals).",
+                "total_aud": 0,
                 "entries": [],
                 "sources": [],
             }

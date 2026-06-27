@@ -45,6 +45,7 @@
       },
       "donors": {
         "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "total_aud": 0,
         "entries": [],
         "sources": [
           {
@@ -133,6 +134,7 @@
       },
       "donors": {
         "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "total_aud": 0,
         "entries": [],
         "sources": [
           {
@@ -191,6 +193,7 @@
       },
       "donors": {
         "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "total_aud": 0,
         "entries": [],
         "sources": [
           {
@@ -285,6 +288,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -324,6 +328,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -375,6 +380,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -426,6 +432,7 @@
       },
       "donors": {
         "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. 2024-25: $500 across 1 donor(s); 2023-24: $567,226 across 138 donor(s); 2022-23: $317,803 across 57 donor(s). Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "total_aud": 885529,
         "entries": [
           {
             "donor": "William Taylor Nominees Pty Ltd",
@@ -628,6 +635,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -679,6 +687,7 @@
       },
       "donors": {
         "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. 2024-25: $4,484 across 6 donor(s). Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "total_aud": 4484,
         "entries": [],
         "sources": [
           {
@@ -737,6 +746,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -763,6 +773,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -850,6 +861,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -889,6 +901,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -976,6 +989,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -1002,6 +1016,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -1065,6 +1080,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -1140,6 +1156,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -1179,6 +1196,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -1205,6 +1223,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -1286,6 +1305,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -1325,6 +1345,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -1376,6 +1397,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -1402,6 +1424,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -1453,6 +1476,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -1504,6 +1528,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -1567,6 +1592,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -1624,6 +1650,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -1650,6 +1677,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -1689,6 +1717,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -1715,6 +1744,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -1766,6 +1796,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -1792,6 +1823,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -1818,6 +1850,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -1887,6 +1920,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -1926,6 +1960,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -1995,6 +2030,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -2034,6 +2070,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -2073,6 +2110,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -2124,6 +2162,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -2163,6 +2202,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -2214,6 +2254,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -2253,6 +2294,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -2292,6 +2334,7 @@
       },
       "donors": {
         "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. 2023-24: $144,837 across 33 donor(s); 2022-23: $97,046 across 58 donor(s). Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "total_aud": 241883,
         "entries": [
           {
             "donor": "Keep Them Honest Pty Ltd",
@@ -2435,6 +2478,7 @@
       },
       "donors": {
         "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "total_aud": 0,
         "entries": [],
         "sources": [
           {
@@ -2523,6 +2567,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -2586,6 +2631,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -2655,6 +2701,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -2706,6 +2753,7 @@
       },
       "donors": {
         "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. 2024-25: $174,020 across 48 donor(s); 2023-24: $264,127 across 98 donor(s); 2022-23: $139,864 across 282 donor(s); 2020-21: $157,300 across 21 donor(s). Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "total_aud": 735311,
         "entries": [
           {
             "donor": "Matthias Krups",
@@ -2964,6 +3012,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -3003,6 +3052,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -3042,6 +3092,7 @@
       },
       "donors": {
         "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "total_aud": 0,
         "entries": [],
         "sources": [
           {
@@ -3100,6 +3151,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -3151,6 +3203,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -3202,6 +3255,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -3253,6 +3307,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -3298,6 +3353,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -3373,6 +3429,7 @@
       },
       "donors": {
         "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "total_aud": 0,
         "entries": [],
         "sources": [
           {
@@ -3406,6 +3463,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -3432,6 +3490,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -3489,6 +3548,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -3528,6 +3588,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -3591,6 +3652,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -3617,6 +3679,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -3656,6 +3719,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -3695,6 +3759,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -3770,6 +3835,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -3796,6 +3862,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -3835,6 +3902,7 @@
       },
       "donors": {
         "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "total_aud": 0,
         "entries": [],
         "sources": [
           {
@@ -3905,6 +3973,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -3956,6 +4025,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -3982,6 +4052,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -4008,6 +4079,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -4034,6 +4106,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -4097,6 +4170,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -4148,6 +4222,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -4174,6 +4249,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -4200,6 +4276,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -4239,6 +4316,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -4284,6 +4362,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -4323,6 +4402,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -4362,6 +4442,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -4401,6 +4482,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -4427,6 +4509,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -4453,6 +4536,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -4479,6 +4563,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -4518,6 +4603,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -4599,6 +4685,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -4650,6 +4737,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -4689,6 +4777,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -4728,6 +4817,7 @@
       },
       "donors": {
         "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. 2021-22: $20,000 across 1 donor(s). Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "total_aud": 20000,
         "entries": [
           {
             "donor": "SE Timber Processors Association",
@@ -4807,6 +4897,7 @@
       },
       "donors": {
         "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "total_aud": 0,
         "entries": [],
         "sources": [
           {
@@ -4877,6 +4968,7 @@
       },
       "donors": {
         "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. 2024-25: $535 across 3 donor(s); 2023-24: $11,411 across 10 donor(s); 2022-23: $1,435 across 8 donor(s); 2021-22: $25 across 1 donor(s); 2020-21: $4,265 across 12 donor(s). Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "total_aud": 17671,
         "entries": [],
         "sources": [
           {
@@ -4923,6 +5015,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -4949,6 +5042,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -4988,6 +5082,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -5014,6 +5109,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -5040,6 +5136,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -5066,6 +5163,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -5123,6 +5221,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -5186,6 +5285,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -5249,6 +5349,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -5288,6 +5389,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -5327,6 +5429,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -5353,6 +5456,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -5410,6 +5514,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -5461,6 +5566,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -5530,6 +5636,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -5569,6 +5676,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -5595,6 +5703,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -5658,6 +5767,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -5709,6 +5819,7 @@
       },
       "donors": {
         "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. 2023-24: $58,318 across 176 donor(s); 2022-23: $3,379 across 17 donor(s); 2021-22: $241 across 8 donor(s); 2020-21: $70,066 across 282 donor(s). Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "total_aud": 132004,
         "entries": [],
         "sources": [
           {
@@ -5755,6 +5866,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -5781,6 +5893,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -5807,6 +5920,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -5833,6 +5947,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -5896,6 +6011,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -5959,6 +6075,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -6016,6 +6133,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -6055,6 +6173,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -6094,6 +6213,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -6163,6 +6283,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -6202,6 +6323,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -6228,6 +6350,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -6254,6 +6377,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -6305,6 +6429,7 @@
       },
       "donors": {
         "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. 2024-25: $180 across 4 donor(s); 2023-24: $681,218 across 486 donor(s); 2022-23: $135,150 across 220 donor(s). Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "total_aud": 816548,
         "entries": [
           {
             "donor": "RUTH HARGRAVE",
@@ -6530,6 +6655,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -6593,6 +6719,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -6619,6 +6746,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -6658,6 +6786,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -6684,6 +6813,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -6710,6 +6840,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -6761,6 +6892,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -6824,6 +6956,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -6850,6 +6983,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -6937,6 +7071,7 @@
       },
       "donors": {
         "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. 2024-25: $1,000 across 1 donor(s). Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "total_aud": 1000,
         "entries": [
           {
             "donor": "National Rugby League",
@@ -7040,6 +7175,7 @@
       },
       "donors": {
         "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. 2020-21: $12,482 across 10 donor(s). Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "total_aud": 12482,
         "entries": [],
         "sources": [
           {
@@ -7086,6 +7222,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -7173,6 +7310,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -7230,6 +7368,7 @@
       },
       "donors": {
         "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. 2024-25: $1,901 across 5 donor(s); 2023-24: $116,059 across 82 donor(s); 2022-23: $26,829 across 27 donor(s). Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "total_aud": 144789,
         "entries": [
           {
             "donor": "Keep Them Honest Pty Ltd",
@@ -7319,6 +7458,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -7345,6 +7485,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -7371,6 +7512,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -7410,6 +7552,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -7449,6 +7592,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -7536,6 +7680,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -7562,6 +7707,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -7588,6 +7734,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -7614,6 +7761,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -7640,6 +7788,7 @@
       "positions": {},
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -7697,6 +7846,7 @@
       },
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -7789,6 +7939,7 @@
       "state": "ACT",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -7845,6 +7996,7 @@
       "state": "ACT",
       "donors": {
         "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "total_aud": 0,
         "entries": [],
         "sources": [
           {
@@ -7914,6 +8066,7 @@
       "state": "NSW",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -7964,6 +8117,7 @@
       "state": "NSW",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -8014,6 +8168,7 @@
       "state": "NSW",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -8094,6 +8249,7 @@
       "state": "NSW",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -8132,6 +8288,7 @@
       "state": "NSW",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -8182,6 +8339,7 @@
       "state": "NSW",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -8220,6 +8378,7 @@
       "state": "NSW",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -8300,6 +8459,7 @@
       "state": "NSW",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -8325,6 +8485,7 @@
       "state": "NSW",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -8381,6 +8542,7 @@
       "state": "NSW",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -8429,6 +8591,7 @@
       "state": "NSW",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -8454,6 +8617,7 @@
       "state": "NSW",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -8510,6 +8674,7 @@
       "state": "NT",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -8554,6 +8719,7 @@
       "state": "NT",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -8579,6 +8745,7 @@
       "state": "QLD",
       "donors": {
         "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "total_aud": 0,
         "entries": [],
         "sources": [
           {
@@ -8611,6 +8778,7 @@
       "state": "QLD",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -8636,6 +8804,7 @@
       "state": "QLD",
       "donors": {
         "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "total_aud": 0,
         "entries": [],
         "sources": [
           {
@@ -8705,6 +8874,7 @@
       "state": "QLD",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -8785,6 +8955,7 @@
       "state": "QLD",
       "donors": {
         "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "total_aud": 0,
         "entries": [],
         "sources": [
           {
@@ -8878,6 +9049,7 @@
       "state": "QLD",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -8916,6 +9088,7 @@
       "state": "QLD",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -8941,6 +9114,7 @@
       "state": "QLD",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -8991,6 +9165,7 @@
       "state": "QLD",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -9071,6 +9246,7 @@
       "state": "QLD",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -9096,6 +9272,7 @@
       "state": "QLD",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -9121,6 +9298,7 @@
       "state": "QLD",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -9177,6 +9355,7 @@
       "state": "SA",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -9202,6 +9381,7 @@
       "state": "SA",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -9227,6 +9407,7 @@
       "state": "SA",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -9265,6 +9446,7 @@
       "state": "SA",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -9303,6 +9485,7 @@
       "state": "SA",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -9341,6 +9524,7 @@
       "state": "SA",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -9379,6 +9563,7 @@
       "state": "SA",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -9404,6 +9589,7 @@
       "state": "SA",
       "donors": {
         "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. 2024-25: $22,374 across 95 donor(s); 2023-24: $29,700 across 19 donor(s). Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "total_aud": 52074,
         "entries": [],
         "sources": [
           {
@@ -9436,6 +9622,7 @@
       "state": "SA",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -9486,6 +9673,7 @@
       "state": "SA",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -9560,6 +9748,7 @@
       "state": "SA",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -9604,6 +9793,7 @@
       "state": "SA",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -9629,6 +9819,7 @@
       "state": "TAS",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -9654,6 +9845,7 @@
       "state": "TAS",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -9692,6 +9884,7 @@
       "state": "TAS",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -9784,6 +9977,7 @@
       "state": "TAS",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -9822,6 +10016,7 @@
       "state": "TAS",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -9847,6 +10042,7 @@
       "state": "TAS",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -9909,6 +10105,7 @@
       "state": "TAS",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -9959,6 +10156,7 @@
       "state": "TAS",
       "donors": {
         "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "total_aud": 0,
         "entries": [],
         "sources": [
           {
@@ -10004,6 +10202,7 @@
       "state": "TAS",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -10029,6 +10228,7 @@
       "state": "TAS",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -10054,6 +10254,7 @@
       "state": "TAS",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -10079,6 +10280,7 @@
       "state": "TAS",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -10153,6 +10355,7 @@
       "state": "VIC",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -10221,6 +10424,7 @@
       "state": "VIC",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -10246,6 +10450,7 @@
       "state": "VIC",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -10271,6 +10476,7 @@
       "state": "VIC",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -10296,6 +10502,7 @@
       "state": "VIC",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -10346,6 +10553,7 @@
       "state": "VIC",
       "donors": {
         "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. 2024-25: $26,458 across 158 donor(s); 2023-24: $15,219 across 52 donor(s); 2022-23: $100 across 1 donor(s). Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "total_aud": 41777,
         "entries": [],
         "sources": [
           {
@@ -10378,6 +10586,7 @@
       "state": "VIC",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -10440,6 +10649,7 @@
       "state": "VIC",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -10496,6 +10706,7 @@
       "state": "VIC",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -10558,6 +10769,7 @@
       "state": "VIC",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -10608,6 +10820,7 @@
       "state": "VIC",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -10658,6 +10871,7 @@
       "state": "VIC",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -10708,6 +10922,7 @@
       "state": "WA",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -10733,6 +10948,7 @@
       "state": "WA",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -10771,6 +10987,7 @@
       "state": "WA",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -10833,6 +11050,7 @@
       "state": "WA",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -10871,6 +11089,7 @@
       "state": "WA",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -10939,6 +11158,7 @@
       "state": "WA",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -10977,6 +11197,7 @@
       "state": "WA",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -11021,6 +11242,7 @@
       "state": "WA",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -11046,6 +11268,7 @@
       "state": "WA",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -11096,6 +11319,7 @@
       "state": "WA",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -11121,6 +11345,7 @@
       "state": "WA",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -11159,6 +11384,7 @@
       "state": "WA",
       "donors": {
         "summary": "No donations disclosed directly to this member in AEC Member of Parliament returns (money received via a party is not attributed to individuals).",
+        "total_aud": 0,
         "entries": [],
         "sources": []
       },
@@ -11182,6 +11408,7 @@
       "positions": {},
       "donors": {
         "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. 2020-21: $7,500 across 41 donor(s). Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "total_aud": 7500,
         "entries": [],
         "sources": [
           {
@@ -11204,6 +11431,7 @@
       "positions": {},
       "donors": {
         "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "total_aud": 0,
         "entries": [],
         "sources": [
           {
@@ -11226,6 +11454,7 @@
       "positions": {},
       "donors": {
         "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. 2023-24: $374,010 across 342 donor(s); 2022-23: $12,468 across 18 donor(s). Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "total_aud": 386478,
         "entries": [
           {
             "donor": "Keep Them Honest Pty Ltd",
@@ -11347,6 +11576,7 @@
       "positions": {},
       "donors": {
         "summary": "Donations disclosed directly to this member in AEC Member of Parliament returns. Note: member returns capture only donations made directly to the member, not money received via a party; figures are partial.",
+        "total_aud": 0,
         "entries": [],
         "sources": [
           {

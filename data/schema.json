@@ -86,6 +86,7 @@
       "description": "Disclosed donations from public AEC records.",
       "properties": {
         "summary": { "type": "string" },
+        "total_aud": { "type": "number", "description": "Sum of disclosed direct donations across years (0 if none)." },
         "entries": {
           "type": "array",
           "items": {
