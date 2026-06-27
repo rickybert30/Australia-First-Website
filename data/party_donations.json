@@ -1,0 +1,1342 @@
+{
+  "meta": {
+    "description": "Disclosed donations to political parties (AEC detailed receipts, Donation Received only), summed per donor across the four most recent financial years. Branch returns are grouped into party families.",
+    "source_url": "https://transparency.aec.gov.au/AnnualDetailedReceipts",
+    "window": "2021-22 to 2024-25",
+    "note": "Excludes public funding and electoral-commission payments. Only donations above the disclosure threshold are itemised in AEC returns.",
+    "last_updated": "2026-06-26"
+  },
+  "parties": [
+    {
+      "party": "United Australia Party",
+      "total_aud": 123933717,
+      "donor_count": 1,
+      "financial_years": [
+        "2021-22",
+        "2022-23"
+      ],
+      "top_donors": [
+        {
+          "donor": "Mineralogy Pty Ltd",
+          "amount_aud": 123933717
+        }
+      ],
+      "source": {
+        "title": "AEC Transparency Register — detailed receipts, United Australia Party",
+        "url": "https://transparency.aec.gov.au/AnnualDetailedReceipts",
+        "publisher": "Australian Electoral Commission"
+      }
+    },
+    {
+      "party": "Labor (ALP)",
+      "total_aud": 59990870,
+      "donor_count": 1251,
+      "financial_years": [
+        "2021-22",
+        "2022-23",
+        "2023-24",
+        "2024-25"
+      ],
+      "top_donors": [
+        {
+          "donor": "Labor Holdings Pty Ltd",
+          "amount_aud": 6410000
+        },
+        {
+          "donor": "Pratt Holdings",
+          "amount_aud": 5770000
+        },
+        {
+          "donor": "Mining and Energy Union",
+          "amount_aud": 3115000
+        },
+        {
+          "donor": "United Workers Union",
+          "amount_aud": 3105894
+        },
+        {
+          "donor": "VIC Branch ALP",
+          "amount_aud": 2321019
+        },
+        {
+          "donor": "QLD Branch ALP",
+          "amount_aud": 1830260
+        },
+        {
+          "donor": "SA Porgressive Business",
+          "amount_aud": 1448478
+        },
+        {
+          "donor": "Labor Services & Holdings Pty Ltd ATF Labor Services & Holdings Trust",
+          "amount_aud": 1376000
+        },
+        {
+          "donor": "ETU National Office",
+          "amount_aud": 1060000
+        },
+        {
+          "donor": "CFMEU Construction & General National Office",
+          "amount_aud": 1050000
+        },
+        {
+          "donor": "WA Branch ALP",
+          "amount_aud": 1040000
+        },
+        {
+          "donor": "Shop, Distributive & Allied Employees' Association",
+          "amount_aud": 1010000
+        },
+        {
+          "donor": "NSW Branch ALP",
+          "amount_aud": 971477
+        },
+        {
+          "donor": "Labor Services &amp; Holding Pty Ltd ATF the Labor Services and Holding Trust",
+          "amount_aud": 598000
+        },
+        {
+          "donor": "Plumbing and Pipe Trades Employees Union",
+          "amount_aud": 548000
+        },
+        {
+          "donor": "The Australian Labor Party National Secretariat",
+          "amount_aud": 536678
+        },
+        {
+          "donor": "SHOP DISTRIBUTIVE & ALLIED EMPLOYEES ASSOCIATION NAT BRANCH",
+          "amount_aud": 533800
+        },
+        {
+          "donor": "Australian Capital Equity Pty Ltd",
+          "amount_aud": 500000
+        },
+        {
+          "donor": "Fox Group Holdings Pty Ltd",
+          "amount_aud": 500000
+        },
+        {
+          "donor": "Mining & Energy Union",
+          "amount_aud": 500000
+        }
+      ],
+      "source": {
+        "title": "AEC Transparency Register — detailed receipts, Labor (ALP)",
+        "url": "https://transparency.aec.gov.au/AnnualDetailedReceipts",
+        "publisher": "Australian Electoral Commission"
+      }
+    },
+    {
+      "party": "Liberal Party",
+      "total_aud": 59124084,
+      "donor_count": 453,
+      "financial_years": [
+        "2021-22",
+        "2022-23",
+        "2023-24",
+        "2024-25"
+      ],
+      "top_donors": [
+        {
+          "donor": "Cormack Foundation Pty Ltd",
+          "amount_aud": 9230000
+        },
+        {
+          "donor": "Pam Wall",
+          "amount_aud": 5245000
+        },
+        {
+          "donor": "Cormack Foundation Pty Limited",
+          "amount_aud": 3000000
+        },
+        {
+          "donor": "Pratt Holdings",
+          "amount_aud": 1770000
+        },
+        {
+          "donor": "Oryxium Investments Limited",
+          "amount_aud": 1550000
+        },
+        {
+          "donor": "Meriton Property Services",
+          "amount_aud": 1000000
+        },
+        {
+          "donor": "Cormack Foundation",
+          "amount_aud": 867871
+        },
+        {
+          "donor": "Pratt Holdings Pty Ltd",
+          "amount_aud": 815000
+        },
+        {
+          "donor": "ORYXIUM INVESTMENTS LIMITED",
+          "amount_aud": 800000
+        },
+        {
+          "donor": "DoorDash Technologies Australia Pty Ltd",
+          "amount_aud": 750000
+        },
+        {
+          "donor": "Sugolena Holdings Pty Ltd",
+          "amount_aud": 700000
+        },
+        {
+          "donor": "Kooyong 200 Club",
+          "amount_aud": 577978
+        },
+        {
+          "donor": "LIBERAL PARTY OF AUSTRALIA",
+          "amount_aud": 538300
+        },
+        {
+          "donor": "Australian Capital Equity",
+          "amount_aud": 500000
+        },
+        {
+          "donor": "Fox Group Holdings",
+          "amount_aud": 500000
+        },
+        {
+          "donor": "SIDDLE, MICHAEL",
+          "amount_aud": 500000
+        },
+        {
+          "donor": "Jefferson Investments Pty Ltd",
+          "amount_aud": 500000
+        },
+        {
+          "donor": "LIBERAL PARTY OF AUSTRALIA - FEDERAL SECRETARIAT",
+          "amount_aud": 482491
+        },
+        {
+          "donor": "Liberal Party of Australia",
+          "amount_aud": 468000
+        },
+        {
+          "donor": "Holypeak Pty Ltd",
+          "amount_aud": 450000
+        }
+      ],
+      "source": {
+        "title": "AEC Transparency Register — detailed receipts, Liberal Party",
+        "url": "https://transparency.aec.gov.au/AnnualDetailedReceipts",
+        "publisher": "Australian Electoral Commission"
+      }
+    },
+    {
+      "party": "Australian Federation Party",
+      "total_aud": 54079910,
+      "donor_count": 1,
+      "financial_years": [
+        "2024-25"
+      ],
+      "top_donors": [
+        {
+          "donor": "Mineralogy Pty Ltd",
+          "amount_aud": 54079910
+        }
+      ],
+      "source": {
+        "title": "AEC Transparency Register — detailed receipts, Australian Federation Party",
+        "url": "https://transparency.aec.gov.au/AnnualDetailedReceipts",
+        "publisher": "Australian Electoral Commission"
+      }
+    },
+    {
+      "party": "The Greens",
+      "total_aud": 12227822,
+      "donor_count": 99,
+      "financial_years": [
+        "2021-22",
+        "2022-23",
+        "2023-24",
+        "2024-25"
+      ],
+      "top_donors": [
+        {
+          "donor": "Australian Greens",
+          "amount_aud": 3919682
+        },
+        {
+          "donor": "Duncan Turpie",
+          "amount_aud": 2150555
+        },
+        {
+          "donor": "LB Conservation Pty Ltd",
+          "amount_aud": 880000
+        },
+        {
+          "donor": "CEPU Electrical Division",
+          "amount_aud": 600000
+        },
+        {
+          "donor": "David Walsh Estate / Douglas Hoskins Legal",
+          "amount_aud": 345076
+        },
+        {
+          "donor": "Norman Pater",
+          "amount_aud": 300000
+        },
+        {
+          "donor": "Ruth Greble",
+          "amount_aud": 279000
+        },
+        {
+          "donor": "Electrical Trades Union",
+          "amount_aud": 250000
+        },
+        {
+          "donor": "Australian Greens (The Greens) Inc",
+          "amount_aud": 238436
+        },
+        {
+          "donor": "Australian Greens (SA) Inc",
+          "amount_aud": 215000
+        },
+        {
+          "donor": "Murray Haseler",
+          "amount_aud": 190200
+        },
+        {
+          "donor": "Estate of the Late David Walsh",
+          "amount_aud": 158333
+        },
+        {
+          "donor": "CEPU Plumbing Division",
+          "amount_aud": 140000
+        },
+        {
+          "donor": "Late Geoffrey Bond",
+          "amount_aud": 124511
+        },
+        {
+          "donor": "Caroline Margaret Le Couteur ~ Caroline",
+          "amount_aud": 120000
+        },
+        {
+          "donor": "Sally Perini",
+          "amount_aud": 120000
+        },
+        {
+          "donor": "Caroline Le Couteur",
+          "amount_aud": 115000
+        },
+        {
+          "donor": "Paul Thomas",
+          "amount_aud": 110000
+        },
+        {
+          "donor": "Robert Keldoulis",
+          "amount_aud": 100000
+        },
+        {
+          "donor": "Estate of the late Andrew John Galbraith",
+          "amount_aud": 100000
+        }
+      ],
+      "source": {
+        "title": "AEC Transparency Register — detailed receipts, The Greens",
+        "url": "https://transparency.aec.gov.au/AnnualDetailedReceipts",
+        "publisher": "Australian Electoral Commission"
+      }
+    },
+    {
+      "party": "Liberal National Party (Qld)",
+      "total_aud": 6618483,
+      "donor_count": 146,
+      "financial_years": [
+        "2021-22",
+        "2022-23",
+        "2023-24",
+        "2024-25"
+      ],
+      "top_donors": [
+        {
+          "donor": "Adani Mining Pty Ltd (T/A Bravus Mining and Resources)",
+          "amount_aud": 599998
+        },
+        {
+          "donor": "Hancock Prospecting Pty Ltd",
+          "amount_aud": 325000
+        },
+        {
+          "donor": "Liral Investments No. 4 Pty Ltd",
+          "amount_aud": 304000
+        },
+        {
+          "donor": "Liberal Party of Australia (Victoria Division) Kooyong 200 Club",
+          "amount_aud": 215000
+        },
+        {
+          "donor": "The Morris Family Trust",
+          "amount_aud": 200000
+        },
+        {
+          "donor": "Russell Mineral Equipment Pty Ltd",
+          "amount_aud": 150000
+        },
+        {
+          "donor": "The Nationals",
+          "amount_aud": 146000
+        },
+        {
+          "donor": "Lifestyle Supports Pty Ltd",
+          "amount_aud": 100000
+        },
+        {
+          "donor": "Energy Minerals Pty Ltd",
+          "amount_aud": 100000
+        },
+        {
+          "donor": "Meriton Property Services PTY Ltd",
+          "amount_aud": 100000
+        },
+        {
+          "donor": "Adani Mining Pty Ltd",
+          "amount_aud": 100000
+        },
+        {
+          "donor": "JGI Quarry Pty Ltd",
+          "amount_aud": 100000
+        },
+        {
+          "donor": "Terrence Peabody",
+          "amount_aud": 98000
+        },
+        {
+          "donor": "FINICO PTY LTD",
+          "amount_aud": 88000
+        },
+        {
+          "donor": "Peter Hall",
+          "amount_aud": 85000
+        },
+        {
+          "donor": "Tactic Spaces Pty Ltd",
+          "amount_aud": 82500
+        },
+        {
+          "donor": "Liberal Party of Australia NSW Division",
+          "amount_aud": 82475
+        },
+        {
+          "donor": "J.J. Richards & Sons Pty Ltd",
+          "amount_aud": 77500
+        },
+        {
+          "donor": "Illira Group Pty Ltd",
+          "amount_aud": 70000
+        },
+        {
+          "donor": "Claire Willebrands",
+          "amount_aud": 66400
+        }
+      ],
+      "source": {
+        "title": "AEC Transparency Register — detailed receipts, Liberal National Party (Qld)",
+        "url": "https://transparency.aec.gov.au/AnnualDetailedReceipts",
+        "publisher": "Australian Electoral Commission"
+      }
+    },
+    {
+      "party": "The Nationals",
+      "total_aud": 3862912,
+      "donor_count": 49,
+      "financial_years": [
+        "2021-22",
+        "2022-23",
+        "2023-24",
+        "2024-25"
+      ],
+      "top_donors": [
+        {
+          "donor": "The Trustee for the National Policy Forum Trust",
+          "amount_aud": 600000
+        },
+        {
+          "donor": "Liberal National Party of Queensland",
+          "amount_aud": 348500
+        },
+        {
+          "donor": "John McEwen House Pty Ltd",
+          "amount_aud": 326965
+        },
+        {
+          "donor": "PRATT HOLDINGS PTY LTD",
+          "amount_aud": 250000
+        },
+        {
+          "donor": "National Party of Australia",
+          "amount_aud": 185000
+        },
+        {
+          "donor": "Gowing Bros Ltd",
+          "amount_aud": 180000
+        },
+        {
+          "donor": "Aitken Mount Capital Partners Pty Ltd",
+          "amount_aud": 134000
+        },
+        {
+          "donor": "Manildra Group",
+          "amount_aud": 114000
+        },
+        {
+          "donor": "Tamboran Resources Limited",
+          "amount_aud": 100000
+        },
+        {
+          "donor": "Green, Gregory John",
+          "amount_aud": 99985
+        },
+        {
+          "donor": "Federal National Party of Australia",
+          "amount_aud": 94575
+        },
+        {
+          "donor": "Laneway Assets Pty Ltd",
+          "amount_aud": 90000
+        },
+        {
+          "donor": "HEATHERBRAE INVESTMENT HOLDINGS PTY LTD",
+          "amount_aud": 88000
+        },
+        {
+          "donor": "Hilton Ross Grugeon",
+          "amount_aud": 88000
+        },
+        {
+          "donor": "National Party of Australia - Federal",
+          "amount_aud": 86160
+        },
+        {
+          "donor": "The Nationals - NSW",
+          "amount_aud": 70000
+        },
+        {
+          "donor": "Berry Park Pty Ltd",
+          "amount_aud": 59290
+        },
+        {
+          "donor": "Sporting Shooters Association of Australia (WA) Inc",
+          "amount_aud": 55000
+        },
+        {
+          "donor": "National Building Foundation",
+          "amount_aud": 54128
+        },
+        {
+          "donor": "Liberal National Party",
+          "amount_aud": 50000
+        }
+      ],
+      "source": {
+        "title": "AEC Transparency Register — detailed receipts, The Nationals",
+        "url": "https://transparency.aec.gov.au/AnnualDetailedReceipts",
+        "publisher": "Australian Electoral Commission"
+      }
+    },
+    {
+      "party": "David Pocock",
+      "total_aud": 2029453,
+      "donor_count": 15,
+      "financial_years": [
+        "2021-22",
+        "2022-23",
+        "2023-24",
+        "2024-25"
+      ],
+      "top_donors": [
+        {
+          "donor": "Climate 200",
+          "amount_aud": 856382
+        },
+        {
+          "donor": "James Taylor",
+          "amount_aud": 274617
+        },
+        {
+          "donor": "William Taylor Nominees Pty Ltd",
+          "amount_aud": 200000
+        },
+        {
+          "donor": "Keldoulis Investment Pty Ltd",
+          "amount_aud": 200000
+        },
+        {
+          "donor": "Keep Them Honest Pty Ltd",
+          "amount_aud": 100000
+        },
+        {
+          "donor": "Pater Investments Pty Ltd",
+          "amount_aud": 80000
+        },
+        {
+          "donor": "FJ Partners Pty Ltd",
+          "amount_aud": 78375
+        },
+        {
+          "donor": "Lisa Miller",
+          "amount_aud": 50000
+        },
+        {
+          "donor": "Boundless Earth",
+          "amount_aud": 50000
+        },
+        {
+          "donor": "William Taylor Nominees",
+          "amount_aud": 30000
+        },
+        {
+          "donor": "David Pocock Pty Ltd",
+          "amount_aud": 26079
+        },
+        {
+          "donor": "David Paradice",
+          "amount_aud": 25000
+        },
+        {
+          "donor": "Robert J Keldoulis",
+          "amount_aud": 24000
+        },
+        {
+          "donor": "Robert Purves",
+          "amount_aud": 20000
+        },
+        {
+          "donor": "Sam Holden",
+          "amount_aud": 15000
+        }
+      ],
+      "source": {
+        "title": "AEC Transparency Register — detailed receipts, David Pocock",
+        "url": "https://transparency.aec.gov.au/AnnualDetailedReceipts",
+        "publisher": "Australian Electoral Commission"
+      }
+    },
+    {
+      "party": "Country Liberal Party (NT)",
+      "total_aud": 1512050,
+      "donor_count": 25,
+      "financial_years": [
+        "2021-22",
+        "2023-24",
+        "2024-25"
+      ],
+      "top_donors": [
+        {
+          "donor": "Ray Bail Investements Pty Ltd",
+          "amount_aud": 204500
+        },
+        {
+          "donor": "CLP Gifts and Legacies Pty Ltd",
+          "amount_aud": 146800
+        },
+        {
+          "donor": "National Party of Australia",
+          "amount_aud": 140000
+        },
+        {
+          "donor": "John-Paul Thorbjornsen",
+          "amount_aud": 125000
+        },
+        {
+          "donor": "Liberal Party of Australia, NSW Division - Hume FEC",
+          "amount_aud": 120000
+        },
+        {
+          "donor": "JP Thor Ventures P/L",
+          "amount_aud": 100000
+        },
+        {
+          "donor": "Tamboran Resources P/L",
+          "amount_aud": 87000
+        },
+        {
+          "donor": "Liberal Party NSW - Hume Forum",
+          "amount_aud": 76000
+        },
+        {
+          "donor": "Hancock Prospecting Pty Ltd",
+          "amount_aud": 75000
+        },
+        {
+          "donor": "Allan C Garraway",
+          "amount_aud": 52750
+        },
+        {
+          "donor": "DIAH (NT) Pty Ltd",
+          "amount_aud": 50000
+        },
+        {
+          "donor": "Wayne Thomas",
+          "amount_aud": 37000
+        },
+        {
+          "donor": "Out There NT P/L",
+          "amount_aud": 35000
+        },
+        {
+          "donor": "Gaymark Group P/L",
+          "amount_aud": 30000
+        },
+        {
+          "donor": "NorthWest Constructions P/L",
+          "amount_aud": 25000
+        },
+        {
+          "donor": "Randazzo Properties (NT) P/L",
+          "amount_aud": 25000
+        },
+        {
+          "donor": "THE Mining P/L",
+          "amount_aud": 25000
+        },
+        {
+          "donor": "Randazzo Propperties NT Pty Ltd",
+          "amount_aud": 25000
+        },
+        {
+          "donor": "Uniglobe Trading Corporation Pty Ltd",
+          "amount_aud": 25000
+        },
+        {
+          "donor": "Liberal Party of Australia, Vic Division - Kooyong",
+          "amount_aud": 25000
+        }
+      ],
+      "source": {
+        "title": "AEC Transparency Register — detailed receipts, Country Liberal Party (NT)",
+        "url": "https://transparency.aec.gov.au/AnnualDetailedReceipts",
+        "publisher": "Australian Electoral Commission"
+      }
+    },
+    {
+      "party": "WESTERN AUSTRALIA PARTY",
+      "total_aud": 1045793,
+      "donor_count": 2,
+      "financial_years": [
+        "2021-22"
+      ],
+      "top_donors": [
+        {
+          "donor": "Stonehill Nominees",
+          "amount_aud": 972287
+        },
+        {
+          "donor": "WePrintIt",
+          "amount_aud": 73506
+        }
+      ],
+      "source": {
+        "title": "AEC Transparency Register — detailed receipts, WESTERN AUSTRALIA PARTY",
+        "url": "https://transparency.aec.gov.au/AnnualDetailedReceipts",
+        "publisher": "Australian Electoral Commission"
+      }
+    },
+    {
+      "party": "Australian Values Party",
+      "total_aud": 731000,
+      "donor_count": 3,
+      "financial_years": [
+        "2022-23"
+      ],
+      "top_donors": [
+        {
+          "donor": "Heston Russell",
+          "amount_aud": 650000
+        },
+        {
+          "donor": "Bradley Chesworth",
+          "amount_aud": 41000
+        },
+        {
+          "donor": "Rebecca Pizzey",
+          "amount_aud": 40000
+        }
+      ],
+      "source": {
+        "title": "AEC Transparency Register — detailed receipts, Australian Values Party",
+        "url": "https://transparency.aec.gov.au/AnnualDetailedReceipts",
+        "publisher": "Australian Electoral Commission"
+      }
+    },
+    {
+      "party": "Legalise Cannabis Australia",
+      "total_aud": 659990,
+      "donor_count": 6,
+      "financial_years": [
+        "2021-22",
+        "2024-25"
+      ],
+      "top_donors": [
+        {
+          "donor": "Keldoulis Investments Pty Limited",
+          "amount_aud": 402000
+        },
+        {
+          "donor": "Plumbing and Pipe Trades Employees Union",
+          "amount_aud": 150000
+        },
+        {
+          "donor": "Green Australia Wholesale Pty Ltd",
+          "amount_aud": 45000
+        },
+        {
+          "donor": "Robert Keldoulis",
+          "amount_aud": 22990
+        },
+        {
+          "donor": "Nimbin Hemp Embassy",
+          "amount_aud": 20000
+        },
+        {
+          "donor": "Nimbin Hemp Incorporated",
+          "amount_aud": 20000
+        }
+      ],
+      "source": {
+        "title": "AEC Transparency Register — detailed receipts, Legalise Cannabis Australia",
+        "url": "https://transparency.aec.gov.au/AnnualDetailedReceipts",
+        "publisher": "Australian Electoral Commission"
+      }
+    },
+    {
+      "party": "Pauline Hanson's One Nation",
+      "total_aud": 317180,
+      "donor_count": 9,
+      "financial_years": [
+        "2021-22",
+        "2023-24",
+        "2024-25"
+      ],
+      "top_donors": [
+        {
+          "donor": "William Henderson",
+          "amount_aud": 100000
+        },
+        {
+          "donor": "Angus Aitken",
+          "amount_aud": 50000
+        },
+        {
+          "donor": "Westreet Investments",
+          "amount_aud": 50000
+        },
+        {
+          "donor": "Jennifer Parsons",
+          "amount_aud": 35000
+        },
+        {
+          "donor": "Adgile Investments",
+          "amount_aud": 27000
+        },
+        {
+          "donor": "Australian Hotels Association",
+          "amount_aud": 20000
+        },
+        {
+          "donor": "FFairthorne Jnr Nominees Pty Ltd",
+          "amount_aud": 20000
+        },
+        {
+          "donor": "Jennifer Mary Parsons",
+          "amount_aud": 10180
+        },
+        {
+          "donor": "Jennifer Parsonscxx",
+          "amount_aud": 5000
+        }
+      ],
+      "source": {
+        "title": "AEC Transparency Register — detailed receipts, Pauline Hanson's One Nation",
+        "url": "https://transparency.aec.gov.au/AnnualDetailedReceipts",
+        "publisher": "Australian Electoral Commission"
+      }
+    },
+    {
+      "party": "Libertarian Party",
+      "total_aud": 306040,
+      "donor_count": 6,
+      "financial_years": [
+        "2023-24",
+        "2024-25"
+      ],
+      "top_donors": [
+        {
+          "donor": "Turner Components Pty Ldt",
+          "amount_aud": 167540
+        },
+        {
+          "donor": "JB Turner Mud Guards Pty Ltd",
+          "amount_aud": 32250
+        },
+        {
+          "donor": "Turner Components Pty Ltd",
+          "amount_aud": 31250
+        },
+        {
+          "donor": "Siesta Holding Australia Pty Ltd",
+          "amount_aud": 25000
+        },
+        {
+          "donor": "SILVER RIVER INVESTMENT PTY LTD",
+          "amount_aud": 25000
+        },
+        {
+          "donor": "Simon Fenwick",
+          "amount_aud": 25000
+        }
+      ],
+      "source": {
+        "title": "AEC Transparency Register — detailed receipts, Libertarian Party",
+        "url": "https://transparency.aec.gov.au/AnnualDetailedReceipts",
+        "publisher": "Australian Electoral Commission"
+      }
+    },
+    {
+      "party": "The Great Australian Party",
+      "total_aud": 256000,
+      "donor_count": 6,
+      "financial_years": [
+        "2021-22",
+        "2022-23",
+        "2023-24"
+      ],
+      "top_donors": [
+        {
+          "donor": "Wren Oils",
+          "amount_aud": 100000
+        },
+        {
+          "donor": "Aljim Pty Ltd (Alex Wren)",
+          "amount_aud": 50000
+        },
+        {
+          "donor": "Abba Engineering",
+          "amount_aud": 30000
+        },
+        {
+          "donor": "Webdrill Australia Pty Ltd",
+          "amount_aud": 30000
+        },
+        {
+          "donor": "Romine Holdings",
+          "amount_aud": 26000
+        },
+        {
+          "donor": "Rominee Holdings",
+          "amount_aud": 20000
+        }
+      ],
+      "source": {
+        "title": "AEC Transparency Register — detailed receipts, The Great Australian Party",
+        "url": "https://transparency.aec.gov.au/AnnualDetailedReceipts",
+        "publisher": "Australian Electoral Commission"
+      }
+    },
+    {
+      "party": "Katter's Australian Party",
+      "total_aud": 251667,
+      "donor_count": 3,
+      "financial_years": [
+        "2024-25"
+      ],
+      "top_donors": [
+        {
+          "donor": "Adani Mining Pty Ltd",
+          "amount_aud": 100000
+        },
+        {
+          "donor": "Elizabeth Nioa",
+          "amount_aud": 91667
+        },
+        {
+          "donor": "Shooters Union of Queensland Pty Ltd",
+          "amount_aud": 60000
+        }
+      ],
+      "source": {
+        "title": "AEC Transparency Register — detailed receipts, Katter's Australian Party",
+        "url": "https://transparency.aec.gov.au/AnnualDetailedReceipts",
+        "publisher": "Australian Electoral Commission"
+      }
+    },
+    {
+      "party": "Local Network",
+      "total_aud": 235166,
+      "donor_count": 5,
+      "financial_years": [
+        "2021-22"
+      ],
+      "top_donors": [
+        {
+          "donor": "CFMEU Victoria",
+          "amount_aud": 100166
+        },
+        {
+          "donor": "Climate 200",
+          "amount_aud": 50000
+        },
+        {
+          "donor": "Keep Them Honest",
+          "amount_aud": 50000
+        },
+        {
+          "donor": "Graeme Wood",
+          "amount_aud": 20000
+        },
+        {
+          "donor": "Julie A Mills",
+          "amount_aud": 15000
+        }
+      ],
+      "source": {
+        "title": "AEC Transparency Register — detailed receipts, Local Network",
+        "url": "https://transparency.aec.gov.au/AnnualDetailedReceipts",
+        "publisher": "Australian Electoral Commission"
+      }
+    },
+    {
+      "party": "Family First Party Australia",
+      "total_aud": 207200,
+      "donor_count": 5,
+      "financial_years": [
+        "2024-25"
+      ],
+      "top_donors": [
+        {
+          "donor": "Colleen Reid",
+          "amount_aud": 82000
+        },
+        {
+          "donor": "International Community Fellowship Inc",
+          "amount_aud": 50000
+        },
+        {
+          "donor": "John Small",
+          "amount_aud": 30000
+        },
+        {
+          "donor": "Jason Blaiklock",
+          "amount_aud": 25200
+        },
+        {
+          "donor": "Silver River Investment Holdings AFT Fenwick Family Trust",
+          "amount_aud": 20000
+        }
+      ],
+      "source": {
+        "title": "AEC Transparency Register — detailed receipts, Family First Party Australia",
+        "url": "https://transparency.aec.gov.au/AnnualDetailedReceipts",
+        "publisher": "Australian Electoral Commission"
+      }
+    },
+    {
+      "party": "Jacqui Lambie Network",
+      "total_aud": 205000,
+      "donor_count": 3,
+      "financial_years": [
+        "2024-25"
+      ],
+      "top_donors": [
+        {
+          "donor": "Minerals Council of Australia",
+          "amount_aud": 125000
+        },
+        {
+          "donor": "Ian Melrose",
+          "amount_aud": 60000
+        },
+        {
+          "donor": "The Manufacturing Division",
+          "amount_aud": 20000
+        }
+      ],
+      "source": {
+        "title": "AEC Transparency Register — detailed receipts, Jacqui Lambie Network",
+        "url": "https://transparency.aec.gov.au/AnnualDetailedReceipts",
+        "publisher": "Australian Electoral Commission"
+      }
+    },
+    {
+      "party": "Centre Alliance",
+      "total_aud": 200000,
+      "donor_count": 1,
+      "financial_years": [
+        "2021-22"
+      ],
+      "top_donors": [
+        {
+          "donor": "Climate 200 Pty Ltd",
+          "amount_aud": 200000
+        }
+      ],
+      "source": {
+        "title": "AEC Transparency Register — detailed receipts, Centre Alliance",
+        "url": "https://transparency.aec.gov.au/AnnualDetailedReceipts",
+        "publisher": "Australian Electoral Commission"
+      }
+    },
+    {
+      "party": "Shooters, Fishers and Farmers Party",
+      "total_aud": 155000,
+      "donor_count": 3,
+      "financial_years": [
+        "2021-22",
+        "2022-23",
+        "2023-24",
+        "2024-25"
+      ],
+      "top_donors": [
+        {
+          "donor": "Federation of Hunting Clubs Inc",
+          "amount_aud": 90000
+        },
+        {
+          "donor": "United Services Union",
+          "amount_aud": 35000
+        },
+        {
+          "donor": "Federation Of Hunting Clubs Inc",
+          "amount_aud": 30000
+        }
+      ],
+      "source": {
+        "title": "AEC Transparency Register — detailed receipts, Shooters, Fishers and Farmers Party",
+        "url": "https://transparency.aec.gov.au/AnnualDetailedReceipts",
+        "publisher": "Australian Electoral Commission"
+      }
+    },
+    {
+      "party": "Kim for Canberra",
+      "total_aud": 134375,
+      "donor_count": 3,
+      "financial_years": [
+        "2021-22"
+      ],
+      "top_donors": [
+        {
+          "donor": "Climate 200 Pty Ltd",
+          "amount_aud": 84375
+        },
+        {
+          "donor": "Bruce Richard Clezy",
+          "amount_aud": 30000
+        },
+        {
+          "donor": "Deanne Evelyn Weir",
+          "amount_aud": 20000
+        }
+      ],
+      "source": {
+        "title": "AEC Transparency Register — detailed receipts, Kim for Canberra",
+        "url": "https://transparency.aec.gov.au/AnnualDetailedReceipts",
+        "publisher": "Australian Electoral Commission"
+      }
+    },
+    {
+      "party": "Sustainable Australia Party",
+      "total_aud": 80313,
+      "donor_count": 4,
+      "financial_years": [
+        "2021-22",
+        "2022-23",
+        "2023-24"
+      ],
+      "top_donors": [
+        {
+          "donor": "Murray Haseler",
+          "amount_aud": 33120
+        },
+        {
+          "donor": "Graham V Butler",
+          "amount_aud": 25000
+        },
+        {
+          "donor": "Alan Hastings Magnusson",
+          "amount_aud": 22000
+        },
+        {
+          "donor": "William Bourke",
+          "amount_aud": 193
+        }
+      ],
+      "source": {
+        "title": "AEC Transparency Register — detailed receipts, Sustainable Australia Party",
+        "url": "https://transparency.aec.gov.au/AnnualDetailedReceipts",
+        "publisher": "Australian Electoral Commission"
+      }
+    },
+    {
+      "party": "Animal Justice Party",
+      "total_aud": 80000,
+      "donor_count": 2,
+      "financial_years": [
+        "2021-22",
+        "2024-25"
+      ],
+      "top_donors": [
+        {
+          "donor": "Animal Justice Foundation Pty Ltd",
+          "amount_aud": 40000
+        },
+        {
+          "donor": "Pam Ison",
+          "amount_aud": 40000
+        }
+      ],
+      "source": {
+        "title": "AEC Transparency Register — detailed receipts, Animal Justice Party",
+        "url": "https://transparency.aec.gov.au/AnnualDetailedReceipts",
+        "publisher": "Australian Electoral Commission"
+      }
+    },
+    {
+      "party": "Reason Australia",
+      "total_aud": 60000,
+      "donor_count": 2,
+      "financial_years": [
+        "2021-22"
+      ],
+      "top_donors": [
+        {
+          "donor": "CFMEU",
+          "amount_aud": 30000
+        },
+        {
+          "donor": "Sally Perini",
+          "amount_aud": 30000
+        }
+      ],
+      "source": {
+        "title": "AEC Transparency Register — detailed receipts, Reason Australia",
+        "url": "https://transparency.aec.gov.au/AnnualDetailedReceipts",
+        "publisher": "Australian Electoral Commission"
+      }
+    },
+    {
+      "party": "Australian Citizens Party",
+      "total_aud": 50000,
+      "donor_count": 1,
+      "financial_years": [
+        "2021-22"
+      ],
+      "top_donors": [
+        {
+          "donor": "Robert Bone",
+          "amount_aud": 50000
+        }
+      ],
+      "source": {
+        "title": "AEC Transparency Register — detailed receipts, Australian Citizens Party",
+        "url": "https://transparency.aec.gov.au/AnnualDetailedReceipts",
+        "publisher": "Australian Electoral Commission"
+      }
+    },
+    {
+      "party": "Rex Patrick Team",
+      "total_aud": 50000,
+      "donor_count": 2,
+      "financial_years": [
+        "2021-22"
+      ],
+      "top_donors": [
+        {
+          "donor": "Pickard Capital Pty Ltd",
+          "amount_aud": 30000
+        },
+        {
+          "donor": "Keep Them Honest Pty Ltd",
+          "amount_aud": 20000
+        }
+      ],
+      "source": {
+        "title": "AEC Transparency Register — detailed receipts, Rex Patrick Team",
+        "url": "https://transparency.aec.gov.au/AnnualDetailedReceipts",
+        "publisher": "Australian Electoral Commission"
+      }
+    },
+    {
+      "party": "Australia's Voice",
+      "total_aud": 40000,
+      "donor_count": 1,
+      "financial_years": [
+        "2024-25"
+      ],
+      "top_donors": [
+        {
+          "donor": "Michael Ravbar",
+          "amount_aud": 40000
+        }
+      ],
+      "source": {
+        "title": "AEC Transparency Register — detailed receipts, Australia's Voice",
+        "url": "https://transparency.aec.gov.au/AnnualDetailedReceipts",
+        "publisher": "Australian Electoral Commission"
+      }
+    },
+    {
+      "party": "Victorian Socialists",
+      "total_aud": 40000,
+      "donor_count": 2,
+      "financial_years": [
+        "2021-22",
+        "2023-24"
+      ],
+      "top_donors": [
+        {
+          "donor": "Fernanda Trecenti",
+          "amount_aud": 20000
+        },
+        {
+          "donor": "Margaret Perrott",
+          "amount_aud": 20000
+        }
+      ],
+      "source": {
+        "title": "AEC Transparency Register — detailed receipts, Victorian Socialists",
+        "url": "https://transparency.aec.gov.au/AnnualDetailedReceipts",
+        "publisher": "Australian Electoral Commission"
+      }
+    },
+    {
+      "party": "Drew Pavlou Democratic Alliance",
+      "total_aud": 25000,
+      "donor_count": 1,
+      "financial_years": [
+        "2021-22"
+      ],
+      "top_donors": [
+        {
+          "donor": "Silver River Investment Holdings ATF Fenwick Family Trust",
+          "amount_aud": 25000
+        }
+      ],
+      "source": {
+        "title": "AEC Transparency Register — detailed receipts, Drew Pavlou Democratic Alliance",
+        "url": "https://transparency.aec.gov.au/AnnualDetailedReceipts",
+        "publisher": "Australian Electoral Commission"
+      }
+    },
+    {
+      "party": "Australian Christians",
+      "total_aud": 20050,
+      "donor_count": 1,
+      "financial_years": [
+        "2021-22"
+      ],
+      "top_donors": [
+        {
+          "donor": "Mervyn Tomkins",
+          "amount_aud": 20050
+        }
+      ],
+      "source": {
+        "title": "AEC Transparency Register — detailed receipts, Australian Christians",
+        "url": "https://transparency.aec.gov.au/AnnualDetailedReceipts",
+        "publisher": "Australian Electoral Commission"
+      }
+    }
+  ]
+}

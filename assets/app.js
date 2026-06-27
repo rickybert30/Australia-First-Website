@@ -41,7 +41,68 @@ async function load() {
   populatePartyFilter();
   renderCoverage();
   wireControls();
+  wireTabs();
   render();
+  loadPartyDonations();
+}
+
+async function loadPartyDonations() {
+  try {
+    const res = await fetch('data/party_donations.json');
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    renderParties(data);
+  } catch (err) {
+    document.getElementById('party-results').innerHTML =
+      `<p class="empty">Could not load party donations (${err.message}).</p>`;
+  }
+}
+
+const fmtAud = (n) => `$${Number(n).toLocaleString()}`;
+
+function renderParties(data) {
+  const intro = document.getElementById('parties-intro');
+  const m = data.meta || {};
+  intro.textContent =
+    `Disclosed donations TO political parties (AEC detailed receipts, ${m.window || ''}). ` +
+    `${m.note || ''}`;
+  const tpl = document.getElementById('party-template');
+  const out = document.getElementById('party-results');
+  out.innerHTML = '';
+  (data.parties || []).forEach((p) => {
+    const node = tpl.content.cloneNode(true);
+    node.querySelector('.c-name').textContent = p.party;
+    node.querySelector('.c-meta').textContent =
+      `${fmtAud(p.total_aud)} total disclosed · ${p.donor_count} donor(s) · FY ${(p.financial_years || []).join(', ')}`;
+    const tbody = node.querySelector('.party-donors');
+    (p.top_donors || []).forEach((d) => {
+      const tr = document.createElement('tr');
+      tr.appendChild(el('td', null, d.donor));
+      tr.appendChild(el('td', 'num', fmtAud(d.amount_aud)));
+      tbody.appendChild(tr);
+    });
+    const srcP = node.querySelector('.party-source');
+    if (p.source && p.source.url) {
+      const a = document.createElement('a');
+      a.href = p.source.url; a.target = '_blank'; a.rel = 'noopener noreferrer';
+      a.textContent = 'Source: AEC Transparency Register';
+      srcP.appendChild(a);
+    }
+    out.appendChild(node);
+  });
+}
+
+function wireTabs() {
+  const views = { candidates: document.getElementById('view-candidates'),
+                  parties: document.getElementById('view-parties') };
+  document.querySelectorAll('.tab').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.tab').forEach((b) => b.classList.toggle('active', b === btn));
+      const v = btn.dataset.view;
+      views.candidates.hidden = v !== 'candidates';
+      views.parties.hidden = v !== 'parties';
+    });
+  });
 }
 
 function renderCoverage() {

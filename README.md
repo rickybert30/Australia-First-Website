@@ -51,8 +51,10 @@ assets/
   style.css
   app.js
   photos.json              Member portrait URLs (Wikimedia Commons via Wikipedia)
+  party_donations.json     Disclosed donations TO parties (AEC detailed receipts)
 scripts/
   build_candidates.py      Builds candidates.json from data/sources/
+  build_party_donations.py Builds party_donations.json from data/sources/
   fetch_photos.py          Resolves member portraits from Wikipedia
 CONTRIBUTING.md            Sourcing standards and how to add/correct an entry
 ```
@@ -81,11 +83,22 @@ donor data is preserved.
 
 **Donor-data scope caveat:** AEC *Member of Parliament* returns only capture
 donations made **directly to a member**. Most political money flows through
-party returns, which are not attributed to individuals — so this donor data is
-partial and is weighted toward independents and crossbenchers, who are required
-to lodge member returns. Each record's summary states this. Foreign-vs-domestic
-status isn't flagged in the source data, so `source_type` is recorded as
-`unknown`.
+party returns, which are not attributed to individuals — so this per-member
+donor data is partial and is weighted toward independents and crossbenchers, who
+are required to lodge member returns. Each record's summary states this.
+Foreign-vs-domestic status isn't flagged in the source data, so `source_type` is
+recorded as `unknown`.
+
+## Party donations
+
+The **Party donations** tab shows where the larger money goes: donations made
+*to political parties*, from the AEC Transparency Register's detailed receipts
+(`Donation Received` only, so public funding and electoral-commission payments
+are excluded), summed per donor across the four most recent financial years
+(2021-22 to 2024-25). Branch returns (e.g. "ALP (N.S.W. Branch)", "Liberal Party
+NSW Division") are grouped into party families. Built by
+`scripts/build_party_donations.py` from `data/sources/aec_party_donations.csv`.
+Only donations above the AEC disclosure threshold are itemised.
 
 ## Running it
 

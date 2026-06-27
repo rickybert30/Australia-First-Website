@@ -28,6 +28,25 @@ body {
 .site-header h1 { margin: 0 0 .4rem; font-size: 1.6rem; }
 .tagline { margin: 0; color: var(--muted); max-width: 65ch; }
 
+.tabs {
+  display: flex;
+  gap: .5rem;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 1.25rem 1rem;
+}
+.tab {
+  background: var(--panel);
+  color: var(--muted);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: .5rem .9rem;
+  font-size: .95rem;
+  cursor: pointer;
+}
+.tab.active { color: var(--text); border-color: var(--accent); }
+.tab:hover { color: var(--text); }
+
 .controls {
   display: flex;
   flex-wrap: wrap;
@@ -36,6 +55,11 @@ body {
   margin: 0 auto;
   padding: 0 1.25rem 1rem;
 }
+
+.donor-table td.num { text-align: right; white-space: nowrap; font-variant-numeric: tabular-nums; }
+.party-source { margin: .6rem 0 0; font-size: .8rem; }
+.party-source a { color: var(--accent); text-decoration: none; }
+.party-card .c-name { font-size: 1.15rem; }
 .controls input,
 .controls select {
   background: var(--panel);

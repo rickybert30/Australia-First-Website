@@ -16,6 +16,12 @@
     </p>
   </header>
 
+  <nav class="tabs" aria-label="View">
+    <button id="tab-candidates" class="tab active" data-view="candidates">Candidates</button>
+    <button id="tab-parties" class="tab" data-view="parties">Party donations</button>
+  </nav>
+
+  <section id="view-candidates">
   <section class="controls" aria-label="Filters">
     <input type="search" id="search" placeholder="Search by name, party, electorate…" aria-label="Search" />
     <select id="filter-chamber" aria-label="Filter by chamber">
@@ -54,6 +60,12 @@
   <p id="count" class="count" aria-live="polite"></p>
   <p id="coverage" class="coverage"></p>
   <main id="results" class="results"></main>
+  </section>
+
+  <section id="view-parties" hidden>
+    <p class="coverage" id="parties-intro"></p>
+    <main id="party-results" class="results"></main>
+  </section>
 
   <footer class="site-footer">
     <p>
@@ -79,6 +91,22 @@
         </div>
       </header>
       <dl class="positions"></dl>
+    </article>
+  </template>
+
+  <template id="party-template">
+    <article class="card party-card">
+      <header class="card-head">
+        <div class="c-headtext">
+          <h2 class="c-name"></h2>
+          <p class="c-meta"></p>
+        </div>
+      </header>
+      <table class="donor-table">
+        <thead><tr><th>Top donors</th><th>Total (AUD)</th></tr></thead>
+        <tbody class="party-donors"></tbody>
+      </table>
+      <p class="party-source"></p>
     </article>
   </template>
 
