@@ -32,13 +32,11 @@ def api(params):
         return json.load(r)
 
 
-def lookup(name, context):
-    """Search Wikipedia for the person; return (thumb, title, description) or Nones."""
+def query_title(title):
+    """Look up an exact page title; return (thumb, resolved_title, description)."""
     d = api({
         "action": "query",
-        "generator": "search",
-        "gsrsearch": f"{name} {context} Australian politician",
-        "gsrlimit": 1,
+        "titles": title,
         "prop": "pageimages|description",
         "piprop": "thumbnail",
         "pithumbsize": 320,
@@ -46,10 +44,27 @@ def lookup(name, context):
         "redirects": 1,
     })
     pages = d.get("query", {}).get("pages", {})
-    if not pages:
-        return None, None, None
-    p = list(pages.values())[0]
-    return (p.get("thumbnail", {}).get("source"), p.get("title"), (p.get("description") or ""))
+    for p in pages.values():
+        if "missing" in p:
+            return None, None, None
+        return (p.get("thumbnail", {}).get("source"), p.get("title"), (p.get("description") or ""))
+    return None, None, None
+
+
+def lookup(name, context):
+    """Resolve a member's portrait by EXACT title (with disambiguation fallbacks),
+    validating both that it's a politician and that the member's surname appears
+    in the resolved page title — so we never attach the wrong person's photo."""
+    surname = name.split()[-1].lower()
+    for title in (name, f"{name} (Australian politician)", f"{name} (politician)"):
+        thumb, rtitle, desc = query_title(title)
+        if not rtitle:
+            continue
+        is_pol = any(k in (desc or "").lower() for k in POLITICAL)
+        name_ok = surname in rtitle.lower()
+        if thumb and is_pol and name_ok:
+            return thumb, rtitle, desc
+    return None, None, None
 
 
 def main():
@@ -64,7 +79,7 @@ def main():
         except Exception as e:
             unresolved.append((c["id"], f"error: {e}"))
             continue
-        is_pol = any(k in desc.lower() for k in POLITICAL)
+        is_pol = any(k in (desc or "").lower() for k in POLITICAL)
         if thumb and title and is_pol:
             results[c["id"]] = {
                 "photo_url": thumb,
