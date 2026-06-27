@@ -20,8 +20,21 @@ const CHIP_LABELS = {
 const state = {
   all: [],
   partyPositions: {},
+  sort: 'name',
   filters: { search: '', chamber: '', group: '', party: '', state: '', status: '', issue: '' },
 };
+
+// Conventional left->right placement of Australian party groups. Independents
+// and minor-party members genuinely vary, so they sit at the centre by default.
+const SPECTRUM = {
+  'Greens': 1,
+  'Labor': 2,
+  'Independent': 3,
+  'Other / minor party': 3,
+  'Coalition': 4,
+  'One Nation': 5,
+};
+const spectrumRank = (c) => (c.party_group in SPECTRUM ? SPECTRUM[c.party_group] : 3);
 
 function hasDirectDonations(c) {
   const d = c.donors;
@@ -252,6 +265,15 @@ function wireControls() {
   bind('filter-state', 'state');
   bind('filter-status', 'status');
   bind('filter-issue', 'issue');
+  const sortEl = document.getElementById('sort');
+  sortEl.addEventListener('input', () => { state.sort = sortEl.value; render(); });
+}
+
+function sortCandidates(list) {
+  const byName = (a, b) => a.name.localeCompare(b.name);
+  if (state.sort === 'lr') return list.sort((a, b) => spectrumRank(a) - spectrumRank(b) || byName(a, b));
+  if (state.sort === 'rl') return list.sort((a, b) => spectrumRank(b) - spectrumRank(a) || byName(a, b));
+  return list.sort(byName);
 }
 
 function matches(c) {
@@ -410,8 +432,16 @@ function render() {
   const results = document.getElementById('results');
   const countEl = document.getElementById('count');
   results.innerHTML = '';
-  const filtered = state.all.filter(matches);
+  const filtered = sortCandidates(state.all.filter(matches));
   countEl.textContent = `${filtered.length} of ${state.all.length} record(s)`;
+  const note = document.getElementById('sort-note');
+  if (note) {
+    const isSpectrum = state.sort === 'lr' || state.sort === 'rl';
+    note.hidden = !isSpectrum;
+    note.textContent = isSpectrum
+      ? 'Ordered by each member’s party along the conventional left–right spectrum (Greens → Labor → Coalition → One Nation). This reflects party, not a personal ideology score; independents and minor-party members vary and are placed at the centre.'
+      : '';
+  }
   if (filtered.length === 0) {
     results.innerHTML = '<p class="empty">No candidates match these filters.</p>';
     return;

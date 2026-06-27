@@ -55,9 +55,15 @@
       <option value="citizenship_eligibility">Has s44 citizenship note</option>
       <option value="donors">Has disclosed donors</option>
     </select>
+    <select id="sort" aria-label="Sort order">
+      <option value="name">Sort: Name (A–Z)</option>
+      <option value="rl">Sort: Party right → left</option>
+      <option value="lr">Sort: Party left → right</option>
+    </select>
   </section>
 
   <p id="count" class="count" aria-live="polite"></p>
+  <p id="sort-note" class="coverage" hidden></p>
   <p id="coverage" class="coverage"></p>
   <p class="coverage">A <strong>verified</strong> position is the member's own stated view or vote. Where a member has no personal position on record, their party's platform is shown, labelled <strong>party platform</strong>.</p>
   <main id="results" class="results"></main>
