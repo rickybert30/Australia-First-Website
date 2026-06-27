@@ -19,6 +19,7 @@ const CHIP_LABELS = {
 
 const state = {
   all: [],
+  partyPositions: {},
   filters: { search: '', chamber: '', group: '', party: '', state: '', status: '', issue: '' },
 };
 
@@ -38,6 +39,10 @@ async function load() {
       `<p class="empty">Could not load data (${err.message}). If opening the file directly, serve the folder instead: <code>python3 -m http.server</code>.</p>`;
     return;
   }
+  try {
+    const r = await fetch('data/party_positions.json');
+    if (r.ok) state.partyPositions = await r.json();
+  } catch (e) { /* party fallback is optional */ }
   populatePartyFilter();
   renderCoverage();
   wireControls();
@@ -287,12 +292,16 @@ function renderSources(sources) {
   return ul;
 }
 
-function renderPosition(key, pos) {
-  const wrap = el('div', 'pos');
+function renderPosition(key, pos, isParty) {
+  const wrap = el('div', isParty ? 'pos pos-party' : 'pos');
   const label = el('div', 'pos-label');
   label.appendChild(el('span', null, POSITION_LABELS[key] || key));
-  const verified = pos.verified && pos.sources && pos.sources.length > 0;
-  label.appendChild(el('span', `badge ${verified ? 'ok' : 'warn'}`, verified ? 'verified' : 'unverified'));
+  if (isParty) {
+    label.appendChild(el('span', 'badge party', 'party platform'));
+  } else {
+    const verified = pos.verified && pos.sources && pos.sources.length > 0;
+    label.appendChild(el('span', `badge ${verified ? 'ok' : 'warn'}`, verified ? 'verified' : 'unverified'));
+  }
   wrap.appendChild(label);
   wrap.appendChild(el('p', 'pos-summary', pos.summary || '—'));
   wrap.appendChild(renderSources(pos.sources));
@@ -377,7 +386,13 @@ function renderCard(c) {
   const dl = node.querySelector('.positions');
   const positions = c.positions || {};
   Object.keys(POSITION_LABELS).forEach((key) => {
-    if (positions[key]) dl.appendChild(renderPosition(key, positions[key]));
+    if (positions[key]) {
+      dl.appendChild(renderPosition(key, positions[key], false));
+    } else {
+      // Fall back to the member's party platform on this issue, if available.
+      const partyPos = (state.partyPositions[key] || {})[c.party_group];
+      if (partyPos) dl.appendChild(renderPosition(key, partyPos, true));
+    }
   });
   if (c.donors) dl.appendChild(renderDonors(c.donors));
   return node;

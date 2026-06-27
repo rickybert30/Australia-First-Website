@@ -1,0 +1,32 @@
+{
+  "immigration": {
+    "Coalition": {
+      "summary": "Per Liberal Party platform: the Coalition's 'Australian Values Migration Plan' proposes reducing migration numbers, making compliance with the Australian Values Statement a binding visa condition (with breaches as grounds for visa cancellation and deportation), introducing a 'Safe Country List' to fast-track rejection of unfounded protection claims, restoring Temporary Protection Visas, and strengthening security and social-media screening of visa applicants.",
+      "sources": [
+        {
+          "title": "Coalition launches first wave of Australian values migration plan",
+          "url": "https://www.liberal.org.au/2026/04/14/coalition-launches-first-wave-of-australian-values-migration-plan",
+          "publisher": "Liberal Party of Australia",
+          "date": "2026-04-14"
+        }
+      ]
+    },
+    "Labor": {
+      "summary": "Per Australian Labor Party platform: Labor champions multiculturalism as 'a cornerstone of Australian values and social cohesion,' favours permanent over temporary migration, and (per its 2026-27 program) caps permanent migration at 185,000 places while aiming to reduce net overseas migration to around 225,000.",
+      "sources": [
+        {
+          "title": "Labor's Multicultural Engagement Taskforce",
+          "url": "https://www.alp.org.au/lmet/labors-multicultural-engagement-taskforce/",
+          "publisher": "Australian Labor Party",
+          "date": "2025"
+        },
+        {
+          "title": "How One Nation, Labor, the Coalition, and the Greens compare on migration policy",
+          "url": "https://www.sbs.com.au/news/article/migration-policy-labor-coalition-greens-one-nation/7dsd8r7y9",
+          "publisher": "SBS News",
+          "date": "2026-06-19"
+        }
+      ]
+    }
+  }
+}

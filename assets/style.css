@@ -161,6 +161,8 @@ body {
 }
 .badge.ok { color: var(--ok); border-color: var(--ok); }
 .badge.warn { color: var(--warn); border-color: var(--warn); }
+.badge.party { color: var(--accent); border-color: var(--accent); }
+.pos-party { border-left: 2px solid var(--accent); }
 
 .sources { margin: 0; padding: 0; list-style: none; display: flex; flex-wrap: wrap; gap: .35rem; }
 .sources li a {
