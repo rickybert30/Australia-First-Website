@@ -75,6 +75,26 @@ body {
 .c-meta .roster-src { color: var(--accent); text-decoration: none; }
 .c-meta .roster-src:hover { text-decoration: underline; }
 
+.chips { display: flex; flex-wrap: wrap; gap: .35rem; margin-top: .55rem; }
+.chip {
+  font-size: .7rem;
+  padding: .12rem .5rem;
+  border-radius: 999px;
+  background: var(--panel-2);
+  border: 1px solid var(--line);
+  color: var(--text);
+}
+.chip-donor { color: var(--ok); border-color: var(--ok); }
+.chip-empty { color: var(--muted); font-style: italic; }
+
+.coverage {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 1.25rem .8rem;
+  color: var(--muted);
+  font-size: .8rem;
+}
+
 .positions { margin: 0; display: grid; gap: .8rem; }
 .pos { background: var(--panel-2); border-radius: 8px; padding: .7rem .8rem; }
 .pos-label {

@@ -37,9 +37,18 @@
       <option value="candidate">Candidate</option>
       <option value="former">Former</option>
     </select>
+    <select id="filter-issue" aria-label="Filter by recorded position">
+      <option value="">Any position data</option>
+      <option value="faith">Has faith position</option>
+      <option value="immigration">Has immigration position</option>
+      <option value="foreign_policy">Has foreign policy position</option>
+      <option value="economic_nationalism">Has economic nationalism position</option>
+      <option value="donors">Has disclosed donors</option>
+    </select>
   </section>
 
   <p id="count" class="count" aria-live="polite"></p>
+  <p id="coverage" class="coverage"></p>
   <main id="results" class="results"></main>
 
   <footer class="site-footer">

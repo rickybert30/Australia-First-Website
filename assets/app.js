@@ -8,10 +8,24 @@ const POSITION_LABELS = {
   citizenship_eligibility: 'Citizenship (s44 eligibility)',
 };
 
+const ISSUE_KEYS = ['faith', 'immigration', 'foreign_policy', 'economic_nationalism', 'citizenship_eligibility'];
+const CHIP_LABELS = {
+  faith: 'Faith',
+  immigration: 'Immigration',
+  foreign_policy: 'Foreign policy',
+  economic_nationalism: 'Economic nat.',
+  citizenship_eligibility: 'Citizenship',
+};
+
 const state = {
   all: [],
-  filters: { search: '', chamber: '', party: '', state: '', status: '' },
+  filters: { search: '', chamber: '', party: '', state: '', status: '', issue: '' },
 };
+
+function hasIssue(c, key) {
+  if (key === 'donors') return !!(c.donors && c.donors.entries && c.donors.entries.length);
+  return !!(c.positions && c.positions[key]);
+}
 
 async function load() {
   try {
@@ -25,8 +39,23 @@ async function load() {
     return;
   }
   populatePartyFilter();
+  renderCoverage();
   wireControls();
   render();
+}
+
+function renderCoverage() {
+  const inc = state.all.filter((c) => c.status === 'incumbent');
+  const withAny = inc.filter((c) => c.positions && Object.keys(c.positions).length);
+  const counts = ISSUE_KEYS
+    .map((k) => ({ k, n: state.all.filter((c) => hasIssue(c, k)).length }))
+    .filter((x) => x.n > 0)
+    .map((x) => `${CHIP_LABELS[x.k]} ${x.n}`);
+  const elc = document.getElementById('coverage');
+  if (elc) {
+    elc.textContent =
+      `${inc.length} incumbents · ${withAny.length} with ≥1 sourced position — ` + counts.join(' · ');
+  }
 }
 
 function populatePartyFilter() {
@@ -53,6 +82,7 @@ function wireControls() {
   bind('filter-party', 'party');
   bind('filter-state', 'state');
   bind('filter-status', 'status');
+  bind('filter-issue', 'issue');
 }
 
 function matches(c) {
@@ -61,6 +91,7 @@ function matches(c) {
   if (f.party && c.party !== f.party) return false;
   if (f.state && c.state !== f.state) return false;
   if (f.status && c.status !== f.status) return false;
+  if (f.issue && !hasIssue(c, f.issue)) return false;
   if (f.search) {
     const hay = [c.name, c.party, c.electorate, c.state, c.chamber]
       .filter(Boolean).join(' ').toLowerCase();
@@ -160,6 +191,15 @@ function renderCard(c) {
     a.title = c.roster_source.title || '';
     meta.appendChild(a);
   }
+
+  // At-a-glance chips: which issues this member has data for.
+  const chipRow = el('div', 'chips');
+  ISSUE_KEYS.forEach((key) => {
+    if (hasIssue(c, key)) chipRow.appendChild(el('span', 'chip', CHIP_LABELS[key]));
+  });
+  if (hasIssue(c, 'donors')) chipRow.appendChild(el('span', 'chip chip-donor', 'Donors'));
+  if (chipRow.children.length === 0) chipRow.appendChild(el('span', 'chip chip-empty', 'No positions on record'));
+  node.querySelector('.card-head').appendChild(chipRow);
 
   const dl = node.querySelector('.positions');
   const positions = c.positions || {};
