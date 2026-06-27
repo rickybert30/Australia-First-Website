@@ -44,9 +44,13 @@
       "type": "string",
       "description": "Normalised grouping (Labor, Coalition, Greens, One Nation, Independent, Other / minor party) for filtering."
     },
+    "jurisdiction": {
+      "type": "string",
+      "description": "Parliament: 'Federal' or a state/territory (e.g. 'ACT', 'NSW')."
+    },
     "chamber": {
       "type": "string",
-      "enum": ["House of Representatives", "Senate"]
+      "description": "Chamber name, e.g. 'House of Representatives', 'Senate', 'ACT Legislative Assembly'."
     },
     "electorate": { "type": "string", "description": "Electorate name (House) — leave blank for Senate." },
     "state": {

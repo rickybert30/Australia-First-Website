@@ -1,0 +1,38 @@
+{
+  "jurisdiction": "ACT",
+  "chamber": "ACT Legislative Assembly",
+  "state": "ACT",
+  "source": {
+    "title": "Members of the ACT Legislative Assembly, 2024–2028",
+    "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
+    "publisher": "Wikipedia",
+    "date": ""
+  },
+  "note": "11th Assembly, elected October 2024. Kurrajong seat vacant from 15 May 2026 (Shane Rattenbury, Greens, resigned; countback pending) — 24 current members.",
+  "members": [
+    {"name": "Andrew Barr", "party": "Australian Labor Party", "electorate": "Kurrajong"},
+    {"name": "Yvette Berry", "party": "Australian Labor Party", "electorate": "Ginninderra"},
+    {"name": "Tara Cheyne", "party": "Australian Labor Party", "electorate": "Ginninderra"},
+    {"name": "Suzanne Orr", "party": "Australian Labor Party", "electorate": "Yerrabi"},
+    {"name": "Marisa Paterson", "party": "Australian Labor Party", "electorate": "Murrumbidgee"},
+    {"name": "Michael Pettersson", "party": "Australian Labor Party", "electorate": "Yerrabi"},
+    {"name": "Chris Steel", "party": "Australian Labor Party", "electorate": "Murrumbidgee"},
+    {"name": "Rachel Stephen-Smith", "party": "Australian Labor Party", "electorate": "Kurrajong"},
+    {"name": "Caitlin Tough", "party": "Australian Labor Party", "electorate": "Brindabella"},
+    {"name": "Taimus Werner-Gibbings", "party": "Australian Labor Party", "electorate": "Brindabella"},
+    {"name": "Chiaka Barry", "party": "Canberra Liberals", "electorate": "Ginninderra"},
+    {"name": "Peter Cain", "party": "Canberra Liberals", "electorate": "Ginninderra"},
+    {"name": "Leanne Castley", "party": "Canberra Liberals", "electorate": "Yerrabi"},
+    {"name": "Ed Cocks", "party": "Canberra Liberals", "electorate": "Murrumbidgee"},
+    {"name": "Jeremy Hanson", "party": "Canberra Liberals", "electorate": "Murrumbidgee"},
+    {"name": "Elizabeth Lee", "party": "Canberra Liberals", "electorate": "Kurrajong"},
+    {"name": "James Milligan", "party": "Canberra Liberals", "electorate": "Yerrabi"},
+    {"name": "Deborah Morris", "party": "Canberra Liberals", "electorate": "Brindabella"},
+    {"name": "Mark Parton", "party": "Canberra Liberals", "electorate": "Brindabella"},
+    {"name": "Andrew Braddock", "party": "ACT Greens", "electorate": "Yerrabi"},
+    {"name": "Jo Clay", "party": "ACT Greens", "electorate": "Ginninderra"},
+    {"name": "Laura Nuttall", "party": "ACT Greens", "electorate": "Brindabella"},
+    {"name": "Fiona Carrick", "party": "Fiona Carrick Independent", "electorate": "Murrumbidgee"},
+    {"name": "Thomas Emerson", "party": "Independent", "electorate": "Kurrajong"}
+  ]
+}
