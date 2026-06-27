@@ -19,7 +19,7 @@ const CHIP_LABELS = {
 
 const state = {
   all: [],
-  filters: { search: '', chamber: '', party: '', state: '', status: '', issue: '' },
+  filters: { search: '', chamber: '', group: '', party: '', state: '', status: '', issue: '' },
 };
 
 function hasIssue(c, key) {
@@ -58,15 +58,22 @@ function renderCoverage() {
   }
 }
 
+const GROUP_ORDER = ['Labor', 'Coalition', 'Greens', 'One Nation', 'Independent', 'Other / minor party'];
+
 function populatePartyFilter() {
-  const sel = document.getElementById('filter-party');
-  const parties = [...new Set(state.all.map((c) => c.party).filter(Boolean))].sort();
-  parties.forEach((p) => {
-    const opt = document.createElement('option');
-    opt.value = p;
-    opt.textContent = p;
-    sel.appendChild(opt);
-  });
+  const fill = (id, values) => {
+    const sel = document.getElementById(id);
+    values.forEach((v) => {
+      const opt = document.createElement('option');
+      opt.value = v;
+      opt.textContent = v;
+      sel.appendChild(opt);
+    });
+  };
+  const groups = [...new Set(state.all.map((c) => c.party_group).filter(Boolean))]
+    .sort((a, b) => GROUP_ORDER.indexOf(a) - GROUP_ORDER.indexOf(b));
+  fill('filter-group', groups);
+  fill('filter-party', [...new Set(state.all.map((c) => c.party).filter(Boolean))].sort());
 }
 
 function wireControls() {
@@ -79,6 +86,7 @@ function wireControls() {
   };
   bind('search', 'search');
   bind('filter-chamber', 'chamber');
+  bind('filter-group', 'group');
   bind('filter-party', 'party');
   bind('filter-state', 'state');
   bind('filter-status', 'status');
@@ -88,6 +96,7 @@ function wireControls() {
 function matches(c) {
   const f = state.filters;
   if (f.chamber && c.chamber !== f.chamber) return false;
+  if (f.group && c.party_group !== f.group) return false;
   if (f.party && c.party !== f.party) return false;
   if (f.state && c.state !== f.state) return false;
   if (f.status && c.status !== f.status) return false;

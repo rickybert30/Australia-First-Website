@@ -63,6 +63,43 @@ ALIASES = {
     "antonio zappia": "tony zappia",
 }
 
+# OpenAustralia lists a couple of Senate officeholders with a blank "-" party.
+# Correct them from the public record, keyed by candidate id.
+PARTY_FIX = {
+    "slade-brockman-wa": "Liberal Party",
+    "sue-lines-wa": "Australian Labor Party",
+}
+
+# Normalised party groupings for clean filtering. The exact party (as the source
+# reported it) is preserved; party_group collapses source-labelling variants
+# (e.g. "Liberal"/"Liberal Party", "The Nationals"/"National Party") and the
+# Coalition partners into one filterable group.
+PARTY_GROUP = {
+    "Australian Labor Party": "Labor",
+    "Liberal": "Coalition",
+    "Liberal Party": "Coalition",
+    "Liberal National Party of Queensland": "Coalition",
+    "Liberal National Party": "Coalition",
+    "The Nationals": "Coalition",
+    "National Party": "Coalition",
+    "Country Liberal Party": "Coalition",
+    "Australian Greens": "Greens",
+    "The Greens": "Greens",
+    "Pauline Hanson's One Nation Party": "One Nation",
+    "Independent": "Independent",
+    "Katter's Australian Party (KAP)": "Other / minor party",
+    "Centre Alliance": "Other / minor party",
+    "Jacqui Lambie Network": "Other / minor party",
+    "United Australia Party": "Other / minor party",
+    "Australia's Voice": "Other / minor party",
+}
+
+
+def party_group(party):
+    if party in PARTY_GROUP:
+        return PARTY_GROUP[party]
+    return "" if party in ("", "-") else "Other / minor party"
+
 
 def proper_case(surname):
     """Convert an all-caps AEC surname to proper case, preserving Mc, apostrophes
@@ -293,6 +330,14 @@ def main():
 
     all_records = sorted(roster, key=lambda r: (r["chamber"], r.get("state", ""), r["name"])) + \
         sorted(former, key=lambda r: r["name"])
+
+    # Correct blank party values, then tag each record with a normalised group.
+    for rec in all_records:
+        if rec["id"] in PARTY_FIX:
+            rec["party"] = PARTY_FIX[rec["id"]]
+        if rec.get("party") == "-":
+            rec["party"] = ""
+        rec["party_group"] = party_group(rec.get("party", ""))
 
     positions = load_positions()
     pos_matched = attach_positions(all_records, positions)

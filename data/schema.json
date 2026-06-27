@@ -39,7 +39,11 @@
   "properties": {
     "id": { "type": "string", "description": "URL-safe slug, e.g. 'jane-smith-wills'." },
     "name": { "type": "string" },
-    "party": { "type": "string", "description": "Party or 'Independent'." },
+    "party": { "type": "string", "description": "Exact party name as reported by the source." },
+    "party_group": {
+      "type": "string",
+      "description": "Normalised grouping (Labor, Coalition, Greens, One Nation, Independent, Other / minor party) for filtering."
+    },
     "chamber": {
       "type": "string",
       "enum": ["House of Representatives", "Senate"]
