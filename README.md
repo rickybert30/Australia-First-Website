@@ -104,6 +104,7 @@ python3 -m http.server 8000
 - [x] Immigration positions where concretely stated / on record (78 sourced)
 - [x] Foreign policy & aid positions where concretely stated / on record (82 sourced)
 - [x] Economic nationalism positions where concretely stated / on record (73 sourced)
+- [x] Section 44 citizenship-eligibility notes where on record (33 sourced)
 - [ ] State and territory parliaments
 
 ### Position coverage (of 226 incumbents)
@@ -114,6 +115,12 @@ python3 -m http.server 8000
 | Immigration | 78 |
 | Foreign policy & aid | 82 |
 | Economic nationalism | 73 |
+| Citizenship (s44 eligibility) | 33 |
+
+The citizenship field records constitutional eligibility under s44 only —
+renunciations of foreign citizenship, overseas birth with citizenship resolved,
+and 2017–18 High Court referrals/rulings — never heritage or ancestry, and
+never inferred from a person's name or birthplace.
 
 151 of 226 members have at least one sourced position. Coverage is partial by
 design: a position is recorded only where it is concretely stated and backed by
