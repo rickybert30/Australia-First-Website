@@ -1,4 +1,58 @@
 {
+  "act-peter-cain-ginninderra": {
+    "summary": "Wikipedia states in its Personal life section that Peter Cain \"is a practising Catholic and a vegetarian.\"",
+    "sources": [
+      {
+        "title": "Peter Cain (politician) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Peter_Cain_(politician)",
+        "publisher": "Wikipedia",
+        "date": "2026-06-11"
+      }
+    ],
+    "verified": true
+  },
+  "alex-antic-sa": {
+    "summary": "Antic is publicly described as a Christian senator and frames his politics around Christian faith and values; his 2019 maiden speech cited \"family, faith, freedom and the flag\" as his core values, and The Spectator Australia refers to him directly as a \"Christian Senator.\" Sources do not pin down a specific denomination.",
+    "sources": [
+      {
+        "title": "Church and State",
+        "url": "https://www.spectator.com.au/2022/10/church-and-state/",
+        "publisher": "The Spectator Australia",
+        "date": "2022-10"
+      },
+      {
+        "title": "Maiden Speech",
+        "url": "https://alexantic.com.au/speeches/maiden-speech/",
+        "publisher": "Alex Antic (official website)",
+        "date": "2019-09-17"
+      }
+    ],
+    "verified": true
+  },
+  "alex-hawke-mitchell": {
+    "summary": "Alex Hawke was raised as an Anglican but now attends Hillsong Church; in his maiden speech he affirmed Christian values such as grace, forgiveness and redemption.",
+    "sources": [
+      {
+        "title": "Wikipedia — Alex Hawke",
+        "url": "https://en.wikipedia.org/wiki/Alex_Hawke",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    ],
+    "verified": true
+  },
+  "andrew-hastie-canning": {
+    "summary": "Hastie is a Christian; after rejecting religion in adolescence he later became part of several reformed and evangelical churches (including Capitol Hill Baptist Church, St Matthew's Anglican Church Shenton Park, Crossroads Church Canberra, and Mandurah Presbyterian Church), and has cited his Christian faith as informing his policy views such as on individual freedoms.",
+    "sources": [
+      {
+        "title": "Andrew Hastie - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Andrew_Hastie",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    ],
+    "verified": true
+  },
   "andrew-leigh-fenner": {
     "summary": "Andrew Leigh is a self-described atheist; he has written and spoken publicly about being an atheist while arguing that churches benefit society.",
     "sources": [
@@ -17,25 +71,37 @@
     ],
     "verified": true
   },
-  "david-smith-bean": {
-    "summary": "Having been educated at a Marist Brothers college, David Smith identifies as a Catholic.",
+  "andrew-wallace-fisher": {
+    "summary": "Wallace is described as a practising Catholic; his Wikipedia article states he and his wife Leonie are 'Practising Catholics,' and that at age 19 he entered a Pallottine monastery in Victoria intending to become a priest before being asked to leave within a year. His initial opposition to same-sex marriage was on religious grounds.",
     "sources": [
       {
-        "title": "Wikipedia — David Smith (Australian Capital Territory politician)",
-        "url": "https://en.wikipedia.org/wiki/David_Smith_(Australian_Capital_Territory_politician)",
+        "title": "Andrew Wallace",
+        "url": "https://en.wikipedia.org/wiki/Andrew_Wallace",
         "publisher": "Wikipedia",
         "date": ""
       }
     ],
     "verified": true
   },
-  "alex-hawke-mitchell": {
-    "summary": "Alex Hawke was raised as an Anglican but now attends Hillsong Church; in his maiden speech he affirmed Christian values such as grace, forgiveness and redemption.",
+  "anne-aly-cowan": {
+    "summary": "Aly is Muslim; Wikipedia describes her as the first female federal parliamentarian of Islamic faith and one of Australia's first two Muslim government ministers.",
     "sources": [
       {
-        "title": "Wikipedia — Alex Hawke",
-        "url": "https://en.wikipedia.org/wiki/Alex_Hawke",
+        "title": "Anne Aly - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Anne_Aly",
         "publisher": "Wikipedia",
+        "date": ""
+      }
+    ],
+    "verified": true
+  },
+  "anne-webster-mallee": {
+    "summary": "In her maiden speech to the House of Representatives, Anne Webster explicitly identified as a Christian, stating: \"My upbringing has provided the foundation of my worldview as a Christian.\"",
+    "sources": [
+      {
+        "title": "Maiden Speech",
+        "url": "https://www.annewebster.com.au/about/maiden-speech",
+        "publisher": "Anne Webster MP (official website)",
         "date": ""
       }
     ],
@@ -65,6 +131,54 @@
     ],
     "verified": true
   },
+  "basem-abdo-calwell": {
+    "summary": "Wikipedia explicitly states that Basem Abdo is a Muslim (\"He married Natascha and is a Muslim.\").",
+    "sources": [
+      {
+        "title": "Basem Abdo",
+        "url": "https://en.wikipedia.org/wiki/Basem_Abdo",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    ],
+    "verified": true
+  },
+  "bob-katter-kennedy": {
+    "summary": "Katter is Roman Catholic; his Wikipedia article states 'Katter is Roman Catholic, with his father Bob Sr. and grandfather Carl being Roman Catholic and Maronite Catholic, respectively.'",
+    "sources": [
+      {
+        "title": "Bob Katter",
+        "url": "https://en.wikipedia.org/wiki/Bob_Katter",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    ],
+    "verified": true
+  },
+  "bridget-mckenzie-vic": {
+    "summary": "In her first speech to the Senate, McKenzie stated 'I am confident in two things—my faith and science', explicitly affirming that she holds a religious faith, though she did not name a denomination.",
+    "sources": [
+      {
+        "title": "First Speech – Senator Bridget McKenzie",
+        "url": "https://www.bridgetmckenzie.com.au/about/first-speech/",
+        "publisher": "Senator Bridget McKenzie (official site)",
+        "date": ""
+      }
+    ],
+    "verified": true
+  },
+  "charlotte-walker-sa": {
+    "summary": "Walker has stated she is not religious, considering herself an agnostic and a humanist (per an April 2026 Sydney Morning Herald interview, as reported in her Wikipedia article).",
+    "sources": [
+      {
+        "title": "Charlotte Walker (politician)",
+        "url": "https://en.wikipedia.org/wiki/Charlotte_Walker_(politician)",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    ],
+    "verified": true
+  },
   "dai-le-fowler": {
     "summary": "Dai Le is a lapsed Catholic who has stated she still believes in God and prays to the Virgin Mary, crediting her election win to the intercession of the Blessed Virgin Mary.",
     "sources": [
@@ -77,12 +191,114 @@
     ],
     "verified": true
   },
+  "daniel-mulino-fraser": {
+    "summary": "Daniel Mulino describes himself as a \"lapsed Catholic\" (i.e. a Catholic background but non-practising).",
+    "sources": [
+      {
+        "title": "Daniel Mulino",
+        "url": "https://en.wikipedia.org/wiki/Daniel_Mulino",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      {
+        "title": "Meet the economist turned MP grilling the RBA",
+        "url": "https://www.afr.com/politics/federal/meet-the-economist-turned-mp-grilling-the-rba-20220915-p5biwz",
+        "publisher": "Australian Financial Review",
+        "date": "2022-09-16"
+      }
+    ],
+    "verified": true
+  },
+  "david-batt-hinkler": {
+    "summary": "David Batt explicitly identifies as Catholic, describing his Catholic faith journey in his first parliamentary speech: his mother took him to church at St Mary's which 'formed the cornerstone in my faith journey', he returned to regular Sunday mass at Bundaberg's Holy Rosary about ten years ago, and remains rostered to clean the church.",
+    "sources": [
+      {
+        "title": "First Speech",
+        "url": "https://davidbatt.com.au/first-speech-2/",
+        "publisher": "David Batt MP (official website)",
+        "date": ""
+      },
+      {
+        "title": "New Queensland MP tells Parliament his Catholic faith changed his life",
+        "url": "https://catholicleader.com.au/news/australia/new-queensland-mp-tells-parliament-his-catholic-faith-changed-his-life/",
+        "publisher": "The Catholic Leader",
+        "date": ""
+      }
+    ],
+    "verified": true
+  },
+  "david-pocock-act": {
+    "summary": "David Pocock has publicly spoken about the role of his Christian faith in inspiring him to get involved in politics, citing theologians such as Dietrich Bonhoeffer, Oscar Romero and Walter Wink as influences. He has described exploring his Christian faith, including reading theology and studying writers such as N.T. Wright and John Howard Yoder.",
+    "sources": [
+      {
+        "title": "David Pocock elected to Senate",
+        "url": "https://www.insights.uca.org.au/david-pocock-elected-to-senate/",
+        "publisher": "Insights Magazine (Uniting Church in Australia)",
+        "date": ""
+      }
+    ],
+    "verified": true
+  },
+  "david-smith-bean": {
+    "summary": "Having been educated at a Marist Brothers college, David Smith identifies as a Catholic.",
+    "sources": [
+      {
+        "title": "Wikipedia — David Smith (Australian Capital Territory politician)",
+        "url": "https://en.wikipedia.org/wiki/David_Smith_(Australian_Capital_Territory_politician)",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    ],
+    "verified": true
+  },
+  "dean-smith-wa": {
+    "summary": "Wikipedia states \"He is an Anglican\" in the personal life section of Dean Smith's article.",
+    "sources": [
+      {
+        "title": "Dean Smith (Australian politician) - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dean_Smith_(Australian_politician)",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    ],
+    "verified": true
+  },
+  "deborah-o-neill-nsw": {
+    "summary": "Deborah O'Neill is known as a devout/practising Catholic; born to Irish Catholic immigrants, she has described politics as her way of giving action to her faith.",
+    "sources": [
+      {
+        "title": "Deborah O'Neill",
+        "url": "https://en.wikipedia.org/wiki/Deborah_O%27Neill",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      {
+        "title": "Politics a way of giving action to faith",
+        "url": "https://www.goodsams.org.au/article/politics-a-way-of-giving-action-to-faith/",
+        "publisher": "The Good Oil (The Sisters of The Good Samaritan)",
+        "date": "2013-12"
+      }
+    ],
+    "verified": true
+  },
   "ed-husic-chifley": {
     "summary": "Husic was born to Bosnian Muslim immigrant parents and is the first Muslim elected to Australia's federal parliament; his household practised Islam while also celebrating Christmas and Easter, and after the September 11 attacks he described himself as a 'non-practising' Muslim. He took his ministerial oath on the Quran.",
     "sources": [
       {
         "title": "Ed Husic",
         "url": "https://en.wikipedia.org/wiki/Ed_Husic",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    ],
+    "verified": true
+  },
+  "fatima-payman-wa": {
+    "summary": "Wikipedia states \"Payman is a Muslim\" in the personal life section of her article.",
+    "sources": [
+      {
+        "title": "Fatima Payman - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Fatima_Payman",
         "publisher": "Wikipedia",
         "date": ""
       }
@@ -101,6 +317,54 @@
     ],
     "verified": true
   },
+  "helen-polley-tas": {
+    "summary": "Polley identifies as Catholic, which she has cited in informing her positions on issues such as same-sex marriage.",
+    "sources": [
+      {
+        "title": "Tasmanian Labor Senator Helen Polley defends 'no' vote",
+        "url": "https://www.examiner.com.au/story/5084077/tasmanian-labor-senator-stands-firm-in-defense-of-no-vote/",
+        "publisher": "The Examiner",
+        "date": ""
+      }
+    ],
+    "verified": true
+  },
+  "henry-pike-bowman": {
+    "summary": "Henry Pike is described as a Christian; the Christian Business Network's Redlands page promoting his appearance states he 'shares his experience as a Christian in the Political world'. This is a third-party event-host description rather than a self-statement, and no denomination is specified.",
+    "sources": [
+      {
+        "title": "Henry Pike Testimony | CBN Redlands",
+        "url": "https://cbn.net.au/henry-pike-cbn-redlands/",
+        "publisher": "Christian Business Network (CBN Australia)",
+        "date": ""
+      }
+    ],
+    "verified": true
+  },
+  "jacqui-lambie-tas": {
+    "summary": "In 2014 Lambie described herself as 'Catholic; I'm religious', citing it as a reason for declining an invitation to visit a Sydney mosque.",
+    "sources": [
+      {
+        "title": "Jacqui Lambie",
+        "url": "https://en.wikipedia.org/wiki/Jacqui_Lambie",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    ],
+    "verified": true
+  },
+  "james-paterson-vic": {
+    "summary": "Paterson is an agnostic and has described himself as 'not religious at all', although his wife is Catholic and his children were baptised Catholic.",
+    "sources": [
+      {
+        "title": "James Paterson (Australian politician)",
+        "url": "https://en.wikipedia.org/wiki/James_Paterson_(Australian_politician)",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    ],
+    "verified": true
+  },
   "jamie-chaffey-parkes": {
     "summary": "In his first speech to federal parliament (delivered July 2025), Chaffey explicitly referred to his Christian faith, saying it 'aligns with my Christian faith,' and thanked his 'church family.'",
     "sources": [
@@ -109,6 +373,42 @@
         "url": "https://www.jamiechaffey.com.au/first-speech/",
         "publisher": "Jamie Chaffey MP (official website)",
         "date": "2025-07-30"
+      }
+    ],
+    "verified": true
+  },
+  "jim-chalmers-rankin": {
+    "summary": "Jim Chalmers identifies as a Catholic, though described as more 'tribal than Bible'; his three children were baptised in the same church as himself, indicating his Catholicism is more cultural/family tradition than devotional.",
+    "sources": [
+      {
+        "title": "Jim Chalmers",
+        "url": "https://en.wikipedia.org/wiki/Jim_Chalmers",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    ],
+    "verified": true
+  },
+  "jonathon-duniam-tas": {
+    "summary": "Duniam is a Christian and attends the Mount Stuart Presbyterian Church in Hobart; he was not raised in a Christian household but attended Catholic schools.",
+    "sources": [
+      {
+        "title": "Jonathon Duniam",
+        "url": "https://en.wikipedia.org/wiki/Jonathon_Duniam",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    ],
+    "verified": true
+  },
+  "josh-burns-macnamara": {
+    "summary": "Josh Burns is Jewish. His maternal grandmother came to Australia as a Jewish refugee from Nazi Germany, he was educated at Mt Scopus Memorial College (a Jewish day school) and was active in the Jewish Labour Bund youth movement; he has spoken publicly as a Jewish person and is categorised among Jewish members of the Australian parliament.",
+    "sources": [
+      {
+        "title": "Josh Burns (politician)",
+        "url": "https://en.wikipedia.org/wiki/Josh_Burns_(politician)",
+        "publisher": "Wikipedia",
+        "date": ""
       }
     ],
     "verified": true
@@ -125,12 +425,108 @@
     ],
     "verified": true
   },
+  "karen-grogan-sa": {
+    "summary": "Grogan's Wikipedia article states she was born in London \"into a large Irish Catholic family,\" describing her family/upbringing background; it does not state her current personal religious practice.",
+    "sources": [
+      {
+        "title": "Karen Grogan",
+        "url": "https://en.wikipedia.org/wiki/Karen_Grogan",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    ],
+    "verified": true
+  },
+  "malarndirri-mccarthy-nt": {
+    "summary": "Malarndirri McCarthy was baptised in the Catholic church and grew up with a deep respect for both traditional Indigenous and Catholic values; Catholic media describe her as a woman of faith who draws on a lifetime of Catholic faith.",
+    "sources": [
+      {
+        "title": "Malarndirri McCarthy",
+        "url": "https://en.wikipedia.org/wiki/Malarndirri_McCarthy",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      {
+        "title": "Faith woman Malarndirri McCarthy primed for Senate role",
+        "url": "https://catholicleader.com.au/people/faith-woman-malarndirri-mccarthy-primed-for-senate-role/",
+        "publisher": "The Catholic Leader (Archdiocese of Brisbane)",
+        "date": ""
+      }
+    ],
+    "verified": true
+  },
+  "marielle-smith-sa": {
+    "summary": "In her first (maiden) speech to the Senate, Smith referred to \"my Christian values of social justice and fairness,\" saying she found a political home in the Labor Party because of those values. This is a self-identification of Christian values rather than a stated denomination or practising status.",
+    "sources": [
+      {
+        "title": "First Speech - Marielle Smith",
+        "url": "https://www.mariellesmith.com.au/first-speech/",
+        "publisher": "Marielle Smith (official website)",
+        "date": "2019"
+      }
+    ],
+    "verified": true
+  },
+  "mark-dreyfus-isaacs": {
+    "summary": "Mark Dreyfus is Jewish and has spoken of his personal Jewish faith, stating 'the central themes of law and justice in both Jewish religious and secular traditions have great meaning for me and have helped to shape my worldview' and referring to himself observing the holiday of Chanukah. Three of his great-grandparents perished in the Holocaust.",
+    "sources": [
+      {
+        "title": "Mark Dreyfus",
+        "url": "https://en.wikipedia.org/wiki/Mark_Dreyfus",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      {
+        "title": "Parliamentary Interfaith Breakfast - Mark Dreyfus KC MP",
+        "url": "https://markdreyfus.com/media/speeches/parliamentary-interfaith-breakfast-mark-dreyfus-kc-mp/",
+        "publisher": "markdreyfus.com",
+        "date": ""
+      }
+    ],
+    "verified": true
+  },
+  "matt-o-sullivan-wa": {
+    "summary": "In his 2019 Senate maiden speech, O'Sullivan declared: \"My faith is an integral part of my life. I am a Christian, and I believe and affirm the Apostles' Creed.\"",
+    "sources": [
+      {
+        "title": "Sen. Matt O'Sullivan (Lib-WA) - Maiden Speech",
+        "url": "https://australianpolitics.com/2019/07/30/sen-matt-osullivan-lib-wa-maiden-speech.html/",
+        "publisher": "AustralianPolitics.com",
+        "date": "2019-07-30"
+      }
+    ],
+    "verified": true
+  },
   "matt-thistlethwaite-kingsford-smith": {
     "summary": "Wikipedia states Thistlethwaite 'grew up in the suburb of Maroubra in a Catholic family.' This describes his upbringing; no source explicitly states his current personal religious belief.",
     "sources": [
       {
         "title": "Matt Thistlethwaite",
         "url": "https://en.wikipedia.org/wiki/Matt_Thistlethwaite",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    ],
+    "verified": true
+  },
+  "matthew-canavan-qld": {
+    "summary": "Canavan is a Roman Catholic; he was raised Catholic and has said he \"rediscovered\" his Roman Catholic faith while preparing for his marriage. Wikipedia categorises him as an Australian Roman Catholic.",
+    "sources": [
+      {
+        "title": "Matt Canavan",
+        "url": "https://en.wikipedia.org/wiki/Matt_Canavan",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    ],
+    "verified": true
+  },
+  "mehreen-faruqi-nsw": {
+    "summary": "Mehreen Faruqi is Muslim; she was the first Muslim woman to be a member of an Australian parliament and the first female Muslim senator.",
+    "sources": [
+      {
+        "title": "Mehreen Faruqi",
+        "url": "https://en.wikipedia.org/wiki/Mehreen_Faruqi",
         "publisher": "Wikipedia",
         "date": ""
       }
@@ -185,84 +581,6 @@
     ],
     "verified": true
   },
-  "tanya-plibersek-sydney": {
-    "summary": "Plibersek has said she was raised Catholic. In her 2022 Archbishop Daniel Mannix Lecture she said 'I was raised firmly within the arms of the Catholic Church,' describing her first communion, confirmation, Sunday mass and weekly confession, and adding that 'growing up Catholic has influenced my politics.' She does not state whether she currently practises.",
-    "sources": [
-      {
-        "title": "Speech – Tanya Plibersek – The 38th Archbishop Daniel Mannix Lecture – Melbourne – Wednesday, 23 March 2022",
-        "url": "https://www.tanyaplibersek.com/media/speeches/speech-tanya-plibersek-the-38th-archbishop-daniel-mannix-lecture-melbourne-wednesday-23-march-2022/",
-        "publisher": "tanyaplibersek.com (official site)",
-        "date": "2022-03-23"
-      }
-    ],
-    "verified": true
-  },
-  "tony-burke-watson": {
-    "summary": "Burke was raised Catholic; his Wikipedia article states he 'was raised in a Catholic family of Irish descent.' The source does not characterise his current practice.",
-    "sources": [
-      {
-        "title": "Tony Burke",
-        "url": "https://en.wikipedia.org/wiki/Tony_Burke",
-        "publisher": "Wikipedia",
-        "date": ""
-      }
-    ],
-    "verified": true
-  },
-  "andrew-wallace-fisher": {
-    "summary": "Wallace is described as a practising Catholic; his Wikipedia article states he and his wife Leonie are 'Practising Catholics,' and that at age 19 he entered a Pallottine monastery in Victoria intending to become a priest before being asked to leave within a year. His initial opposition to same-sex marriage was on religious grounds.",
-    "sources": [
-      {
-        "title": "Andrew Wallace",
-        "url": "https://en.wikipedia.org/wiki/Andrew_Wallace",
-        "publisher": "Wikipedia",
-        "date": ""
-      }
-    ],
-    "verified": true
-  },
-  "bob-katter-kennedy": {
-    "summary": "Katter is Roman Catholic; his Wikipedia article states 'Katter is Roman Catholic, with his father Bob Sr. and grandfather Carl being Roman Catholic and Maronite Catholic, respectively.'",
-    "sources": [
-      {
-        "title": "Bob Katter",
-        "url": "https://en.wikipedia.org/wiki/Bob_Katter",
-        "publisher": "Wikipedia",
-        "date": ""
-      }
-    ],
-    "verified": true
-  },
-  "david-batt-hinkler": {
-    "summary": "David Batt explicitly identifies as Catholic, describing his Catholic faith journey in his first parliamentary speech: his mother took him to church at St Mary's which 'formed the cornerstone in my faith journey', he returned to regular Sunday mass at Bundaberg's Holy Rosary about ten years ago, and remains rostered to clean the church.",
-    "sources": [
-      {
-        "title": "First Speech",
-        "url": "https://davidbatt.com.au/first-speech-2/",
-        "publisher": "David Batt MP (official website)",
-        "date": ""
-      },
-      {
-        "title": "New Queensland MP tells Parliament his Catholic faith changed his life",
-        "url": "https://catholicleader.com.au/news/australia/new-queensland-mp-tells-parliament-his-catholic-faith-changed-his-life/",
-        "publisher": "The Catholic Leader",
-        "date": ""
-      }
-    ],
-    "verified": true
-  },
-  "jim-chalmers-rankin": {
-    "summary": "Jim Chalmers identifies as a Catholic, though described as more 'tribal than Bible'; his three children were baptised in the same church as himself, indicating his Catholicism is more cultural/family tradition than devotional.",
-    "sources": [
-      {
-        "title": "Jim Chalmers",
-        "url": "https://en.wikipedia.org/wiki/Jim_Chalmers",
-        "publisher": "Wikipedia",
-        "date": ""
-      }
-    ],
-    "verified": true
-  },
   "milton-dick-oxley": {
     "summary": "Milton Dick is Anglican; he has maintained the Anglican faith of his childhood and has opposed moves to remove the Lord's Prayer from parliamentary proceedings.",
     "sources": [
@@ -275,13 +593,67 @@
     ],
     "verified": true
   },
-  "henry-pike-bowman": {
-    "summary": "Henry Pike is described as a Christian; the Christian Business Network's Redlands page promoting his appearance states he 'shares his experience as a Christian in the Political world'. This is a third-party event-host description rather than a self-statement, and no denomination is specified.",
+  "penny-wong-sa": {
+    "summary": "Wong is described as a practising Christian and a member of the Uniting Church in Australia; she is quoted saying \"I do not ever remember having the sense that I denied the existence of God.\"",
     "sources": [
       {
-        "title": "Henry Pike Testimony | CBN Redlands",
-        "url": "https://cbn.net.au/henry-pike-cbn-redlands/",
-        "publisher": "Christian Business Network (CBN Australia)",
+        "title": "Penny Wong",
+        "url": "https://en.wikipedia.org/wiki/Penny_Wong",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    ],
+    "verified": true
+  },
+  "peter-khalil-wills": {
+    "summary": "Peter Khalil is a Coptic Christian, born in Melbourne to Egyptian Coptic parents, and became the first Coptic Christian elected to the Australian Federal Parliament.",
+    "sources": [
+      {
+        "title": "Peter Khalil",
+        "url": "https://en.wikipedia.org/wiki/Peter_Khalil",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    ],
+    "verified": true
+  },
+  "ralph-babet-vic": {
+    "summary": "Wikipedia states plainly that \"Babet is Catholic\" in the personal life section of his article.",
+    "sources": [
+      {
+        "title": "Ralph Babet - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ralph_Babet",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    ],
+    "verified": true
+  },
+  "rebekha-sharkie-mayo": {
+    "summary": "Rebekha Sharkie has publicly self-identified as a Christian, stating \"As a Christian, I support protections against discrimination on the grounds of religion\" in 2022; no denomination is specified.",
+    "sources": [
+      {
+        "title": "MP Rebekha Sharkie Takes Legal Action Against Australian Christian Lobby",
+        "url": "https://www.starobserver.com.au/news/mp-rebekha-sharkie-takes-legal-action-against-australian-christian-lobby/212920",
+        "publisher": "Star Observer",
+        "date": "2022-05-13"
+      }
+    ],
+    "verified": true
+  },
+  "sam-lim-tangney": {
+    "summary": "Sam Lim is a practising Buddhist; he became the first person to be sworn into the Australian federal parliament on Buddhist scripture (the Dhammapada), and has said Buddhism has 'always been a positive force' in his life giving him 'great inner strength'. The Federation of Australian Buddhist Councils describes him as 'perhaps the first Buddhist Federal Member of Parliament'.",
+    "sources": [
+      {
+        "title": "'I still get lost in Parliament House': Australia's second Malaysian-born federal MP discusses the road ahead",
+        "url": "https://www.sbs.com.au/language/chinese/en/article/i-still-get-lost-in-parliament-house-australias-second-malaysian-born-federal-mp-discusses-the-road-ahead/bxz9op0gk",
+        "publisher": "SBS",
+        "date": ""
+      },
+      {
+        "title": "We congratulate Sam Lim on being elected to Federal Parliament",
+        "url": "https://www.buddhistcouncil.org.au/index.php/fabc-policies?view=article&id=248&catid=52",
+        "publisher": "Federation of Australian Buddhist Councils",
         "date": ""
       }
     ],
@@ -305,98 +677,26 @@
     ],
     "verified": true
   },
-  "rebekha-sharkie-mayo": {
-    "summary": "Rebekha Sharkie has publicly self-identified as a Christian, stating \"As a Christian, I support protections against discrimination on the grounds of religion\" in 2022; no denomination is specified.",
+  "sue-lines-wa": {
+    "summary": "Senate President Sue Lines has publicly identified as an atheist, stating in 2022 regarding the Lord's Prayer: \"Personally, I would like to see the prayers gone. I'm an atheist. I don't want to say the prayers.\"",
     "sources": [
       {
-        "title": "MP Rebekha Sharkie Takes Legal Action Against Australian Christian Lobby",
-        "url": "https://www.starobserver.com.au/news/mp-rebekha-sharkie-takes-legal-action-against-australian-christian-lobby/212920",
-        "publisher": "Star Observer",
-        "date": "2022-05-13"
+        "title": "Australian Senate President calls for the daily reading of the Lord's Prayer to be ditched",
+        "url": "https://www.ladbible.com/news/australian-senate-president-lords-prayer-lboz-20220728",
+        "publisher": "LADbible",
+        "date": "2022-07-28"
       }
     ],
     "verified": true
   },
-  "anne-webster-mallee": {
-    "summary": "In her maiden speech to the House of Representatives, Anne Webster explicitly identified as a Christian, stating: \"My upbringing has provided the foundation of my worldview as a Christian.\"",
+  "tanya-plibersek-sydney": {
+    "summary": "Plibersek has said she was raised Catholic. In her 2022 Archbishop Daniel Mannix Lecture she said 'I was raised firmly within the arms of the Catholic Church,' describing her first communion, confirmation, Sunday mass and weekly confession, and adding that 'growing up Catholic has influenced my politics.' She does not state whether she currently practises.",
     "sources": [
       {
-        "title": "Maiden Speech",
-        "url": "https://www.annewebster.com.au/about/maiden-speech",
-        "publisher": "Anne Webster MP (official website)",
-        "date": ""
-      }
-    ],
-    "verified": true
-  },
-  "basem-abdo-calwell": {
-    "summary": "Wikipedia explicitly states that Basem Abdo is a Muslim (\"He married Natascha and is a Muslim.\").",
-    "sources": [
-      {
-        "title": "Basem Abdo",
-        "url": "https://en.wikipedia.org/wiki/Basem_Abdo",
-        "publisher": "Wikipedia",
-        "date": ""
-      }
-    ],
-    "verified": true
-  },
-  "daniel-mulino-fraser": {
-    "summary": "Daniel Mulino describes himself as a \"lapsed Catholic\" (i.e. a Catholic background but non-practising).",
-    "sources": [
-      {
-        "title": "Daniel Mulino",
-        "url": "https://en.wikipedia.org/wiki/Daniel_Mulino",
-        "publisher": "Wikipedia",
-        "date": ""
-      },
-      {
-        "title": "Meet the economist turned MP grilling the RBA",
-        "url": "https://www.afr.com/politics/federal/meet-the-economist-turned-mp-grilling-the-rba-20220915-p5biwz",
-        "publisher": "Australian Financial Review",
-        "date": "2022-09-16"
-      }
-    ],
-    "verified": true
-  },
-  "josh-burns-macnamara": {
-    "summary": "Josh Burns is Jewish. His maternal grandmother came to Australia as a Jewish refugee from Nazi Germany, he was educated at Mt Scopus Memorial College (a Jewish day school) and was active in the Jewish Labour Bund youth movement; he has spoken publicly as a Jewish person and is categorised among Jewish members of the Australian parliament.",
-    "sources": [
-      {
-        "title": "Josh Burns (politician)",
-        "url": "https://en.wikipedia.org/wiki/Josh_Burns_(politician)",
-        "publisher": "Wikipedia",
-        "date": ""
-      }
-    ],
-    "verified": true
-  },
-  "mark-dreyfus-isaacs": {
-    "summary": "Mark Dreyfus is Jewish and has spoken of his personal Jewish faith, stating 'the central themes of law and justice in both Jewish religious and secular traditions have great meaning for me and have helped to shape my worldview' and referring to himself observing the holiday of Chanukah. Three of his great-grandparents perished in the Holocaust.",
-    "sources": [
-      {
-        "title": "Mark Dreyfus",
-        "url": "https://en.wikipedia.org/wiki/Mark_Dreyfus",
-        "publisher": "Wikipedia",
-        "date": ""
-      },
-      {
-        "title": "Parliamentary Interfaith Breakfast - Mark Dreyfus KC MP",
-        "url": "https://markdreyfus.com/media/speeches/parliamentary-interfaith-breakfast-mark-dreyfus-kc-mp/",
-        "publisher": "markdreyfus.com",
-        "date": ""
-      }
-    ],
-    "verified": true
-  },
-  "peter-khalil-wills": {
-    "summary": "Peter Khalil is a Coptic Christian, born in Melbourne to Egyptian Coptic parents, and became the first Coptic Christian elected to the Australian Federal Parliament.",
-    "sources": [
-      {
-        "title": "Peter Khalil",
-        "url": "https://en.wikipedia.org/wiki/Peter_Khalil",
-        "publisher": "Wikipedia",
-        "date": ""
+        "title": "Speech – Tanya Plibersek – The 38th Archbishop Daniel Mannix Lecture – Melbourne – Wednesday, 23 March 2022",
+        "url": "https://www.tanyaplibersek.com/media/speeches/speech-tanya-plibersek-the-38th-archbishop-daniel-mannix-lecture-melbourne-wednesday-23-march-2022/",
+        "publisher": "tanyaplibersek.com (official site)",
+        "date": "2022-03-23"
       }
     ],
     "verified": true
@@ -413,302 +713,14 @@
     ],
     "verified": true
   },
-  "andrew-hastie-canning": {
-    "summary": "Hastie is a Christian; after rejecting religion in adolescence he later became part of several reformed and evangelical churches (including Capitol Hill Baptist Church, St Matthew's Anglican Church Shenton Park, Crossroads Church Canberra, and Mandurah Presbyterian Church), and has cited his Christian faith as informing his policy views such as on individual freedoms.",
+  "tony-burke-watson": {
+    "summary": "Burke was raised Catholic; his Wikipedia article states he 'was raised in a Catholic family of Irish descent.' The source does not characterise his current practice.",
     "sources": [
       {
-        "title": "Andrew Hastie - Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Andrew_Hastie",
+        "title": "Tony Burke",
+        "url": "https://en.wikipedia.org/wiki/Tony_Burke",
         "publisher": "Wikipedia",
         "date": ""
-      }
-    ],
-    "verified": true
-  },
-  "anne-aly-cowan": {
-    "summary": "Aly is Muslim; Wikipedia describes her as the first female federal parliamentarian of Islamic faith and one of Australia's first two Muslim government ministers.",
-    "sources": [
-      {
-        "title": "Anne Aly - Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Anne_Aly",
-        "publisher": "Wikipedia",
-        "date": ""
-      }
-    ],
-    "verified": true
-  },
-  "sam-lim-tangney": {
-    "summary": "Sam Lim is a practising Buddhist; he became the first person to be sworn into the Australian federal parliament on Buddhist scripture (the Dhammapada), and has said Buddhism has 'always been a positive force' in his life giving him 'great inner strength'. The Federation of Australian Buddhist Councils describes him as 'perhaps the first Buddhist Federal Member of Parliament'.",
-    "sources": [
-      {
-        "title": "'I still get lost in Parliament House': Australia's second Malaysian-born federal MP discusses the road ahead",
-        "url": "https://www.sbs.com.au/language/chinese/en/article/i-still-get-lost-in-parliament-house-australias-second-malaysian-born-federal-mp-discusses-the-road-ahead/bxz9op0gk",
-        "publisher": "SBS",
-        "date": ""
-      },
-      {
-        "title": "We congratulate Sam Lim on being elected to Federal Parliament",
-        "url": "https://www.buddhistcouncil.org.au/index.php/fabc-policies?view=article&id=248&catid=52",
-        "publisher": "Federation of Australian Buddhist Councils",
-        "date": ""
-      }
-    ],
-    "verified": true
-  },
-  "david-pocock-act": {
-    "summary": "David Pocock has publicly spoken about the role of his Christian faith in inspiring him to get involved in politics, citing theologians such as Dietrich Bonhoeffer, Oscar Romero and Walter Wink as influences. He has described exploring his Christian faith, including reading theology and studying writers such as N.T. Wright and John Howard Yoder.",
-    "sources": [
-      {
-        "title": "David Pocock elected to Senate",
-        "url": "https://www.insights.uca.org.au/david-pocock-elected-to-senate/",
-        "publisher": "Insights Magazine (Uniting Church in Australia)",
-        "date": ""
-      }
-    ],
-    "verified": true
-  },
-  "deborah-o-neill-nsw": {
-    "summary": "Deborah O'Neill is known as a devout/practising Catholic; born to Irish Catholic immigrants, she has described politics as her way of giving action to her faith.",
-    "sources": [
-      {
-        "title": "Deborah O'Neill",
-        "url": "https://en.wikipedia.org/wiki/Deborah_O%27Neill",
-        "publisher": "Wikipedia",
-        "date": ""
-      },
-      {
-        "title": "Politics a way of giving action to faith",
-        "url": "https://www.goodsams.org.au/article/politics-a-way-of-giving-action-to-faith/",
-        "publisher": "The Good Oil (The Sisters of The Good Samaritan)",
-        "date": "2013-12"
-      }
-    ],
-    "verified": true
-  },
-  "mehreen-faruqi-nsw": {
-    "summary": "Mehreen Faruqi is Muslim; she was the first Muslim woman to be a member of an Australian parliament and the first female Muslim senator.",
-    "sources": [
-      {
-        "title": "Mehreen Faruqi",
-        "url": "https://en.wikipedia.org/wiki/Mehreen_Faruqi",
-        "publisher": "Wikipedia",
-        "date": ""
-      }
-    ],
-    "verified": true
-  },
-  "malarndirri-mccarthy-nt": {
-    "summary": "Malarndirri McCarthy was baptised in the Catholic church and grew up with a deep respect for both traditional Indigenous and Catholic values; Catholic media describe her as a woman of faith who draws on a lifetime of Catholic faith.",
-    "sources": [
-      {
-        "title": "Malarndirri McCarthy",
-        "url": "https://en.wikipedia.org/wiki/Malarndirri_McCarthy",
-        "publisher": "Wikipedia",
-        "date": ""
-      },
-      {
-        "title": "Faith woman Malarndirri McCarthy primed for Senate role",
-        "url": "https://catholicleader.com.au/people/faith-woman-malarndirri-mccarthy-primed-for-senate-role/",
-        "publisher": "The Catholic Leader (Archdiocese of Brisbane)",
-        "date": ""
-      }
-    ],
-    "verified": true
-  },
-  "matthew-canavan-qld": {
-    "summary": "Canavan is a Roman Catholic; he was raised Catholic and has said he \"rediscovered\" his Roman Catholic faith while preparing for his marriage. Wikipedia categorises him as an Australian Roman Catholic.",
-    "sources": [
-      {
-        "title": "Matt Canavan",
-        "url": "https://en.wikipedia.org/wiki/Matt_Canavan",
-        "publisher": "Wikipedia",
-        "date": ""
-      }
-    ],
-    "verified": true
-  },
-  "charlotte-walker-sa": {
-    "summary": "Walker has stated she is not religious, considering herself an agnostic and a humanist (per an April 2026 Sydney Morning Herald interview, as reported in her Wikipedia article).",
-    "sources": [
-      {
-        "title": "Charlotte Walker (politician)",
-        "url": "https://en.wikipedia.org/wiki/Charlotte_Walker_(politician)",
-        "publisher": "Wikipedia",
-        "date": ""
-      }
-    ],
-    "verified": true
-  },
-  "karen-grogan-sa": {
-    "summary": "Grogan's Wikipedia article states she was born in London \"into a large Irish Catholic family,\" describing her family/upbringing background; it does not state her current personal religious practice.",
-    "sources": [
-      {
-        "title": "Karen Grogan",
-        "url": "https://en.wikipedia.org/wiki/Karen_Grogan",
-        "publisher": "Wikipedia",
-        "date": ""
-      }
-    ],
-    "verified": true
-  },
-  "marielle-smith-sa": {
-    "summary": "In her first (maiden) speech to the Senate, Smith referred to \"my Christian values of social justice and fairness,\" saying she found a political home in the Labor Party because of those values. This is a self-identification of Christian values rather than a stated denomination or practising status.",
-    "sources": [
-      {
-        "title": "First Speech - Marielle Smith",
-        "url": "https://www.mariellesmith.com.au/first-speech/",
-        "publisher": "Marielle Smith (official website)",
-        "date": "2019"
-      }
-    ],
-    "verified": true
-  },
-  "penny-wong-sa": {
-    "summary": "Wong is described as a practising Christian and a member of the Uniting Church in Australia; she is quoted saying \"I do not ever remember having the sense that I denied the existence of God.\"",
-    "sources": [
-      {
-        "title": "Penny Wong",
-        "url": "https://en.wikipedia.org/wiki/Penny_Wong",
-        "publisher": "Wikipedia",
-        "date": ""
-      }
-    ],
-    "verified": true
-  },
-  "alex-antic-sa": {
-    "summary": "Antic is publicly described as a Christian senator and frames his politics around Christian faith and values; his 2019 maiden speech cited \"family, faith, freedom and the flag\" as his core values, and The Spectator Australia refers to him directly as a \"Christian Senator.\" Sources do not pin down a specific denomination.",
-    "sources": [
-      {
-        "title": "Church and State",
-        "url": "https://www.spectator.com.au/2022/10/church-and-state/",
-        "publisher": "The Spectator Australia",
-        "date": "2022-10"
-      },
-      {
-        "title": "Maiden Speech",
-        "url": "https://alexantic.com.au/speeches/maiden-speech/",
-        "publisher": "Alex Antic (official website)",
-        "date": "2019-09-17"
-      }
-    ],
-    "verified": true
-  },
-  "jacqui-lambie-tas": {
-    "summary": "In 2014 Lambie described herself as 'Catholic; I'm religious', citing it as a reason for declining an invitation to visit a Sydney mosque.",
-    "sources": [
-      {
-        "title": "Jacqui Lambie",
-        "url": "https://en.wikipedia.org/wiki/Jacqui_Lambie",
-        "publisher": "Wikipedia",
-        "date": ""
-      }
-    ],
-    "verified": true
-  },
-  "jonathon-duniam-tas": {
-    "summary": "Duniam is a Christian and attends the Mount Stuart Presbyterian Church in Hobart; he was not raised in a Christian household but attended Catholic schools.",
-    "sources": [
-      {
-        "title": "Jonathon Duniam",
-        "url": "https://en.wikipedia.org/wiki/Jonathon_Duniam",
-        "publisher": "Wikipedia",
-        "date": ""
-      }
-    ],
-    "verified": true
-  },
-  "helen-polley-tas": {
-    "summary": "Polley identifies as Catholic, which she has cited in informing her positions on issues such as same-sex marriage.",
-    "sources": [
-      {
-        "title": "Tasmanian Labor Senator Helen Polley defends 'no' vote",
-        "url": "https://www.examiner.com.au/story/5084077/tasmanian-labor-senator-stands-firm-in-defense-of-no-vote/",
-        "publisher": "The Examiner",
-        "date": ""
-      }
-    ],
-    "verified": true
-  },
-  "james-paterson-vic": {
-    "summary": "Paterson is an agnostic and has described himself as 'not religious at all', although his wife is Catholic and his children were baptised Catholic.",
-    "sources": [
-      {
-        "title": "James Paterson (Australian politician)",
-        "url": "https://en.wikipedia.org/wiki/James_Paterson_(Australian_politician)",
-        "publisher": "Wikipedia",
-        "date": ""
-      }
-    ],
-    "verified": true
-  },
-  "bridget-mckenzie-vic": {
-    "summary": "In her first speech to the Senate, McKenzie stated 'I am confident in two things—my faith and science', explicitly affirming that she holds a religious faith, though she did not name a denomination.",
-    "sources": [
-      {
-        "title": "First Speech – Senator Bridget McKenzie",
-        "url": "https://www.bridgetmckenzie.com.au/about/first-speech/",
-        "publisher": "Senator Bridget McKenzie (official site)",
-        "date": ""
-      }
-    ],
-    "verified": true
-  },
-  "ralph-babet-vic": {
-    "summary": "Wikipedia states plainly that \"Babet is Catholic\" in the personal life section of his article.",
-    "sources": [
-      {
-        "title": "Ralph Babet - Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Ralph_Babet",
-        "publisher": "Wikipedia",
-        "date": ""
-      }
-    ],
-    "verified": true
-  },
-  "fatima-payman-wa": {
-    "summary": "Wikipedia states \"Payman is a Muslim\" in the personal life section of her article.",
-    "sources": [
-      {
-        "title": "Fatima Payman - Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Fatima_Payman",
-        "publisher": "Wikipedia",
-        "date": ""
-      }
-    ],
-    "verified": true
-  },
-  "dean-smith-wa": {
-    "summary": "Wikipedia states \"He is an Anglican\" in the personal life section of Dean Smith's article.",
-    "sources": [
-      {
-        "title": "Dean Smith (Australian politician) - Wikipedia",
-        "url": "https://en.wikipedia.org/wiki/Dean_Smith_(Australian_politician)",
-        "publisher": "Wikipedia",
-        "date": ""
-      }
-    ],
-    "verified": true
-  },
-  "matt-o-sullivan-wa": {
-    "summary": "In his 2019 Senate maiden speech, O'Sullivan declared: \"My faith is an integral part of my life. I am a Christian, and I believe and affirm the Apostles' Creed.\"",
-    "sources": [
-      {
-        "title": "Sen. Matt O'Sullivan (Lib-WA) - Maiden Speech",
-        "url": "https://australianpolitics.com/2019/07/30/sen-matt-osullivan-lib-wa-maiden-speech.html/",
-        "publisher": "AustralianPolitics.com",
-        "date": "2019-07-30"
-      }
-    ],
-    "verified": true
-  },
-  "sue-lines-wa": {
-    "summary": "Senate President Sue Lines has publicly identified as an atheist, stating in 2022 regarding the Lord's Prayer: \"Personally, I would like to see the prayers gone. I'm an atheist. I don't want to say the prayers.\"",
-    "sources": [
-      {
-        "title": "Australian Senate President calls for the daily reading of the Lord's Prayer to be ditched",
-        "url": "https://www.ladbible.com/news/australian-senate-president-lords-prayer-lboz-20220728",
-        "publisher": "LADbible",
-        "date": "2022-07-28"
       }
     ],
     "verified": true

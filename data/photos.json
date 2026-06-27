@@ -5,6 +5,106 @@
     "page_title": "OpenAustralia.org",
     "source": "OpenAustralia"
   },
+  "act-andrew-barr-kurrajong": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Andrew_Barr_June_2025.jpg/330px-Andrew_Barr_June_2025.jpg",
+    "page_title": "Andrew Barr",
+    "page_url": "https://en.wikipedia.org/wiki/Andrew_Barr"
+  },
+  "act-andrew-braddock-yerrabi": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Andrew_Braddock_2024_cropped.jpg/330px-Andrew_Braddock_2024_cropped.jpg",
+    "page_title": "Andrew Braddock (politician)",
+    "page_url": "https://en.wikipedia.org/wiki/Andrew_Braddock_(politician)"
+  },
+  "act-caitlin-tough-brindabella": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Caitlin_Tough_2025.jpg",
+    "page_title": "Caitlin Tough",
+    "page_url": "https://en.wikipedia.org/wiki/Caitlin_Tough"
+  },
+  "act-chris-steel-murrumbidgee": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Chris_Steel.png/330px-Chris_Steel.png",
+    "page_title": "Chris Steel",
+    "page_url": "https://en.wikipedia.org/wiki/Chris_Steel"
+  },
+  "act-ed-cocks-murrumbidgee": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ed_Cocks_-_FB_Profile_Picture_Photo.jpg/330px-Ed_Cocks_-_FB_Profile_Picture_Photo.jpg",
+    "page_title": "Ed Cocks",
+    "page_url": "https://en.wikipedia.org/wiki/Ed_Cocks"
+  },
+  "act-elizabeth-lee-kurrajong": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Elizabeth_Lee_MLA_%28cropped%29.jpg/330px-Elizabeth_Lee_MLA_%28cropped%29.jpg",
+    "page_title": "Elizabeth Lee (politician)",
+    "page_url": "https://en.wikipedia.org/wiki/Elizabeth_Lee_(politician)"
+  },
+  "act-fiona-carrick-murrumbidgee": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Fiona_Carrick.jpg/330px-Fiona_Carrick.jpg",
+    "page_title": "Fiona Carrick",
+    "page_url": "https://en.wikipedia.org/wiki/Fiona_Carrick"
+  },
+  "act-james-milligan-yerrabi": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/James_Milligan_2025.jpg",
+    "page_title": "James Milligan (politician)",
+    "page_url": "https://en.wikipedia.org/wiki/James_Milligan_(politician)"
+  },
+  "act-jeremy-hanson-murrumbidgee": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Jeremy_Hanson_2016.jpg",
+    "page_title": "Jeremy Hanson",
+    "page_url": "https://en.wikipedia.org/wiki/Jeremy_Hanson"
+  },
+  "act-jo-clay-ginninderra": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Jo_Clay_2024_election_%28cropped%2C_full_torso%29.jpg/330px-Jo_Clay_2024_election_%28cropped%2C_full_torso%29.jpg",
+    "page_title": "Jo Clay",
+    "page_url": "https://en.wikipedia.org/wiki/Jo_Clay"
+  },
+  "act-laura-nuttall-brindabella": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Laura_Nuttall_2024_%28cropped%2C_full%29.jpg/330px-Laura_Nuttall_2024_%28cropped%2C_full%29.jpg",
+    "page_title": "Laura Nuttall",
+    "page_url": "https://en.wikipedia.org/wiki/Laura_Nuttall"
+  },
+  "act-mark-parton-brindabella": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Mark_Parton_2024.jpg/330px-Mark_Parton_2024.jpg",
+    "page_title": "Mark Parton",
+    "page_url": "https://en.wikipedia.org/wiki/Mark_Parton"
+  },
+  "act-michael-pettersson-yerrabi": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Michael_Pettersson_MLA.jpg/330px-Michael_Pettersson_MLA.jpg",
+    "page_title": "Michael Pettersson",
+    "page_url": "https://en.wikipedia.org/wiki/Michael_Pettersson"
+  },
+  "act-peter-cain-ginninderra": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Peter_Cain_2025.jpg",
+    "page_title": "Peter Cain (politician)",
+    "page_url": "https://en.wikipedia.org/wiki/Peter_Cain_(politician)"
+  },
+  "act-rachel-stephen-smith-kurrajong": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Photo_of_Rachel_Stephen-Smith_MLA.jpg/330px-Photo_of_Rachel_Stephen-Smith_MLA.jpg",
+    "page_title": "Rachel Stephen-Smith",
+    "page_url": "https://en.wikipedia.org/wiki/Rachel_Stephen-Smith"
+  },
+  "act-suzanne-orr-yerrabi": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Suzanne_Orr.jpg/330px-Suzanne_Orr.jpg",
+    "page_title": "Suzanne Orr",
+    "page_url": "https://en.wikipedia.org/wiki/Suzanne_Orr"
+  },
+  "act-taimus-werner-gibbings-brindabella": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TWG_2025.jpg/330px-TWG_2025.jpg",
+    "page_title": "Taimus Werner-Gibbings",
+    "page_url": "https://en.wikipedia.org/wiki/Taimus_Werner-Gibbings"
+  },
+  "act-tara-cheyne-ginninderra": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Tara-Cheyne-2015-12-12.jpeg/330px-Tara-Cheyne-2015-12-12.jpeg",
+    "page_title": "Tara Cheyne",
+    "page_url": "https://en.wikipedia.org/wiki/Tara_Cheyne"
+  },
+  "act-thomas-emerson-kurrajong": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/TEmerson.jpg/330px-TEmerson.jpg",
+    "page_title": "Thomas Emerson (politician)",
+    "page_url": "https://en.wikipedia.org/wiki/Thomas_Emerson_(politician)"
+  },
+  "act-yvette-berry-ginninderra": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Yvette_Berry.png/330px-Yvette_Berry.png",
+    "page_title": "Yvette Berry",
+    "page_url": "https://en.wikipedia.org/wiki/Yvette_Berry"
+  },
   "alex-antic-sa": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Alex_Antic.jpg/330px-Alex_Antic.jpg",
     "page_title": "Alex Antic",

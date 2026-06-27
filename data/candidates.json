@@ -11836,7 +11836,9 @@
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Andrew_Barr_June_2025.jpg/330px-Andrew_Barr_June_2025.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Andrew_Barr"
     },
     {
       "id": "act-yvette-berry-ginninderra",
@@ -11855,7 +11857,9 @@
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Yvette_Berry.png/330px-Yvette_Berry.png",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Yvette_Berry"
     },
     {
       "id": "act-tara-cheyne-ginninderra",
@@ -11874,7 +11878,9 @@
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Tara-Cheyne-2015-12-12.jpeg/330px-Tara-Cheyne-2015-12-12.jpeg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Tara_Cheyne"
     },
     {
       "id": "act-suzanne-orr-yerrabi",
@@ -11893,7 +11899,9 @@
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Suzanne_Orr.jpg/330px-Suzanne_Orr.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Suzanne_Orr"
     },
     {
       "id": "act-marisa-paterson-murrumbidgee",
@@ -11931,7 +11939,9 @@
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Michael_Pettersson_MLA.jpg/330px-Michael_Pettersson_MLA.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Michael_Pettersson"
     },
     {
       "id": "act-chris-steel-murrumbidgee",
@@ -11950,7 +11960,9 @@
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Chris_Steel.png/330px-Chris_Steel.png",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Chris_Steel"
     },
     {
       "id": "act-rachel-stephen-smith-kurrajong",
@@ -11969,7 +11981,9 @@
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Photo_of_Rachel_Stephen-Smith_MLA.jpg/330px-Photo_of_Rachel_Stephen-Smith_MLA.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Rachel_Stephen-Smith"
     },
     {
       "id": "act-caitlin-tough-brindabella",
@@ -11988,7 +12002,9 @@
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Caitlin_Tough_2025.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Caitlin_Tough"
     },
     {
       "id": "act-taimus-werner-gibbings-brindabella",
@@ -12007,7 +12023,9 @@
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TWG_2025.jpg/330px-TWG_2025.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Taimus_Werner-Gibbings"
     },
     {
       "id": "act-chiaka-barry-ginninderra",
@@ -12039,13 +12057,28 @@
       "state": "ACT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "faith": {
+          "summary": "Wikipedia states in its Personal life section that Peter Cain \"is a practising Catholic and a vegetarian.\"",
+          "sources": [
+            {
+              "title": "Peter Cain (politician) - Wikipedia",
+              "url": "https://en.wikipedia.org/wiki/Peter_Cain_(politician)",
+              "publisher": "Wikipedia",
+              "date": "2026-06-11"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the ACT Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Peter_Cain_2025.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Peter_Cain_(politician)"
     },
     {
       "id": "act-leanne-castley-yerrabi",
@@ -12083,7 +12116,9 @@
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Ed_Cocks_-_FB_Profile_Picture_Photo.jpg/330px-Ed_Cocks_-_FB_Profile_Picture_Photo.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Ed_Cocks"
     },
     {
       "id": "act-jeremy-hanson-murrumbidgee",
@@ -12102,7 +12137,9 @@
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Jeremy_Hanson_2016.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Jeremy_Hanson"
     },
     {
       "id": "act-elizabeth-lee-kurrajong",
@@ -12121,7 +12158,9 @@
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Elizabeth_Lee_MLA_%28cropped%29.jpg/330px-Elizabeth_Lee_MLA_%28cropped%29.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Elizabeth_Lee_(politician)"
     },
     {
       "id": "act-james-milligan-yerrabi",
@@ -12140,7 +12179,9 @@
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/James_Milligan_2025.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/James_Milligan_(politician)"
     },
     {
       "id": "act-deborah-morris-brindabella",
@@ -12178,7 +12219,9 @@
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Mark_Parton_2024.jpg/330px-Mark_Parton_2024.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Mark_Parton"
     },
     {
       "id": "act-andrew-braddock-yerrabi",
@@ -12197,7 +12240,9 @@
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Andrew_Braddock_2024_cropped.jpg/330px-Andrew_Braddock_2024_cropped.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Andrew_Braddock_(politician)"
     },
     {
       "id": "act-jo-clay-ginninderra",
@@ -12216,7 +12261,9 @@
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Jo_Clay_2024_election_%28cropped%2C_full_torso%29.jpg/330px-Jo_Clay_2024_election_%28cropped%2C_full_torso%29.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Jo_Clay"
     },
     {
       "id": "act-laura-nuttall-brindabella",
@@ -12235,7 +12282,9 @@
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Laura_Nuttall_2024_%28cropped%2C_full%29.jpg/330px-Laura_Nuttall_2024_%28cropped%2C_full%29.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Laura_Nuttall"
     },
     {
       "id": "act-fiona-carrick-murrumbidgee",
@@ -12254,7 +12303,9 @@
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Fiona_Carrick.jpg/330px-Fiona_Carrick.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Fiona_Carrick"
     },
     {
       "id": "act-thomas-emerson-kurrajong",
@@ -12273,7 +12324,9 @@
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/TEmerson.jpg/330px-TEmerson.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Thomas_Emerson_(politician)"
     }
   ]
 }
