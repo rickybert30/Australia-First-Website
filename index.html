@@ -16,6 +16,12 @@
     </p>
   </header>
 
+  <nav class="tabs" aria-label="View">
+    <button id="tab-candidates" class="tab active" data-view="candidates">Candidates</button>
+    <button id="tab-parties" class="tab" data-view="parties">Party donations</button>
+  </nav>
+
+  <section id="view-candidates">
   <section class="controls" aria-label="Filters">
     <input type="search" id="search" placeholder="Search by name, party, electorate…" aria-label="Search" />
     <select id="filter-chamber" aria-label="Filter by chamber">
@@ -23,8 +29,11 @@
       <option value="House of Representatives">House of Representatives</option>
       <option value="Senate">Senate</option>
     </select>
-    <select id="filter-party" aria-label="Filter by party">
-      <option value="">All parties</option>
+    <select id="filter-group" aria-label="Filter by party group">
+      <option value="">All party groups</option>
+    </select>
+    <select id="filter-party" aria-label="Filter by exact party">
+      <option value="">All parties (exact)</option>
     </select>
     <select id="filter-state" aria-label="Filter by state">
       <option value="">All states</option>
@@ -37,10 +46,31 @@
       <option value="candidate">Candidate</option>
       <option value="former">Former</option>
     </select>
+    <select id="filter-issue" aria-label="Filter by recorded position">
+      <option value="">Any position data</option>
+      <option value="faith">Has faith position</option>
+      <option value="immigration">Has immigration position</option>
+      <option value="foreign_policy">Has foreign policy position</option>
+      <option value="economic_nationalism">Has economic nationalism position</option>
+      <option value="citizenship_eligibility">Has s44 citizenship note</option>
+      <option value="donors">Has disclosed donors</option>
+    </select>
   </section>
 
   <p id="count" class="count" aria-live="polite"></p>
+  <p id="coverage" class="coverage"></p>
+  <p class="coverage">A <strong>verified</strong> position is the member's own stated view or vote. Where a member has no personal position on record, their party's platform is shown, labelled <strong>party platform</strong>.</p>
   <main id="results" class="results"></main>
+  </section>
+
+  <section id="view-parties" hidden>
+    <section class="controls" aria-label="Donor search">
+      <input type="search" id="donor-search" placeholder="Search a donor across all parties (e.g. Pratt, Mineralogy, union)…" aria-label="Donor search" />
+    </section>
+    <p class="coverage" id="parties-intro"></p>
+    <main id="party-results" class="results"></main>
+    <main id="donor-results" class="results" hidden></main>
+  </section>
 
   <footer class="site-footer">
     <p>
@@ -48,15 +78,43 @@
       heritage is recorded. Citizenship reflects Section 44 constitutional
       eligibility only. Found an error? Open an issue with a better source.
     </p>
+    <p>
+      Member portraits are sourced from Wikimedia Commons (via each member's
+      Wikipedia article) or, where unavailable, from OpenAustralia.org. Click a
+      portrait for its source and image licensing.
+    </p>
   </footer>
 
   <template id="card-template">
     <article class="card">
       <header class="card-head">
-        <h2 class="c-name"></h2>
-        <p class="c-meta"></p>
+        <a class="c-photo-link" target="_blank" rel="noopener noreferrer" hidden>
+          <img class="c-photo" alt="" loading="lazy" />
+        </a>
+        <div class="c-headtext">
+          <h2 class="c-name"></h2>
+          <p class="c-meta"></p>
+        </div>
       </header>
       <dl class="positions"></dl>
+    </article>
+  </template>
+
+  <template id="party-template">
+    <article class="card party-card">
+      <header class="card-head">
+        <div class="c-headtext">
+          <h2 class="c-name"></h2>
+          <p class="c-meta"></p>
+        </div>
+      </header>
+      <p class="party-years"></p>
+      <table class="donor-table">
+        <thead><tr><th>Top donors</th><th>Total (AUD)</th></tr></thead>
+        <tbody class="party-donors"></tbody>
+      </table>
+      <p class="party-more"></p>
+      <p class="party-source"></p>
     </article>
   </template>
 

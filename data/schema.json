@@ -39,7 +39,11 @@
   "properties": {
     "id": { "type": "string", "description": "URL-safe slug, e.g. 'jane-smith-wills'." },
     "name": { "type": "string" },
-    "party": { "type": "string", "description": "Party or 'Independent'." },
+    "party": { "type": "string", "description": "Exact party name as reported by the source." },
+    "party_group": {
+      "type": "string",
+      "description": "Normalised grouping (Labor, Coalition, Greens, One Nation, Independent, Other / minor party) for filtering."
+    },
     "chamber": {
       "type": "string",
       "enum": ["House of Representatives", "Senate"]
@@ -54,7 +58,8 @@
       "enum": ["incumbent", "candidate", "former"],
       "description": "Current standing."
     },
-    "photo_url": { "type": "string" },
+    "photo_url": { "type": "string", "description": "Portrait image URL (Wikimedia Commons via Wikipedia)." },
+    "photo_credit_url": { "type": "string", "description": "Source page (Wikipedia article) for image attribution." },
     "official_page": { "type": "string", "description": "Link to APH/parliament profile." },
     "last_updated": { "type": "string", "description": "ISO date (YYYY-MM-DD) of last edit." },
     "roster_source": {

@@ -4,7 +4,7 @@
   --panel-2: #232730;
   --text: #e6e8ec;
   --muted: #9aa3b2;
-  --accent: #4f8cff;
+  --accent: #c8a44d;
   --line: #2c3240;
   --warn: #b9803a;
   --ok: #4caf7d;
@@ -28,6 +28,25 @@ body {
 .site-header h1 { margin: 0 0 .4rem; font-size: 1.6rem; }
 .tagline { margin: 0; color: var(--muted); max-width: 65ch; }
 
+.tabs {
+  display: flex;
+  gap: .5rem;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 1.25rem 1rem;
+}
+.tab {
+  background: var(--panel);
+  color: var(--muted);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: .5rem .9rem;
+  font-size: .95rem;
+  cursor: pointer;
+}
+.tab.active { color: var(--text); border-color: var(--accent); }
+.tab:hover { color: var(--text); }
+
 .controls {
   display: flex;
   flex-wrap: wrap;
@@ -36,6 +55,15 @@ body {
   margin: 0 auto;
   padding: 0 1.25rem 1rem;
 }
+
+.donor-table td.num { text-align: right; white-space: nowrap; font-variant-numeric: tabular-nums; vertical-align: top; }
+.party-source { margin: .6rem 0 0; font-size: .8rem; }
+.party-source a { color: var(--accent); text-decoration: none; }
+.party-card .c-name { font-size: 1.15rem; }
+.party-years { margin: 0 0 .5rem; color: var(--muted); font-size: .82rem; }
+.party-more { margin: .5rem 0 0; color: var(--muted); font-size: .78rem; font-style: italic; }
+.donor-name { }
+.donor-years { color: var(--muted); font-size: .74rem; margin-top: .1rem; }
 .controls input,
 .controls select {
   background: var(--panel);
@@ -69,11 +97,48 @@ body {
   border-radius: 12px;
   padding: 1.1rem 1.2rem;
 }
-.card-head { border-bottom: 1px solid var(--line); padding-bottom: .6rem; margin-bottom: .8rem; }
+.card-head {
+  border-bottom: 1px solid var(--line);
+  padding-bottom: .6rem;
+  margin-bottom: .8rem;
+  display: flex;
+  gap: .9rem;
+  align-items: flex-start;
+}
+.c-headtext { flex: 1; min-width: 0; }
+.c-photo-link { flex: 0 0 auto; line-height: 0; }
+.c-photo {
+  width: 64px;
+  height: 64px;
+  object-fit: cover;
+  border-radius: 10px;
+  border: 1px solid var(--line);
+  background: var(--panel-2);
+}
 .c-name { margin: 0 0 .2rem; font-size: 1.2rem; }
 .c-meta { margin: 0; color: var(--muted); font-size: .9rem; }
 .c-meta .roster-src { color: var(--accent); text-decoration: none; }
 .c-meta .roster-src:hover { text-decoration: underline; }
+
+.chips { display: flex; flex-wrap: wrap; gap: .35rem; margin-top: .55rem; }
+.chip {
+  font-size: .7rem;
+  padding: .12rem .5rem;
+  border-radius: 999px;
+  background: var(--panel-2);
+  border: 1px solid var(--line);
+  color: var(--text);
+}
+.chip-donor { color: var(--ok); border-color: var(--ok); }
+.chip-empty { color: var(--muted); font-style: italic; }
+
+.coverage {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 1.25rem .8rem;
+  color: var(--muted);
+  font-size: .8rem;
+}
 
 .positions { margin: 0; display: grid; gap: .8rem; }
 .pos { background: var(--panel-2); border-radius: 8px; padding: .7rem .8rem; }
@@ -96,6 +161,8 @@ body {
 }
 .badge.ok { color: var(--ok); border-color: var(--ok); }
 .badge.warn { color: var(--warn); border-color: var(--warn); }
+.badge.party { color: var(--accent); border-color: var(--accent); }
+.pos-party { border-left: 2px solid var(--accent); }
 
 .sources { margin: 0; padding: 0; list-style: none; display: flex; flex-wrap: wrap; gap: .35rem; }
 .sources li a {

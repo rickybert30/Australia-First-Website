@@ -50,8 +50,12 @@ index.html                 Searchable, filterable front-end (static, no build st
 assets/
   style.css
   app.js
+  photos.json              Member portrait URLs (Wikimedia Commons via Wikipedia)
+  party_donations.json     Disclosed donations TO parties (AEC detailed receipts)
 scripts/
   build_candidates.py      Builds candidates.json from data/sources/
+  build_party_donations.py Builds party_donations.json from data/sources/
+  fetch_photos.py          Resolves member portraits from Wikipedia
 CONTRIBUTING.md            Sourcing standards and how to add/correct an entry
 ```
 
@@ -79,11 +83,28 @@ donor data is preserved.
 
 **Donor-data scope caveat:** AEC *Member of Parliament* returns only capture
 donations made **directly to a member**. Most political money flows through
-party returns, which are not attributed to individuals — so this donor data is
-partial and is weighted toward independents and crossbenchers, who are required
-to lodge member returns. Each record's summary states this. Foreign-vs-domestic
-status isn't flagged in the source data, so `source_type` is recorded as
-`unknown`.
+party returns, which are not attributed to individuals — so this per-member
+donor data is partial and is weighted toward independents and crossbenchers, who
+are required to lodge member returns. Each record's summary states this.
+Foreign-vs-domestic status isn't flagged in the source data, so `source_type` is
+recorded as `unknown`.
+
+## Party donations
+
+The **Party donations** tab shows where the larger money goes: donations made
+*to political parties*, from the AEC Transparency Register's detailed receipts
+(`Donation Received` only, so public funding and electoral-commission payments
+are excluded), broken down **per financial year** across the four most recent
+(2021-22 to 2024-25). Branch returns (e.g. "ALP (N.S.W. Branch)", "Liberal Party
+NSW Division") are grouped into party families. Built by
+`scripts/build_party_donations.py` from `data/sources/aec_party_donations.csv`.
+Only donations above the AEC disclosure threshold are itemised.
+
+A **donor search** box searches every disclosed donor across all parties and
+shows which parties they gave to, with per-year amounts. Donor names are kept
+exactly as disclosed to the AEC (the same entity may appear under several
+spellings); search by substring surfaces the variants together rather than
+fuzzy-merging potentially distinct entities.
 
 ## Running it
 
@@ -100,9 +121,40 @@ python3 -m http.server 8000
 - [x] Federal House of Representatives + Senate schema and front-end
 - [x] Import AEC donor disclosures for members who lodged returns
 - [x] Full 48th Parliament roster (226 members) with party, electorate, state, status
-- [x] Faith & religion positions where explicitly self-disclosed / publicly reported (54 sourced so far)
-- [ ] Immigration, foreign policy & aid, economic nationalism positions
+- [x] Faith & religion positions where explicitly self-disclosed / publicly reported (54 sourced)
+- [x] Immigration positions where concretely stated / on record (78 sourced)
+- [x] Foreign policy & aid positions where concretely stated / on record (82 sourced)
+- [x] Economic nationalism positions where concretely stated / on record (73 sourced)
+- [x] Section 44 citizenship-eligibility notes where on record (33 sourced)
 - [ ] State and territory parliaments
+
+### Position coverage (of 226 incumbents)
+
+| Issue | Sourced positions |
+|-------|-------------------|
+| Faith & religion | 54 |
+| Immigration | 78 |
+| Foreign policy & aid | 82 |
+| Economic nationalism | 73 |
+| Citizenship (s44 eligibility) | 33 |
+
+Member portraits (225 of 226) come primarily from each member's Wikipedia
+article (Wikimedia Commons, freely licensed) via `scripts/fetch_photos.py` — a
+portrait is attached only when the resolved page is described as a politician and
+the member's surname appears in the page title, so the wrong person's photo is
+never shown. Members with no free Wikipedia image are backfilled from
+OpenAustralia.org by `scripts/backfill_photos.py`, which rejects placeholder and
+blank images (by shared-byte hash and a minimum size). Each portrait links to its
+source page for attribution.
+
+The citizenship field records constitutional eligibility under s44 only —
+renunciations of foreign citizenship, overseas birth with citizenship resolved,
+and 2017–18 High Court referrals/rulings — never heritage or ancestry, and
+never inferred from a person's name or birthplace.
+
+151 of 226 members have at least one sourced position. Coverage is partial by
+design: a position is recorded only where it is concretely stated and backed by
+a source that was actually retrieved — never inferred from party or guessed.
 
 ### Coverage note on faith
 

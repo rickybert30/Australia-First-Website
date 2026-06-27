@@ -8,10 +8,25 @@ const POSITION_LABELS = {
   citizenship_eligibility: 'Citizenship (s44 eligibility)',
 };
 
+const ISSUE_KEYS = ['faith', 'immigration', 'foreign_policy', 'economic_nationalism', 'citizenship_eligibility'];
+const CHIP_LABELS = {
+  faith: 'Faith',
+  immigration: 'Immigration',
+  foreign_policy: 'Foreign policy',
+  economic_nationalism: 'Economic nat.',
+  citizenship_eligibility: 'Citizenship',
+};
+
 const state = {
   all: [],
-  filters: { search: '', chamber: '', party: '', state: '', status: '' },
+  partyPositions: {},
+  filters: { search: '', chamber: '', group: '', party: '', state: '', status: '', issue: '' },
 };
+
+function hasIssue(c, key) {
+  if (key === 'donors') return !!(c.donors && c.donors.entries && c.donors.entries.length);
+  return !!(c.positions && c.positions[key]);
+}
 
 async function load() {
   try {
@@ -24,20 +39,197 @@ async function load() {
       `<p class="empty">Could not load data (${err.message}). If opening the file directly, serve the folder instead: <code>python3 -m http.server</code>.</p>`;
     return;
   }
+  try {
+    const r = await fetch('data/party_positions.json');
+    if (r.ok) state.partyPositions = await r.json();
+  } catch (e) { /* party fallback is optional */ }
   populatePartyFilter();
+  renderCoverage();
   wireControls();
+  wireTabs();
+  wireDonorSearch();
   render();
+  loadPartyDonations();
 }
 
-function populatePartyFilter() {
-  const sel = document.getElementById('filter-party');
-  const parties = [...new Set(state.all.map((c) => c.party).filter(Boolean))].sort();
-  parties.forEach((p) => {
-    const opt = document.createElement('option');
-    opt.value = p;
-    opt.textContent = p;
-    sel.appendChild(opt);
+function wireDonorSearch() {
+  const input = document.getElementById('donor-search');
+  if (input) input.addEventListener('input', () => renderDonorSearch(input.value));
+}
+
+async function loadPartyDonations() {
+  try {
+    const res = await fetch('data/party_donations.json');
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    renderParties(data);
+  } catch (err) {
+    document.getElementById('party-results').innerHTML =
+      `<p class="empty">Could not load party donations (${err.message}).</p>`;
+  }
+}
+
+const fmtAud = (n) => `$${Number(n).toLocaleString()}`;
+const shortFy = (fy) => `FY${fy.replace('20', "'").replace('-', '–')}`;
+const TOP_SHOWN = 25;
+const partyState = { parties: [], donorIndex: [] };
+
+function byYearLine(byYear) {
+  return Object.entries(byYear || {})
+    .map(([fy, amt]) => `${shortFy(fy)} ${fmtAud(amt)}`)
+    .join(' · ');
+}
+
+function donorRow(donor, amount, byYear) {
+  const tr = document.createElement('tr');
+  const nameTd = el('td');
+  nameTd.appendChild(el('div', 'donor-name', donor));
+  const yl = byYearLine(byYear);
+  if (yl) nameTd.appendChild(el('div', 'donor-years', yl));
+  tr.appendChild(nameTd);
+  tr.appendChild(el('td', 'num', fmtAud(amount)));
+  return tr;
+}
+
+function renderParties(data) {
+  const m = data.meta || {};
+  document.getElementById('parties-intro').textContent =
+    `Disclosed donations TO political parties (AEC detailed receipts, ${m.window || ''}). ${m.note || ''} ` +
+    'Donor names appear exactly as disclosed to the AEC and the same entity may be listed under several spellings.';
+  partyState.parties = data.parties || [];
+
+  // Build a flat donor index for cross-party search.
+  partyState.donorIndex = [];
+  partyState.parties.forEach((p) => {
+    (p.donors || []).forEach((d) => {
+      partyState.donorIndex.push({ donor: d.donor, party: p.party, total_aud: d.total_aud, by_year: d.by_year });
+    });
   });
+
+  const tpl = document.getElementById('party-template');
+  const out = document.getElementById('party-results');
+  out.innerHTML = '';
+  partyState.parties.forEach((p) => {
+    const node = tpl.content.cloneNode(true);
+    node.querySelector('.c-name').textContent = p.party;
+    node.querySelector('.c-meta').textContent =
+      `${fmtAud(p.total_aud)} total disclosed · ${p.donor_count} donor(s)`;
+    node.querySelector('.party-years').textContent =
+      'By year: ' + Object.entries(p.totals_by_year || {}).map(([fy, a]) => `${shortFy(fy)} ${fmtAud(a)}`).join(' · ');
+    const tbody = node.querySelector('.party-donors');
+    (p.donors || []).slice(0, TOP_SHOWN).forEach((d) => tbody.appendChild(donorRow(d.donor, d.total_aud, d.by_year)));
+    const more = (p.donors || []).length - TOP_SHOWN;
+    node.querySelector('.party-more').textContent = more > 0 ? `+ ${more} more disclosed donor(s) — use donor search to find them.` : '';
+    const srcP = node.querySelector('.party-source');
+    if (p.source && p.source.url) {
+      const a = document.createElement('a');
+      a.href = p.source.url; a.target = '_blank'; a.rel = 'noopener noreferrer';
+      a.textContent = 'Source: AEC Transparency Register';
+      srcP.appendChild(a);
+    }
+    out.appendChild(node);
+  });
+}
+
+function renderDonorSearch(query) {
+  const partyResults = document.getElementById('party-results');
+  const donorResults = document.getElementById('donor-results');
+  const q = query.trim().toLowerCase();
+  if (!q) {
+    partyResults.hidden = false;
+    donorResults.hidden = true;
+    return;
+  }
+  partyResults.hidden = true;
+  donorResults.hidden = false;
+  donorResults.innerHTML = '';
+
+  // Group matching (party,donor) rows by donor name.
+  const groups = new Map();
+  partyState.donorIndex
+    .filter((r) => r.donor.toLowerCase().includes(q))
+    .forEach((r) => {
+      if (!groups.has(r.donor)) groups.set(r.donor, { donor: r.donor, total: 0, rows: [] });
+      const g = groups.get(r.donor);
+      g.total += r.total_aud;
+      g.rows.push(r);
+    });
+  const sorted = [...groups.values()].sort((a, b) => b.total - a.total).slice(0, 80);
+
+  if (sorted.length === 0) {
+    donorResults.innerHTML = `<p class="empty">No disclosed donor matches “${query}”.</p>`;
+    return;
+  }
+  sorted.forEach((g) => {
+    const card = el('article', 'card');
+    const head = el('header', 'card-head');
+    const ht = el('div', 'c-headtext');
+    ht.appendChild(el('h2', 'c-name', g.donor));
+    ht.appendChild(el('p', 'c-meta', `${fmtAud(g.total)} disclosed across ${g.rows.length} party/parties`));
+    head.appendChild(ht);
+    card.appendChild(head);
+    const table = el('table', 'donor-table');
+    table.innerHTML = '<thead><tr><th>Recipient party</th><th>Total (AUD)</th></tr></thead>';
+    const tbody = document.createElement('tbody');
+    g.rows.sort((a, b) => b.total_aud - a.total_aud).forEach((r) => {
+      const tr = document.createElement('tr');
+      const td = el('td');
+      td.appendChild(el('div', 'donor-name', r.party));
+      const yl = byYearLine(r.by_year);
+      if (yl) td.appendChild(el('div', 'donor-years', yl));
+      tr.appendChild(td);
+      tr.appendChild(el('td', 'num', fmtAud(r.total_aud)));
+      tbody.appendChild(tr);
+    });
+    table.appendChild(tbody);
+    card.appendChild(table);
+    donorResults.appendChild(card);
+  });
+}
+
+function wireTabs() {
+  const views = { candidates: document.getElementById('view-candidates'),
+                  parties: document.getElementById('view-parties') };
+  document.querySelectorAll('.tab').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.tab').forEach((b) => b.classList.toggle('active', b === btn));
+      const v = btn.dataset.view;
+      views.candidates.hidden = v !== 'candidates';
+      views.parties.hidden = v !== 'parties';
+    });
+  });
+}
+
+function renderCoverage() {
+  const inc = state.all.filter((c) => c.status === 'incumbent');
+  const withAny = inc.filter((c) => c.positions && Object.keys(c.positions).length);
+  const counts = ISSUE_KEYS
+    .map((k) => ({ k, n: state.all.filter((c) => hasIssue(c, k)).length }))
+    .filter((x) => x.n > 0)
+    .map((x) => `${CHIP_LABELS[x.k]} ${x.n}`);
+  const elc = document.getElementById('coverage');
+  if (elc) {
+    elc.textContent =
+      `${inc.length} incumbents · ${withAny.length} with ≥1 sourced position — ` + counts.join(' · ');
+  }
+}
+
+const GROUP_ORDER = ['Labor', 'Coalition', 'Greens', 'One Nation', 'Independent', 'Other / minor party'];
+
+function populatePartyFilter() {
+  const fill = (id, values) => {
+    const sel = document.getElementById(id);
+    values.forEach((v) => {
+      const opt = document.createElement('option');
+      opt.value = v;
+      opt.textContent = v;
+      sel.appendChild(opt);
+    });
+  };
+  const groups = [...new Set(state.all.map((c) => c.party_group).filter(Boolean))]
+    .sort((a, b) => GROUP_ORDER.indexOf(a) - GROUP_ORDER.indexOf(b));
+  fill('filter-group', groups);
+  fill('filter-party', [...new Set(state.all.map((c) => c.party).filter(Boolean))].sort());
 }
 
 function wireControls() {
@@ -50,17 +242,21 @@ function wireControls() {
   };
   bind('search', 'search');
   bind('filter-chamber', 'chamber');
+  bind('filter-group', 'group');
   bind('filter-party', 'party');
   bind('filter-state', 'state');
   bind('filter-status', 'status');
+  bind('filter-issue', 'issue');
 }
 
 function matches(c) {
   const f = state.filters;
   if (f.chamber && c.chamber !== f.chamber) return false;
+  if (f.group && c.party_group !== f.group) return false;
   if (f.party && c.party !== f.party) return false;
   if (f.state && c.state !== f.state) return false;
   if (f.status && c.status !== f.status) return false;
+  if (f.issue && !hasIssue(c, f.issue)) return false;
   if (f.search) {
     const hay = [c.name, c.party, c.electorate, c.state, c.chamber]
       .filter(Boolean).join(' ').toLowerCase();
@@ -96,12 +292,16 @@ function renderSources(sources) {
   return ul;
 }
 
-function renderPosition(key, pos) {
-  const wrap = el('div', 'pos');
+function renderPosition(key, pos, isParty) {
+  const wrap = el('div', isParty ? 'pos pos-party' : 'pos');
   const label = el('div', 'pos-label');
   label.appendChild(el('span', null, POSITION_LABELS[key] || key));
-  const verified = pos.verified && pos.sources && pos.sources.length > 0;
-  label.appendChild(el('span', `badge ${verified ? 'ok' : 'warn'}`, verified ? 'verified' : 'unverified'));
+  if (isParty) {
+    label.appendChild(el('span', 'badge party', 'party platform'));
+  } else {
+    const verified = pos.verified && pos.sources && pos.sources.length > 0;
+    label.appendChild(el('span', `badge ${verified ? 'ok' : 'warn'}`, verified ? 'verified' : 'unverified'));
+  }
   wrap.appendChild(label);
   wrap.appendChild(el('p', 'pos-summary', pos.summary || '—'));
   wrap.appendChild(renderSources(pos.sources));
@@ -141,6 +341,19 @@ function renderCard(c) {
   const tpl = document.getElementById('card-template');
   const node = tpl.content.cloneNode(true);
   node.querySelector('.c-name').textContent = c.name;
+
+  // Portrait (Wikimedia Commons via Wikipedia), linked to its source page.
+  if (c.photo_url) {
+    const link = node.querySelector('.c-photo-link');
+    const img = node.querySelector('.c-photo');
+    img.src = c.photo_url;
+    img.alt = `Portrait of ${c.name}`;
+    if (c.photo_credit_url) link.href = c.photo_credit_url;
+    else link.removeAttribute('href');
+    link.hidden = false;
+    // If the image fails to load, hide the broken element.
+    img.addEventListener('error', () => { link.hidden = true; });
+  }
   const metaBits = [
     c.party,
     c.chamber,
@@ -161,10 +374,25 @@ function renderCard(c) {
     meta.appendChild(a);
   }
 
+  // At-a-glance chips: which issues this member has data for.
+  const chipRow = el('div', 'chips');
+  ISSUE_KEYS.forEach((key) => {
+    if (hasIssue(c, key)) chipRow.appendChild(el('span', 'chip', CHIP_LABELS[key]));
+  });
+  if (hasIssue(c, 'donors')) chipRow.appendChild(el('span', 'chip chip-donor', 'Donors'));
+  if (chipRow.children.length === 0) chipRow.appendChild(el('span', 'chip chip-empty', 'No positions on record'));
+  node.querySelector('.c-headtext').appendChild(chipRow);
+
   const dl = node.querySelector('.positions');
   const positions = c.positions || {};
   Object.keys(POSITION_LABELS).forEach((key) => {
-    if (positions[key]) dl.appendChild(renderPosition(key, positions[key]));
+    if (positions[key]) {
+      dl.appendChild(renderPosition(key, positions[key], false));
+    } else {
+      // Fall back to the member's party platform on this issue, if available.
+      const partyPos = (state.partyPositions[key] || {})[c.party_group];
+      if (partyPos) dl.appendChild(renderPosition(key, partyPos, true));
+    }
   });
   if (c.donors) dl.appendChild(renderDonors(c.donors));
   return node;

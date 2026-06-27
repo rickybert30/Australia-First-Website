@@ -1,0 +1,194 @@
+{
+  "immigration": {
+    "Coalition": {
+      "summary": "Per Liberal Party platform: the Coalition's 'Australian Values Migration Plan' proposes reducing migration numbers, making compliance with the Australian Values Statement a binding visa condition (with breaches as grounds for visa cancellation and deportation), introducing a 'Safe Country List' to fast-track rejection of unfounded protection claims, restoring Temporary Protection Visas, and strengthening security and social-media screening of visa applicants.",
+      "sources": [
+        {
+          "title": "Coalition launches first wave of Australian values migration plan",
+          "url": "https://www.liberal.org.au/2026/04/14/coalition-launches-first-wave-of-australian-values-migration-plan",
+          "publisher": "Liberal Party of Australia",
+          "date": "2026-04-14"
+        }
+      ]
+    },
+    "Labor": {
+      "summary": "Per Australian Labor Party platform: Labor champions multiculturalism as 'a cornerstone of Australian values and social cohesion,' favours permanent over temporary migration, and (per its 2026-27 program) caps permanent migration at 185,000 places while aiming to reduce net overseas migration to around 225,000.",
+      "sources": [
+        {
+          "title": "Labor's Multicultural Engagement Taskforce",
+          "url": "https://www.alp.org.au/lmet/labors-multicultural-engagement-taskforce/",
+          "publisher": "Australian Labor Party",
+          "date": "2025"
+        },
+        {
+          "title": "How One Nation, Labor, the Coalition, and the Greens compare on migration policy",
+          "url": "https://www.sbs.com.au/news/article/migration-policy-labor-coalition-greens-one-nation/7dsd8r7y9",
+          "publisher": "SBS News",
+          "date": "2026-06-19"
+        }
+      ]
+    },
+    "Greens": {
+      "summary": "Per Greens platform: The Greens treat seeking asylum as a lawful human right, calling for the elimination of mandatory and indefinite detention and the abolition of offshore processing. They support a non-discriminatory immigration program, the celebration of Australia's cultural, ethnic and linguistic diversity, and resettlement of climate refugees.",
+      "sources": [
+        {
+          "title": "Immigration and Refugees | The Australian Greens",
+          "url": "https://greens.org.au/policies/immigration-and-refugees",
+          "publisher": "Australian Greens (greens.org.au)",
+          "date": "2025"
+        }
+      ]
+    },
+    "One Nation": {
+      "summary": "Per One Nation platform: One Nation seeks to sharply cut migration, capping arrivals at around 130,000 visas a year to ease housing, wage and infrastructure pressure, and proposes deporting people it classes as illegal migrants and an eight-year wait before new arrivals access citizenship or welfare. It would withdraw Australia from the UN Refugee Convention, refuse entry to migrants from nations it says promote ideologies incompatible with Australian values, and historically has advocated a zero-net-migration target replacing multiculturalism with assimilation and English-language requirements.",
+      "sources": [
+        {
+          "title": "How One Nation, Labor, the Coalition, and the Greens compare on migration policy",
+          "url": "https://www.sbs.com.au/news/article/migration-policy-labor-coalition-greens-one-nation/7dsd8r7y9",
+          "publisher": "SBS News",
+          "date": "2026"
+        },
+        {
+          "title": "Pauline Hanson's One Nation Policy Document: Immigration, Population and Social Cohesion",
+          "url": "https://www.gwb.com.au/onenation/policy/immig.html",
+          "publisher": "Pauline Hanson's One Nation (official policy document)",
+          "date": "n.d."
+        }
+      ]
+    }
+  },
+  "foreign_policy": {
+    "Labor": {
+      "summary": "Per Labor platform: Labor in government frames AUKUS as \"the biggest single investment in Australia's defence capability in all of our history,\" anchoring the US and UK alliance in shared democratic values while pursuing nuclear-powered submarines built and sustained in Australia. It pursues stable engagement with China and the region, and in August 2025 announced Australia would recognise the State of Palestine at the UN General Assembly to advance a two-state solution, conditional on Palestinian Authority reforms and with no role for Hamas.",
+      "sources": [
+        {
+          "title": "AUKUS Remarks | Prime Minister of Australia",
+          "url": "https://www.pm.gov.au/media/aukus-remarks-0",
+          "publisher": "Prime Minister of Australia (pm.gov.au)",
+          "date": "2023"
+        },
+        {
+          "title": "Australia to recognise Palestinian State | Prime Minister of Australia",
+          "url": "https://www.pm.gov.au/media/australia-recognise-palestinian-state",
+          "publisher": "Prime Minister of Australia (pm.gov.au)",
+          "date": "2025-08-11"
+        }
+      ]
+    },
+    "Coalition": {
+      "summary": "Per Coalition platform: The Liberal/Nationals Coalition champions AUKUS as \"the greatest defence initiative in a generation\" and \"a multigenerational mission,\" pledging to urgently progress nuclear-powered submarines with the US and UK and to lift defence spending to 2.5% of GDP within five years and 3% within a decade to counter emboldened authoritarian powers. On the Middle East it affirms Israel's right to defend itself and a negotiated two-state solution, while criticising Labor's \"arbitrary timeline\" for recognising a Palestinian state.",
+      "sources": [
+        {
+          "title": "An open letter to Labor concerning national security",
+          "url": "https://www.liberal.org.au/2023/08/17/open-letter-labor-concerning-national-security",
+          "publisher": "Liberal Party of Australia (liberal.org.au)",
+          "date": "2023-08-17"
+        },
+        {
+          "title": "Coalition stands firm as Labor keeps capitulating",
+          "url": "https://www.liberal.org.au/2024/10/09/coalition-stands-firm-as-labor-keeps-capitulating",
+          "publisher": "Liberal Party of Australia (liberal.org.au)",
+          "date": "2024-10-09"
+        },
+        {
+          "title": "Landmark Increase to Defence Spending to Keep Australians Safe",
+          "url": "https://www.liberal.org.au/2025/04/23/landmark-increase-to-defence-spending-to-keep-australians-safe",
+          "publisher": "Liberal Party of Australia (liberal.org.au)",
+          "date": "2025-04-23"
+        }
+      ]
+    },
+    "Greens": {
+      "summary": "Per Greens platform: The Greens call for Australia to withdraw from the AUKUS agreement and the ANZUS treaty, replacing military alliances with regional non-aggression and disarmament pacts and an independent, peaceful foreign policy, and would redirect savings toward diplomacy and domestic defensive capability. They support recognition of and statehood for Palestine, arguing recognition should be accompanied by sanctions and ending the two-way arms trade with Israel.",
+      "sources": [
+        {
+          "title": "International Affairs and Global Cooperation | The Australian Greens",
+          "url": "https://greens.org.au/policies/international-affairs-and-global-cooperation",
+          "publisher": "Australian Greens (greens.org.au)",
+          "date": "2025"
+        }
+      ]
+    },
+    "One Nation": {
+      "summary": "Per One Nation platform: One Nation states 'we will not let the United Nations dictate to our politicians how to run our country,' and would review and revoke free trade agreements not in Australia's best interest and leave the Trans-Pacific Partnership if it proves detrimental to Australia. The party also advocates large cuts to Australia's foreign aid budget and conditioning remaining aid on Pacific nations avoiding ties with China.",
+      "sources": [
+        {
+          "title": "One Nation policy: United Nations and Trade Agreements",
+          "url": "https://web.archive.org/web/20190319051012/https://www.onenation.org.au/policies/united-nations-and-trade-agreements/",
+          "publisher": "Pauline Hanson's One Nation (onenation.org.au, via Internet Archive)",
+          "date": "2019-03-19"
+        },
+        {
+          "title": "Please explain: One Nation, Australian aid and the Pacific",
+          "url": "https://devpolicy.org/please-explain-one-nation-australian-aid-and-the-pacific-20260624/",
+          "publisher": "Development Policy Centre (ANU)",
+          "date": "2026-06-24"
+        }
+      ]
+    }
+  },
+  "economic_nationalism": {
+    "Labor": {
+      "summary": "Per Labor platform: Labor's Future Made in Australia agenda aims to rebuild domestic manufacturing and sovereign capability, investing about $22.7 billion over a decade and prioritising industries under a National Interest Framework covering the net-zero transition and economic security and resilience (including critical minerals processing, green metals and clean energy manufacturing). It applies Community Benefit Principles favouring local supply chains and Australian workers, and pairs a Buy Australian approach maximising Australian-made content in Commonwealth contracts.",
+      "sources": [
+        {
+          "title": "Investing in a Future Made in Australia",
+          "url": "https://alp.org.au/news/investing-in-a-future-made-in-australia/",
+          "publisher": "Australian Labor Party (alp.org.au)",
+          "date": "2024"
+        }
+      ]
+    },
+    "Coalition": {
+      "summary": "Per Coalition platform: The Coalition proposes an East Coast Gas Reservation scheme to keep more Australian gas for Australian homes, businesses and manufacturers, decoupling domestic prices from export markets and adding 50-100 petajoules to the domestic market in its first year, backed by a $1 billion critical gas infrastructure fund. It frames securing affordable domestic gas and fuel as essential to retaining sovereign manufacturing capability and energy security.",
+      "sources": [
+        {
+          "title": "Australian Gas for Australians",
+          "url": "https://www.liberal.org.au/2025/04/09/australian-gas-for-australians",
+          "publisher": "Liberal Party of Australia (liberal.org.au)",
+          "date": "2025-04-09"
+        },
+        {
+          "title": "Our Plan for A Fairer, Freer and Better Australia",
+          "url": "https://www.liberal.org.au/our-plan",
+          "publisher": "Liberal Party of Australia (liberal.org.au)",
+          "date": "2025"
+        }
+      ]
+    },
+    "Greens": {
+      "summary": "Per Greens platform: The Greens call for governments to play a central role in developing diverse domestic industries, prioritising local production for local consumption and local ownership of key strategic industries, and would use public-sector purchasing power, including local content quotas, to favour domestic socially and environmentally responsible producers. They would reject trade agreements that restrict governments' ability to develop domestic industry and strengthen the Foreign Investment Review Board's National Interest Test to include national, ecological and social objectives.",
+      "sources": [
+        {
+          "title": "Industry and Manufacturing | The Australian Greens",
+          "url": "https://greens.org.au/policies/industry-and-manufacturing",
+          "publisher": "Australian Greens (greens.org.au)",
+          "date": "2025"
+        },
+        {
+          "title": "Economic Justice | The Australian Greens",
+          "url": "https://greens.org.au/policies/economic-justice",
+          "publisher": "Australian Greens (greens.org.au)",
+          "date": "2025"
+        }
+      ]
+    },
+    "One Nation": {
+      "summary": "Per One Nation platform: One Nation embraces economic nationalism and protectionism, opposing foreign ownership of Australian agricultural land and businesses and the privatisation of water assets, and pledging to ban the sale of water to foreign investors. It would review free trade agreements and revoke any judged not in Australia's best interest, reimplement import tariffs, prioritise jobs for Australians, and reform foreign-investment rules around a legislated National Interest definition.",
+      "sources": [
+        {
+          "title": "Pauline Hanson's One Nation",
+          "url": "https://en.wikipedia.org/wiki/Pauline_Hanson's_One_Nation",
+          "publisher": "Wikipedia (summarising One Nation policy)",
+          "date": "2026"
+        },
+        {
+          "title": "What does One Nation actually believe in?",
+          "url": "https://theconversation.com/what-does-one-nation-actually-believe-in-278406",
+          "publisher": "The Conversation",
+          "date": "2026"
+        }
+      ]
+    }
+  }
+}
