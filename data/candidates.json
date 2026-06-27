@@ -1,6 +1,6 @@
 {
   "meta": {
-    "description": "Australian federal candidate transparency dataset (48th Parliament). Roster from AEC Members Elected (House) and OpenAustralia (Senate); donor data from AEC Member of Parliament returns. Policy positions are added separately with their own sources. See ../CONTRIBUTING.md.",
+    "description": "Australian candidate transparency dataset: the federal 48th Parliament plus state/territory parliaments (see jurisdiction field). Federal roster from AEC Members Elected (House) and OpenAustralia (Senate) with AEC donor data; state rosters from data/sources/states/. Policy positions are added separately with their own sources. See ../CONTRIBUTING.md.",
     "house_source": "https://results.aec.gov.au/31496/Website/HouseDownloadsMenu-31496-Csv.htm",
     "senate_source": "https://www.openaustralia.org.au/senators/",
     "donor_source": "https://transparency.aec.gov.au/MemberOfParliament",
@@ -63,6 +63,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/10919.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/alicia_payne/canberra"
     },
@@ -152,6 +153,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Andrew_Leigh_2017.jpg/330px-Andrew_Leigh_2017.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Andrew_Leigh"
     },
@@ -211,6 +213,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/10910.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/david_smith/bean"
     },
@@ -299,6 +302,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Alex_Hawke_2016.jpg/330px-Alex_Hawke_2016.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Alex_Hawke"
     },
@@ -339,6 +343,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/10973.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/alison_byrnes/cunningham"
     },
@@ -391,6 +396,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/11046.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/alison_penfold/lyne"
     },
@@ -619,6 +625,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Independent",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Allegra_Spender_Unearthed_Entrepreneurs_2018_%28cropped%29.png",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Allegra_Spender"
     },
@@ -646,6 +653,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Andrew_Charlton_speaking_at_CeBIT_%28cropped%29.jpg/330px-Andrew_Charlton_speaking_at_CeBIT_%28cropped%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Andrew_Charlton"
     },
@@ -705,6 +713,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Independent",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Andrew_Gee_%28cropped%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Andrew_Gee_%28politician%29"
     },
@@ -757,6 +766,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Angus_Taylor_2018_portrait_black.jpg/330px-Angus_Taylor_2018_portrait_black.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Angus_Taylor"
     },
@@ -784,6 +794,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Anne_Stanley_MP.png/330px-Anne_Stanley_MP.png",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Anne_Stanley_%28politician%29"
     },
@@ -872,6 +883,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Anthony_Albanese_portrait_%28re-crop%29.jpg/330px-Anthony_Albanese_portrait_%28re-crop%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Anthony_Albanese"
     },
@@ -912,6 +924,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/11025.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/ash_ambihaipahar/barton"
     },
@@ -1000,6 +1013,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Barnaby_Joyce_portrait.jpg/330px-Barnaby_Joyce_portrait.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Barnaby_Joyce"
     },
@@ -1027,6 +1041,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/11027.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/carol_berry/whitlam"
     },
@@ -1091,6 +1106,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Chris_Bowen_%282024%29_%28cropped%29.jpg/330px-Chris_Bowen_%282024%29_%28cropped%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Chris_Bowen"
     },
@@ -1167,6 +1183,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Independent",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Dai_Le_headshot.jpg/330px-Dai_Le_headshot.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Dai_Le"
     },
@@ -1207,6 +1224,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Dan_Repacholi_MP_-_2025_-_Cropped.jpg/330px-Dan_Repacholi_MP_-_2025_-_Cropped.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Dan_Repacholi"
     },
@@ -1234,6 +1252,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/11044.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/david_moncrieff/hughes"
     },
@@ -1316,6 +1335,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ed_Husic_2018_portrait_cropped.jpg/330px-Ed_Husic_2018_portrait_cropped.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Ed_Husic"
     },
@@ -1356,6 +1376,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Emma_McBride_Tacoma_Public_School_2017_%28cropped%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Emma_McBride"
     },
@@ -1408,6 +1429,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Fiona_Philips%2C_MP_for_federal_electorate_of_Gilmore%2C_Australia.jpg/330px-Fiona_Philips%2C_MP_for_federal_electorate_of_Gilmore%2C_Australia.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Fiona_Phillips_%28politician%29"
     },
@@ -1435,6 +1457,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/10996.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/gordon_reid/robertson"
     },
@@ -1487,6 +1510,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/11032.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/jamie_chaffey/parkes"
     },
@@ -1539,6 +1563,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Jason_Clare_at_the_state_funeral_of_Peter_Buckskin_%28DSCF7676%29.jpg/330px-Jason_Clare_at_the_state_funeral_of_Peter_Buckskin_%28DSCF7676%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Jason_Clare"
     },
@@ -1603,6 +1628,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Jerome_Laxale_Portrait.png/330px-Jerome_Laxale_Portrait.png",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Jerome_Laxale"
     },
@@ -1661,6 +1687,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Julian_Leeser_2024.jpg/330px-Julian_Leeser_2024.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Julian_Leeser"
     },
@@ -1688,6 +1715,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Justine_Elliot.jpg/330px-Justine_Elliot.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Justine_Elliot"
     },
@@ -1728,6 +1756,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Kevin_Hogan_2019.jpg/330px-Kevin_Hogan_2019.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Kevin_Hogan_%28politician%29"
     },
@@ -1755,6 +1784,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Kristy_McBain_Official_Portrait_%28cropped%29.jpg/330px-Kristy_McBain_Official_Portrait_%28cropped%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Kristy_McBain"
     },
@@ -1807,6 +1837,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Matt_Thistlethwaite_Portrait_2025.jpg/330px-Matt_Thistlethwaite_Portrait_2025.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Matt_Thistlethwaite"
     },
@@ -1834,6 +1865,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/10932.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/melissa_mcintosh/lindsay"
     },
@@ -1861,6 +1893,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/MerylSwanson2025.png/330px-MerylSwanson2025.png",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Meryl_Swanson"
     },
@@ -1931,6 +1964,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Michael_McCormack_portrait.jpg/330px-Michael_McCormack_portrait.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Michael_McCormack_%28Australian_politician%29"
     },
@@ -1971,6 +2005,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Michelle_Rowland.jpg/330px-Michelle_Rowland.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Michelle_Rowland"
     },
@@ -2041,6 +2076,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/10872.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/mike_freelander/macarthur"
     },
@@ -2081,6 +2117,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Independent",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Nicolette_Boele_MP.jpg/330px-Nicolette_Boele_MP.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Nicolette_Boele"
     },
@@ -2121,6 +2158,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/North_Coast_Regional_Gardens_Glasshouse_Opening_2022_%28cropped%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Pat_Conaghan"
     },
@@ -2173,6 +2211,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Pat_Conroy.jpg/330px-Pat_Conroy.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Pat_Conroy_%28politician%29"
     },
@@ -2213,6 +2252,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sally_Sitou_2023.png/330px-Sally_Sitou_2023.png",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Sally_Sitou"
     },
@@ -2265,6 +2305,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/10805.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/sharon_claydon/newcastle"
     },
@@ -2305,6 +2346,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/11019.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/simon_kennedy/cook"
     },
@@ -2437,6 +2479,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Independent",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Scamps2024.jpg/330px-Scamps2024.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Sophie_Scamps"
     },
@@ -2496,6 +2539,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Susan_Templeman_MP.png",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Susan_Templeman"
     },
@@ -2578,6 +2622,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Sussan_Ley_2019_%28Higher_Quality%29.jpg/330px-Sussan_Ley_2019_%28Higher_Quality%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Sussan_Ley"
     },
@@ -2642,6 +2687,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Tanya_Plibersek.png",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Tanya_Plibersek"
     },
@@ -2712,6 +2758,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Tony_Burke.jpg/330px-Tony_Burke.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Tony_Burke"
     },
@@ -2996,6 +3043,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Independent",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Zali_Steggall_official_campaign_image.jpg/330px-Zali_Steggall_official_campaign_image.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Zali_Steggall"
     },
@@ -3023,6 +3071,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/11049.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/zhi_soon/banks"
     },
@@ -3063,6 +3112,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Luke_Gosling_Official_Portrait.jpg/330px-Luke_Gosling_Official_Portrait.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Luke_Gosling"
     },
@@ -3110,6 +3160,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Marion_Scrymgour.jpg/330px-Marion_Scrymgour.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Marion_Scrymgour"
     },
@@ -3162,6 +3213,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Ali_France_MP.png/330px-Ali_France_MP.png",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Ali_France"
     },
@@ -3214,6 +3266,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/07/Andrew_Wallace.png",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Andrew_Wallace"
     },
@@ -3266,6 +3319,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Andrew_Wilcox_Bridget_McKenzie_Steven_Miles_2021_%28cropped%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Andrew_Willcox"
     },
@@ -3318,6 +3372,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/10936.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/angie_bell/moncrieff"
     },
@@ -3364,6 +3419,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Anika_Wells_MP.png/330px-Anika_Wells_MP.png",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Anika_Wells"
     },
@@ -3447,6 +3503,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Other / minor party",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bob_Katter.jpg/330px-Bob_Katter.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Bob_Katter"
     },
@@ -3474,6 +3531,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/11016.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/cameron_caldwell/fadden"
     },
@@ -3501,6 +3559,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/RockyRingRoadRally5.jpg/330px-RockyRingRoadRally5.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Colin_Boyce"
     },
@@ -3559,6 +3618,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/11026.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/david_batt/hinkler"
     },
@@ -3599,6 +3659,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/David_Littleproud.jpg/330px-David_Littleproud.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/David_Littleproud"
     },
@@ -3663,6 +3724,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Greens",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Elizabeth_Watson-Brown.png/330px-Elizabeth_Watson-Brown.png",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Elizabeth_Watson-Brown"
     },
@@ -3690,6 +3752,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Emma_Comer.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Emma_Comer"
     },
@@ -3730,6 +3793,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Garth_Hamilton_Geoscience_Australia_2022_%28cropped%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Garth_Hamilton"
     },
@@ -3770,6 +3834,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/10969.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/henry_pike/bowman"
     },
@@ -3846,6 +3911,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Jim_Chalmers_Jobs_and_Skills_Summit_2022_%28cropped%29.jpg/330px-Jim_Chalmers_Jobs_and_Skills_Summit_2022_%28cropped%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Jim_Chalmers"
     },
@@ -3873,6 +3939,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Julie-Ann_Campbell_MP.png/330px-Julie-Ann_Campbell_MP.png",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Julie-Ann_Campbell"
     },
@@ -3920,6 +3987,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kara_Cook_MP.png/330px-Kara_Cook_MP.png",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Kara_Cook"
     },
@@ -3984,6 +4052,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/11047.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/leon_rebello/mcpherson"
     },
@@ -4036,6 +4105,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Llew_O%27Brien_%28cropped%29.jpg/330px-Llew_O%27Brien_%28cropped%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Llew_O%27Brien"
     },
@@ -4063,6 +4133,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Madonna_Jarrett_MP.png/330px-Madonna_Jarrett_MP.png",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Madonna_Jarrett"
     },
@@ -4090,6 +4161,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/11048.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/matt_smith/leichhardt"
     },
@@ -4117,6 +4189,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Michelle_Landry.png/330px-Michelle_Landry.png",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Michelle_Landry"
     },
@@ -4181,6 +4254,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Cathaoirleach_of_Seanad_%C3%89ireann%2C_Senator_Jerry_Buttimer%2C_met_with_the_Speaker_of_the_House_of_Representatives_of_Australia%2C_Milton_Dick_MP_on_26_July_2023_04_%28cropped%29.jpg/330px-thumbnail.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Milton_Dick"
     },
@@ -4233,6 +4307,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Phillip_Thompson_%28cropped%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Phillip_Thompson"
     },
@@ -4260,6 +4335,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Renee_Coffey.jpg/330px-Renee_Coffey.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Renee_Coffey"
     },
@@ -4287,6 +4363,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/11041.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/rowan_holzberger/forde"
     },
@@ -4327,6 +4404,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Scott_Buchholz.jpg/330px-Scott_Buchholz.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Scott_Buchholz"
     },
@@ -4373,6 +4451,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Shayne_Neumann_MP.png/330px-Shayne_Neumann_MP.png",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Shayne_Neumann"
     },
@@ -4413,6 +4492,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ted_O%27Brien_Buderim_Men%27s_Shed_2017_%28cropped%29.jpg/330px-Ted_O%27Brien_Buderim_Men%27s_Shed_2017_%28cropped%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Ted_O%27Brien"
     },
@@ -4453,6 +4533,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Terry_Young_2023.jpg/330px-Terry_Young_2023.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Terry_Young_%28Australian_politician%29"
     },
@@ -4493,6 +4574,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Amanda_Rishworth_2018_portrait.jpg/330px-Amanda_Rishworth_2018_portrait.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Amanda_Rishworth"
     },
@@ -4520,6 +4602,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/11033.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/claire_clutterham/sturt"
     },
@@ -4547,6 +4630,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Louise_Miller-Frost.png/330px-Louise_Miller-Frost.png",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Louise_Miller-Frost"
     },
@@ -4574,6 +4658,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Mark_Butler_2016.jpg/330px-Mark_Butler_2016.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Mark_Butler"
     },
@@ -4614,6 +4699,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Lives_Lived_Well_Veterans%E2%80%99_and_Families%E2%80%99_Hub_2024_%28Burnell_cropped%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Matt_Burnell"
     },
@@ -4696,6 +4782,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Other / minor party",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Rebekha_Sharkie_2025_cropped.jpg/330px-Rebekha_Sharkie_2025_cropped.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Rebekha_Sharkie"
     },
@@ -4748,6 +4835,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Steve_Georganas_at_the_2026_ANZAC_Day_Dawn_Service_at_the_National_War_Memorial%2C_Adelaide_%28028A2294%29.jpg/330px-Steve_Georganas_at_the_2026_ANZAC_Day_Dawn_Service_at_the_National_War_Memorial%2C_Adelaide_%28028A2294%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Steve_Georganas"
     },
@@ -4788,6 +4876,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/11051.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/tom_venning/grey"
     },
@@ -4850,6 +4939,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/10784.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/tony_pasin/barker"
     },
@@ -4915,6 +5005,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Tony_Zappia_2017.jpg/330px-Tony_Zappia_2017.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Tony_Zappia"
     },
@@ -4986,6 +5077,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Independent",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Andrew_Wilkie_2.jpg/330px-Andrew_Wilkie_2.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Andrew_Wilkie"
     },
@@ -5026,6 +5118,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/10763.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/anne_urquhart/braddon"
     },
@@ -5053,6 +5146,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/11050.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/jess_teesdale/bass"
     },
@@ -5093,6 +5187,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Julie_Collins.jpg/330px-Julie_Collins.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Julie_Collins"
     },
@@ -5120,6 +5215,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/230131_Franklin_-_Rebecca_White_Mural_3976_crop.jpg/330px-230131_Franklin_-_Rebecca_White_Mural_3976_crop.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Rebecca_White"
     },
@@ -5147,6 +5243,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/10971.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/aaron_violi/casey"
     },
@@ -5174,6 +5271,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/11043.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/alice_jordan-baird/gorton"
     },
@@ -5232,6 +5330,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Andrew_Giles_%282021%29.jpg/330px-Andrew_Giles_%282021%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Andrew_Giles"
     },
@@ -5296,6 +5395,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/10935.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/anne_webster/mallee"
     },
@@ -5360,6 +5460,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Basem_Abdo_at_2025_Calwell_results_declaration_%28cropped%29.JPG/330px-Basem_Abdo_at_2025_Calwell_results_declaration_%28cropped%29.JPG",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Basem_Abdo"
     },
@@ -5400,6 +5501,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Carina_Garland_at_ECLC_Chisholm_federal_election_candidates_forum_%281%29_%E2%80%94_May_2022.jpg/330px-Carina_Garland_at_ECLC_Chisholm_federal_election_candidates_forum_%281%29_%E2%80%94_May_2022.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Carina_Garland"
     },
@@ -5440,6 +5542,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Joint_Standing_Committee_on_the_Parliamentary_Library_2023_%28Fernando_cropped%29.png",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Cassandra_Fernando"
     },
@@ -5467,6 +5570,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Catherine_King.jpg/330px-Catherine_King.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Catherine_King_%28politician%29"
     },
@@ -5525,6 +5629,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Clare_O%27Neil_%282023%29.jpg/330px-Clare_O%27Neil_%282023%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Clare_O%27Neil"
     },
@@ -5577,6 +5682,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Dan_Tehan_2017_portrait_cropped.jpg/330px-Dan_Tehan_2017_portrait_cropped.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Dan_Tehan"
     },
@@ -5647,6 +5753,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Daniel_Mulino_-_Footscray_%28Oct_2022%29.jpg/330px-Daniel_Mulino_-_Footscray_%28Oct_2022%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Daniel_Mulino"
     },
@@ -5687,6 +5794,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Darren_Chester_2015_portrait.jpg/330px-Darren_Chester_2015_portrait.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Darren_Chester"
     },
@@ -5714,6 +5822,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/11045.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/gabriel_ng/menzies"
     },
@@ -5778,6 +5887,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Ged_Kearney_2022.jpg/330px-Ged_Kearney_2022.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Ged_Kearney"
     },
@@ -5837,6 +5947,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Independent",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Cropped_portrait_of_Helen_Haines_%E2%80%94_June_2022.jpg/330px-Cropped_portrait_of_Helen_Haines_%E2%80%94_June_2022.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Helen_Haines"
     },
@@ -5877,6 +5988,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Jason_Wood_Assistant_Minister.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Jason_Wood_%28politician%29"
     },
@@ -5904,6 +6016,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Jo_Briskey_MP.jpg/330px-Jo_Briskey_MP.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Jo_Briskey"
     },
@@ -5931,6 +6044,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Joanne_Ryan%2C_Member_of_Australian_Parliament_for_Lalor.jpg/330px-Joanne_Ryan%2C_Member_of_Australian_Parliament_for_Lalor.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Joanne_Ryan_%28politician%29"
     },
@@ -5958,6 +6072,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Jodie.belyea.mp_image.jpg/330px-Jodie.belyea.mp_image.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Jodie_Belyea"
     },
@@ -6022,6 +6137,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Josh_Burns_2022.jpg/330px-Josh_Burns_2022.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Josh_Burns_%28politician%29"
     },
@@ -6086,6 +6202,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Julian_enhanced_medium_cropped_300_dpi.jpg/330px-Julian_enhanced_medium_cropped_300_dpi.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Julian_Hill_%28politician%29"
     },
@@ -6144,6 +6261,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Kate_Thwaites_2019_%28cropped%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Kate_Thwaites"
     },
@@ -6184,6 +6302,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Libby_Coker_2022.jpg/330px-Libby_Coker_2022.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Libby_Coker"
     },
@@ -6224,6 +6343,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Lisa_Chesters_with_volunteers.jpg/330px-Lisa_Chesters_with_volunteers.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Lisa_Chesters"
     },
@@ -6294,6 +6414,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Mark_Dreyfus_%282025%29_%28cropped%29.jpg/330px-Mark_Dreyfus_%282025%29_%28cropped%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Mark_Dreyfus"
     },
@@ -6334,6 +6455,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/11024.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/mary_aldred/monash"
     },
@@ -6361,6 +6483,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mary_Doyle_at_2025_Aston_results_declaration_%28cropped%29.jpg/330px-Mary_Doyle_at_2025_Aston_results_declaration_%28cropped%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Mary_Doyle"
     },
@@ -6388,6 +6511,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/11040.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/matt_gregg/deakin"
     },
@@ -6602,6 +6726,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Independent",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Monique_Ryan_2023.jpg/330px-Monique_Ryan_2023.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Monique_Ryan"
     },
@@ -6666,6 +6791,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Peter_Khalil_Official_Portrait_%28cropped%29.jpg/330px-Peter_Khalil_Official_Portrait_%28cropped%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Peter_Khalil"
     },
@@ -6730,6 +6856,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Richard_marles_2022_portrait.jpg/330px-Richard_marles_2022_portrait.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Richard_Marles"
     },
@@ -6757,6 +6884,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/10733.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/rob_mitchell/mcewen"
     },
@@ -6797,6 +6925,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sam_Birrell_Member_for_Nicholls_2022_-2025.jpg/330px-Sam_Birrell_Member_for_Nicholls_2022_-2025.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Sam_Birrell"
     },
@@ -6824,6 +6953,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/10982.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/sam_rae/hawke"
     },
@@ -6851,6 +6981,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Photo_12-4-2025%2C_6_01_38_pm.jpg/330px-Photo_12-4-2025%2C_6_01_38_pm.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Sarah_Witty"
     },
@@ -6903,6 +7034,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Tim_Watts_crop.jpg/330px-Tim_Watts_crop.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Tim_Watts_%28politician%29"
     },
@@ -6967,6 +7099,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Tim_Wilson_2020_campaign_portrait.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Tim_Wilson_%28Australian_politician%29"
     },
@@ -6994,6 +7127,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Zoe_McKenzie_%28Australian_politician%29_at_coast_2026_%28cropped%29.jpg/330px-Zoe_McKenzie_%28Australian_politician%29_at_coast_2026_%28cropped%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Zoe_McKenzie"
     },
@@ -7104,6 +7238,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/A_Hastie_2023_%28cropped%29.jpg/330px-A_Hastie_2023_%28cropped%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Andrew_Hastie"
     },
@@ -7193,6 +7328,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Hon_Anne_Aly_MP_-_Official_Portrait_-_000187612_%28cropped%29.jpg/330px-Hon_Anne_Aly_MP_-_Official_Portrait_-_000187612_%28cropped%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Anne_Aly"
     },
@@ -7233,6 +7369,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/10962.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/ben_small/forrest"
     },
@@ -7321,6 +7458,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Josh_Wilson_cropped.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Josh_Wilson_%28politician%29"
     },
@@ -7429,6 +7567,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Independent",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Kate_Chaney_MP.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Kate_Chaney"
     },
@@ -7469,6 +7608,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Madeleine_King.jpg/330px-Madeleine_King.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Madeleine_King"
     },
@@ -7496,6 +7636,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Matt_Keogh_2023.jpg/330px-Matt_Keogh_2023.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Matt_Keogh"
     },
@@ -7523,6 +7664,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Melissa_Price_MP.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Melissa_Price_%28politician%29"
     },
@@ -7563,6 +7705,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Patrick_Gorman_PMC_2022.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Patrick_Gorman_%28politician%29"
     },
@@ -7603,6 +7746,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Rick_Wilson%2C_Gwalia%2C_2018_%2801%29.jpg/330px-Rick_Wilson%2C_Gwalia%2C_2018_%2801%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Rick_Wilson_%28Australian_politician%29"
     },
@@ -7691,6 +7835,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/11000.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/sam_lim/tangney"
     },
@@ -7718,6 +7863,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/10981.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/tania_lawrence/hasluck"
     },
@@ -7745,6 +7891,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/11039.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/tom_french/moore"
     },
@@ -7772,6 +7919,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/10994.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/tracey_roberts/pearce"
     },
@@ -7799,6 +7947,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/11037.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/trish_cook/bullwinkel"
     },
@@ -7857,6 +8006,7 @@
         "date": "2025-06-16"
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/10999.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/mp/zaneta_mascarenhas/swan"
     },
@@ -7950,6 +8100,7 @@
         "date": ""
       },
       "party_group": "Independent",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/David_Pocock_park_%281%29.jpg/330px-David_Pocock_park_%281%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/David_Pocock"
     },
@@ -8014,6 +8165,7 @@
         "date": ""
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Katy_Gallagher_2022.jpg/330px-Katy_Gallagher_2022.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Katy_Gallagher"
     },
@@ -8077,6 +8229,7 @@
         "date": ""
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Headshot_of_Senator_Andrew_Bragg%2C_Parliament_House_Canberra%2C_ACT.jpg/330px-Headshot_of_Senator_Andrew_Bragg%2C_Parliament_House_Canberra%2C_ACT.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Andrew_Bragg"
     },
@@ -8128,6 +8281,7 @@
         "date": ""
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Dave_Sharma_%281%29.jpg/330px-Dave_Sharma_%281%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Dave_Sharma"
     },
@@ -8179,6 +8333,7 @@
         "date": ""
       },
       "party_group": "Greens",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Senator_David_Shoebridge_2022.jpg/330px-Senator_David_Shoebridge_2022.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/David_Shoebridge"
     },
@@ -8260,6 +8415,7 @@
         "date": ""
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Deb_Ukraine.png/330px-Deb_Ukraine.png",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Deborah_O%27Neill"
     },
@@ -8299,6 +8455,7 @@
         "date": ""
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Jenny_McAllister.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Jenny_McAllister"
     },
@@ -8350,6 +8507,7 @@
         "date": ""
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/11055.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/senator/jessica_collins/nsw"
     },
@@ -8389,6 +8547,7 @@
         "date": ""
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Joint_Standing_Committee_on_the_Parliamentary_Library_2023_%28Kovacic_cropped%29.png",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Maria_Kovacic"
     },
@@ -8470,6 +8629,7 @@
         "date": ""
       },
       "party_group": "Greens",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Mehreen-Faruqi-2019.jpg/330px-Mehreen-Faruqi-2019.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Mehreen_Faruqi"
     },
@@ -8496,6 +8656,7 @@
         "date": ""
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/11004.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/senator/ross_cadell/nsw"
     },
@@ -8552,7 +8713,8 @@
         "publisher": "OpenAustralia.org",
         "date": ""
       },
-      "party_group": "One Nation"
+      "party_group": "One Nation",
+      "jurisdiction": "Federal"
     },
     {
       "id": "tim-ayres-nsw",
@@ -8602,6 +8764,7 @@
         "date": ""
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Tim_Ayres_Official_Portrait_%28cropped%29.jpg/330px-Tim_Ayres_Official_Portrait_%28cropped%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Tim_Ayres"
     },
@@ -8628,6 +8791,7 @@
         "date": ""
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/COSBOA_National_Small_Business_Summit_2023_%28cropped%29.png",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Tony_Sheldon_%28politician%29"
     },
@@ -8685,6 +8849,7 @@
         "date": ""
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Jacinta_Nampijinpa_Price_speaking_at_ARC_Forum_2023%2C_Day_2%2C_31_October_2023_%28cropped%29.jpg/330px-Jacinta_Nampijinpa_Price_speaking_at_ARC_Forum_2023%2C_Day_2%2C_31_October_2023_%28cropped%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Jacinta_Nampijinpa_Price"
     },
@@ -8730,6 +8895,7 @@
         "date": ""
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Malarndirri_McCarthy_PMC_2022.jpg/330px-Malarndirri_McCarthy_PMC_2022.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Malarndirri_McCarthy"
     },
@@ -8763,6 +8929,7 @@
         "date": ""
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Anthony_Chisholm.jpg/330px-Anthony_Chisholm.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Anthony_Chisholm_%28politician%29"
     },
@@ -8789,6 +8956,7 @@
         "date": ""
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/11057.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/senator/corinne_mulholland/queensland"
     },
@@ -8822,6 +8990,7 @@
         "date": ""
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/06/James_McGrath_2017.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/James_McGrath_%28Australian_politician%29"
     },
@@ -8885,6 +9054,7 @@
         "date": ""
       },
       "party_group": "Greens",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Larissa_Waters_2025_campaign_portrait.jpg/330px-Larissa_Waters_2025_campaign_portrait.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Larissa_Waters"
     },
@@ -8973,6 +9143,7 @@
         "date": ""
       },
       "party_group": "One Nation",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Malcolm_Roberts_2020.jpg/330px-Malcolm_Roberts_2020.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Malcolm_Roberts_%28politician%29"
     },
@@ -9060,6 +9231,7 @@
         "date": ""
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Matt_Canavan_2018_cropped.jpg/330px-Matt_Canavan_2018_cropped.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Matt_Canavan"
     },
@@ -9099,6 +9271,7 @@
         "date": ""
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Senator_Murray_Watt.png/330px-Senator_Murray_Watt.png",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Murray_Watt"
     },
@@ -9125,6 +9298,7 @@
         "date": ""
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Assistant_Minister_for_Pacific_Island_Affairs_Assistant_Minister_for_Tourism_Assistant_Minister_for_Northern_Australia_Nita_Louise_Green.jpg/330px-Assistant_Minister_for_Pacific_Island_Affairs_Assistant_Minister_for_Tourism_Assistant_Minister_for_Northern_Australia_Nita_Louise_Green.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Nita_Green"
     },
@@ -9176,6 +9350,7 @@
         "date": ""
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/10949.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/senator/paul_scarr/queensland"
     },
@@ -9257,6 +9432,7 @@
         "date": ""
       },
       "party_group": "One Nation",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Pauline_Hanson_2016_01_%28cropped%29.jpg/330px-Pauline_Hanson_2016_01_%28cropped%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Pauline_Hanson"
     },
@@ -9283,6 +9459,7 @@
         "date": ""
       },
       "party_group": "Greens",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Australian_Greens_Senator_for_Queensland_Penny_Allman-Payne_2023.png/330px-Australian_Greens_Senator_for_Queensland_Penny_Allman-Payne_2023.png",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Penny_Allman-Payne"
     },
@@ -9309,6 +9486,7 @@
         "date": ""
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/10951.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/senator/susan_mcdonald/queensland"
     },
@@ -9366,6 +9544,7 @@
         "date": ""
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Alex_Antic.jpg/330px-Alex_Antic.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Alex_Antic"
     },
@@ -9392,6 +9571,7 @@
         "date": ""
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/McLachlan_Profile.jpg/330px-McLachlan_Profile.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Andrew_McLachlan"
     },
@@ -9418,6 +9598,7 @@
         "date": ""
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Anne_Ruston_at_the_Remembrance_Day_at_the_National_War_Memorial_%28South_Australia%29_2025.jpg/330px-Anne_Ruston_at_the_Remembrance_Day_at_the_National_War_Memorial_%28South_Australia%29_2025.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Anne_Ruston"
     },
@@ -9457,6 +9638,7 @@
         "date": ""
       },
       "party_group": "Greens",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Barbara_Pocock_%28cropped%29.jpg/330px-Barbara_Pocock_%28cropped%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Barbara_Pocock"
     },
@@ -9496,6 +9678,7 @@
         "date": ""
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Charlotte_Walker_speaking_at_an_event_on_16_September_2025_-_13.jpg/330px-Charlotte_Walker_speaking_at_an_event_on_16_September_2025_-_13.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Charlotte_Walker_%28politician%29"
     },
@@ -9535,6 +9718,7 @@
         "date": ""
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Senator_Don_Farrell_%282022%29_%283x4_cropped%29.jpg/330px-Senator_Don_Farrell_%282022%29_%283x4_cropped%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Don_Farrell"
     },
@@ -9574,6 +9758,7 @@
         "date": ""
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Karen_Grogan_at_the_PIRA_Federal_Election_Forum_02.jpg/330px-Karen_Grogan_at_the_PIRA_Federal_Election_Forum_02.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Karen_Grogan"
     },
@@ -9607,6 +9792,7 @@
         "date": ""
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Kerrynne_Liddle_2019.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Kerrynne_Liddle"
     },
@@ -9633,6 +9819,7 @@
         "date": ""
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/11022.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/senator/leah_blyth/sa"
     },
@@ -9684,6 +9871,7 @@
         "date": ""
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Senator_Marielle_Smith.jpg/330px-Senator_Marielle_Smith.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Marielle_Smith"
     },
@@ -9759,6 +9947,7 @@
         "date": ""
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Penny_Wong_DFAT_official_%28cropped%29.jpg/330px-Penny_Wong_DFAT_official_%28cropped%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Penny_Wong"
     },
@@ -9804,6 +9993,7 @@
         "date": ""
       },
       "party_group": "Greens",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/SarahHansonYoung.jpg/330px-SarahHansonYoung.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Sarah_Hanson-Young"
     },
@@ -9830,6 +10020,7 @@
         "date": ""
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Carol_Brown.jpg/330px-Carol_Brown.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Carol_Brown_%28politician%29"
     },
@@ -9856,6 +10047,7 @@
         "date": ""
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/10955.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/senator/claire_chandler/tasmania"
     },
@@ -9895,6 +10087,7 @@
         "date": ""
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Senator_Helen_Polley.jpg/330px-Senator_Helen_Polley.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Helen_Polley"
     },
@@ -9988,6 +10181,7 @@
         "date": ""
       },
       "party_group": "Other / minor party",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Lambie_2017_%28cropped%29.png/330px-Lambie_2017_%28cropped%29.png",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Jacqui_Lambie"
     },
@@ -10027,6 +10221,7 @@
         "date": ""
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Jonno_Duniam_2017_cropped.jpg/330px-Jonno_Duniam_2017_cropped.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Jonno_Duniam"
     },
@@ -10053,6 +10248,7 @@
         "date": ""
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/11054.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/senator/josh_dolega/tasmania"
     },
@@ -10116,6 +10312,7 @@
         "date": ""
       },
       "party_group": "Greens",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Senator_for_Tasmania_Nicholas_James_McKim.jpg/330px-Senator_for_Tasmania_Nicholas_James_McKim.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Nick_McKim"
     },
@@ -10174,6 +10371,7 @@
         "date": ""
       },
       "party_group": "Greens",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/SenatorWhishWilson.jpg/330px-SenatorWhishWilson.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Peter_Whish-Wilson"
     },
@@ -10213,6 +10411,7 @@
         "date": ""
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Richard_Colbeck.jpg/330px-Richard_Colbeck.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Richard_Colbeck"
     },
@@ -10239,6 +10438,7 @@
         "date": ""
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/11056.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/senator/richard_dowling/tasmania"
     },
@@ -10265,6 +10465,7 @@
         "date": ""
       },
       "party_group": "Independent",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Tammy_Tyrrell_2024.jpg/330px-Tammy_Tyrrell_2024.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Tammy_Tyrrell"
     },
@@ -10291,6 +10492,7 @@
         "date": ""
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/10914.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/senator/wendy_askew/tasmania"
     },
@@ -10366,6 +10568,7 @@
         "date": ""
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bridget_McKenzie_2019.jpg/330px-Bridget_McKenzie_2019.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Bridget_McKenzie"
     },
@@ -10435,6 +10638,7 @@
         "date": ""
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/James_Paterson_at_Fraser_Symposium_%283%29_%28cropped%29.jpg/330px-James_Paterson_at_Fraser_Symposium_%283%29_%28cropped%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/James_Paterson_%28Australian_politician%29"
     },
@@ -10461,6 +10665,7 @@
         "date": ""
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Jana_Stewart_2019.jpg/330px-Jana_Stewart_2019.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Jana_Stewart"
     },
@@ -10487,6 +10692,7 @@
         "date": ""
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Jane_Hume.png/330px-Jane_Hume.png",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Jane_Hume"
     },
@@ -10513,6 +10719,7 @@
         "date": ""
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/JWHeadshotCrop.jpg/330px-JWHeadshotCrop.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Jess_Walsh"
     },
@@ -10571,6 +10778,7 @@
         "date": ""
       },
       "party_group": "Independent",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Lidia_Thorpe.jpeg/330px-Lidia_Thorpe.jpeg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Lidia_Thorpe"
     },
@@ -10597,6 +10805,7 @@
         "date": ""
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/11021.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/senator/lisa_darmanin/victoria"
     },
@@ -10660,6 +10869,7 @@
         "date": ""
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/10983.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/senator/michelle_ananda-rajah/victoria"
     },
@@ -10717,6 +10927,7 @@
         "date": ""
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Senator_Raff_Ciccone_Nov_2021.png/330px-Senator_Raff_Ciccone_Nov_2021.png",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Raff_Ciccone"
     },
@@ -10780,6 +10991,7 @@
         "date": ""
       },
       "party_group": "Other / minor party",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ralph_Babet.png/330px-Ralph_Babet.png",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Ralph_Babet"
     },
@@ -10831,6 +11043,7 @@
         "date": ""
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Sarah_Henderson_2019_cropped.jpg/330px-Sarah_Henderson_2019_cropped.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Sarah_Henderson"
     },
@@ -10882,6 +11095,7 @@
         "date": ""
       },
       "party_group": "Greens",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Steph_Hodgins-May.jpg/330px-Steph_Hodgins-May.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Steph_Hodgins-May"
     },
@@ -10933,6 +11147,7 @@
         "date": ""
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Smith_Smith_20200054-41.jpg/330px-Smith_Smith_20200054-41.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Dean_Smith_%28Australian_politician%29"
     },
@@ -10959,6 +11174,7 @@
         "date": ""
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Dorinda_Cox_%282022%29_%28Cropped%29.jpg/330px-Dorinda_Cox_%282022%29_%28Cropped%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Dorinda_Cox"
     },
@@ -10998,6 +11214,7 @@
         "date": ""
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/11059.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/senator/ellie_whiteaker/wa"
     },
@@ -11061,6 +11278,7 @@
         "date": ""
       },
       "party_group": "Other / minor party",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/Dai_Le_Fatima_Payman_Circles_%28cropped%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Fatima_Payman"
     },
@@ -11100,6 +11318,7 @@
         "date": ""
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Joint_Standing_Committee_on_the_Parliamentary_Library_2023_%28Sterle_cropped%29.png",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Glenn_Sterle"
     },
@@ -11169,6 +11388,7 @@
         "date": ""
       },
       "party_group": "Greens",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Jordon-Steele-John-2019_%28cropped%29.jpg/330px-Jordon-Steele-John-2019_%28cropped%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Jordon_Steele-John"
     },
@@ -11208,6 +11428,7 @@
         "date": ""
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Senator_Matt_O%27Sullivan_addressing_National_Prayer_Breakfast_at_the_Parliament_of_Australia%2C_November_2013.jpg/330px-Senator_Matt_O%27Sullivan_addressing_National_Prayer_Breakfast_at_the_Parliament_of_Australia%2C_November_2013.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Matt_O%27Sullivan"
     },
@@ -11253,6 +11474,7 @@
         "date": ""
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Michaelia_Cash_2018_%28cropped%29.jpg/330px-Michaelia_Cash_2018_%28cropped%29.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Michaelia_Cash"
     },
@@ -11279,6 +11501,7 @@
         "date": ""
       },
       "party_group": "Coalition",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Joint_Standing_Committee_on_the_Parliamentary_Library_2023_%28Brockman_cropped%29.png",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Slade_Brockman"
     },
@@ -11330,6 +11553,7 @@
         "date": ""
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Sue_Lines_2017-02-23.JPG/330px-Sue_Lines_2017-02-23.JPG",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Sue_Lines"
     },
@@ -11356,6 +11580,7 @@
         "date": ""
       },
       "party_group": "One Nation",
+      "jurisdiction": "Federal",
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tyron_Whitten.png/330px-Tyron_Whitten.png",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Tyron_Whitten"
     },
@@ -11395,6 +11620,7 @@
         "date": ""
       },
       "party_group": "Labor",
+      "jurisdiction": "Federal",
       "photo_url": "https://www.openaustralia.org.au/images/mpsL/11017.jpg",
       "photo_credit_url": "https://www.openaustralia.org.au/senator/varun_ghosh/wa"
     },
@@ -11419,7 +11645,8 @@
           }
         ]
       },
-      "party_group": ""
+      "party_group": "",
+      "jurisdiction": "Federal"
     },
     {
       "id": "maria-vamvakinou",
@@ -11442,7 +11669,8 @@
           }
         ]
       },
-      "party_group": ""
+      "party_group": "",
+      "jurisdiction": "Federal"
     },
     {
       "id": "zoe-daniel",
@@ -11564,7 +11792,8 @@
           }
         ]
       },
-      "party_group": ""
+      "party_group": "",
+      "jurisdiction": "Federal"
     },
     {
       "id": "concetta-fierravanti-wells",
@@ -11587,7 +11816,464 @@
           }
         ]
       },
-      "party_group": ""
+      "party_group": "",
+      "jurisdiction": "Federal"
+    },
+    {
+      "id": "act-andrew-barr-kurrajong",
+      "name": "Andrew Barr",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "ACT",
+      "chamber": "ACT Legislative Assembly",
+      "electorate": "Kurrajong",
+      "state": "ACT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the ACT Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "act-yvette-berry-ginninderra",
+      "name": "Yvette Berry",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "ACT",
+      "chamber": "ACT Legislative Assembly",
+      "electorate": "Ginninderra",
+      "state": "ACT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the ACT Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "act-tara-cheyne-ginninderra",
+      "name": "Tara Cheyne",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "ACT",
+      "chamber": "ACT Legislative Assembly",
+      "electorate": "Ginninderra",
+      "state": "ACT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the ACT Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "act-suzanne-orr-yerrabi",
+      "name": "Suzanne Orr",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "ACT",
+      "chamber": "ACT Legislative Assembly",
+      "electorate": "Yerrabi",
+      "state": "ACT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the ACT Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "act-marisa-paterson-murrumbidgee",
+      "name": "Marisa Paterson",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "ACT",
+      "chamber": "ACT Legislative Assembly",
+      "electorate": "Murrumbidgee",
+      "state": "ACT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the ACT Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "act-michael-pettersson-yerrabi",
+      "name": "Michael Pettersson",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "ACT",
+      "chamber": "ACT Legislative Assembly",
+      "electorate": "Yerrabi",
+      "state": "ACT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the ACT Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "act-chris-steel-murrumbidgee",
+      "name": "Chris Steel",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "ACT",
+      "chamber": "ACT Legislative Assembly",
+      "electorate": "Murrumbidgee",
+      "state": "ACT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the ACT Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "act-rachel-stephen-smith-kurrajong",
+      "name": "Rachel Stephen-Smith",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "ACT",
+      "chamber": "ACT Legislative Assembly",
+      "electorate": "Kurrajong",
+      "state": "ACT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the ACT Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "act-caitlin-tough-brindabella",
+      "name": "Caitlin Tough",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "ACT",
+      "chamber": "ACT Legislative Assembly",
+      "electorate": "Brindabella",
+      "state": "ACT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the ACT Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "act-taimus-werner-gibbings-brindabella",
+      "name": "Taimus Werner-Gibbings",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "ACT",
+      "chamber": "ACT Legislative Assembly",
+      "electorate": "Brindabella",
+      "state": "ACT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the ACT Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "act-chiaka-barry-ginninderra",
+      "name": "Chiaka Barry",
+      "party": "Canberra Liberals",
+      "party_group": "Coalition",
+      "jurisdiction": "ACT",
+      "chamber": "ACT Legislative Assembly",
+      "electorate": "Ginninderra",
+      "state": "ACT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the ACT Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "act-peter-cain-ginninderra",
+      "name": "Peter Cain",
+      "party": "Canberra Liberals",
+      "party_group": "Coalition",
+      "jurisdiction": "ACT",
+      "chamber": "ACT Legislative Assembly",
+      "electorate": "Ginninderra",
+      "state": "ACT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the ACT Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "act-leanne-castley-yerrabi",
+      "name": "Leanne Castley",
+      "party": "Canberra Liberals",
+      "party_group": "Coalition",
+      "jurisdiction": "ACT",
+      "chamber": "ACT Legislative Assembly",
+      "electorate": "Yerrabi",
+      "state": "ACT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the ACT Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "act-ed-cocks-murrumbidgee",
+      "name": "Ed Cocks",
+      "party": "Canberra Liberals",
+      "party_group": "Coalition",
+      "jurisdiction": "ACT",
+      "chamber": "ACT Legislative Assembly",
+      "electorate": "Murrumbidgee",
+      "state": "ACT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the ACT Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "act-jeremy-hanson-murrumbidgee",
+      "name": "Jeremy Hanson",
+      "party": "Canberra Liberals",
+      "party_group": "Coalition",
+      "jurisdiction": "ACT",
+      "chamber": "ACT Legislative Assembly",
+      "electorate": "Murrumbidgee",
+      "state": "ACT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the ACT Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "act-elizabeth-lee-kurrajong",
+      "name": "Elizabeth Lee",
+      "party": "Canberra Liberals",
+      "party_group": "Coalition",
+      "jurisdiction": "ACT",
+      "chamber": "ACT Legislative Assembly",
+      "electorate": "Kurrajong",
+      "state": "ACT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the ACT Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "act-james-milligan-yerrabi",
+      "name": "James Milligan",
+      "party": "Canberra Liberals",
+      "party_group": "Coalition",
+      "jurisdiction": "ACT",
+      "chamber": "ACT Legislative Assembly",
+      "electorate": "Yerrabi",
+      "state": "ACT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the ACT Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "act-deborah-morris-brindabella",
+      "name": "Deborah Morris",
+      "party": "Canberra Liberals",
+      "party_group": "Coalition",
+      "jurisdiction": "ACT",
+      "chamber": "ACT Legislative Assembly",
+      "electorate": "Brindabella",
+      "state": "ACT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the ACT Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "act-mark-parton-brindabella",
+      "name": "Mark Parton",
+      "party": "Canberra Liberals",
+      "party_group": "Coalition",
+      "jurisdiction": "ACT",
+      "chamber": "ACT Legislative Assembly",
+      "electorate": "Brindabella",
+      "state": "ACT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the ACT Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "act-andrew-braddock-yerrabi",
+      "name": "Andrew Braddock",
+      "party": "ACT Greens",
+      "party_group": "Greens",
+      "jurisdiction": "ACT",
+      "chamber": "ACT Legislative Assembly",
+      "electorate": "Yerrabi",
+      "state": "ACT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the ACT Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "act-jo-clay-ginninderra",
+      "name": "Jo Clay",
+      "party": "ACT Greens",
+      "party_group": "Greens",
+      "jurisdiction": "ACT",
+      "chamber": "ACT Legislative Assembly",
+      "electorate": "Ginninderra",
+      "state": "ACT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the ACT Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "act-laura-nuttall-brindabella",
+      "name": "Laura Nuttall",
+      "party": "ACT Greens",
+      "party_group": "Greens",
+      "jurisdiction": "ACT",
+      "chamber": "ACT Legislative Assembly",
+      "electorate": "Brindabella",
+      "state": "ACT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the ACT Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "act-fiona-carrick-murrumbidgee",
+      "name": "Fiona Carrick",
+      "party": "Fiona Carrick Independent",
+      "party_group": "Independent",
+      "jurisdiction": "ACT",
+      "chamber": "ACT Legislative Assembly",
+      "electorate": "Murrumbidgee",
+      "state": "ACT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the ACT Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    },
+    {
+      "id": "act-thomas-emerson-kurrajong",
+      "name": "Thomas Emerson",
+      "party": "Independent",
+      "party_group": "Independent",
+      "jurisdiction": "ACT",
+      "chamber": "ACT Legislative Assembly",
+      "electorate": "Kurrajong",
+      "state": "ACT",
+      "status": "incumbent",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Members of the ACT Legislative Assembly, 2024–2028",
+        "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
     }
   ]
 }

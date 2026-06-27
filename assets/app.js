@@ -21,7 +21,7 @@ const state = {
   all: [],
   partyPositions: {},
   sort: 'name',
-  filters: { search: '', chamber: '', group: '', party: '', state: '', status: '', issue: '' },
+  filters: { search: '', jurisdiction: '', chamber: '', group: '', party: '', state: '', status: '', issue: '' },
 };
 
 // Conventional left->right placement of Australian party groups. Independents
@@ -248,6 +248,10 @@ function populatePartyFilter() {
     .sort((a, b) => GROUP_ORDER.indexOf(a) - GROUP_ORDER.indexOf(b));
   fill('filter-group', groups);
   fill('filter-party', [...new Set(state.all.map((c) => c.party).filter(Boolean))].sort());
+  // Jurisdictions: Federal first, then states alphabetically.
+  const jurs = [...new Set(state.all.map((c) => c.jurisdiction).filter(Boolean))]
+    .sort((a, b) => (a === 'Federal' ? -1 : b === 'Federal' ? 1 : a.localeCompare(b)));
+  fill('filter-jurisdiction', jurs);
 }
 
 function wireControls() {
@@ -259,6 +263,7 @@ function wireControls() {
     });
   };
   bind('search', 'search');
+  bind('filter-jurisdiction', 'jurisdiction');
   bind('filter-chamber', 'chamber');
   bind('filter-group', 'group');
   bind('filter-party', 'party');
@@ -278,6 +283,7 @@ function sortCandidates(list) {
 
 function matches(c) {
   const f = state.filters;
+  if (f.jurisdiction && c.jurisdiction !== f.jurisdiction) return false;
   if (f.chamber && c.chamber !== f.chamber) return false;
   if (f.group && c.party_group !== f.group) return false;
   if (f.party && c.party !== f.party) return false;
@@ -383,6 +389,7 @@ function renderCard(c) {
   }
   const metaBits = [
     c.party,
+    c.jurisdiction && c.jurisdiction !== 'Federal' ? c.jurisdiction : null,
     c.chamber,
     c.electorate ? `${c.electorate} (${c.state || ''})` : c.state,
     c.status,
@@ -415,8 +422,9 @@ function renderCard(c) {
   Object.keys(POSITION_LABELS).forEach((key) => {
     if (positions[key]) {
       dl.appendChild(renderPosition(key, positions[key], false));
-    } else {
-      // Fall back to the member's party platform on this issue, if available.
+    } else if (c.jurisdiction === 'Federal') {
+      // Party-platform fallback applies to federal issues only — state/territory
+      // parliaments don't legislate on immigration, foreign policy, etc.
       const partyPos = (state.partyPositions[key] || {})[c.party_group];
       if (partyPos) dl.appendChild(renderPosition(key, partyPos, true));
     }

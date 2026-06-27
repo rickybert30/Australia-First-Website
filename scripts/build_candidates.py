@@ -85,8 +85,11 @@ PARTY_GROUP = {
     "Country Liberal Party": "Coalition",
     "Australian Greens": "Greens",
     "The Greens": "Greens",
+    "ACT Greens": "Greens",
+    "Canberra Liberals": "Coalition",
     "Pauline Hanson's One Nation Party": "One Nation",
     "Independent": "Independent",
+    "Fiona Carrick Independent": "Independent",
     "Katter's Australian Party (KAP)": "Other / minor party",
     "Centre Alliance": "Other / minor party",
     "Jacqui Lambie Network": "Other / minor party",
@@ -260,6 +263,38 @@ def build_roster():
     return records, keys
 
 
+def load_state_rosters():
+    """Build records for state/territory members from data/sources/states/*.json.
+    Federal data comes from the AEC/OpenAustralia pipeline; states are simpler
+    roster files (no donor data — state disclosure regimes differ per jurisdiction)."""
+    import glob as _glob
+    states_dir = os.path.join(SRC, "states")
+    records = []
+    for path in sorted(_glob.glob(os.path.join(states_dir, "*.json"))):
+        with open(path, encoding="utf-8") as f:
+            j = json.load(f)
+        jur = j["jurisdiction"]
+        for m in j["members"]:
+            name = m["name"].strip()
+            electorate = m.get("electorate", "")
+            rec = {
+                "id": f"{jur.lower()}-{slugify(name, electorate)}",
+                "name": name,
+                "party": m["party"],
+                "party_group": party_group(m["party"]),
+                "jurisdiction": jur,
+                "chamber": m.get("chamber", j.get("chamber", "")),
+                "electorate": electorate,
+                "state": j.get("state", ""),
+                "status": "incumbent",
+                "last_updated": BUILD_DATE,
+                "positions": {},
+                "roster_source": j["source"],
+            }
+            records.append(rec)
+    return records
+
+
 def load_photos():
     """Load member portrait URLs (Wikipedia/Wikimedia Commons) keyed by id."""
     path = os.path.join(HERE, "..", "data", "photos.json")
@@ -350,6 +385,10 @@ def main():
         if rec.get("party") == "-":
             rec["party"] = ""
         rec["party_group"] = party_group(rec.get("party", ""))
+        rec["jurisdiction"] = "Federal"
+
+    # Append state/territory members (roster only; positions/photos merge below).
+    all_records += load_state_rosters()
 
     photos = load_photos()
     for rec in all_records:
@@ -363,10 +402,11 @@ def main():
 
     out = {
         "meta": {
-            "description": "Australian federal candidate transparency dataset (48th Parliament). "
-                           "Roster from AEC Members Elected (House) and OpenAustralia (Senate); "
-                           "donor data from AEC Member of Parliament returns. Policy positions are "
-                           "added separately with their own sources. See ../CONTRIBUTING.md.",
+            "description": "Australian candidate transparency dataset: the federal 48th Parliament "
+                           "plus state/territory parliaments (see jurisdiction field). Federal roster "
+                           "from AEC Members Elected (House) and OpenAustralia (Senate) with AEC donor "
+                           "data; state rosters from data/sources/states/. Policy positions are added "
+                           "separately with their own sources. See ../CONTRIBUTING.md.",
             "house_source": AEC_HOUSE_URL,
             "senate_source": "https://www.openaustralia.org.au/senators/",
             "donor_source": AEC_DONOR_URL,
