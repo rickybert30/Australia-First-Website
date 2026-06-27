@@ -100,8 +100,9 @@ python3 -m http.server 8000
 - [x] Federal House of Representatives + Senate schema and front-end
 - [x] Import AEC donor disclosures for members who lodged returns
 - [x] Full 48th Parliament roster (226 members) with party, electorate, state, status
-- [x] Faith & religion positions where explicitly self-disclosed / publicly reported (54 sourced so far)
-- [ ] Immigration, foreign policy & aid, economic nationalism positions
+- [x] Faith & religion positions where explicitly self-disclosed / publicly reported (54 sourced)
+- [x] Immigration positions where concretely stated / on record (78 sourced)
+- [ ] Foreign policy & aid, economic nationalism positions
 - [ ] State and territory parliaments
 
 ### Coverage note on faith
