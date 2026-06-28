@@ -24,7 +24,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 SRC = os.path.join(HERE, "..", "data", "sources")
 PHOTOS = os.path.join(HERE, "..", "data", "photos.json")
 CANDS = os.path.join(HERE, "..", "data", "candidates.json")
-UA = "AUFirstTransparencyDB/1.0 (portrait backfill; +https://github.com/rickybert30/Australia-First-Website)"
+UA = "AUFirstTransparencyDB/1.0 (portrait backfill; +https://github.com/RigbyGroyp/Australia-First-Website)"
 MIN_BYTES = 2500  # below this an OA image is treated as blank/broken
 
 

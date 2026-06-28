@@ -21,7 +21,7 @@ import urllib.request
 HERE = os.path.dirname(os.path.abspath(__file__))
 CANDIDATES = os.path.join(HERE, "..", "data", "candidates.json")
 DEST = os.path.join(HERE, "..", "data", "photos.json")
-UA = "AUFirstTransparencyDB/1.0 (Wikipedia portrait lookup; +https://github.com/rickybert30/Australia-First-Website)"
+UA = "AUFirstTransparencyDB/1.0 (Wikipedia portrait lookup; +https://github.com/RigbyGroyp/Australia-First-Website)"
 POLITICAL = ("politician", "senator", "member of", "mp,", "parliament", "minister")
 
 
