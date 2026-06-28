@@ -11830,7 +11830,68 @@
       "state": "ACT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Barr voted Aye in the ACT Legislative Assembly division of 25 June 2024 to agree to the Health (Improved Abortion Access) Amendment Bill 2024, which allowed nurse practitioners and authorised midwives to prescribe abortion medication and required conscientious objectors to provide referral information.",
+          "sources": [
+            {
+              "title": "Debates Weekly Hansard, Tenth Assembly, 25 June 2024",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2024/PDF/20240625.pdf",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2024-06-25"
+            }
+          ],
+          "verified": true
+        },
+        "voluntary_assisted_dying": {
+          "summary": "Voted in favour of the Voluntary Assisted Dying Bill 2023, which passed the ACT Legislative Assembly 20 votes to 5 on 5 June 2024 (recorded in the Ayes).",
+          "sources": [
+            {
+              "title": "Debates Weekly Hansard, Tenth Assembly, 5 June 2024",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2024/PDF/20240605.pdf",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2024-06-05"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Stated position and record: Barr is Australia's first openly gay head of a state or territory government, was a prominent advocate for the 'Yes' campaign in the 2017 same-sex marriage postal survey, and his government passed the 2020 legislation banning LGBTI conversion practices.",
+          "sources": [
+            {
+              "title": "Andrew Barr",
+              "url": "https://en.wikipedia.org/wiki/Andrew_Barr",
+              "publisher": "Wikipedia",
+              "date": ""
+            }
+          ],
+          "verified": true
+        },
+        "religious_freedom": {
+          "summary": "In the ACT Legislative Assembly debate on the Discrimination Amendment Bill 2022 (23 March 2023), Barr spoke in support of the bill, which narrowed exceptions for religious bodies so that, when providing public goods, services or employment, they may discriminate only on the ground of a person's religious conviction and not on other protected attributes such as sexuality, gender identity or marital status, while leaving greater freedom for religious observances such as the training and ordination of clergy. This is a stated position and a recorded contribution to debate.",
+          "sources": [
+            {
+              "title": "Week 2 - Thursday, 23 March 2023 - 10th Assembly Hansard",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2023/HTML/week02/p587-p694.htm",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2023-03-23"
+            }
+          ],
+          "verified": true
+        },
+        "drugs_law_order": {
+          "summary": "Barr supports drug law liberalisation as harm reduction: as Chief Minister he introduced a 2018 bill to legalise personal cannabis cultivation and possession, and in 2021 introduced amendments to decriminalise possession of small quantities of illicit drugs, stating the 'just say no' approach has not stopped drug use and that the solution lies in health-based harm reduction. (Stated position.)",
+          "sources": [
+            {
+              "title": "Journey to drug decriminalisation",
+              "url": "https://www.andrewbarr.com.au/news/latest-news/journey-to-drug-decriminalisation/",
+              "publisher": "Andrew Barr MLA",
+              "date": ""
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the ACT Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -11851,7 +11912,44 @@
       "state": "ACT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Berry voted Aye in the ACT Legislative Assembly division of 25 June 2024 to agree to the Health (Improved Abortion Access) Amendment Bill 2024, which expanded who may prescribe abortion medication and required conscientious objectors to provide referral information.",
+          "sources": [
+            {
+              "title": "Debates Weekly Hansard, Tenth Assembly, 25 June 2024",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2024/PDF/20240625.pdf",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2024-06-25"
+            }
+          ],
+          "verified": true
+        },
+        "voluntary_assisted_dying": {
+          "summary": "Voted in favour of the Voluntary Assisted Dying Bill 2023, which passed the ACT Legislative Assembly 20 votes to 5 on 5 June 2024 (recorded in the Ayes).",
+          "sources": [
+            {
+              "title": "Debates Weekly Hansard, Tenth Assembly, 5 June 2024",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2024/PDF/20240605.pdf",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2024-06-05"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Recorded vote: as a Labor member present in the Assembly in August 2020, Berry was among the Labor and Greens members who voted to pass the Sexuality and Gender Identity Conversion Practices Act 2020 (passed 14 to 11), which the Liberals opposed.",
+          "sources": [
+            {
+              "title": "LGBT rights in the Australian Capital Territory",
+              "url": "https://en.wikipedia.org/wiki/LGBT_rights_in_the_Australian_Capital_Territory",
+              "publisher": "Wikipedia",
+              "date": ""
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the ACT Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -11872,7 +11970,74 @@
       "state": "ACT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Cheyne voted Aye in the ACT Legislative Assembly division of 25 June 2024 to agree to the Health (Improved Abortion Access) Amendment Bill 2024, which expanded who may prescribe abortion medication and required conscientious objectors to provide referral information.",
+          "sources": [
+            {
+              "title": "Debates Weekly Hansard, Tenth Assembly, 25 June 2024",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2024/PDF/20240625.pdf",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2024-06-25"
+            }
+          ],
+          "verified": true
+        },
+        "voluntary_assisted_dying": {
+          "summary": "Voted in favour of the Voluntary Assisted Dying Bill 2023, which passed the ACT Legislative Assembly 20 votes to 5 on 5 June 2024 (recorded in the Ayes). Cheyne was the minister who introduced the bill.",
+          "sources": [
+            {
+              "title": "Debates Weekly Hansard, Tenth Assembly, 5 June 2024",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2024/PDF/20240605.pdf",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2024-06-05"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Stated position and record: as Human Rights Minister, Cheyne championed the 2024 ACT reforms giving greater choice of gender descriptors on birth certificates, removing the clinical-treatment requirement and lowering the application age, saying the amendments were 'about a person's fundamental human rights, their identity and being able to express who they are'; she also voted with Labor to pass the 2020 conversion practices ban.",
+          "sources": [
+            {
+              "title": "ACT reforms will make big difference to gender diverse people",
+              "url": "https://qnews.com.au/act-gender-laws-pass-act-parliament/",
+              "publisher": "QNews",
+              "date": "2024-03"
+            },
+            {
+              "title": "LGBT rights in the Australian Capital Territory",
+              "url": "https://en.wikipedia.org/wiki/LGBT_rights_in_the_Australian_Capital_Territory",
+              "publisher": "Wikipedia",
+              "date": ""
+            }
+          ],
+          "verified": true
+        },
+        "religious_freedom": {
+          "summary": "As Minister for Human Rights, Cheyne introduced and championed the Discrimination Amendment Bill 2022; in the debate (23 March 2023) she stated the bill amended the exceptions for religious bodies to 'strike a better balance between the right to equality and the right to freedom of thought, conscience, religion and belief,' citing examples such as prayer groups still being able to exclude people who do not share the relevant religious conviction. This is a stated position and a recorded contribution to debate.",
+          "sources": [
+            {
+              "title": "Week 2 - Thursday, 23 March 2023 - 10th Assembly Hansard",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2023/HTML/week02/p587-p694.htm",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2023-03-23"
+            }
+          ],
+          "verified": true
+        },
+        "drugs_law_order": {
+          "summary": "As City and Government Services Minister, Cheyne told the Assembly in December that the territory government was not considering laws to stop medicinal cannabis users from being automatically disqualified from driving, while noting the ACT government 'is closely monitoring the evolving evidence base for driver impairment following tetrahydrocannabinol (THC) intake to inform future considerations.' (Stated position.)",
+          "sources": [
+            {
+              "title": "ACT set to debate drug driving law change for medicinal cannabis",
+              "url": "https://www.canberratimes.com.au/story/9291481/act-set-to-debate-drug-driving-law-change-for-medicinal-cannabis/",
+              "publisher": "The Canberra Times",
+              "date": "2026-06-14"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the ACT Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -11893,7 +12058,44 @@
       "state": "ACT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Orr voted Aye in the ACT Legislative Assembly division of 25 June 2024 to agree to the Health (Improved Abortion Access) Amendment Bill 2024, which expanded who may prescribe abortion medication and required conscientious objectors to provide referral information.",
+          "sources": [
+            {
+              "title": "Debates Weekly Hansard, Tenth Assembly, 25 June 2024",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2024/PDF/20240625.pdf",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2024-06-25"
+            }
+          ],
+          "verified": true
+        },
+        "voluntary_assisted_dying": {
+          "summary": "Voted in favour of the Voluntary Assisted Dying Bill 2023, which passed the ACT Legislative Assembly 20 votes to 5 on 5 June 2024 (recorded in the Ayes).",
+          "sources": [
+            {
+              "title": "Debates Weekly Hansard, Tenth Assembly, 5 June 2024",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2024/PDF/20240605.pdf",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2024-06-05"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Recorded vote: as a Labor member present in the Assembly in August 2020, Orr was among the Labor and Greens members who voted to pass the Sexuality and Gender Identity Conversion Practices Act 2020 (passed 14 to 11), which the Liberals opposed.",
+          "sources": [
+            {
+              "title": "LGBT rights in the Australian Capital Territory",
+              "url": "https://en.wikipedia.org/wiki/LGBT_rights_in_the_Australian_Capital_Territory",
+              "publisher": "Wikipedia",
+              "date": ""
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the ACT Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -11914,7 +12116,44 @@
       "state": "ACT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Paterson voted Aye in the ACT Legislative Assembly division of 25 June 2024 to agree to the Health (Improved Abortion Access) Amendment Bill 2024, which expanded who may prescribe abortion medication and required conscientious objectors to provide referral information.",
+          "sources": [
+            {
+              "title": "Debates Weekly Hansard, Tenth Assembly, 25 June 2024",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2024/PDF/20240625.pdf",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2024-06-25"
+            }
+          ],
+          "verified": true
+        },
+        "voluntary_assisted_dying": {
+          "summary": "Voted in favour of the Voluntary Assisted Dying Bill 2023, which passed the ACT Legislative Assembly 20 votes to 5 on 5 June 2024 (recorded in the Ayes).",
+          "sources": [
+            {
+              "title": "Debates Weekly Hansard, Tenth Assembly, 5 June 2024",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2024/PDF/20240605.pdf",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2024-06-05"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Recorded vote: as a Labor member of the 10th Assembly, Paterson was among the Labor and Greens members who passed the 2024 reforms to the Births, Deaths and Marriages Registration Act (12 to 5), giving greater choice of gender descriptors on birth certificates, removing the clinical-treatment requirement and lowering the application age, which the Liberals opposed.",
+          "sources": [
+            {
+              "title": "ACT reforms will make big difference to gender diverse people",
+              "url": "https://qnews.com.au/act-gender-laws-pass-act-parliament/",
+              "publisher": "QNews",
+              "date": "2024-03"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the ACT Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -11933,7 +12172,62 @@
       "state": "ACT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Pettersson voted Aye in the ACT Legislative Assembly division of 25 June 2024 to agree to the Health (Improved Abortion Access) Amendment Bill 2024, which expanded who may prescribe abortion medication and required conscientious objectors to provide referral information.",
+          "sources": [
+            {
+              "title": "Debates Weekly Hansard, Tenth Assembly, 25 June 2024",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2024/PDF/20240625.pdf",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2024-06-25"
+            }
+          ],
+          "verified": true
+        },
+        "voluntary_assisted_dying": {
+          "summary": "Voted in favour of the Voluntary Assisted Dying Bill 2023, which passed the ACT Legislative Assembly 20 votes to 5 on 5 June 2024 (recorded in the Ayes).",
+          "sources": [
+            {
+              "title": "Debates Weekly Hansard, Tenth Assembly, 5 June 2024",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2024/PDF/20240605.pdf",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2024-06-05"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Recorded vote: as a Labor member present in the Assembly in August 2020, Pettersson was among the Labor and Greens members who voted to pass the Sexuality and Gender Identity Conversion Practices Act 2020 (passed 14 to 11), which the Liberals opposed.",
+          "sources": [
+            {
+              "title": "LGBT rights in the Australian Capital Territory",
+              "url": "https://en.wikipedia.org/wiki/LGBT_rights_in_the_Australian_Capital_Territory",
+              "publisher": "Wikipedia",
+              "date": ""
+            }
+          ],
+          "verified": true
+        },
+        "drugs_law_order": {
+          "summary": "Pettersson authored the private member's Drugs of Dependence (Personal Use) Amendment Bill 2021 to decriminalise possession of small amounts of illicit drugs, saying 'drug use is a public health issue and I'm glad we are finally treating it like one' and that 'no-one fixes a drug addiction by going to jail or being put in handcuffs.' The bill retained criminal penalties for supply, trafficking and manufacture. (Stated position; author of the bill.)",
+          "sources": [
+            {
+              "title": "Drug law reform",
+              "url": "https://www.michaelpettersson.com.au/media-centre/latest-news/drug-law-reform/",
+              "publisher": "Michael Pettersson MLA",
+              "date": ""
+            },
+            {
+              "title": "Pettersson: Hard drug use a public health, not criminal justice, issue",
+              "url": "https://canberradaily.com.au/pettersson-hard-drug-use-a-health-problem-not-criminal-justice-issue/",
+              "publisher": "Canberra Daily",
+              "date": ""
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the ACT Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -11954,7 +12248,50 @@
       "state": "ACT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Steel voted Aye in the ACT Legislative Assembly division of 25 June 2024 to agree to the Health (Improved Abortion Access) Amendment Bill 2024, which expanded who may prescribe abortion medication and required conscientious objectors to provide referral information.",
+          "sources": [
+            {
+              "title": "Debates Weekly Hansard, Tenth Assembly, 25 June 2024",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2024/PDF/20240625.pdf",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2024-06-25"
+            }
+          ],
+          "verified": true
+        },
+        "voluntary_assisted_dying": {
+          "summary": "Voted in favour of the Voluntary Assisted Dying Bill 2023, which passed the ACT Legislative Assembly 20 votes to 5 on 5 June 2024 (recorded in the Ayes).",
+          "sources": [
+            {
+              "title": "Debates Weekly Hansard, Tenth Assembly, 5 June 2024",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2024/PDF/20240605.pdf",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2024-06-05"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Recorded vote: as a Labor member present in the Assembly in August 2020, Steel was among the Labor and Greens members who voted to pass the Sexuality and Gender Identity Conversion Practices Act 2020 (passed 14 to 11), which the Liberals opposed. Steel also spoke in support of the bill during the debate.",
+          "sources": [
+            {
+              "title": "LGBT rights in the Australian Capital Territory",
+              "url": "https://en.wikipedia.org/wiki/LGBT_rights_in_the_Australian_Capital_Territory",
+              "publisher": "Wikipedia",
+              "date": ""
+            },
+            {
+              "title": "ACT Hansard, 27 August 2020 - Sexuality and Gender Identity Conversion Practices Bill 2020",
+              "url": "https://www.hansard.act.gov.au/hansard/9th-assembly/2020/HTML/week07/2223.htm",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2020-08-27"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the ACT Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -11975,7 +12312,68 @@
       "state": "ACT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "As Health Minister, Stephen-Smith introduced and moved the Health (Improved Abortion Access) Amendment Bill 2024 and voted Aye for it on 25 June 2024, stating in the chamber that 'abortion is an essential feature of an equitable healthcare system' and that the ACT Labor government 'has been at the forefront of abortion rights and reproductive justice in Australia'; she also confirmed there was no intention to remove the right to conscientious objection.",
+          "sources": [
+            {
+              "title": "Debates Weekly Hansard, Tenth Assembly, 25 June 2024",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2024/PDF/20240625.pdf",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2024-06-25"
+            },
+            {
+              "title": "Capital Territory becomes first Australia jurisdiction to provide free abortion care",
+              "url": "https://www.jurist.org/news/2023/04/capital-territory-becomes-first-australia-state-to-provide-free-abortion-care/",
+              "publisher": "JURIST",
+              "date": "2023-04-21"
+            }
+          ],
+          "verified": true
+        },
+        "voluntary_assisted_dying": {
+          "summary": "Voted in favour of the Voluntary Assisted Dying Bill 2023, which passed the ACT Legislative Assembly 20 votes to 5 on 5 June 2024 (recorded in the Ayes).",
+          "sources": [
+            {
+              "title": "Debates Weekly Hansard, Tenth Assembly, 5 June 2024",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2024/PDF/20240605.pdf",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2024-06-05"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Recorded vote: as a Labor member present in the Assembly in August 2020, Stephen-Smith was among the Labor and Greens members who voted to pass the Sexuality and Gender Identity Conversion Practices Act 2020 (passed 14 to 11), which the Liberals opposed.",
+          "sources": [
+            {
+              "title": "LGBT rights in the Australian Capital Territory",
+              "url": "https://en.wikipedia.org/wiki/LGBT_rights_in_the_Australian_Capital_Territory",
+              "publisher": "Wikipedia",
+              "date": ""
+            }
+          ],
+          "verified": true
+        },
+        "drugs_law_order": {
+          "summary": "As Health Minister, Stephen-Smith backed the 2022 decriminalisation of personal possession of small amounts of illicit drugs, saying the changes ensure people with small amounts for personal use 'are treated with a health response not a criminal one' and that 'treating drug addiction as a health issue improves outcomes for everyone in the community.' (Stated position.)",
+          "sources": [
+            {
+              "title": "Canberra drug decriminalisation laws passed in ACT Legislative Assembly",
+              "url": "https://www.canberratimes.com.au/story/7949564/drug-decriminalisation-laws-passed-in-the-act/",
+              "publisher": "The Canberra Times",
+              "date": "2022-10-20"
+            },
+            {
+              "title": "ACT decriminalises possession of small amounts of illicit drugs in Australian first",
+              "url": "https://www.sbs.com.au/news/article/act-decriminalises-possession-of-small-amounts-of-illicit-drugs-in-australian-first/ghk782vqp",
+              "publisher": "SBS News",
+              "date": "2022-10-20"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the ACT Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -11996,7 +12394,20 @@
       "state": "ACT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "voluntary_assisted_dying": {
+          "summary": "As ACT Labor candidate for Brindabella in the 2024 election, Tough provided a candidate statement to Canberrans for a Good Death adopting the ACT Labor statement, which expressed support for the ACT's voluntary assisted dying legislation and noted all ACT Labor MLAs voted in favour of it. (Stated position; she was elected in November 2024 and did not vote on the 2024 Act.)",
+          "sources": [
+            {
+              "title": "Appendix: Responses from Individual Candidates - Statement by Caitlin Tough, ACT Labor candidate for Brindabella",
+              "url": "https://canberransforagooddeath.net/wp-content/uploads/2024/10/Candidate-statements.pdf",
+              "publisher": "Canberrans for a Good Death",
+              "date": "2024-09-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the ACT Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -12069,6 +12480,54 @@
             }
           ],
           "verified": true
+        },
+        "abortion": {
+          "summary": "Cain voted No in the ACT Legislative Assembly division of 25 June 2024 against agreeing to the Health (Improved Abortion Access) Amendment Bill 2024, which allowed nurse practitioners and authorised midwives to prescribe abortion medication and required conscientious objectors to provide referral information.",
+          "sources": [
+            {
+              "title": "Debates Weekly Hansard, Tenth Assembly, 25 June 2024",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2024/PDF/20240625.pdf",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2024-06-25"
+            }
+          ],
+          "verified": true
+        },
+        "voluntary_assisted_dying": {
+          "summary": "Voted against the Voluntary Assisted Dying Bill 2023, which passed the ACT Legislative Assembly 20 votes to 5 on 5 June 2024 (recorded in the Noes).",
+          "sources": [
+            {
+              "title": "Debates Weekly Hansard, Tenth Assembly, 5 June 2024",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2024/PDF/20240605.pdf",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2024-06-05"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Recorded vote: as a Liberal member of the 10th Assembly, Cain was part of the Canberra Liberals who opposed the 2024 reforms to the Births, Deaths and Marriages Registration Act (which passed 12 to 5), the party objecting in particular to lowering the age at which a person can apply to change their registered sex.",
+          "sources": [
+            {
+              "title": "ACT reforms will make big difference to gender diverse people",
+              "url": "https://qnews.com.au/act-gender-laws-pass-act-parliament/",
+              "publisher": "QNews",
+              "date": "2024-03"
+            }
+          ],
+          "verified": true
+        },
+        "drugs_law_order": {
+          "summary": "As Liberal committee chair, Cain wrote a dissenting report opposing the Drugs of Dependence (Personal Use) Amendment Bill, arguing it would enable 'drug tourism', conflict with Commonwealth law and burden AFP officers, and that 'drug policy requires a whole-of-government evaluation and response' rather than a backbencher's bill. (Stated position; opposed the bill.)",
+          "sources": [
+            {
+              "title": "ACT should decriminalise small amounts of illicit drugs, committee says",
+              "url": "https://www.canberratimes.com.au/story/7531398/drug-decriminalisation-in-act-a-step-closer-but-opposition-airs-concerns/",
+              "publisher": "The Canberra Times",
+              "date": "2021-11-30"
+            }
+          ],
+          "verified": true
         }
       },
       "roster_source": {
@@ -12083,15 +12542,52 @@
     {
       "id": "act-leanne-castley-yerrabi",
       "name": "Leanne Castley",
-      "party": "Canberra Liberals",
-      "party_group": "Coalition",
+      "party": "Independent",
+      "party_group": "Independent",
       "jurisdiction": "ACT",
       "chamber": "ACT Legislative Assembly",
       "electorate": "Yerrabi",
       "state": "ACT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Castley voted Aye in the ACT Legislative Assembly division of 25 June 2024 to agree to the Health (Improved Abortion Access) Amendment Bill 2024 (a Canberra Liberals conscience vote), which expanded who may prescribe abortion medication and required conscientious objectors to provide referral information.",
+          "sources": [
+            {
+              "title": "Debates Weekly Hansard, Tenth Assembly, 25 June 2024",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2024/PDF/20240625.pdf",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2024-06-25"
+            }
+          ],
+          "verified": true
+        },
+        "voluntary_assisted_dying": {
+          "summary": "Voted in favour of the Voluntary Assisted Dying Bill 2023, which passed the ACT Legislative Assembly 20 votes to 5 on 5 June 2024 (recorded in the Ayes).",
+          "sources": [
+            {
+              "title": "Debates Weekly Hansard, Tenth Assembly, 5 June 2024",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2024/PDF/20240605.pdf",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2024-06-05"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Recorded vote: as a Liberal member of the 10th Assembly, Castley was part of the Canberra Liberals who opposed the 2024 reforms to the Births, Deaths and Marriages Registration Act (which passed 12 to 5), the party objecting in particular to lowering the age at which a person can apply to change their registered sex.",
+          "sources": [
+            {
+              "title": "ACT reforms will make big difference to gender diverse people",
+              "url": "https://qnews.com.au/act-gender-laws-pass-act-parliament/",
+              "publisher": "QNews",
+              "date": "2024-03"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the ACT Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -12110,7 +12606,56 @@
       "state": "ACT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Cocks voted No in the ACT Legislative Assembly division of 25 June 2024 against agreeing to the Health (Improved Abortion Access) Amendment Bill 2024, which allowed nurse practitioners and authorised midwives to prescribe abortion medication and required conscientious objectors to provide referral information.",
+          "sources": [
+            {
+              "title": "Debates Weekly Hansard, Tenth Assembly, 25 June 2024",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2024/PDF/20240625.pdf",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2024-06-25"
+            }
+          ],
+          "verified": true
+        },
+        "voluntary_assisted_dying": {
+          "summary": "Voted against the Voluntary Assisted Dying Bill 2023, which passed the ACT Legislative Assembly 20 votes to 5 on 5 June 2024 (recorded in the Noes).",
+          "sources": [
+            {
+              "title": "Debates Weekly Hansard, Tenth Assembly, 5 June 2024",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2024/PDF/20240605.pdf",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2024-06-05"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Recorded vote: as a Liberal member of the 10th Assembly (elected at a 2022 countback), Cocks was part of the Canberra Liberals who opposed the 2024 reforms to the Births, Deaths and Marriages Registration Act (which passed 12 to 5), the party objecting in particular to lowering the age at which a person can apply to change their registered sex.",
+          "sources": [
+            {
+              "title": "ACT reforms will make big difference to gender diverse people",
+              "url": "https://qnews.com.au/act-gender-laws-pass-act-parliament/",
+              "publisher": "QNews",
+              "date": "2024-03"
+            }
+          ],
+          "verified": true
+        },
+        "religious_freedom": {
+          "summary": "In a Canberra Daily profile, Cocks listed 'freedom of worship' among the Liberal values he personally identifies with, naming it alongside freedom of speech, freedom of thought, freedom to own property and freedom to make choices in the market. This is a stated position.",
+          "sources": [
+            {
+              "title": "From public service to politics: Ed Cocks MLA",
+              "url": "https://canberradaily.com.au/from-public-service-to-politics-ed-cocks-mla/",
+              "publisher": "Canberra Daily",
+              "date": "2022-07-13"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the ACT Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -12131,7 +12676,68 @@
       "state": "ACT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "voluntary_assisted_dying": {
+          "summary": "Voted against the Voluntary Assisted Dying Bill 2023, which passed the ACT Legislative Assembly 20 votes to 5 on 5 June 2024 (recorded in the Noes).",
+          "sources": [
+            {
+              "title": "Debates Weekly Hansard, Tenth Assembly, 5 June 2024",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2024/PDF/20240605.pdf",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2024-06-05"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Stated position and recorded vote: Hanson has publicly stated his support for same-sex marriage (Canberra Times, 4 June 2015); as a Liberal member present in August 2020 he was among the Liberals who opposed the Sexuality and Gender Identity Conversion Practices Act 2020 (passed 14 to 11).",
+          "sources": [
+            {
+              "title": "Jeremy Hanson",
+              "url": "https://en.wikipedia.org/wiki/Jeremy_Hanson",
+              "publisher": "Wikipedia",
+              "date": ""
+            },
+            {
+              "title": "LGBT rights in the Australian Capital Territory",
+              "url": "https://en.wikipedia.org/wiki/LGBT_rights_in_the_Australian_Capital_Territory",
+              "publisher": "Wikipedia",
+              "date": ""
+            }
+          ],
+          "verified": true
+        },
+        "religious_freedom": {
+          "summary": "In the Discrimination Amendment Bill 2022 debate (23 March 2023), Hanson said the Canberra Liberals would support the bill, stated that people should be protected from discrimination on the basis of their faith as well as other attributes, noted faith groups remained 'nervous' about possible unintended consequences, and moved amendments (including on behalf of Elizabeth Lee) seeking a longer commencement period and an objects clause asserting that all human rights are held with equal importance. This reflects stated positions and recorded contributions to debate.",
+          "sources": [
+            {
+              "title": "Week 2 - Thursday, 23 March 2023 - 10th Assembly Hansard",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2023/HTML/week02/p587-p694.htm",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2023-03-23"
+            }
+          ],
+          "verified": true
+        },
+        "drugs_law_order": {
+          "summary": "Hanson, as Deputy Liberal Leader, opposed drug decriminalisation, saying 'it's going to lead to more crime. It's going to lead to more carnage on our roads.' He later moved a 2025 Assembly motion to repeal the decriminalisation laws, calling them 'a failed experiment' that is 'not evidence-based' and arguing 'the only people that are winning are the drug dealers.' (Stated position; moved repeal motion.)",
+          "sources": [
+            {
+              "title": "ACT decriminalises possession of small amounts of illicit drugs in Australian first",
+              "url": "https://www.sbs.com.au/news/article/act-decriminalises-possession-of-small-amounts-of-illicit-drugs-in-australian-first/ghk782vqp",
+              "publisher": "SBS News",
+              "date": "2022-10-20"
+            },
+            {
+              "title": "Canberra Liberals accused of playing 'alarmist' games in failed attempt to repeal drug decriminalisation laws",
+              "url": "https://region.com.au/canberra-liberals-accused-of-playing-alarmist-games-in-failed-attempt-to-repeal-drug-decriminalisation-laws/914746/",
+              "publisher": "Region Canberra",
+              "date": "2025-10-22"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the ACT Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -12152,7 +12758,80 @@
       "state": "ACT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Speaking as the Liberal member for Kurrajong on a conscience vote, Lee said 'I support this bill' and voted Aye on 25 June 2024 for the Health (Improved Abortion Access) Amendment Bill 2024, describing its conscientious-objection referral requirement as a 'sensible amendment'; she is also described as a moderate who supports abortion.",
+          "sources": [
+            {
+              "title": "Debates Weekly Hansard, Tenth Assembly, 25 June 2024",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2024/PDF/20240625.pdf",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2024-06-25"
+            },
+            {
+              "title": "Can Elizabeth Lee end the ACT Liberals' 23-year drought?",
+              "url": "https://www.canberratimes.com.au/story/8788598/can-elizabeth-lee-end-the-act-liberals-23-year-drought/",
+              "publisher": "The Canberra Times",
+              "date": "2024-10-11"
+            }
+          ],
+          "verified": true
+        },
+        "voluntary_assisted_dying": {
+          "summary": "Voted in favour of the Voluntary Assisted Dying Bill 2023, which passed the ACT Legislative Assembly 20 votes to 5 on 5 June 2024 (recorded in the Ayes).",
+          "sources": [
+            {
+              "title": "Debates Weekly Hansard, Tenth Assembly, 5 June 2024",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2024/PDF/20240605.pdf",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2024-06-05"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Stated position and recorded vote: Lee is described as a moderate who supports gay marriage (Canberra Times); as a Liberal member present in August 2020 she was among the Liberals who opposed the Sexuality and Gender Identity Conversion Practices Act 2020 (passed 14 to 11).",
+          "sources": [
+            {
+              "title": "Can Elizabeth Lee end the ACT Liberals' 23-year drought?",
+              "url": "https://www.canberratimes.com.au/story/8788598/can-elizabeth-lee-end-the-act-liberals-23-year-drought/",
+              "publisher": "The Canberra Times",
+              "date": ""
+            },
+            {
+              "title": "LGBT rights in the Australian Capital Territory",
+              "url": "https://en.wikipedia.org/wiki/LGBT_rights_in_the_Australian_Capital_Territory",
+              "publisher": "Wikipedia",
+              "date": ""
+            }
+          ],
+          "verified": true
+        },
+        "religious_freedom": {
+          "summary": "In the Discrimination Amendment Bill 2022 debate (23 March 2023), amendments circulated in Elizabeth Lee's name (moved on her behalf as she was absent) proposed inserting an objects clause stating the indivisibility and universality of human rights and that every person is free and equal in dignity, an extended commencement period, and a club/voluntary-body exception; the objects-clause amendment was put to a division and negatived 7-14. These are recorded proposed amendments attributed to her.",
+          "sources": [
+            {
+              "title": "Week 2 - Thursday, 23 March 2023 - 10th Assembly Hansard",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2023/HTML/week02/p587-p694.htm",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2023-03-23"
+            }
+          ],
+          "verified": true
+        },
+        "drugs_law_order": {
+          "summary": "As Opposition Leader, Lee stated the Canberra Liberals 'remain strongly opposed' to the drug decriminalisation laws, called them 'bad laws', and committed that if elected in October 2024 the party would repeal them. She separately said she supported territory rights and did not back the federal Coalition's attempt to overturn the ACT laws. (Stated position.)",
+          "sources": [
+            {
+              "title": "Elizabeth Lee reaffirms Canberra Liberals will overturn drug decriminalisation if they win 2024 poll",
+              "url": "https://www.canberratimes.com.au/story/8398843/bad-laws-liberals-concerns-for-business-ahead-of-drug-changes/",
+              "publisher": "The Canberra Times",
+              "date": "2023-10-25"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the ACT Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -12173,7 +12852,62 @@
       "state": "ACT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Milligan voted No in the ACT Legislative Assembly division of 25 June 2024 against agreeing to the Health (Improved Abortion Access) Amendment Bill 2024, which allowed nurse practitioners and authorised midwives to prescribe abortion medication and required conscientious objectors to provide referral information.",
+          "sources": [
+            {
+              "title": "Debates Weekly Hansard, Tenth Assembly, 25 June 2024",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2024/PDF/20240625.pdf",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2024-06-25"
+            }
+          ],
+          "verified": true
+        },
+        "voluntary_assisted_dying": {
+          "summary": "Voted against the Voluntary Assisted Dying Bill 2023, which passed the ACT Legislative Assembly 20 votes to 5 on 5 June 2024 (recorded in the Noes).",
+          "sources": [
+            {
+              "title": "Debates Weekly Hansard, Tenth Assembly, 5 June 2024",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2024/PDF/20240605.pdf",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2024-06-05"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Recorded vote: Milligan served in the Assembly from 2016 to October 2020 and was among the Liberals who opposed the Sexuality and Gender Identity Conversion Practices Act 2020 (passed 14 to 11 in August 2020); he was re-elected in 2024.",
+          "sources": [
+            {
+              "title": "LGBT rights in the Australian Capital Territory",
+              "url": "https://en.wikipedia.org/wiki/LGBT_rights_in_the_Australian_Capital_Territory",
+              "publisher": "Wikipedia",
+              "date": ""
+            },
+            {
+              "title": "James Milligan (politician)",
+              "url": "https://en.wikipedia.org/wiki/James_Milligan_(politician)",
+              "publisher": "Wikipedia",
+              "date": ""
+            }
+          ],
+          "verified": true
+        },
+        "drugs_law_order": {
+          "summary": "As Shadow Minister for Police and Emergency Services, Milligan opposes drug decriminalisation and supports recriminalisation, citing Oregon: 'in the space of four years, their soft on drugs policy has been a complete and utter disaster.' He said 'the Canberra Liberals called for the recriminalisation of drugs of dependence, and I stand by that.' (Stated position.)",
+          "sources": [
+            {
+              "title": "US drug-decriminalisation U-turn: lessons for ACT, Liberals warn",
+              "url": "https://canberradaily.com.au/us-drug-decriminalisation-u-turn-lessons-for-act-liberals-warn/",
+              "publisher": "Canberra Daily",
+              "date": "2024-04-23"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the ACT Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -12194,7 +12928,20 @@
       "state": "ACT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "drugs_law_order": {
+          "summary": "Morris, Deputy Opposition Leader, supports 'tougher sentencing, more police funding, anti-consorting laws and the criminalisation of drug use', saying 'if you weaken laws that are designed to keep the community safe, a lot of people are going to get hurt, and governments have a responsibility to ensure that that doesn't happen.' She has campaigned strongly on crime and law and order. (Stated position.)",
+          "sources": [
+            {
+              "title": "Canberra Liberals deputy Deborah Morris' unique path to politics",
+              "url": "https://www.canberratimes.com.au/story/9110784/canberra-liberals-deputy-deborah-morris-unique-path-to-politics/",
+              "publisher": "The Canberra Times",
+              "date": "2025-11-16"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the ACT Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -12213,7 +12960,56 @@
       "state": "ACT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Parton voted Aye in the ACT Legislative Assembly division of 25 June 2024 to agree to the Health (Improved Abortion Access) Amendment Bill 2024 (a Canberra Liberals conscience vote), which expanded who may prescribe abortion medication and required conscientious objectors to provide referral information.",
+          "sources": [
+            {
+              "title": "Debates Weekly Hansard, Tenth Assembly, 25 June 2024",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2024/PDF/20240625.pdf",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2024-06-25"
+            }
+          ],
+          "verified": true
+        },
+        "voluntary_assisted_dying": {
+          "summary": "Voted in favour of the Voluntary Assisted Dying Bill 2023, which passed the ACT Legislative Assembly 20 votes to 5 on 5 June 2024 (recorded in the Ayes).",
+          "sources": [
+            {
+              "title": "Debates Weekly Hansard, Tenth Assembly, 5 June 2024",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2024/PDF/20240605.pdf",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2024-06-05"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Recorded vote: as a Liberal member present in August 2020, Parton was among the Liberals who opposed the Sexuality and Gender Identity Conversion Practices Act 2020 (passed 14 to 11).",
+          "sources": [
+            {
+              "title": "LGBT rights in the Australian Capital Territory",
+              "url": "https://en.wikipedia.org/wiki/LGBT_rights_in_the_Australian_Capital_Territory",
+              "publisher": "Wikipedia",
+              "date": ""
+            }
+          ],
+          "verified": true
+        },
+        "drugs_law_order": {
+          "summary": "As Liberal leader, Parton announced in his 2026 budget reply that a Liberal government would recriminalise methamphetamine, describing the existing decriminalisation approach as having 'failed' and saying 'we will recriminalise meth because we refuse to pretend that a drug causing such serious harm in our community should be treated as just another minor infringement.' (Stated position.)",
+          "sources": [
+            {
+              "title": "Mark Parton unveils 50-cent fares and meth recriminalisation in budget reply",
+              "url": "https://www.canberratimes.com.au/story/9291199/mark-parton-unveils-50-cent-fares-and-meth-recriminalisation-in-budget-reply/",
+              "publisher": "The Canberra Times",
+              "date": "2026-06-12"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the ACT Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -12234,7 +13030,56 @@
       "state": "ACT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "voluntary_assisted_dying": {
+          "summary": "Voted in favour of the Voluntary Assisted Dying Bill 2023, which passed the ACT Legislative Assembly 20 votes to 5 on 5 June 2024 (recorded in the Ayes).",
+          "sources": [
+            {
+              "title": "Debates Weekly Hansard, Tenth Assembly, 5 June 2024",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2024/PDF/20240605.pdf",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2024-06-05"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Recorded vote: as an ACT Greens member of the 10th Assembly, Braddock was among the Labor and Greens members who passed the 2024 reforms to the Births, Deaths and Marriages Registration Act (12 to 5), giving greater choice of gender descriptors on birth certificates, removing the clinical-treatment requirement and lowering the application age, which the Liberals opposed.",
+          "sources": [
+            {
+              "title": "ACT reforms will make big difference to gender diverse people",
+              "url": "https://qnews.com.au/act-gender-laws-pass-act-parliament/",
+              "publisher": "QNews",
+              "date": "2024-03"
+            }
+          ],
+          "verified": true
+        },
+        "religious_freedom": {
+          "summary": "In the Discrimination Amendment Bill 2022 debate (23 March 2023), Braddock (Greens) spoke in support of the bill, applauding the refinement of the Act's exceptions (including those affecting religious bodies) so that discrimination must be reasonable, proportionate and justifiable, and stated the Greens would oppose the Opposition's amendment that he said would effectively restore a blanket exemption for clubs to discriminate. This is a stated position and a recorded contribution to debate.",
+          "sources": [
+            {
+              "title": "Week 2 - Thursday, 23 March 2023 - 10th Assembly Hansard",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2023/HTML/week02/p587-p694.htm",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2023-03-23"
+            }
+          ],
+          "verified": true
+        },
+        "drugs_law_order": {
+          "summary": "Braddock introduced a private member's Road Transport (Alcohol and Drugs) Amendment Bill 2026 to remove what he calls 'discriminatory treatment' of medicinal cannabis users under drug-driving laws, arguing prescribed cannabis users who are not impaired should not be treated differently from prescribed opioid users: 'if you are not impaired, have a valid prescription, and are taking your medication as directed, you should not be treated as a criminal.' (Stated position; author of the bill.)",
+          "sources": [
+            {
+              "title": "ACT set to debate drug driving law change for medicinal cannabis",
+              "url": "https://www.canberratimes.com.au/story/9291481/act-set-to-debate-drug-driving-law-change-for-medicinal-cannabis/",
+              "publisher": "The Canberra Times",
+              "date": "2026-06-14"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the ACT Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -12255,7 +13100,44 @@
       "state": "ACT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Clay voted Aye in the ACT Legislative Assembly division of 25 June 2024 to agree to the Health (Improved Abortion Access) Amendment Bill 2024, which expanded who may prescribe abortion medication and required conscientious objectors to provide referral information.",
+          "sources": [
+            {
+              "title": "Debates Weekly Hansard, Tenth Assembly, 25 June 2024",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2024/PDF/20240625.pdf",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2024-06-25"
+            }
+          ],
+          "verified": true
+        },
+        "voluntary_assisted_dying": {
+          "summary": "Voted in favour of the Voluntary Assisted Dying Bill 2023, which passed the ACT Legislative Assembly 20 votes to 5 on 5 June 2024 (recorded in the Ayes).",
+          "sources": [
+            {
+              "title": "Debates Weekly Hansard, Tenth Assembly, 5 June 2024",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2024/PDF/20240605.pdf",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2024-06-05"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Recorded vote: as an ACT Greens member of the 10th Assembly, Clay was among the Labor and Greens members who passed the 2024 reforms to the Births, Deaths and Marriages Registration Act (12 to 5), giving greater choice of gender descriptors on birth certificates, removing the clinical-treatment requirement and lowering the application age, which the Liberals opposed.",
+          "sources": [
+            {
+              "title": "ACT reforms will make big difference to gender diverse people",
+              "url": "https://qnews.com.au/act-gender-laws-pass-act-parliament/",
+              "publisher": "QNews",
+              "date": "2024-03"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the ACT Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -12276,7 +13158,50 @@
       "state": "ACT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Nuttall voted Aye in the ACT Legislative Assembly division of 25 June 2024 to agree to the Health (Improved Abortion Access) Amendment Bill 2024, which expanded who may prescribe abortion medication and required conscientious objectors to provide referral information.",
+          "sources": [
+            {
+              "title": "Debates Weekly Hansard, Tenth Assembly, 25 June 2024",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2024/PDF/20240625.pdf",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2024-06-25"
+            }
+          ],
+          "verified": true
+        },
+        "voluntary_assisted_dying": {
+          "summary": "Voted in favour of the Voluntary Assisted Dying Bill 2023, which passed the ACT Legislative Assembly 20 votes to 5 on 5 June 2024 (recorded in the Ayes). Nuttall was an ACT Greens MLA in the Tenth Assembly at the time of the vote.",
+          "sources": [
+            {
+              "title": "Debates Weekly Hansard, Tenth Assembly, 5 June 2024",
+              "url": "https://www.hansard.act.gov.au/hansard/10th-assembly/2024/PDF/20240605.pdf",
+              "publisher": "ACT Legislative Assembly Hansard",
+              "date": "2024-06-05"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Recorded vote and action: as an ACT Greens member, Nuttall moved amendments to the 2024 gender-recognition reforms (greater choice of gender descriptors on birth certificates, removing the clinical-treatment requirement and lowering the application age) which were accepted by the ACT Labor Government, and the reforms passed 12 to 5 with the Liberals opposed.",
+          "sources": [
+            {
+              "title": "ACT reforms will make big difference to gender diverse people",
+              "url": "https://qnews.com.au/act-gender-laws-pass-act-parliament/",
+              "publisher": "QNews",
+              "date": "2024-03"
+            },
+            {
+              "title": "New laws removing barriers to gender recognition welcomed in ACT",
+              "url": "https://equalityaustralia.org.au/new-laws-removing-barriers-to-gender-recognition-welcomed-in-act/",
+              "publisher": "Equality Australia",
+              "date": "2024-03"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the ACT Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -12297,7 +13222,32 @@
       "state": "ACT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "voluntary_assisted_dying": {
+          "summary": "In a candidate statement to Canberrans for a Good Death ahead of the 2024 election, Carrick wrote 'I support Voluntary Assisted Dying, including the current legislation,' adding any change to the Act's review timeframe should involve stakeholder and community consultation. (Stated position; she was elected in November 2024 and did not vote on the 2024 Act.)",
+          "sources": [
+            {
+              "title": "Appendix: Responses from Individual Candidates - Statement by Fiona Carrick, Candidate for Murrumbidgee",
+              "url": "https://canberransforagooddeath.net/wp-content/uploads/2024/10/Candidate-statements.pdf",
+              "publisher": "Canberrans for a Good Death",
+              "date": "2024-10-01"
+            }
+          ],
+          "verified": true
+        },
+        "drugs_law_order": {
+          "summary": "Independent MLA Carrick voted against the Canberra Liberals' October 2025 motion to repeal the ACT's drug decriminalisation laws, alongside Labor, the Greens and fellow independent Thomas Emerson; the motion failed. (Recorded vote against repeal.)",
+          "sources": [
+            {
+              "title": "Canberra Liberals accused of playing 'alarmist' games in failed attempt to repeal drug decriminalisation laws",
+              "url": "https://region.com.au/canberra-liberals-accused-of-playing-alarmist-games-in-failed-attempt-to-repeal-drug-decriminalisation-laws/914746/",
+              "publisher": "Region Canberra",
+              "date": "2025-10-22"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the ACT Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -12318,7 +13268,32 @@
       "state": "ACT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "voluntary_assisted_dying": {
+          "summary": "In response to the Canberrans for a Good Death 2024 election candidate survey, Emerson (Independents for Canberra, Kurrajong) answered 'Yes' to the question 'Do you support VAD', and supported widening eligibility and a binding advance directive in the next Assembly term. (Stated position; he was elected in November 2024 and did not vote on the 2024 Act.)",
+          "sources": [
+            {
+              "title": "Report on the survey of candidates for the 2024 ACT Election and their attitudes to widening eligibility for voluntary assisted dying",
+              "url": "https://canberransforagooddeath.net/wp-content/uploads/2024/10/REPORT-ON-THE-SURVEY-OF-CANDIDATES-FOR-THE-2024-ACT-ELECTION.pdf",
+              "publisher": "Canberrans for a Good Death",
+              "date": "2024-10-01"
+            }
+          ],
+          "verified": true
+        },
+        "drugs_law_order": {
+          "summary": "Independent MLA Emerson voted against the Canberra Liberals' October 2025 motion to repeal the ACT's drug decriminalisation laws, alongside Labor, the Greens and fellow independent Fiona Carrick; the motion failed. (Recorded vote against repeal.)",
+          "sources": [
+            {
+              "title": "Canberra Liberals accused of playing 'alarmist' games in failed attempt to repeal drug decriminalisation laws",
+              "url": "https://region.com.au/canberra-liberals-accused-of-playing-alarmist-games-in-failed-attempt-to-repeal-drug-decriminalisation-laws/914746/",
+              "publisher": "Region Canberra",
+              "date": "2025-10-22"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the ACT Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Australian_Capital_Territory_Legislative_Assembly,_2024%E2%80%932028",

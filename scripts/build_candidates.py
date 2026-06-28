@@ -37,7 +37,9 @@ BUILD_DATE = "2026-06-26"
 
 # Policy-position issue keys, in display priority order. Each may have a file
 # data/positions/<issue>.json mapping candidate id -> {summary, sources, verified}.
-ISSUES = ["faith", "immigration", "foreign_policy", "economic_nationalism", "citizenship_eligibility"]
+ISSUES = ["faith", "immigration", "foreign_policy", "economic_nationalism", "citizenship_eligibility",
+          # State/territory conscience & social issues:
+          "abortion", "voluntary_assisted_dying", "gender_lgbtq", "religious_freedom", "drugs_law_order"]
 
 AEC_HOUSE_URL = "https://results.aec.gov.au/31496/Website/HouseDownloadsMenu-31496-Csv.htm"
 AEC_DONOR_URL = "https://transparency.aec.gov.au/MemberOfParliament"
