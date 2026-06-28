@@ -81,7 +81,12 @@
         "citizenship_eligibility": {
           "allOf": [{ "$ref": "#/definitions/position" }],
           "description": "Section 44 constitutional eligibility ONLY (sole vs dual citizenship affecting eligibility to sit). Never heritage, ancestry, or origin."
-        }
+        },
+        "abortion": { "$ref": "#/definitions/position", "description": "State issue: reproductive/abortion policy positions and votes." },
+        "voluntary_assisted_dying": { "$ref": "#/definitions/position", "description": "State issue: voluntary assisted dying positions and votes." },
+        "gender_lgbtq": { "$ref": "#/definitions/position", "description": "State issue: gender and LGBTQ+ policy positions and votes." },
+        "religious_freedom": { "$ref": "#/definitions/position", "description": "State issue: religious freedom / freedom of conscience positions." },
+        "drugs_law_order": { "$ref": "#/definitions/position", "description": "State issue: drug policy and law-and-order positions." }
       },
       "additionalProperties": false
     },

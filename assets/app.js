@@ -6,15 +6,26 @@ const POSITION_LABELS = {
   economic_nationalism: 'Economic nationalism',
   foreign_policy: 'Foreign policy & aid',
   citizenship_eligibility: 'Citizenship (s44 eligibility)',
+  abortion: 'Abortion & reproductive policy',
+  voluntary_assisted_dying: 'Voluntary assisted dying',
+  gender_lgbtq: 'Gender & LGBTQ+ policy',
+  religious_freedom: 'Religious freedom',
+  drugs_law_order: 'Drugs & law and order',
 };
 
-const ISSUE_KEYS = ['faith', 'immigration', 'foreign_policy', 'economic_nationalism', 'citizenship_eligibility'];
+const ISSUE_KEYS = ['faith', 'immigration', 'foreign_policy', 'economic_nationalism', 'citizenship_eligibility',
+  'abortion', 'voluntary_assisted_dying', 'gender_lgbtq', 'religious_freedom', 'drugs_law_order'];
 const CHIP_LABELS = {
   faith: 'Faith',
   immigration: 'Immigration',
   foreign_policy: 'Foreign policy',
   economic_nationalism: 'Economic nat.',
   citizenship_eligibility: 'Citizenship',
+  abortion: 'Abortion',
+  voluntary_assisted_dying: 'VAD',
+  gender_lgbtq: 'Gender/LGBTQ+',
+  religious_freedom: 'Religious freedom',
+  drugs_law_order: 'Drugs/law',
 };
 
 const state = {
