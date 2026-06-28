@@ -13314,7 +13314,44 @@
       "state": "NT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "religious_freedom": {
+          "summary": "Recorded vote: in November 2022 (14th Assembly) Boothby voted against Labor's Anti-Discrimination Amendment Bill, which removed exemptions allowing religious schools to hire on the basis of faith. Stated position: as Attorney-General she introduced the Anti-Discrimination Amendment Bill 2025 reinstating an exception for religious schools to hire on the basis of faith and narrowing vilification provisions, saying the changes aimed to restore 'freedom of speech, especially for individuals and religious communities ... without allowing [or] condoning hate speech.'",
+          "sources": [
+            {
+              "title": "How NT MPs voted on the Anti-Discrimination Amendment Bill 2022",
+              "url": "https://familyvoice.org.au/news/how-nt-mps-voted-on-the-anti-discrimination-amendment-bill-2022",
+              "publisher": "FamilyVoice Australia",
+              "date": "2022-11-28"
+            },
+            {
+              "title": "CLP Restores Balance To Anti-Discrimination Laws",
+              "url": "https://www.miragenews.com/clp-restores-balance-to-anti-discrimination-1552327/",
+              "publisher": "Mirage News",
+              "date": "2025-10-16"
+            },
+            {
+              "title": "Removal of anti-vilification protection unacceptable, NT Labor says",
+              "url": "https://nit.com.au/24-02-2025/16453/removal-of-anti-vilification-protection-unacceptable-nt-labor-says",
+              "publisher": "National Indigenous Times",
+              "date": "2025-02-24"
+            }
+          ],
+          "verified": true
+        },
+        "drugs_law_order": {
+          "summary": "As NT Attorney-General and Minister for Tourism and Hospitality, Boothby led the CLP government's removal of the alcohol minimum floor price, stating the CLP is 'focused on real reforms' and committed to alcohol policy that is 'responsible, targeted, and evidence-based' while supporting the hospitality sector; she framed pricing controls as ineffective compared with targeted measures such as Police Auxiliary Liquor Inspectors. This is a stated position.",
+          "sources": [
+            {
+              "title": "CLP Removes Minimum Floor Price in Year of Action",
+              "url": "https://www.miragenews.com/clp-removes-minimum-floor-price-in-year-of-1406293/",
+              "publisher": "Mirage News",
+              "date": "2025-02-11"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -13333,7 +13370,32 @@
       "state": "NT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "religious_freedom": {
+          "summary": "Recorded vote: in November 2022 (14th Assembly) Burgoyne voted against Labor's Anti-Discrimination Amendment Bill, which removed exemptions that had allowed faith-based schools to hire staff sharing the school's religion.",
+          "sources": [
+            {
+              "title": "How NT MPs voted on the Anti-Discrimination Amendment Bill 2022",
+              "url": "https://familyvoice.org.au/news/how-nt-mps-voted-on-the-anti-discrimination-amendment-bill-2022",
+              "publisher": "FamilyVoice Australia",
+              "date": "2022-11-28"
+            }
+          ],
+          "verified": true
+        },
+        "drugs_law_order": {
+          "summary": "Burgoyne (with fellow Alice Springs MLAs) advocated tougher youth-crime measures, stating victims would 'be put first' over what he called 'offender first' policies and that 'youth justice must immediately be returned to Corrections' as the body best placed to correct offending behaviour. This is a stated position.",
+          "sources": [
+            {
+              "title": "Kids, parents must pay for crime: 3 Alice MLAs",
+              "url": "https://alicespringsnews.com.au/2021/02/01/kids-parents-must-pay-for-crime-3-alice-mlas/",
+              "publisher": "Alice Springs News",
+              "date": "2021-02-01"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -13352,7 +13414,20 @@
       "state": "NT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "drugs_law_order": {
+          "summary": "As NT Minister for Child Protection, Cahill championed amending child protection legislation to prioritise child safety, stating 'above all else, the safety of children is what counts most' and that 'if we can't guarantee the safety of a child, it is absolutely paramount that we put that child somewhere safe'; she criticised an 'absolute reluctance' to remove children from Aboriginal families. This is a stated position.",
+          "sources": [
+            {
+              "title": "Minister Robyn Cahill reveals NT child protection workers stood down over Kumanjayi Little Baby failures",
+              "url": "https://thenightly.com.au/australia/minister-robyn-cahill-reveals-three-nt-child-protection-workers-sacked-over-kumanjayi-little-baby-failures-c-22241620",
+              "publisher": "The Nightly",
+              "date": "2026-05-06"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -13373,7 +13448,20 @@
       "state": "NT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "drugs_law_order": {
+          "summary": "On her CLP profile, Carlson frames community safety and crime as her central concern, stating 'our lifestyle and community has changed, we live in fear and our choices have been taken away' and citing an attack on her mother by youths at Casuarina as why she is 'standing up to make a change'. This is a stated position.",
+          "sources": [
+            {
+              "title": "Oly Carlson - CLP Member for Wanguri",
+              "url": "https://clp.org.au/team/oly-carlson",
+              "publisher": "Country Liberal Party",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -13392,7 +13480,20 @@
       "state": "NT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "drugs_law_order": {
+          "summary": "Charls (Member for Sanderson) supports the CLP's 'Declan's Law' bail reforms, saying the killing of Declan Laverty by a person on bail was 'the tragedy that pushed me to put my hand up, to work harder for the Northern Suburbs and to stand up for the safety and future of Territorians'. This is a stated position.",
+          "sources": [
+            {
+              "title": "Declan's Law delivers stronger bail outcomes and safer communities",
+              "url": "https://www.nationaltribune.com.au/declan-s-law-delivers-stronger-bail-outcomes-and-safer-communities/",
+              "publisher": "The National Tribune",
+              "date": "2025-10-23"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -13411,7 +13512,32 @@
       "state": "NT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "religious_freedom": {
+          "summary": "Recorded vote: in November 2022 (14th Assembly) Edgington voted against Labor's Anti-Discrimination Amendment Bill, which removed exemptions that had allowed faith-based schools to hire staff sharing the school's religion.",
+          "sources": [
+            {
+              "title": "How NT MPs voted on the Anti-Discrimination Amendment Bill 2022",
+              "url": "https://familyvoice.org.au/news/how-nt-mps-voted-on-the-anti-discrimination-amendment-bill-2022",
+              "publisher": "FamilyVoice Australia",
+              "date": "2022-11-28"
+            }
+          ],
+          "verified": true
+        },
+        "drugs_law_order": {
+          "summary": "As NT Minister for Alcohol Policy, Edgington backed new nuisance public drinking laws (police powers to fine up to $925, issue seven-day Banned Drinker Orders and confiscate alcohol), saying they aim at 'making our public spaces and parks safer and cleaner for everyone' and will 'allow police to intervene earlier to ensure we stop this scourge in public places where alcohol is prohibited'. This is a stated position.",
+          "sources": [
+            {
+              "title": "CLP's new approach tackling the Northern Territory's crime rates as new nuisance public drinking laws pass Parliament",
+              "url": "https://nit.com.au/25-10-2024/14478/clps-new-approach-tackling-the-northern-territories-crime-rates-as-new-nuisance-public-drinking-laws-pass-parliament",
+              "publisher": "National Indigenous Times",
+              "date": "2024-10-25"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -13430,7 +13556,80 @@
       "state": "NT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Finocchiaro supports a woman's right to have an abortion and voted in favour of the legislation that decriminalised abortion in the Northern Territory and made the abortion drug RU486 more accessible for women in remote areas. This is a recorded vote on the Termination of Pregnancy Law Reform Act 2017.",
+          "sources": [
+            {
+              "title": "Lia Finocchiaro",
+              "url": "https://en.wikipedia.org/wiki/Lia_Finocchiaro",
+              "publisher": "Wikipedia",
+              "date": ""
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "As Chief Minister, Finocchiaro announced in October 2025 a policy to house NT prisoners according to sex assigned at birth, removing transgender women from women's prisons, stating \"If you're born a bloke, you're going to a men's prison\" and framing it as being about \"women's safety\" and \"women's dignity\"; she said the policy reversed the former Labor government's approach allowing self-declaration. This is a stated position and announced government policy.",
+          "sources": [
+            {
+              "title": "NT Govt Bans Trans Women From Women's Prisons in “Nation-First” Move",
+              "url": "https://www.starobserver.com.au/news/nt-govt-bans-trans-women-from-womens-prisons-in-nation-first-move/239202",
+              "publisher": "Star Observer",
+              "date": "2025-10-15"
+            },
+            {
+              "title": "'Degraded and uneasy': Incarcerated trans women push back on NT prison ban proposal",
+              "url": "https://www.sbs.com.au/news/article/nt-advocates-share-incarcerated-trans-womens-stories-amid-ban-debate/8mpeirml0",
+              "publisher": "SBS News",
+              "date": "2025-10-16"
+            }
+          ],
+          "verified": true
+        },
+        "religious_freedom": {
+          "summary": "Recorded vote: in November 2022 (14th Assembly) Finocchiaro voted against Labor's Anti-Discrimination Amendment Bill. Stated position: she said the 2022 changes set an 'extremely low bar' on hate speech and that her government's 2025 amendments would 'remove the ridiculous inclusion of offending someone as some type of discrimination,' restoring protections for religious schools.",
+          "sources": [
+            {
+              "title": "How NT MPs voted on the Anti-Discrimination Amendment Bill 2022",
+              "url": "https://familyvoice.org.au/news/how-nt-mps-voted-on-the-anti-discrimination-amendment-bill-2022",
+              "publisher": "FamilyVoice Australia",
+              "date": "2022-11-28"
+            },
+            {
+              "title": "Removal of anti-vilification protection unacceptable, NT Labor says",
+              "url": "https://nit.com.au/24-02-2025/16453/removal-of-anti-vilification-protection-unacceptable-nt-labor-says",
+              "publisher": "National Indigenous Times",
+              "date": "2025-02-24"
+            }
+          ],
+          "verified": true
+        },
+        "drugs_law_order": {
+          "summary": "As Chief Minister, Finocchiaro enacted 'Declan's Law' creating a presumption against bail for youth and adult violent offenders, lowered the age of criminal responsibility from 12 to 10, and championed tougher youth-crime penalties; she reported a '38% increase in adults refused bail' and said 'we can honour Declan's life with stronger laws', while rejecting evidence-based critiques: 'If your evidence[-based] approach worked, we wouldn't be talking about this right now.' These are stated positions plus government legislative action she led.",
+          "sources": [
+            {
+              "title": "Chief ministership of Lia Finocchiaro",
+              "url": "https://en.wikipedia.org/wiki/Chief_ministership_of_Lia_Finocchiaro",
+              "publisher": "Wikipedia",
+              "date": null
+            },
+            {
+              "title": "Declan's Law delivers stronger bail outcomes and safer communities",
+              "url": "https://www.nationaltribune.com.au/declan-s-law-delivers-stronger-bail-outcomes-and-safer-communities/",
+              "publisher": "The National Tribune",
+              "date": "2025-10-23"
+            },
+            {
+              "title": "CLP to rush through changes to Youth Justice Act in Parliament, claims 'evidence-based' approach not working",
+              "url": "https://ntindependent.com.au/clp-to-rush-through-changes-to-youth-justice-act-in-parliament-claims-evidence-based-approach-not-working/",
+              "publisher": "NT Independent",
+              "date": "2025-07-28"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -13451,7 +13650,32 @@
       "state": "NT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "religious_freedom": {
+          "summary": "Recorded vote: in November 2022 (14th Assembly) Hersey voted against Labor's Anti-Discrimination Amendment Bill, which removed exemptions that had allowed faith-based schools to hire staff sharing the school's religion.",
+          "sources": [
+            {
+              "title": "How NT MPs voted on the Anti-Discrimination Amendment Bill 2022",
+              "url": "https://familyvoice.org.au/news/how-nt-mps-voted-on-the-anti-discrimination-amendment-bill-2022",
+              "publisher": "FamilyVoice Australia",
+              "date": "2022-11-28"
+            }
+          ],
+          "verified": true
+        },
+        "drugs_law_order": {
+          "summary": "Hersey (Member for Katherine) criticises bail laws as too lenient, saying it 'does not pass the pub test for these youth to be bailed repeatedly' and blaming Labor for watering down bail and raising the age of criminal responsibility; she ties youth crime to truancy and calls for reinstating truancy officers. This is a stated position.",
+          "sources": [
+            {
+              "title": "OPINION: Crime is having dramatic impact",
+              "url": "https://www.katherinetimes.com.au/story/8590535/crime-impact-on-katherine-jo-hersey-outlines-failures/",
+              "publisher": "Katherine Times",
+              "date": "2024-04-16"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -13470,7 +13694,20 @@
       "state": "NT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "drugs_law_order": {
+          "summary": "Howe (Member for Drysdale) met the NT Liquor Commission seeking a review of alcohol licences at a number of Palmerston outlets to address alcohol-fuelled problems, and linked crime and anti-social behaviour partly to the density of public housing in his electorate. This is a stated position.",
+          "sources": [
+            {
+              "title": "Member for Drysdale awaits response from NT Liquor Commission after seeking a review of alcohol licenses at some Palmerston outlets",
+              "url": "https://www.mix1049.com.au/blogs/member-for-drysdale-awaits-response-from-nt-liquor-commission-after-seeking-a-review-of-alcohol-licenses-at-some-palmerston-outlets/",
+              "publisher": "Mix 104.9",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -13491,7 +13728,20 @@
       "state": "NT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "drugs_law_order": {
+          "summary": "On his CLP profile, Kerle (Member for Blain) makes community safety his primary priority, stating 'we must first deliver community safety' and committing to 'strengthen the laws, empower our police, tackle cost of living and move our economy forwards'. This is a stated position.",
+          "sources": [
+            {
+              "title": "Matthew Kerle - CLP Member for Blain",
+              "url": "https://www.clp.org.au/team/matthew-kerle",
+              "publisher": "Country Liberal Party",
+              "date": null
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -13529,7 +13779,44 @@
       "state": "NT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "voluntary_assisted_dying": {
+          "summary": "Then-Acting Chief Minister Maley said he supports the principles of voluntary assisted dying but would ask his constituents before voting, and confirmed members would be allowed a conscience vote. No recorded vote has occurred. Stated position.",
+          "sources": [
+            {
+              "title": "Half of Top End parliamentarians voice support for assisted dying",
+              "url": "https://cathnews.com/2025/10/09/half-of-top-end-parliamentarians-voice-support-for-assisted-dying/",
+              "publisher": "CathNews",
+              "date": "2025-10-09"
+            }
+          ],
+          "verified": true
+        },
+        "religious_freedom": {
+          "summary": "Recorded vote: in November 2022 (14th Assembly) Maley voted against Labor's Anti-Discrimination Amendment Bill, which removed exemptions that had allowed faith-based schools to hire staff sharing the school's religion.",
+          "sources": [
+            {
+              "title": "How NT MPs voted on the Anti-Discrimination Amendment Bill 2022",
+              "url": "https://familyvoice.org.au/news/how-nt-mps-voted-on-the-anti-discrimination-amendment-bill-2022",
+              "publisher": "FamilyVoice Australia",
+              "date": "2022-11-28"
+            }
+          ],
+          "verified": true
+        },
+        "drugs_law_order": {
+          "summary": "As Deputy Chief Minister and Minister for Corrections, Maley is fast-tracking prison expansion to manage 'more than 400 additional prisoners' since the August 2024 election, saying 'all options are on the table to address workforce challenges' and 'this isn't just a corrections issue – it's a justice system issue'; he supports the government's bail crackdown including a presumption against bail and mandatory electronic monitoring for repeat serious offenders. This is a stated position.",
+          "sources": [
+            {
+              "title": "NT Corrections plan fast-tracked to expand prisons",
+              "url": "https://www.insidestategovernment.com.au/nt-corrections-plan-fast-tracked-to-expand-prisons/",
+              "publisher": "Inside State Government",
+              "date": "2025-01-30"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -13548,7 +13835,20 @@
       "state": "NT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "drugs_law_order": {
+          "summary": "O'Gallagher (Member for Karama) backed establishing a permanent Northern Suburbs Youth Hub, saying 'this has been needed for a long time and this new facility will give youth a safe, vibrant place to connect, learn and grow', framing youth services as part of the government's community-safety agenda. This is a stated position.",
+          "sources": [
+            {
+              "title": "Leanyer Secured as Permanent Northern Suburbs Youth Hub",
+              "url": "https://www.miragenews.com/leanyer-secured-as-permanent-northern-suburbs-1638982/",
+              "publisher": "Mirage News",
+              "date": "2026-03-18"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -13567,7 +13867,20 @@
       "state": "NT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "drugs_law_order": {
+          "summary": "Patel (Member for Casuarina) identifies youth crime and anti-social behaviour as top concerns for local businesses and fought to relocate the Northern Suburbs Youth Hub, saying he wanted to provide youth 'a safe, active, and positive place that our youth can truly be proud of'. This is a stated position.",
+          "sources": [
+            {
+              "title": "REVEALED: Location Of New Northern Suburbs Youth Hub",
+              "url": "https://www.miragenews.com/revealed-location-of-new-northern-suburbs-youth-1456266/",
+              "publisher": "Mirage News",
+              "date": "2025-05-08"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -13586,7 +13899,20 @@
       "state": "NT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "faith": {
+          "summary": "In a speech on his official website, Tanzil Rahman explicitly states that he subscribes to the Muslim faith: \"that is the faith to which I subscribe as well.\"",
+          "sources": [
+            {
+              "title": "Racism Eradication speech",
+              "url": "https://tanzilrahman.com/about-tanzil/speeches/racism-eradication",
+              "publisher": "Dr Tanzil Rahman MLA (official website)",
+              "date": ""
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -13607,7 +13933,38 @@
       "state": "NT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "religious_freedom": {
+          "summary": "Recorded vote: in November 2022 (14th Assembly) Yan (listed as William Yan) voted against Labor's Anti-Discrimination Amendment Bill, which removed exemptions that had allowed faith-based schools to hire staff sharing the school's religion.",
+          "sources": [
+            {
+              "title": "How NT MPs voted on the Anti-Discrimination Amendment Bill 2022",
+              "url": "https://familyvoice.org.au/news/how-nt-mps-voted-on-the-anti-discrimination-amendment-bill-2022",
+              "publisher": "FamilyVoice Australia",
+              "date": "2022-11-28"
+            }
+          ],
+          "verified": true
+        },
+        "drugs_law_order": {
+          "summary": "Yan (Member for Namatjira), a former Alice Springs Correctional Centre manager, emphasises rehabilitation and addressing root causes, stating on his CLP profile he is 'fighting as part of the CLP Team that will address root causes of crime' and that rehabilitation and skills training reduce reoffending; he also co-advocated returning youth justice to Corrections and tougher bail. This is a stated position.",
+          "sources": [
+            {
+              "title": "Hon Bill Yan - CLP Member for Namatjira",
+              "url": "https://clp.org.au/team/bill-yan",
+              "publisher": "Country Liberal Party",
+              "date": null
+            },
+            {
+              "title": "Kids, parents must pay for crime: 3 Alice MLAs",
+              "url": "https://alicespringsnews.com.au/2021/02/01/kids-parents-must-pay-for-crime-3-alice-mlas/",
+              "publisher": "Alice Springs News",
+              "date": "2021-02-01"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -13626,7 +13983,20 @@
       "state": "NT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "drugs_law_order": {
+          "summary": "Zio (Member for Fannie Bay) stated her support for mandatory sentencing for assaults on frontline workers, posting 'Like this post if you support mandatory sentencing'. This is a stated position.",
+          "sources": [
+            {
+              "title": "NT MLA misleads parliament about support for mandatory sentencing",
+              "url": "https://www.greenleft.org.au/content/nt-mla-misleads-parliament-about-support-mandatory-sentencing",
+              "publisher": "Green Left",
+              "date": "2025-03-31"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -13664,7 +14034,86 @@
       "state": "NT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Paech supported the 2017 Termination of Pregnancy Law Reform Bill during the parliamentary debate, tabling and criticising as 'offensive and racist' a Right to Life media release about Aboriginal population control. This reflects a stated position in support during the debate on the bill, which passed 20-4.",
+          "sources": [
+            {
+              "title": "Northern Territory passes new abortion law",
+              "url": "https://www.greenleft.org.au/content/northern-territory-passes-new-abortion-law",
+              "publisher": "Green Left",
+              "date": "2017-03-25"
+            },
+            {
+              "title": "Decriminalisation in the NT signals abortion is part of normal health care",
+              "url": "https://theconversation.com/decriminalisation-in-the-nt-signals-abortion-is-part-of-normal-health-care-74992",
+              "publisher": "The Conversation",
+              "date": "2017-03-23"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "In his maiden speech to the NT Legislative Assembly on 19 October 2016, Paech said \"I am young, I am gay, I am black,\" called for same-sex marriage recognition (\"I look forward to the day when this country will recognise my rights as equal rights, when I too can marry in my country\"), and stated \"I will never allow or tolerate discrimination, homophobia or hate speech in this Assembly.\" This is a stated position; Paech is the first openly gay Indigenous MP in Australia.",
+          "sources": [
+            {
+              "title": "Full Text: Chansey Paech's maiden speech to parliament",
+              "url": "https://www.sbs.com.au/nitv/article/full-text-chansey-paechs-maiden-speech-to-parliament/ai04rbv2e",
+              "publisher": "SBS NITV",
+              "date": "2016-10-19"
+            },
+            {
+              "title": "Chansey Paech",
+              "url": "https://en.wikipedia.org/wiki/Chansey_Paech",
+              "publisher": "Wikipedia",
+              "date": "2026-06-28"
+            }
+          ],
+          "verified": true
+        },
+        "religious_freedom": {
+          "summary": "Recorded vote / sponsor: as Labor Attorney-General Paech introduced and voted for the 2022 Anti-Discrimination Amendment Bill that removed religious-school hiring exemptions, describing criticism of its hate-speech provisions as 'fearmongering.' Stated position: in 2025 he opposed the CLP's amendments, posting that 'we do not support the CLP's attempt to water down our anti-discrimination laws.'",
+          "sources": [
+            {
+              "title": "How NT MPs voted on the Anti-Discrimination Amendment Bill 2022",
+              "url": "https://familyvoice.org.au/news/how-nt-mps-voted-on-the-anti-discrimination-amendment-bill-2022",
+              "publisher": "FamilyVoice Australia",
+              "date": "2022-11-28"
+            },
+            {
+              "title": "Removal of anti-vilification protection unacceptable, NT Labor says",
+              "url": "https://nit.com.au/24-02-2025/16453/removal-of-anti-vilification-protection-unacceptable-nt-labor-says",
+              "publisher": "National Indigenous Times",
+              "date": "2025-02-24"
+            },
+            {
+              "title": "'Shameful': union slam NT's watering down of anti-discrimination laws",
+              "url": "https://educationhq.com/news/shameful-union-slam-nts-watering-down-of-anti-discrimination-laws-200534/",
+              "publisher": "EducationHQ",
+              "date": "2025-08-01"
+            }
+          ],
+          "verified": true
+        },
+        "drugs_law_order": {
+          "summary": "Paech, as former Labor Attorney-General, introduced laws raising the age of criminal responsibility and reforming adult mandatory sentencing; as Shadow Attorney-General he opposed the CLP's bail changes and lowering the age to 10, saying 'changing bail laws is not addressing root causes' and calling the legislation a 'purely punitive measure that will ultimately make our communities less safe' that sets children up to 'become career criminals'. This is a stated position plus prior legislative action.",
+          "sources": [
+            {
+              "title": "Chansey Paech",
+              "url": "https://en.wikipedia.org/wiki/Chansey_Paech",
+              "publisher": "Wikipedia",
+              "date": null
+            },
+            {
+              "title": "'We want to see community-led solutions': Indigenous MPs decry new NT laws",
+              "url": "https://nit.com.au/17-10-2024/14319/we-want-to-see-community-led-solutions-indigenous-mps-decry-new-laws",
+              "publisher": "National Indigenous Times",
+              "date": "2024-10-17"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -13704,7 +14153,80 @@
       "state": "NT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Uibo supported the 2017 Termination of Pregnancy Law Reform Bill, stating in the debate that she stood 'as a young Aboriginal woman who wants the same rights as my fellow female Australians in every other state and territory.' This reflects a stated position in support during the debate on the bill, which passed 20-4.",
+          "sources": [
+            {
+              "title": "Northern Territory passes new abortion law",
+              "url": "https://www.greenleft.org.au/content/northern-territory-passes-new-abortion-law",
+              "publisher": "Green Left",
+              "date": "2017-03-25"
+            },
+            {
+              "title": "Decriminalisation in the NT signals abortion is part of normal health care",
+              "url": "https://theconversation.com/decriminalisation-in-the-nt-signals-abortion-is-part-of-normal-health-care-74992",
+              "publisher": "The Conversation",
+              "date": "2017-03-23"
+            }
+          ],
+          "verified": true
+        },
+        "voluntary_assisted_dying": {
+          "summary": "Labor Opposition Leader Uibo supports voluntary assisted dying; on 13 October 2025 she submitted a draft VAD bill to the government, urging it to adopt the legislation rather than 'waste more time'. The government declined to use her bill. No recorded vote has occurred. Stated position.",
+          "sources": [
+            {
+              "title": "NT CLP commits to VAD vote, rejects Labor's bill",
+              "url": "https://www.greenleft.org.au/2025/1440/news/nt-clp-commits-vad-vote-rejects-labors-bill",
+              "publisher": "Green Left",
+              "date": "2025-10-17"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "As Opposition Leader during parliamentary question time in October 2025, Uibo challenged the government's transgender prisoner policy, telling the Chief Minister that despite the announced ban, \"internal department documents state that you have not, and you still operate your government under the 2021 version four directive.\" This is a stated position recorded in parliament.",
+          "sources": [
+            {
+              "title": "'Degraded and uneasy': Incarcerated trans women push back on NT prison ban proposal",
+              "url": "https://www.sbs.com.au/news/article/nt-advocates-share-incarcerated-trans-womens-stories-amid-ban-debate/8mpeirml0",
+              "publisher": "SBS News",
+              "date": "2025-10-16"
+            }
+          ],
+          "verified": true
+        },
+        "religious_freedom": {
+          "summary": "Recorded vote: in November 2022 (14th Assembly) Uibo voted in favour of Labor's Anti-Discrimination Amendment Bill. Stated position: as Labor leader she said in 2025 that the CLP government's plan to remove vilification protections is 'unacceptable' and out of step with other Australian jurisdictions and international human rights conventions.",
+          "sources": [
+            {
+              "title": "How NT MPs voted on the Anti-Discrimination Amendment Bill 2022",
+              "url": "https://familyvoice.org.au/news/how-nt-mps-voted-on-the-anti-discrimination-amendment-bill-2022",
+              "publisher": "FamilyVoice Australia",
+              "date": "2022-11-28"
+            },
+            {
+              "title": "Removal of anti-vilification protection unacceptable, NT Labor says",
+              "url": "https://nit.com.au/24-02-2025/16453/removal-of-anti-vilification-protection-unacceptable-nt-labor-says",
+              "publisher": "National Indigenous Times",
+              "date": "2025-02-24"
+            }
+          ],
+          "verified": true
+        },
+        "drugs_law_order": {
+          "summary": "As Opposition Leader, Uibo criticised the CLP's repeated youth justice and bail rewrites as 'chaos disguised as policy', with 'no consultation, no evidence, no real plan', saying 'each time, they've ignored expert advice. And each time, crime has gotten worse', and noting the government 'scrapped the Minimum Unit Price making alcohol cheaper'; she advocates early intervention, diversion and trauma-informed care. This is a stated position.",
+          "sources": [
+            {
+              "title": "CLP to rush through changes to Youth Justice Act in Parliament, claims 'evidence-based' approach not working",
+              "url": "https://ntindependent.com.au/clp-to-rush-through-changes-to-youth-justice-act-in-parliament-claims-evidence-based-approach-not-working/",
+              "publisher": "NT Independent",
+              "date": "2025-07-28"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -13725,7 +14247,20 @@
       "state": "NT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "religious_freedom": {
+          "summary": "Recorded vote: in November 2022 (14th Assembly) Young voted in favour of Labor's Anti-Discrimination Amendment Bill, which removed exemptions that had allowed faith-based schools to hire staff sharing the school's religion and broadened vilification protections.",
+          "sources": [
+            {
+              "title": "How NT MPs voted on the Anti-Discrimination Amendment Bill 2022",
+              "url": "https://familyvoice.org.au/news/how-nt-mps-voted-on-the-anti-discrimination-amendment-bill-2022",
+              "publisher": "FamilyVoice Australia",
+              "date": "2022-11-28"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -13744,7 +14279,50 @@
       "state": "NT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "voluntary_assisted_dying": {
+          "summary": "Independent member Davis supports voluntary assisted dying; she moved the original NT Legislative Assembly motion (13 May 2025) to progress VAD that led to the parliamentary inquiry, and chairs the NT VAD working group. No recorded vote has occurred. Stated position.",
+          "sources": [
+            {
+              "title": "NT inquiry finds strong support for voluntary assisted dying",
+              "url": "https://www.greenleft.org.au/content/nt-inquiry-finds-strong-support-voluntary-assisted-dying",
+              "publisher": "Green Left",
+              "date": "2025-09-02"
+            },
+            {
+              "title": "NT CLP commits to VAD vote, rejects Labor's bill",
+              "url": "https://www.greenleft.org.au/2025/1440/news/nt-clp-commits-vad-vote-rejects-labors-bill",
+              "publisher": "Green Left",
+              "date": "2025-10-17"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "In October 2025, independent MLA Justine Davis opposed the government's changes affecting transgender people in prisons, stating in an SBS interview \"There is no need for these changes and, in fact, they are going to potentially cause harm.\" This is a stated position.",
+          "sources": [
+            {
+              "title": "'Degraded and uneasy': Incarcerated trans women push back on NT prison ban proposal",
+              "url": "https://www.sbs.com.au/news/article/nt-advocates-share-incarcerated-trans-womens-stories-amid-ban-debate/8mpeirml0",
+              "publisher": "SBS News",
+              "date": "2025-10-16"
+            }
+          ],
+          "verified": true
+        },
+        "drugs_law_order": {
+          "summary": "Davis (Independent, Johnston) opposed lowering the age of criminal responsibility to 10, calling it 'a bad day for democracy in the Northern Territory', apologising to her community, and warning the NT would not 'be the only country in the world that treats 10-year-olds as criminals'. This is a stated position.",
+          "sources": [
+            {
+              "title": "Independent Territory MPs warn of 'irrevocable harm' caused by jailing 10-year-olds",
+              "url": "https://nit.com.au/18-10-2024/14343/independent-territory-mps-warn-of-irrevocable-harm-caused-by-jailing-10-year-olds",
+              "publisher": "National Indigenous Times",
+              "date": "2024-10-18"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -13763,7 +14341,56 @@
       "state": "NT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Guyula was one of four members who voted against the 2017 Termination of Pregnancy Law Reform Bill that decriminalised abortion in the Northern Territory. This is a recorded vote against the bill, which passed 20-4.",
+          "sources": [
+            {
+              "title": "Northern Territory passes new abortion law",
+              "url": "https://www.greenleft.org.au/content/northern-territory-passes-new-abortion-law",
+              "publisher": "Green Left",
+              "date": "2017-03-25"
+            },
+            {
+              "title": "Yingiya Mark Guyula",
+              "url": "https://en.wikipedia.org/wiki/Yingiya_Mark_Guyula",
+              "publisher": "Wikipedia",
+              "date": ""
+            }
+          ],
+          "verified": true
+        },
+        "religious_freedom": {
+          "summary": "Recorded vote: in November 2022 (14th Assembly) Guyula, as an independent, voted in favour of Labor's Anti-Discrimination Amendment Bill, which removed exemptions that had allowed faith-based schools to hire staff sharing the school's religion and broadened vilification protections.",
+          "sources": [
+            {
+              "title": "How NT MPs voted on the Anti-Discrimination Amendment Bill 2022",
+              "url": "https://familyvoice.org.au/news/how-nt-mps-voted-on-the-anti-discrimination-amendment-bill-2022",
+              "publisher": "FamilyVoice Australia",
+              "date": "2022-11-28"
+            }
+          ],
+          "verified": true
+        },
+        "drugs_law_order": {
+          "summary": "Guyula (Independent, Mulka) opposed the CLP's bail laws and lowering the age of criminal responsibility, saying 'we want to see community-led solutions' and that the NT 'locks up almost four times more children than the next highest jurisdiction' and the changes 'will jail more First Nations adults and children than ever before'; he said he was 'disappointed to be a part of this Parliament that is lowering the age'. This is a stated position.",
+          "sources": [
+            {
+              "title": "'We want to see community-led solutions': Indigenous MPs decry new NT laws",
+              "url": "https://nit.com.au/17-10-2024/14319/we-want-to-see-community-led-solutions-indigenous-mps-decry-new-laws",
+              "publisher": "National Indigenous Times",
+              "date": "2024-10-17"
+            },
+            {
+              "title": "Independent Territory MPs warn of 'irrevocable harm' caused by jailing 10-year-olds",
+              "url": "https://nit.com.au/18-10-2024/14343/independent-territory-mps-warn-of-irrevocable-harm-caused-by-jailing-10-year-olds",
+              "publisher": "National Indigenous Times",
+              "date": "2024-10-18"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",
@@ -13784,7 +14411,74 @@
       "state": "NT",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "voluntary_assisted_dying": {
+          "summary": "Independent member and Assembly Speaker Lambley opposes proceeding with voluntary assisted dying in the NT, saying 'I don't think we're ready. Maybe we'll never be ready in the Territory' and 'It will be a disaster... We just need to take it at our own pace,' citing difficulties educating remote Indigenous communities. No recorded vote has occurred. Stated position.",
+          "sources": [
+            {
+              "title": "Australia's Northern Territory considers passing assisted dying laws for second time in 31 years",
+              "url": "https://www.tribuneindia.com/news/world/australias-northern-territory-considers-passing-assisted-dying-laws-for-second-time-in-31-years",
+              "publisher": "The Tribune",
+              "date": "2026-01-02"
+            },
+            {
+              "title": "Parties commit to conscience vote on NT euthanasia bill",
+              "url": "https://cathnews.com/2024/02/29/parties-commit-to-conscience-vote-on-nt-euthanasia-bill/",
+              "publisher": "CathNews",
+              "date": "2024-02-29"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "During the August 2024 NT election campaign, the Australian Christian Lobby recorded that independent MLA Robyn Lambley (along with all CLP candidates) supported a review into the medical and surgical care of gender-diverse children; as Speaker she subsequently tabled the ACL's petition (17-18 October 2024) calling for the suspension of gender-affirming treatments for children in the NT. Tabling a petition is a procedural duty; her support for a review is the recorded stated position.",
+          "sources": [
+            {
+              "title": "MPs urged to suspend gender-affirming care for kids",
+              "url": "https://www.canberratimes.com.au/story/8796283/mps-urged-to-suspend-gender-affirming-care-for-kids/",
+              "publisher": "The Canberra Times",
+              "date": "2024-10-18"
+            }
+          ],
+          "verified": true
+        },
+        "religious_freedom": {
+          "summary": "Recorded vote: in November 2022 (14th Assembly) Lambley, as an independent, voted against Labor's Anti-Discrimination Amendment Bill that removed religious-school hiring exemptions. Stated position: in the Australian Christian Lobby's 2024 NT election questionnaire she answered affirmatively to supporting repeal of the 2022 changes to protect faith-based schools, repeal of offence-based provisions, and completely protecting speech from the pulpit.",
+          "sources": [
+            {
+              "title": "How NT MPs voted on the Anti-Discrimination Amendment Bill 2022",
+              "url": "https://familyvoice.org.au/news/how-nt-mps-voted-on-the-anti-discrimination-amendment-bill-2022",
+              "publisher": "FamilyVoice Australia",
+              "date": "2022-11-28"
+            },
+            {
+              "title": "NT Votes 2024",
+              "url": "https://www.acl.org.au/ntvotes/",
+              "publisher": "Australian Christian Lobby",
+              "date": "2024-08-24"
+            }
+          ],
+          "verified": true
+        },
+        "drugs_law_order": {
+          "summary": "Lambley (Independent, Araluen) has long pressed for stronger action on crime and alcohol in Central Australia: she moved (and was ejected from Parliament over) a bid for a non-partisan crime committee, saying 'we can either continue to go down the path that we're on... and see crime escalate... or we can do something different', and earlier advocated an emergency 8pm-6am youth curfew and reinstating 'personal and parental responsibility' laws. This is a stated position.",
+          "sources": [
+            {
+              "title": "Independent MLA who raised crime crisis banned from Parliament for 24 hours",
+              "url": "https://ntindependent.com.au/independent-mla-who-raised-crime-crisis-banned-from-parliament-for-24-hours/",
+              "publisher": "NT Independent",
+              "date": "2022-03-23"
+            },
+            {
+              "title": "Kids, parents must pay for crime: 3 Alice MLAs",
+              "url": "https://alicespringsnews.com.au/2021/02/01/kids-parents-must-pay-for-crime-3-alice-mlas/",
+              "publisher": "Alice Springs News",
+              "date": "2021-02-01"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Northern Territory Legislative Assembly, 2024–2028",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Northern_Territory_Legislative_Assembly,_2024%E2%80%932028",

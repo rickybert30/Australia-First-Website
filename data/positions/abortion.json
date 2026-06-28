@@ -202,5 +202,71 @@
       }
     ],
     "verified": true
+  },
+  "nt-chansey-paech-gwoja": {
+    "summary": "Paech supported the 2017 Termination of Pregnancy Law Reform Bill during the parliamentary debate, tabling and criticising as 'offensive and racist' a Right to Life media release about Aboriginal population control. This reflects a stated position in support during the debate on the bill, which passed 20-4.",
+    "sources": [
+      {
+        "title": "Northern Territory passes new abortion law",
+        "url": "https://www.greenleft.org.au/content/northern-territory-passes-new-abortion-law",
+        "publisher": "Green Left",
+        "date": "2017-03-25"
+      },
+      {
+        "title": "Decriminalisation in the NT signals abortion is part of normal health care",
+        "url": "https://theconversation.com/decriminalisation-in-the-nt-signals-abortion-is-part-of-normal-health-care-74992",
+        "publisher": "The Conversation",
+        "date": "2017-03-23"
+      }
+    ],
+    "verified": true
+  },
+  "nt-lia-finocchiaro-spillett": {
+    "summary": "Finocchiaro supports a woman's right to have an abortion and voted in favour of the legislation that decriminalised abortion in the Northern Territory and made the abortion drug RU486 more accessible for women in remote areas. This is a recorded vote on the Termination of Pregnancy Law Reform Act 2017.",
+    "sources": [
+      {
+        "title": "Lia Finocchiaro",
+        "url": "https://en.wikipedia.org/wiki/Lia_Finocchiaro",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    ],
+    "verified": true
+  },
+  "nt-selena-uibo-arnhem": {
+    "summary": "Uibo supported the 2017 Termination of Pregnancy Law Reform Bill, stating in the debate that she stood 'as a young Aboriginal woman who wants the same rights as my fellow female Australians in every other state and territory.' This reflects a stated position in support during the debate on the bill, which passed 20-4.",
+    "sources": [
+      {
+        "title": "Northern Territory passes new abortion law",
+        "url": "https://www.greenleft.org.au/content/northern-territory-passes-new-abortion-law",
+        "publisher": "Green Left",
+        "date": "2017-03-25"
+      },
+      {
+        "title": "Decriminalisation in the NT signals abortion is part of normal health care",
+        "url": "https://theconversation.com/decriminalisation-in-the-nt-signals-abortion-is-part-of-normal-health-care-74992",
+        "publisher": "The Conversation",
+        "date": "2017-03-23"
+      }
+    ],
+    "verified": true
+  },
+  "nt-yingiya-mark-guyula-mulka": {
+    "summary": "Guyula was one of four members who voted against the 2017 Termination of Pregnancy Law Reform Bill that decriminalised abortion in the Northern Territory. This is a recorded vote against the bill, which passed 20-4.",
+    "sources": [
+      {
+        "title": "Northern Territory passes new abortion law",
+        "url": "https://www.greenleft.org.au/content/northern-territory-passes-new-abortion-law",
+        "publisher": "Green Left",
+        "date": "2017-03-25"
+      },
+      {
+        "title": "Yingiya Mark Guyula",
+        "url": "https://en.wikipedia.org/wiki/Yingiya_Mark_Guyula",
+        "publisher": "Wikipedia",
+        "date": ""
+      }
+    ],
+    "verified": true
   }
 }

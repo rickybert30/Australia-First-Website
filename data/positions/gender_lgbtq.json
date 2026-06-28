@@ -250,5 +250,77 @@
       }
     ],
     "verified": true
+  },
+  "nt-chansey-paech-gwoja": {
+    "summary": "In his maiden speech to the NT Legislative Assembly on 19 October 2016, Paech said \"I am young, I am gay, I am black,\" called for same-sex marriage recognition (\"I look forward to the day when this country will recognise my rights as equal rights, when I too can marry in my country\"), and stated \"I will never allow or tolerate discrimination, homophobia or hate speech in this Assembly.\" This is a stated position; Paech is the first openly gay Indigenous MP in Australia.",
+    "sources": [
+      {
+        "title": "Full Text: Chansey Paech's maiden speech to parliament",
+        "url": "https://www.sbs.com.au/nitv/article/full-text-chansey-paechs-maiden-speech-to-parliament/ai04rbv2e",
+        "publisher": "SBS NITV",
+        "date": "2016-10-19"
+      },
+      {
+        "title": "Chansey Paech",
+        "url": "https://en.wikipedia.org/wiki/Chansey_Paech",
+        "publisher": "Wikipedia",
+        "date": "2026-06-28"
+      }
+    ],
+    "verified": true
+  },
+  "nt-justine-davis-johnston": {
+    "summary": "In October 2025, independent MLA Justine Davis opposed the government's changes affecting transgender people in prisons, stating in an SBS interview \"There is no need for these changes and, in fact, they are going to potentially cause harm.\" This is a stated position.",
+    "sources": [
+      {
+        "title": "'Degraded and uneasy': Incarcerated trans women push back on NT prison ban proposal",
+        "url": "https://www.sbs.com.au/news/article/nt-advocates-share-incarcerated-trans-womens-stories-amid-ban-debate/8mpeirml0",
+        "publisher": "SBS News",
+        "date": "2025-10-16"
+      }
+    ],
+    "verified": true
+  },
+  "nt-lia-finocchiaro-spillett": {
+    "summary": "As Chief Minister, Finocchiaro announced in October 2025 a policy to house NT prisoners according to sex assigned at birth, removing transgender women from women's prisons, stating \"If you're born a bloke, you're going to a men's prison\" and framing it as being about \"women's safety\" and \"women's dignity\"; she said the policy reversed the former Labor government's approach allowing self-declaration. This is a stated position and announced government policy.",
+    "sources": [
+      {
+        "title": "NT Govt Bans Trans Women From Women's Prisons in “Nation-First” Move",
+        "url": "https://www.starobserver.com.au/news/nt-govt-bans-trans-women-from-womens-prisons-in-nation-first-move/239202",
+        "publisher": "Star Observer",
+        "date": "2025-10-15"
+      },
+      {
+        "title": "'Degraded and uneasy': Incarcerated trans women push back on NT prison ban proposal",
+        "url": "https://www.sbs.com.au/news/article/nt-advocates-share-incarcerated-trans-womens-stories-amid-ban-debate/8mpeirml0",
+        "publisher": "SBS News",
+        "date": "2025-10-16"
+      }
+    ],
+    "verified": true
+  },
+  "nt-robyn-lambley-araluen": {
+    "summary": "During the August 2024 NT election campaign, the Australian Christian Lobby recorded that independent MLA Robyn Lambley (along with all CLP candidates) supported a review into the medical and surgical care of gender-diverse children; as Speaker she subsequently tabled the ACL's petition (17-18 October 2024) calling for the suspension of gender-affirming treatments for children in the NT. Tabling a petition is a procedural duty; her support for a review is the recorded stated position.",
+    "sources": [
+      {
+        "title": "MPs urged to suspend gender-affirming care for kids",
+        "url": "https://www.canberratimes.com.au/story/8796283/mps-urged-to-suspend-gender-affirming-care-for-kids/",
+        "publisher": "The Canberra Times",
+        "date": "2024-10-18"
+      }
+    ],
+    "verified": true
+  },
+  "nt-selena-uibo-arnhem": {
+    "summary": "As Opposition Leader during parliamentary question time in October 2025, Uibo challenged the government's transgender prisoner policy, telling the Chief Minister that despite the announced ban, \"internal department documents state that you have not, and you still operate your government under the 2021 version four directive.\" This is a stated position recorded in parliament.",
+    "sources": [
+      {
+        "title": "'Degraded and uneasy': Incarcerated trans women push back on NT prison ban proposal",
+        "url": "https://www.sbs.com.au/news/article/nt-advocates-share-incarcerated-trans-womens-stories-amid-ban-debate/8mpeirml0",
+        "publisher": "SBS News",
+        "date": "2025-10-16"
+      }
+    ],
+    "verified": true
   }
 }

@@ -250,5 +250,65 @@
       }
     ],
     "verified": true
+  },
+  "nt-gerard-maley-nelson": {
+    "summary": "Then-Acting Chief Minister Maley said he supports the principles of voluntary assisted dying but would ask his constituents before voting, and confirmed members would be allowed a conscience vote. No recorded vote has occurred. Stated position.",
+    "sources": [
+      {
+        "title": "Half of Top End parliamentarians voice support for assisted dying",
+        "url": "https://cathnews.com/2025/10/09/half-of-top-end-parliamentarians-voice-support-for-assisted-dying/",
+        "publisher": "CathNews",
+        "date": "2025-10-09"
+      }
+    ],
+    "verified": true
+  },
+  "nt-justine-davis-johnston": {
+    "summary": "Independent member Davis supports voluntary assisted dying; she moved the original NT Legislative Assembly motion (13 May 2025) to progress VAD that led to the parliamentary inquiry, and chairs the NT VAD working group. No recorded vote has occurred. Stated position.",
+    "sources": [
+      {
+        "title": "NT inquiry finds strong support for voluntary assisted dying",
+        "url": "https://www.greenleft.org.au/content/nt-inquiry-finds-strong-support-voluntary-assisted-dying",
+        "publisher": "Green Left",
+        "date": "2025-09-02"
+      },
+      {
+        "title": "NT CLP commits to VAD vote, rejects Labor's bill",
+        "url": "https://www.greenleft.org.au/2025/1440/news/nt-clp-commits-vad-vote-rejects-labors-bill",
+        "publisher": "Green Left",
+        "date": "2025-10-17"
+      }
+    ],
+    "verified": true
+  },
+  "nt-robyn-lambley-araluen": {
+    "summary": "Independent member and Assembly Speaker Lambley opposes proceeding with voluntary assisted dying in the NT, saying 'I don't think we're ready. Maybe we'll never be ready in the Territory' and 'It will be a disaster... We just need to take it at our own pace,' citing difficulties educating remote Indigenous communities. No recorded vote has occurred. Stated position.",
+    "sources": [
+      {
+        "title": "Australia's Northern Territory considers passing assisted dying laws for second time in 31 years",
+        "url": "https://www.tribuneindia.com/news/world/australias-northern-territory-considers-passing-assisted-dying-laws-for-second-time-in-31-years",
+        "publisher": "The Tribune",
+        "date": "2026-01-02"
+      },
+      {
+        "title": "Parties commit to conscience vote on NT euthanasia bill",
+        "url": "https://cathnews.com/2024/02/29/parties-commit-to-conscience-vote-on-nt-euthanasia-bill/",
+        "publisher": "CathNews",
+        "date": "2024-02-29"
+      }
+    ],
+    "verified": true
+  },
+  "nt-selena-uibo-arnhem": {
+    "summary": "Labor Opposition Leader Uibo supports voluntary assisted dying; on 13 October 2025 she submitted a draft VAD bill to the government, urging it to adopt the legislation rather than 'waste more time'. The government declined to use her bill. No recorded vote has occurred. Stated position.",
+    "sources": [
+      {
+        "title": "NT CLP commits to VAD vote, rejects Labor's bill",
+        "url": "https://www.greenleft.org.au/2025/1440/news/nt-clp-commits-vad-vote-rejects-labors-bill",
+        "publisher": "Green Left",
+        "date": "2025-10-17"
+      }
+    ],
+    "verified": true
   }
 }
