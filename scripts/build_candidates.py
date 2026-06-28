@@ -93,6 +93,7 @@ PARTY_GROUP = {
     "Queensland Greens": "Greens",
     "Canberra Liberals": "Coalition",
     "Pauline Hanson's One Nation Party": "One Nation",
+    "Family First Party": "Other / minor party",
     "Independent": "Independent",
     "Fiona Carrick Independent": "Independent",
     "Katter's Australian Party (KAP)": "Other / minor party",
@@ -283,7 +284,7 @@ def load_state_rosters():
             name = m["name"].strip()
             electorate = m.get("electorate", "")
             rec = {
-                "id": f"{jur.lower()}-{slugify(name, electorate)}",
+                "id": f"{jur.lower().replace(' ', '-')}-{slugify(name, electorate)}",
                 "name": name,
                 "party": m["party"],
                 "party_group": party_group(m["party"]),

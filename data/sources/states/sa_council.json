@@ -1,0 +1,124 @@
+{
+  "jurisdiction": "South Australia",
+  "chamber": "South Australian Legislative Council",
+  "state": "SA",
+  "source": {
+    "title": "Members of the South Australian Legislative Council, 2026–2030",
+    "url": "https://en.wikipedia.org/wiki/Members_of_the_South_Australian_Legislative_Council,_2026%E2%80%932030",
+    "publisher": "Wikipedia",
+    "date": ""
+  },
+  "note": "22 members elected statewide by proportional representation to overlapping eight-year terms (half elected each election).",
+  "members": [
+    {
+      "name": "Cory Bernardi",
+      "party": "Pauline Hanson's One Nation Party",
+      "electorate": "Statewide"
+    },
+    {
+      "name": "Emily Bourke",
+      "party": "Australian Labor Party",
+      "electorate": "Statewide"
+    },
+    {
+      "name": "Nicola Centofanti",
+      "party": "Liberal Party",
+      "electorate": "Statewide"
+    },
+    {
+      "name": "Mira El Dannawi",
+      "party": "Australian Labor Party",
+      "electorate": "Statewide"
+    },
+    {
+      "name": "Sarah Game",
+      "party": "Family First Party",
+      "electorate": "Statewide"
+    },
+    {
+      "name": "Heidi Girolamo",
+      "party": "Liberal Party",
+      "electorate": "Statewide"
+    },
+    {
+      "name": "Hilton Gumbys",
+      "party": "Australian Labor Party",
+      "electorate": "Statewide"
+    },
+    {
+      "name": "Justin Hanson",
+      "party": "Australian Labor Party",
+      "electorate": "Statewide"
+    },
+    {
+      "name": "Laura Henderson",
+      "party": "Liberal Party",
+      "electorate": "Statewide"
+    },
+    {
+      "name": "Rebecca Hewett",
+      "party": "Pauline Hanson's One Nation Party",
+      "electorate": "Statewide"
+    },
+    {
+      "name": "Ben Hood",
+      "party": "Liberal Party",
+      "electorate": "Statewide"
+    },
+    {
+      "name": "Dennis Hood",
+      "party": "Liberal Party",
+      "electorate": "Statewide"
+    },
+    {
+      "name": "Ian Hunter",
+      "party": "Australian Labor Party",
+      "electorate": "Statewide"
+    },
+    {
+      "name": "Michelle Lensink",
+      "party": "Liberal Party",
+      "electorate": "Statewide"
+    },
+    {
+      "name": "Kyam Maher",
+      "party": "Australian Labor Party",
+      "electorate": "Statewide"
+    },
+    {
+      "name": "Reggie Martin",
+      "party": "Australian Labor Party",
+      "electorate": "Statewide"
+    },
+    {
+      "name": "Tung Ngo",
+      "party": "Australian Labor Party",
+      "electorate": "Statewide"
+    },
+    {
+      "name": "Carlos Quaremba",
+      "party": "Pauline Hanson's One Nation Party",
+      "electorate": "Statewide"
+    },
+    {
+      "name": "Clare Scriven",
+      "party": "Australian Labor Party",
+      "electorate": "Statewide"
+    },
+    {
+      "name": "Melanie Selwood",
+      "party": "Australian Greens",
+      "electorate": "Statewide"
+    },
+    {
+      "name": "Robert Simms",
+      "party": "Australian Greens",
+      "electorate": "Statewide"
+    },
+    {
+      "name": "Russell Wortley",
+      "party": "Australian Labor Party",
+      "electorate": "Statewide"
+    }
+  ]
+}
