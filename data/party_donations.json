@@ -1947,6 +1947,12 @@
           "total_aud": 50000,
           "by_year": {
             "2024-25": 50000
+          },
+          "info": {
+            "link": "https://cwucentral.org.au/",
+            "link_type": "website",
+            "description": "An Australian trade union branch of the Communication Workers Union representing postal, telecommunications and information technology workers across NSW, ACT, QLD, SA, NT and WA.",
+            "category": "union"
           }
         },
         {
@@ -1954,6 +1960,12 @@
           "total_aud": 50000,
           "by_year": {
             "2024-25": 50000
+          },
+          "info": {
+            "link": "https://www.ppteu.asn.au/",
+            "link_type": "website",
+            "description": "The Plumbing Division (Victorian Branch) of the Communications, Electrical and Plumbing Union (CEPU), a registered Australian trade union representing plumbers and pipe trades workers; trades as the Plumbing and Pipe Trades Employees Union (PPTEU) in Victoria and WA.",
+            "category": "union"
           }
         },
         {
@@ -1961,6 +1973,12 @@
           "total_aud": 50000,
           "by_year": {
             "2024-25": 50000
+          },
+          "info": {
+            "link": "https://www.ufua.asn.au/",
+            "link_type": "website",
+            "description": "A national Australian trade union representing more than 13,000 professional firefighters and support staff across state and aviation branches.",
+            "category": "union"
           }
         },
         {
@@ -1969,6 +1987,12 @@
           "by_year": {
             "2023-24": 25000,
             "2024-25": 25000
+          },
+          "info": {
+            "link": "https://www.randazzoproperties.com.au/",
+            "link_type": "website",
+            "description": "A Northern Territory family-owned commercial property development and management group, owned and operated by the Randazzo family since 1954, with office, retail and industrial holdings in Darwin, Palmerston and Katherine.",
+            "category": "company"
           }
         },
         {
@@ -1976,6 +2000,12 @@
           "total_aud": 50000,
           "by_year": {
             "2024-25": 50000
+          },
+          "info": {
+            "link": "https://www.sda.au/",
+            "link_type": "website",
+            "description": "The Shop, Distributive and Allied Employees Association (SDA), a private-sector Australian trade union representing retail, fast-food and warehousing workers; one of the country's largest unions with over 200,000 members.",
+            "category": "union"
           }
         },
         {
@@ -1983,6 +2013,12 @@
           "total_aud": 50000,
           "by_year": {
             "2024-25": 50000
+          },
+          "info": {
+            "link": "https://kmetgroup.com/",
+            "link_type": "website",
+            "description": "An operating entity within the Kimberley Metals Group (KMG), an explorer, developer and operator of iron ore mining projects (including the Ridges and Matsu projects) in the Far North region of Western Australia.",
+            "category": "company"
           }
         },
         {
@@ -1997,6 +2033,12 @@
           "total_aud": 50000,
           "by_year": {
             "2021-22": 50000
+          },
+          "info": {
+            "link": "https://www.asu.com.au/",
+            "link_type": "website",
+            "description": "The national office of the Australian Services Union (ASU), an Australian trade union with around 135,000 members across sectors including local government, energy, water, public transport, airlines, social and community services and clerical/administrative work.",
+            "category": "union"
           }
         },
         {
@@ -2004,6 +2046,12 @@
           "total_aud": 50000,
           "by_year": {
             "2021-22": 50000
+          },
+          "info": {
+            "link": "https://vic.cfmeu.org/",
+            "link_type": "website",
+            "description": "The Victoria-Tasmania branch of the Construction & General Division of the Construction, Forestry and Maritime Employees Union (CFMEU), Australia's largest construction-sector trade union; the branch has been under independent administration since 2024.",
+            "category": "union"
           }
         },
         {
@@ -2018,6 +2066,12 @@
           "total_aud": 50000,
           "by_year": {
             "2021-22": 50000
+          },
+          "info": {
+            "link": "https://nsw.cfmeu.org/",
+            "link_type": "website",
+            "description": "The New South Wales branch of the Construction & General Division of the Construction, Forestry and Maritime Employees Union (CFMEU), an Australian trade union representing construction workers.",
+            "category": "union"
           }
         },
         {
@@ -2025,6 +2079,12 @@
           "total_aud": 50000,
           "by_year": {
             "2021-22": 50000
+          },
+          "info": {
+            "link": "https://mafinancial.com/about/story",
+            "link_type": "website",
+            "description": "An Australian financial services firm founded in 2009 in partnership with NYSE-listed investment bank Moelis & Company; it specialises in alternative asset management, lending and corporate advisory and rebranded as MA Financial Group in 2021.",
+            "category": "company"
           }
         },
         {
@@ -2032,6 +2092,12 @@
           "total_aud": 50000,
           "by_year": {
             "2021-22": 50000
+          },
+          "info": {
+            "link": "https://www.rtbu.org.au/",
+            "link_type": "website",
+            "description": "The Australian Rail, Tram and Bus Industry Union (RTBU), a national trade union representing around 35,000 workers in Australia's rail and public transport industries.",
+            "category": "union"
           }
         },
         {
@@ -2039,6 +2105,12 @@
           "total_aud": 50000,
           "by_year": {
             "2021-22": 50000
+          },
+          "info": {
+            "link": "https://www.amwu.org.au/sa",
+            "link_type": "website",
+            "description": "The South Australian branch of the Australian Manufacturing Workers' Union (AMWU), a trade union representing workers in automotive, food, metals, engineering, printing and related manufacturing industries.",
+            "category": "union"
           }
         },
         {
@@ -2046,6 +2118,12 @@
           "total_aud": 50000,
           "by_year": {
             "2021-22": 50000
+          },
+          "info": {
+            "link": "http://cartwheelresources.com.au/",
+            "link_type": "website",
+            "description": "A South Australian (Brompton-based) company focused on developing and commercialising patented mining, metal-extraction and clean-technology processes, led by executive chairman and metallurgist Rodolfo A.M. Gomez.",
+            "category": "company"
           }
         },
         {
@@ -2053,6 +2131,12 @@
           "total_aud": 50000,
           "by_year": {
             "2021-22": 50000
+          },
+          "info": {
+            "link": "https://www.precision.com.au/about",
+            "link_type": "website",
+            "description": "A privately owned Australian commercial property investment and management company founded in 1994 by Shaun Bonett, with a portfolio of retail, commercial and hospitality properties across Australia and New Zealand.",
+            "category": "company"
           }
         },
         {
@@ -2060,6 +2144,12 @@
           "total_aud": 50000,
           "by_year": {
             "2021-22": 50000
+          },
+          "info": {
+            "link": "https://www.indailysa.com.au/news/archive/2022/02/01/individuals-biggest-sa-lib-donors-as-unions-back-labor",
+            "link_type": "website",
+            "description": "A South Australian Labor-aligned fundraising entity reported as the effective trading name of the party's Left PLUS (Progressive Left Union and Sub-Branches) faction.",
+            "category": "political party body"
           }
         },
         {
@@ -2074,6 +2164,12 @@
           "total_aud": 50000,
           "by_year": {
             "2021-22": 50000
+          },
+          "info": {
+            "link": "https://www.riverlee.com.au/",
+            "link_type": "website",
+            "description": "A Melbourne-based private, family-owned diversified property development and investment group established in 1993 by Clement Lee, active in commercial, residential, hotel and retail projects.",
+            "category": "company"
           }
         },
         {
@@ -2095,6 +2191,12 @@
           "total_aud": 48081,
           "by_year": {
             "2021-22": 48081
+          },
+          "info": {
+            "link": "https://meu.org.au/home-northern-mining-and-nsw-energy-district/about-the-northern-mining-and-nsw-energy-district/",
+            "link_type": "website",
+            "description": "The Northern Mining and NSW Energy District is a district branch of the Mining and Energy Union (formerly the CFMEU Mining and Energy Division until it became independent in December 2023), representing coal mining and power-generation workers in NSW, centred on the Hunter Valley.",
+            "category": "union"
           }
         },
         {
@@ -2102,6 +2204,12 @@
           "total_aud": 48000,
           "by_year": {
             "2024-25": 48000
+          },
+          "info": {
+            "link": "https://www.aada.asn.au/",
+            "link_type": "website",
+            "description": "The Australian Automotive Dealer Association (AADA) is the national peak industry body exclusively representing franchised new car and truck dealers in Australia.",
+            "category": "industry body"
           }
         },
         {
@@ -2109,6 +2217,12 @@
           "total_aud": 46530,
           "by_year": {
             "2021-22": 46530
+          },
+          "info": {
+            "link": "https://www.cpsu.org.au/",
+            "link_type": "website",
+            "description": "The Community and Public Sector Union (CPSU) is an Australian trade union representing workers in the federal and territory public service, telecommunications, broadcasting, aviation and related sectors.",
+            "category": "union"
           }
         },
         {
@@ -2116,6 +2230,12 @@
           "total_aud": 45500,
           "by_year": {
             "2024-25": 45500
+          },
+          "info": {
+            "link": "https://www.zoominfo.com/c/komemo-constructions/1223390908",
+            "link_type": "website",
+            "description": "Komemo Pty Ltd is a Western Australian company (registered 1979) operating in real estate and, through Komemo Constructions, commercial and residential construction, based in the Perth area.",
+            "category": "company"
           }
         },
         {
@@ -2123,6 +2243,12 @@
           "total_aud": 45414,
           "by_year": {
             "2024-25": 45414
+          },
+          "info": {
+            "link": "https://homegroup.com.au/",
+            "link_type": "website",
+            "description": "Home Group WA is a Western Australian residential home-building company, based in Balcatta, building single and two-storey homes and house-and-land packages across WA (and Victoria).",
+            "category": "company"
           }
         },
         {
@@ -2130,6 +2256,12 @@
           "total_aud": 45000,
           "by_year": {
             "2021-22": 45000
+          },
+          "info": {
+            "link": "https://www.rtbu.org.au/",
+            "link_type": "website",
+            "description": "The Australian Rail, Tram and Bus Industry Union (RTBU) is a national trade union representing workers in the rail, tram and bus industries; this entry is its National Office in Sydney.",
+            "category": "union"
           }
         },
         {
@@ -2145,6 +2277,12 @@
           "by_year": {
             "2021-22": 18740,
             "2022-23": 26120
+          },
+          "info": {
+            "link": "https://apm.net.au/",
+            "link_type": "website",
+            "description": "APM (Advanced Personnel Management) is an Australian-founded global human services provider delivering employment services, disability and injury management, workplace rehabilitation and allied health services.",
+            "category": "company"
           }
         },
         {
@@ -2191,6 +2329,12 @@
           "by_year": {
             "2021-22": 20000,
             "2024-25": 22801
+          },
+          "info": {
+            "link": "https://twunsw.org.au/",
+            "link_type": "website",
+            "description": "The Transport Workers' Union NSW (TWU NSW) is the New South Wales/ACT branch of the Transport Workers' Union of Australia, representing workers in trucking, public transport, aviation, waste and related industries.",
+            "category": "union"
           }
         },
         {
@@ -2198,6 +2342,12 @@
           "total_aud": 42381,
           "by_year": {
             "2021-22": 42381
+          },
+          "info": {
+            "link": "https://www.territorylabor.com.au/",
+            "link_type": "website",
+            "description": "The Northern Territory Branch of the Australian Labor Party (Territory Labor) is the NT branch of the centre-left Australian Labor Party.",
+            "category": "political party body"
           }
         },
         {
@@ -2205,6 +2355,12 @@
           "total_aud": 40533,
           "by_year": {
             "2021-22": 40533
+          },
+          "info": {
+            "link": "https://usu.org.au/",
+            "link_type": "website",
+            "description": "The registered name of the United Services Union (USU), a NSW/ACT trade union representing about 30,000 workers across local government, clerical and administrative, energy, airlines and utilities sectors. It is affiliated with the ACTU and Australian Labor Party.",
+            "category": "union"
           }
         },
         {
@@ -2212,6 +2368,12 @@
           "total_aud": 40000,
           "by_year": {
             "2024-25": 40000
+          },
+          "info": {
+            "link": "https://asumembers.org.au/",
+            "link_type": "website",
+            "description": "The NSW & ACT (Services) Branch of the Australian Services Union (formally the Australian Municipal, Administrative, Clerical and Services Union), a trade union representing clerical, administrative and services workers across private and community sectors in NSW and the ACT.",
+            "category": "union"
           }
         },
         {
@@ -2226,6 +2388,12 @@
           "total_aud": 40000,
           "by_year": {
             "2024-25": 40000
+          },
+          "info": {
+            "link": "https://www.asuvictas.com.au/",
+            "link_type": "website",
+            "description": "The Victorian & Tasmanian Authorities and Services Branch of the Australian Services Union, a trade union representing members across local government, social and community services, water, energy, transport, travel, IT and (in Tasmania) airlines.",
+            "category": "union"
           }
         },
         {
@@ -2234,6 +2402,12 @@
           "by_year": {
             "2021-22": 20000,
             "2024-25": 20000
+          },
+          "info": {
+            "link": "https://abr.business.gov.au/ABN/View/30120598807",
+            "link_type": "website",
+            "description": "A Western Australian private investment/holding company (ABN 30 120 598 807) associated with the Clough family, now trading under the business names Clough Family Office and Jock Clough Foundation.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -2241,6 +2415,12 @@
           "total_aud": 40000,
           "by_year": {
             "2021-22": 40000
+          },
+          "info": {
+            "link": "https://ktqgroup.com.au/",
+            "link_type": "website",
+            "description": "KTQ Group (KTQ Developments) is a family-owned, privately funded Queensland property development company with a portfolio spanning resorts, hotels, residential, aged care and childcare, including projects such as Elements of Byron and the Kirra Beach Hotel. It is led by managing director Peggy Flannery.",
+            "category": "company"
           }
         },
         {
@@ -2255,6 +2435,12 @@
           "total_aud": 39375,
           "by_year": {
             "2021-22": 39375
+          },
+          "info": {
+            "link": "https://www.sda.au/newcastle/",
+            "link_type": "website",
+            "description": "The Newcastle & Northern Branch of the Shop, Distributive and Allied Employees' Association (SDA), a private-sector trade union representing retail, fast-food and warehouse workers, with over 13,000 members in the region.",
+            "category": "union"
           }
         },
         {
@@ -2264,6 +2450,12 @@
             "2021-22": 11000,
             "2022-23": 11000,
             "2024-25": 17042
+          },
+          "info": {
+            "link": "https://www.endeavourgroup.com.au/",
+            "link_type": "website",
+            "description": "Endeavour Group Ltd (ASX: EDV) is an Australian alcohol retailer and hospitality operator spun off from Woolworths in 2021, owning the Dan Murphy's and BWS retail chains plus a national portfolio of more than 300 licensed hotels/pubs.",
+            "category": "company"
           }
         },
         {
@@ -2279,6 +2471,12 @@
           "total_aud": 38000,
           "by_year": {
             "2021-22": 38000
+          },
+          "info": {
+            "link": "https://www.amwu.org.au/",
+            "link_type": "website",
+            "description": "The registered name of the Australian Manufacturing Workers' Union (AMWU), a trade union representing workers in the manufacturing, metals, automotive, food, engineering and printing industries. It is affiliated with the ACTU and Australian Labor Party.",
+            "category": "union"
           }
         },
         {
@@ -2294,6 +2492,12 @@
           "by_year": {
             "2021-22": 10000,
             "2022-23": 26058
+          },
+          "info": {
+            "link": "https://www.ey.com/en_au",
+            "link_type": "website",
+            "description": "Ernst & Young (EY) is one of the 'Big Four' global professional-services firms, providing assurance, consulting, tax and transaction advisory services; its Australian operations employ around 9,800 people across the country.",
+            "category": "company"
           }
         },
         {
@@ -2315,6 +2519,12 @@
           "total_aud": 35000,
           "by_year": {
             "2021-22": 35000
+          },
+          "info": {
+            "link": "https://usu.org.au/",
+            "link_type": "website",
+            "description": "The United Services Union (USU) is a NSW/ACT trade union of about 30,000 members representing local government, clerical, administrative, energy, airlines and utilities workers. It is affiliated with the ACTU and Australian Labor Party.",
+            "category": "union"
           }
         },
         {
@@ -2322,6 +2532,12 @@
           "total_aud": 35000,
           "by_year": {
             "2021-22": 35000
+          },
+          "info": {
+            "link": "https://www.twusant.com.au/",
+            "link_type": "website",
+            "description": "The South Australia/Northern Territory Branch of the Transport Workers' Union of Australia, representing transport, logistics, aviation and passenger-transport workers across SA and the NT.",
+            "category": "union"
           }
         },
         {
@@ -2329,6 +2545,12 @@
           "total_aud": 34000,
           "by_year": {
             "2021-22": 34000
+          },
+          "info": {
+            "link": "https://asumembers.org.au/",
+            "link_type": "website",
+            "description": "The NSW & ACT (Services) Branch of the Australian Services Union, a trade union representing clerical, administrative and services workers across private and community sectors in NSW and the ACT.",
+            "category": "union"
           }
         },
         {
@@ -2343,6 +2565,12 @@
           "total_aud": 32727,
           "by_year": {
             "2024-25": 32727
+          },
+          "info": {
+            "link": "https://www.alp.org.au/",
+            "link_type": "website",
+            "description": "The Australian Labor Party (ALP) is Australia's major centre-left, social-democratic political party, founded in 1891 and currently in government federally.",
+            "category": "political party body"
           }
         },
         {
@@ -2352,6 +2580,12 @@
             "2021-22": 21000,
             "2023-24": 11611,
             "2024-25": 50
+          },
+          "info": {
+            "link": "https://qha.org.au/",
+            "link_type": "website",
+            "description": "The Queensland Hotels Association (QHA) is the peak industry body and registered employer organisation representing hotels and hospitality businesses across Queensland, operating since 1885.",
+            "category": "employer association"
           }
         },
         {
@@ -2367,6 +2601,12 @@
           "total_aud": 32500,
           "by_year": {
             "2023-24": 32500
+          },
+          "info": {
+            "link": "https://cg.cfmeu.org/",
+            "link_type": "website",
+            "description": "The Construction and General Division of the Construction, Forestry and Maritime Employees Union (CFMEU) is the trade union representing construction workers across Australia.",
+            "category": "union"
           }
         },
         {
@@ -2381,6 +2621,12 @@
           "total_aud": 31000,
           "by_year": {
             "2024-25": 31000
+          },
+          "info": {
+            "link": "https://meu.org.au/home-northern-mining-and-nsw-energy-district/",
+            "link_type": "website",
+            "description": "The Northern Mining and NSW Energy District Branch of the Mining and Energy Union (MEU) represents coal mining and energy workers in northern NSW, including the Hunter Valley coal fields.",
+            "category": "union"
           }
         },
         {
@@ -2402,6 +2648,12 @@
           "total_aud": 30000,
           "by_year": {
             "2024-25": 30000
+          },
+          "info": {
+            "link": "https://payce.com.au/",
+            "link_type": "website",
+            "description": "PAYCE is an Australian-owned Sydney-based property development group, developing residential, retail and commercial projects since 1978.",
+            "category": "company"
           }
         },
         {
@@ -2409,6 +2661,12 @@
           "total_aud": 30000,
           "by_year": {
             "2024-25": 30000
+          },
+          "info": {
+            "link": "https://www.amwu.org.au/",
+            "link_type": "website",
+            "description": "The Australian Manufacturing Workers' Union (AMWU), formally the Automotive, Food, Metals, Engineering, Printing and Kindred Industries Union, is a national trade union representing manufacturing and industrial workers.",
+            "category": "union"
           }
         },
         {
@@ -2416,6 +2674,12 @@
           "total_aud": 30000,
           "by_year": {
             "2024-25": 30000
+          },
+          "info": {
+            "link": "https://awu.net.au/nsw/",
+            "link_type": "website",
+            "description": "The NSW Branch of the Australian Workers' Union (AWU), one of Australia's oldest and largest trade unions, representing workers across a broad range of industries in New South Wales.",
+            "category": "union"
           }
         },
         {
@@ -2423,6 +2687,12 @@
           "total_aud": 30000,
           "by_year": {
             "2024-25": 30000
+          },
+          "info": {
+            "link": "https://www.sda.au/",
+            "link_type": "website",
+            "description": "The Shop, Distributive and Allied Employees Association (SDA) is Australia's largest trade union, representing workers in retail, fast food and warehousing.",
+            "category": "union"
           }
         },
         {
@@ -2430,6 +2700,12 @@
           "total_aud": 30000,
           "by_year": {
             "2024-25": 30000
+          },
+          "info": {
+            "link": "https://www.ppteu.asn.au/",
+            "link_type": "website",
+            "description": "The Plumbing and Pipe Trades Employees Union (PPTEU) is a trade union representing plumbers and pipe trades workers in Australia, operating as part of the Communications, Electrical and Plumbing Union (CEPU).",
+            "category": "union"
           }
         },
         {
@@ -2444,6 +2720,12 @@
           "total_aud": 30000,
           "by_year": {
             "2024-25": 30000
+          },
+          "info": {
+            "link": "https://www.rtbu.org.au/",
+            "link_type": "website",
+            "description": "The Australian Rail, Tram and Bus Industry Union (RTBU) is the national trade union representing workers in Australia's rail and public transport industries.",
+            "category": "union"
           }
         },
         {
@@ -2451,6 +2733,12 @@
           "total_aud": 30000,
           "by_year": {
             "2021-22": 30000
+          },
+          "info": {
+            "link": "https://www.agsmovers.com/branches/oceania/australia/australia/",
+            "link_type": "website",
+            "description": "AGS World Transport Pty Ltd is the Australian operation of the AGS Group, an international removals and relocation company, with offices in Sydney, Melbourne, Brisbane, Adelaide and Fremantle.",
+            "category": "company"
           }
         },
         {
@@ -2458,6 +2746,12 @@
           "total_aud": 30000,
           "by_year": {
             "2021-22": 30000
+          },
+          "info": {
+            "link": "https://www.airtasker.com/",
+            "link_type": "website",
+            "description": "Airtasker Limited (ASX:ART) is an ASX-listed Australian online marketplace platform connecting people who need tasks done with local service providers.",
+            "category": "company"
           }
         },
         {
@@ -2472,6 +2766,12 @@
           "total_aud": 30000,
           "by_year": {
             "2021-22": 30000
+          },
+          "info": {
+            "link": "https://www.rtbu.org.au/",
+            "link_type": "website",
+            "description": "The Australian Rail, Tram and Bus Industry Union (RTBU) is the national trade union representing workers in Australia's rail and public transport industries.",
+            "category": "union"
           }
         },
         {
@@ -2479,6 +2779,12 @@
           "total_aud": 30000,
           "by_year": {
             "2021-22": 30000
+          },
+          "info": {
+            "link": "https://awu.net.au/",
+            "link_type": "website",
+            "description": "The South Australian Branch of the Australian Workers' Union (AWU), one of Australia's oldest and largest trade unions, representing workers across a broad range of industries.",
+            "category": "union"
           }
         },
         {
@@ -2493,6 +2799,12 @@
           "total_aud": 30000,
           "by_year": {
             "2021-22": 30000
+          },
+          "info": {
+            "link": "https://www.sda.au/",
+            "link_type": "website",
+            "description": "The Shop, Distributive and Allied Employees Association (SDA) is Australia's largest trade union, representing workers in retail, fast food and warehousing.",
+            "category": "union"
           }
         },
         {
@@ -2500,6 +2812,12 @@
           "total_aud": 30000,
           "by_year": {
             "2021-22": 30000
+          },
+          "info": {
+            "link": "https://www.amwu.org.au/",
+            "link_type": "website",
+            "description": "The Australian Manufacturing Workers' Union (AMWU) is a national trade union representing manufacturing and industrial workers across Australia.",
+            "category": "union"
           }
         },
         {
@@ -2507,6 +2825,12 @@
           "total_aud": 30000,
           "by_year": {
             "2021-22": 30000
+          },
+          "info": {
+            "link": "https://www.amwu.org.au/wa",
+            "link_type": "website",
+            "description": "The Western Australian Branch of the Australian Manufacturing Workers' Union (AMWU), a national trade union representing manufacturing and industrial workers.",
+            "category": "union"
           }
         },
         {
@@ -2514,6 +2838,12 @@
           "total_aud": 30000,
           "by_year": {
             "2021-22": 30000
+          },
+          "info": {
+            "link": "https://www.rtbu.org.au/",
+            "link_type": "website",
+            "description": "The Australian Rail, Tram and Bus Industry Union (RTBU) is the national trade union representing workers in Australia's rail and public transport industries.",
+            "category": "union"
           }
         },
         {
@@ -2553,6 +2883,12 @@
           "total_aud": 28300,
           "by_year": {
             "2024-25": 28300
+          },
+          "info": {
+            "link": "https://www.etu.org.au/",
+            "link_type": "website",
+            "description": "This is the Queensland and Northern Territory branch of the Electrical Division of the CEPU, known as the Electrical Trades Union (ETU Qld & NT), a trade union representing electrical, electronic, communications and energy-sector workers.",
+            "category": "union"
           }
         },
         {
@@ -2568,6 +2904,12 @@
           "total_aud": 27844,
           "by_year": {
             "2024-25": 27844
+          },
+          "info": {
+            "link": "https://together.org.au/",
+            "link_type": "website",
+            "description": "Together is the Queensland branch of the Australian Services Union, a trade union of around 30,000 members covering public- and private-sector workers including Queensland Health, schools, TAFE and various administrative and clerical roles.",
+            "category": "union"
           }
         },
         {
@@ -2575,6 +2917,12 @@
           "total_aud": 27752,
           "by_year": {
             "2021-22": 27752
+          },
+          "info": {
+            "link": "https://awu.net.au/nsw/",
+            "link_type": "website",
+            "description": "The Australian Workers' Union NSW Branch is the New South Wales branch of the AWU, Australia's oldest trade union, representing workers across many industries including manufacturing, construction, agriculture and food services; it was formed in 2016 from the amalgamation of three NSW branches.",
+            "category": "union"
           }
         },
         {
@@ -2582,6 +2930,12 @@
           "total_aud": 27500,
           "by_year": {
             "2024-25": 27500
+          },
+          "info": {
+            "link": "https://www.dnb.com/business-directory/company-profiles.n_g_p_investments_(no_2)_pty_ltd.1f3c0a98203dc81aded861e8f92ec9e7.html",
+            "link_type": "website",
+            "description": "NGP Investments (No. 2) Pty Ltd is part of the NGP Group, a large Australian motor vehicle dealership group based in Darlinghurst, NSW, operating new and used car dealerships representing brands such as Mercedes-Benz, Volkswagen and Nissan.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -2590,6 +2944,12 @@
           "by_year": {
             "2021-22": 16600,
             "2023-24": 10583
+          },
+          "info": {
+            "link": "https://www.guild.org.au/guild-branches/qld",
+            "link_type": "website",
+            "description": "The Queensland branch of the Pharmacy Guild of Australia, the national employer and professional body representing community (retail) pharmacy owners. It provides industrial relations, training and advocacy services to member pharmacies in Queensland.",
+            "category": "industry body"
           }
         },
         {
@@ -2621,6 +2981,12 @@
           "by_year": {
             "2021-22": 20000,
             "2023-24": 5926
+          },
+          "info": {
+            "link": "https://www.gtlaw.com.au/",
+            "link_type": "website",
+            "description": "An Australian commercial law firm founded in 1988 by Danny Gilbert and Tony Tobin, with offices in Sydney, Melbourne and Perth, specialising in corporate transactions, disputes and regulation.",
+            "category": "company"
           }
         },
         {
@@ -2628,6 +2994,12 @@
           "total_aud": 25652,
           "by_year": {
             "2021-22": 25652
+          },
+          "info": {
+            "link": "https://unitedworkers.org.au/",
+            "link_type": "website",
+            "description": "The United Workers Union (the disclosed name contains a typo), an Australian trade union formed in 2019 by the merger of United Voice and the National Union of Workers, representing around 150,000 workers across sectors including warehousing, hospitality, aged care, early childhood education, cleaning and food production.",
+            "category": "union"
           }
         },
         {
@@ -2642,6 +3014,12 @@
           "total_aud": 25000,
           "by_year": {
             "2024-25": 25000
+          },
+          "info": {
+            "link": "https://www.hacsu.org.au/",
+            "link_type": "website",
+            "description": "HACSU, the Tasmanian branch of the Health Services Union, representing more than 11,000 workers across Tasmania's public and private health, ambulance, aged care, disability and community services sectors.",
+            "category": "union"
           }
         },
         {
@@ -2649,6 +3027,12 @@
           "total_aud": 25000,
           "by_year": {
             "2024-25": 25000
+          },
+          "info": {
+            "link": "https://www.ahavic.com.au/",
+            "link_type": "website",
+            "description": "AHA (Vic), the Victorian branch of the Australian Hotels Association, an employer and industry body representing the rights and interests of hotels, pubs and accommodation providers across Victoria to government and the community.",
+            "category": "industry body"
           }
         },
         {
@@ -2671,6 +3055,12 @@
           "by_year": {
             "2021-22": 5000,
             "2024-25": 20000
+          },
+          "info": {
+            "link": "https://au.linkedin.com/company/henroth-investments-pty-ltd",
+            "link_type": "linkedin",
+            "description": "A Sydney-based private investment and property development company that serves as the family office of the Roth family (founded by John and Stanley Roth), investing in completed real-estate assets and listed equities, with holdings and developments in New South Wales and Queensland.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -2678,6 +3068,12 @@
           "total_aud": 25000,
           "by_year": {
             "2024-25": 25000
+          },
+          "info": {
+            "link": "https://www.fairwork.gov.au/newsroom/media-releases/2020-media-releases/november-2020/20201110-idameneo-eu-media-release",
+            "link_type": "website",
+            "description": "Idameneo (No 123) Pty Ltd is an Australian medical-centre management company that has operated dozens of medical and dental centres and GP practices under brands including Primary Health Care and Primary Dental; formerly part of Healius Limited, the medical centres division was acquired by BGH Capital in 2020 and rebranded ForHealth.",
+            "category": "company"
           }
         },
         {
@@ -2685,6 +3081,12 @@
           "total_aud": 25000,
           "by_year": {
             "2024-25": 25000
+          },
+          "info": {
+            "link": "http://www.sdavic.org/",
+            "link_type": "website",
+            "description": "The Victorian branch of the Shop, Distributive and Allied Employees' Association (SDA), a private-sector trade union representing retail, fast-food and warehousing workers, with over 50,000 members in Victoria.",
+            "category": "union"
           }
         },
         {
@@ -2706,6 +3108,12 @@
           "total_aud": 25000,
           "by_year": {
             "2022-23": 25000
+          },
+          "info": {
+            "link": "https://www.hutchinsonbuilders.com.au/",
+            "link_type": "website",
+            "description": "Trading as Hutchinson Builders (Hutchies), a privately owned, Brisbane-headquartered construction company established in 1912 and chaired by Scott Hutchinson, recognised as one of Australia's largest builders, delivering commercial, residential and institutional construction projects nationally.",
+            "category": "company"
           }
         },
         {
@@ -2720,6 +3128,12 @@
           "total_aud": 25000,
           "by_year": {
             "2021-22": 25000
+          },
+          "info": {
+            "link": "https://qnt.cfmeu.org/",
+            "link_type": "website",
+            "description": "The Queensland and Northern Territory branch of the CFMEU Construction and General Division, a trade union representing more than 20,000 building, civil construction and manufacturing workers across Queensland and the Northern Territory.",
+            "category": "union"
           }
         },
         {
@@ -2734,6 +3148,12 @@
           "total_aud": 25000,
           "by_year": {
             "2021-22": 25000
+          },
+          "info": {
+            "link": "https://bisinella.com.au/",
+            "link_type": "website",
+            "description": "A family-run, Geelong-region property development and land sales business founded by Lino Bisinella, with around 60 years of industrial and residential development in the City of Greater Geelong, Victoria.",
+            "category": "company"
           }
         },
         {
@@ -2741,6 +3161,12 @@
           "total_aud": 24690,
           "by_year": {
             "2021-22": 24690
+          },
+          "info": {
+            "link": "https://awu.net.au/",
+            "link_type": "website",
+            "description": "One of Australia's largest and oldest trade unions, founded in 1894 from earlier shearers' and labourers' unions, representing around 80,000 workers across industries including manufacturing, steel, oil and gas, agriculture, construction and aviation.",
+            "category": "union"
           }
         },
         {
@@ -2748,6 +3174,12 @@
           "total_aud": 24500,
           "by_year": {
             "2024-25": 24500
+          },
+          "info": {
+            "link": "https://viclabor.com.au/",
+            "link_type": "website",
+            "description": "The Victorian state branch of the Australian Labor Party, the centre-left political party that forms the state government of Victoria.",
+            "category": "political party body"
           }
         },
         {
@@ -2755,6 +3187,12 @@
           "total_aud": 24277,
           "by_year": {
             "2021-22": 24277
+          },
+          "info": {
+            "link": "https://cryptoloc.com/",
+            "link_type": "website",
+            "description": "A Brisbane-headquartered cybersecurity and data-security company founded in 2010, offering encrypted cloud storage, backup and document-transfer products built on its patented three-key encryption technology, with offices internationally.",
+            "category": "company"
           }
         },
         {
@@ -2763,6 +3201,12 @@
           "by_year": {
             "2021-22": 14000,
             "2023-24": 10000
+          },
+          "info": {
+            "link": "https://www.linfox.com/",
+            "link_type": "website",
+            "description": "The property and warehousing arm of Linfox, Australia's largest privately owned logistics group founded by Lindsay Fox; the group is owned by the Fox family, with Andrew Fox as managing director of the property business.",
+            "category": "company"
           }
         },
         {
@@ -2792,6 +3236,12 @@
           "total_aud": 22300,
           "by_year": {
             "2024-25": 22300
+          },
+          "info": {
+            "link": "https://www.twuwa.org.au/",
+            "link_type": "website",
+            "description": "The Western Australian branch of the Transport Workers' Union of Australia, a trade union representing workers in aviation, road transport and freight logistics, mining, oil and gas, public transport and waste management.",
+            "category": "union"
           }
         },
         {
@@ -2799,6 +3249,12 @@
           "total_aud": 22008,
           "by_year": {
             "2021-22": 22008
+          },
+          "info": {
+            "link": "https://awu.net.au/nsw/",
+            "link_type": "website",
+            "description": "The New South Wales branch of the Australian Workers' Union, one of Australia's largest and oldest trade unions, representing workers across manufacturing, construction, agriculture and many other industries.",
+            "category": "union"
           }
         },
         {
@@ -2806,6 +3262,12 @@
           "total_aud": 22000,
           "by_year": {
             "2024-25": 22000
+          },
+          "info": {
+            "link": "https://www.btcmarkets.net/",
+            "link_type": "website",
+            "description": "An Australian-owned cryptocurrency exchange founded in 2013, regarded as one of the country's first and largest, allowing users to buy and sell digital assets in Australian dollars; AUSTRAC-registered.",
+            "category": "company"
           }
         },
         {
@@ -2813,6 +3275,12 @@
           "total_aud": 22000,
           "by_year": {
             "2024-25": 22000
+          },
+          "info": {
+            "link": "https://calebandbrown.com/",
+            "link_type": "website",
+            "description": "A Melbourne-based cryptocurrency brokerage founded in 2016 by Rupert Hackett and Prash Puspanathan, providing personalised over-the-counter trading, custody and asset management for high-net-worth crypto investors; acquired by Swyftx in 2025.",
+            "category": "company"
           }
         },
         {
@@ -2827,6 +3295,12 @@
           "total_aud": 22000,
           "by_year": {
             "2024-25": 22000
+          },
+          "info": {
+            "link": "https://www.catenadigital.com.au/",
+            "link_type": "website",
+            "description": "An Australian fintech company providing Australian-dollar-backed stablecoins and on-chain payment infrastructure for businesses, digital-asset exchanges and individuals, based in Sydney.",
+            "category": "company"
           }
         },
         {
@@ -2834,6 +3308,12 @@
           "total_aud": 22000,
           "by_year": {
             "2024-25": 22000
+          },
+          "info": {
+            "link": "https://crypto.com/",
+            "link_type": "website",
+            "description": "Part of the corporate group that operates the cryptocurrency trading platform Crypto.com in Australia; related Foris entities (e.g. Foris GFS Australia, Foris DAX AU) hold Australian financial-services licensing for Crypto.com's local card and exchange services.",
+            "category": "company"
           }
         },
         {
@@ -2841,6 +3321,12 @@
           "total_aud": 22000,
           "by_year": {
             "2024-25": 22000
+          },
+          "info": {
+            "link": "https://www.immutable.com/",
+            "link_type": "website",
+            "description": "A Sydney-headquartered cryptocurrency and blockchain-gaming company (formerly Fuel Games) founded in 2018 by Robbie Ferguson, James Ferguson and Alex Connolly, known for Immutable X, Gods Unchained and NFT infrastructure.",
+            "category": "company"
           }
         },
         {
@@ -2855,6 +3341,12 @@
           "total_aud": 22000,
           "by_year": {
             "2024-25": 22000
+          },
+          "info": {
+            "link": "https://www.emdgroup.com/en/company.html",
+            "link_type": "website",
+            "description": "The Australian subsidiary (based in Macquarie Park, NSW) of Merck KGaA, Darmstadt, Germany, a global pharmaceutical and life-science company; sponsors oncology and other prescription medicines on the Australian Register of Therapeutic Goods.",
+            "category": "company"
           }
         },
         {
@@ -2862,6 +3354,12 @@
           "total_aud": 22000,
           "by_year": {
             "2024-25": 22000
+          },
+          "info": {
+            "link": "https://techcouncil.com.au/",
+            "link_type": "website",
+            "description": "The Tech Council of Australia (Technology Council of Australia Limited) is the national industry body representing Australia's technology sector, founded in 2021 to advocate for tech companies.",
+            "category": "industry body"
           }
         },
         {
@@ -2869,6 +3367,12 @@
           "total_aud": 22000,
           "by_year": {
             "2022-23": 22000
+          },
+          "info": {
+            "link": "https://laxales.com.au/",
+            "link_type": "website",
+            "description": "A family-owned hair and beauty wholesaler and distributor founded in 1987, operating stores in Sydney's Seven Hills and Smithfield and online, stocking and exclusively distributing a range of professional salon brands.",
+            "category": "company"
           }
         },
         {
@@ -2883,6 +3387,12 @@
           "total_aud": 22000,
           "by_year": {
             "2022-23": 22000
+          },
+          "info": {
+            "link": "https://trademarkgroup.com.au/",
+            "link_type": "website",
+            "description": "An Australian-headquartered global business network providing B2B networking, business setup, logistics and market-expansion services, with branches in Saudi Arabia, the UAE, the UK, New Zealand and China; chaired by Sam Jamsheedi.",
+            "category": "company"
           }
         },
         {
@@ -2890,6 +3400,12 @@
           "total_aud": 21978,
           "by_year": {
             "2022-23": 21978
+          },
+          "info": {
+            "link": "https://satterley.com.au/",
+            "link_type": "website",
+            "description": "Australia's largest independently owned residential property development company, founded in 1980 by Nigel Satterley AM, with masterplanned community developments across Western Australia, Victoria and Queensland.",
+            "category": "company"
           }
         },
         {
@@ -2921,6 +3437,12 @@
           "total_aud": 20124,
           "by_year": {
             "2024-25": 20124
+          },
+          "info": {
+            "link": "https://www.amp.com.au/",
+            "link_type": "website",
+            "description": "A service company within AMP Limited, an ASX-listed Australian financial-services group (founded 1849 as the Australian Mutual Provident Society) providing superannuation, investment, financial advice and banking products in Australia and New Zealand.",
+            "category": "company"
           }
         },
         {
@@ -2944,6 +3466,12 @@
           "total_aud": 20000,
           "by_year": {
             "2024-25": 20000
+          },
+          "info": {
+            "link": "https://www.cornerstonehealth.com.au/",
+            "link_type": "website",
+            "description": "An Australian primary-healthcare company operating a network of medical centres (the \"Our Medical\" brand) across Queensland, NSW and Victoria offering general practice, dental, pathology, radiology and pharmacy services.",
+            "category": "company"
           }
         },
         {
@@ -2951,6 +3479,12 @@
           "total_aud": 20000,
           "by_year": {
             "2024-25": 20000
+          },
+          "info": {
+            "link": "https://tongalanutrition.com.au/",
+            "link_type": "website",
+            "description": "An Australian dairy nutrition manufacturer based in Tongala, Victoria, that revived the former Nestle factory in 2023 to produce UHT liquid products and nutritional dairy products such as high-protein and fortified milks for domestic and export markets.",
+            "category": "company"
           }
         },
         {
@@ -2965,6 +3499,12 @@
           "total_aud": 20000,
           "by_year": {
             "2024-25": 20000
+          },
+          "info": {
+            "link": "https://awu.net.au/",
+            "link_type": "website",
+            "description": "The national office of the Australian Workers' Union (AWU), one of Australia's largest and oldest trade unions, representing workers across industries including mining, manufacturing, agriculture and construction.",
+            "category": "union"
           }
         },
         {
@@ -2979,6 +3519,12 @@
           "total_aud": 20000,
           "by_year": {
             "2024-25": 20000
+          },
+          "info": {
+            "link": "https://www.guild.org.au/",
+            "link_type": "website",
+            "description": "The Pharmacy Guild of Australia, the national peak body and registered employers' organisation representing community pharmacy owners, established in 1927 and headquartered in Barton, ACT.",
+            "category": "industry body"
           }
         },
         {
@@ -3041,6 +3587,12 @@
           "total_aud": 20000,
           "by_year": {
             "2024-25": 20000
+          },
+          "info": {
+            "link": "https://www.eurekalawyers.com.au/",
+            "link_type": "website",
+            "description": "A Perth, Western Australia-based law firm describing itself as the largest trade-union legal practice in WA, specialising in personal injury, workers' compensation, industrial relations, asbestos disease and family law.",
+            "category": "company"
           }
         },
         {
@@ -3048,6 +3600,12 @@
           "total_aud": 20000,
           "by_year": {
             "2023-24": 20000
+          },
+          "info": {
+            "link": "https://www.anacta.com.au/",
+            "link_type": "website",
+            "description": "A specialist public-affairs, government-relations and political consulting firm headquartered in Brisbane, Queensland, founded in 2019 by former ALP Queensland state secretary Evan Moorhead, with offices across Australia and New Zealand.",
+            "category": "company"
           }
         },
         {
@@ -3055,6 +3613,12 @@
           "total_aud": 20000,
           "by_year": {
             "2022-23": 20000
+          },
+          "info": {
+            "link": "https://ahansw.com.au/",
+            "link_type": "website",
+            "description": "The NSW branch of the Australian Hotels Association (AHA NSW), the state's peak hospitality industry body representing around 1,800 licensed hotels and pubs in New South Wales.",
+            "category": "industry body"
           }
         },
         {
@@ -3076,6 +3640,12 @@
           "total_aud": 20000,
           "by_year": {
             "2021-22": 20000
+          },
+          "info": {
+            "link": "https://www.cwu.org.au/",
+            "link_type": "website",
+            "description": "The Communications Division (postal, telecommunications and IT workers) of the Communications, Electrical, Electronic, Energy, Information, Postal, Plumbing and Allied Services Union of Australia (CEPU), a national trade union.",
+            "category": "union"
           }
         },
         {
@@ -3083,6 +3653,12 @@
           "total_aud": 20000,
           "by_year": {
             "2021-22": 20000
+          },
+          "info": {
+            "link": "https://act.cfmeu.org/",
+            "link_type": "website",
+            "description": "The Australian Capital Territory branch of the Construction, Forestry and Maritime Employees Union (CFMEU), the union's construction division branch representing building and construction workers in the ACT.",
+            "category": "union"
           }
         },
         {
@@ -3090,6 +3666,12 @@
           "total_aud": 20000,
           "by_year": {
             "2021-22": 20000
+          },
+          "info": {
+            "link": "https://greenenergytrading.com.au/",
+            "link_type": "website",
+            "description": "An Australian environmental-certificate agent that helps clean-energy businesses create and trade renewable energy and energy-efficiency certificates (such as STCs, VEECs and LGCs) for solar and energy-efficiency installations.",
+            "category": "company"
           }
         },
         {
@@ -3111,6 +3693,12 @@
           "total_aud": 20000,
           "by_year": {
             "2021-22": 20000
+          },
+          "info": {
+            "link": "https://twunsw.org.au/",
+            "link_type": "website",
+            "description": "The New South Wales/ACT branch of the Transport Workers' Union of Australia (TWU), a trade union representing workers in the road transport, aviation, logistics and related transport industries.",
+            "category": "union"
           }
         },
         {
@@ -3118,6 +3706,12 @@
           "total_aud": 20000,
           "by_year": {
             "2021-22": 20000
+          },
+          "info": {
+            "link": "https://www.alp.org.au/",
+            "link_type": "website",
+            "description": "The National Secretariat of the Australian Labor Party (ALP), the central national administrative body of one of Australia's two major political parties, based in Barton, ACT.",
+            "category": "political party body"
           }
         },
         {
@@ -3125,6 +3719,12 @@
           "total_aud": 20000,
           "by_year": {
             "2021-22": 20000
+          },
+          "info": {
+            "link": "https://www.rtbu.org.au/",
+            "link_type": "website",
+            "description": "The national office of the Australian Rail, Tram and Bus Industry Union (RTBU), a trade union representing rail, tram and bus workers across Australia.",
+            "category": "union"
           }
         },
         {
@@ -3132,6 +3732,12 @@
           "total_aud": 20000,
           "by_year": {
             "2021-22": 20000
+          },
+          "info": {
+            "link": "https://www.tamboran.com/",
+            "link_type": "website",
+            "description": "Part of the Tamboran Resources group, an ASX- and NYSE-listed natural gas exploration and production company (headquartered in Sydney) that is the largest acreage holder and operator in the Beetaloo Sub-basin in the Northern Territory.",
+            "category": "company"
           }
         },
         {
@@ -3139,6 +3745,12 @@
           "total_aud": 20000,
           "by_year": {
             "2021-22": 20000
+          },
+          "info": {
+            "link": "https://www.nswlabor.org.au/",
+            "link_type": "website",
+            "description": "The New South Wales branch of the Australian Labor Party (NSW Labor), the state division of the ALP, with its head office on Sussex Street, Sydney.",
+            "category": "political party body"
           }
         },
         {
@@ -3146,6 +3758,12 @@
           "total_aud": 20000,
           "by_year": {
             "2021-22": 20000
+          },
+          "info": {
+            "link": "https://www.mua.org.au/queensland_branch",
+            "link_type": "website",
+            "description": "The Queensland branch of the Maritime Union of Australia (MUA), the maritime division of the CFMEU, representing stevedores, seafarers, offshore oil and gas workers and divers across Queensland's ports.",
+            "category": "union"
           }
         },
         {
@@ -3160,6 +3778,12 @@
           "total_aud": 20000,
           "by_year": {
             "2021-22": 20000
+          },
+          "info": {
+            "link": "https://www.rtbu.org.au/",
+            "link_type": "website",
+            "description": "The Australian Rail, Tram and Bus Industry Union (RTBU), a trade union representing rail, tram and bus workers across Australia, with branches in each state and territory.",
+            "category": "union"
           }
         },
         {
@@ -3167,6 +3791,12 @@
           "total_aud": 20000,
           "by_year": {
             "2021-22": 20000
+          },
+          "info": {
+            "link": "https://www.slatergordon.com.au/",
+            "link_type": "website",
+            "description": "An Australian consumer law firm founded in Melbourne in 1935, specialising in personal injury, compensation, class actions, employment and union services; since 2023 owned by private equity firm Allegro Funds.",
+            "category": "company"
           }
         },
         {
@@ -3829,6 +4459,12 @@
           "by_year": {
             "2022-23": 4518,
             "2023-24": 6197
+          },
+          "info": {
+            "link": "https://kpmg.com/au/en.html",
+            "link_type": "website",
+            "description": "KPMG is one of the 'Big Four' professional services firms; KPMG Australia provides audit, tax and advisory services and is part of the global KPMG network.",
+            "category": "company"
           }
         },
         {
@@ -11594,6 +12230,12 @@
           "total_aud": 50000,
           "by_year": {
             "2024-25": 50000
+          },
+          "info": {
+            "link": "https://www.acnc.gov.au/charity/charities/dcefcd79-3aaf-e811-a95e-000d3ad24c60/profile",
+            "link_type": "website",
+            "description": "An Australian charitable foundation (registered with the ACNC) linked to the Maister family office (MFO Investments, Bondi Junction NSW), making distributions to charities and community causes.",
+            "category": "foundation"
           }
         },
         {
@@ -11622,6 +12264,12 @@
           "total_aud": 50000,
           "by_year": {
             "2024-25": 50000
+          },
+          "info": {
+            "link": "https://neilsens.com.au/",
+            "link_type": "website",
+            "description": "The holding entity of the Queensland-based Neilsen Group, an independently owned concrete and quarry supplier operating since 1976 with quarries at Brendale, Beaudesert and Bromelton.",
+            "category": "company"
           }
         },
         {
@@ -11657,6 +12305,12 @@
           "total_aud": 50000,
           "by_year": {
             "2024-25": 50000
+          },
+          "info": {
+            "link": "https://www.haighschocolates.com.au/",
+            "link_type": "website",
+            "description": "A family trust/estate connected to Alister Haigh, fourth-generation member and long-serving CEO of Haigh's Chocolates, Australia's oldest family-owned bean-to-bar chocolate maker, founded in Adelaide in 1915.",
+            "category": "other"
           }
         },
         {
@@ -11706,6 +12360,12 @@
           "total_aud": 50000,
           "by_year": {
             "2024-25": 50000
+          },
+          "info": {
+            "link": "https://www.amcps.com.au/",
+            "link_type": "website",
+            "description": "A privately owned boutique investment advisory firm based in Paddington, NSW, providing investment advice and equity-raising solutions to corporates, institutional investors, family offices and high-net-worth investors (AFSL 517935).",
+            "category": "company"
           }
         },
         {
@@ -11797,6 +12457,12 @@
           "total_aud": 50000,
           "by_year": {
             "2021-22": 50000
+          },
+          "info": {
+            "link": "https://abr.business.gov.au/ABN/View/12142231758",
+            "link_type": "website",
+            "description": "An Australian proprietary company registered in 2010 and based in Thomastown, Victoria. Business-registry records confirm the entity but do not detail its trading activity.",
+            "category": "company"
           }
         },
         {
@@ -11852,6 +12518,12 @@
           "total_aud": 50000,
           "by_year": {
             "2021-22": 50000
+          },
+          "info": {
+            "link": "https://nsw.liberal.org.au/",
+            "link_type": "website",
+            "description": "The New South Wales state division of the Liberal Party of Australia, one of the two major centre-right political parties in Australia.",
+            "category": "political party body"
           }
         },
         {
@@ -11859,6 +12531,12 @@
           "total_aud": 50000,
           "by_year": {
             "2021-22": 50000
+          },
+          "info": {
+            "link": "https://vic.liberal.org.au/",
+            "link_type": "website",
+            "description": "The Victorian state division of the Liberal Party of Australia, one of the two major centre-right political parties in Australia.",
+            "category": "political party body"
           }
         },
         {
@@ -11873,6 +12551,12 @@
           "total_aud": 50000,
           "by_year": {
             "2021-22": 50000
+          },
+          "info": {
+            "link": "https://besen.com.au/",
+            "link_type": "website",
+            "description": "A private Melbourne-based investment and property company associated with the Besen family, the prominent retail and property dynasty that developed (and long co-owned) Highpoint Shopping Centre and controlled the Sussan fashion group.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -11908,6 +12592,12 @@
           "total_aud": 50000,
           "by_year": {
             "2021-22": 50000
+          },
+          "info": {
+            "link": "https://www.acegutters.com.au/",
+            "link_type": "website",
+            "description": "An Australian-owned manufacturer and supplier of rainwater goods, guttering, roofing and plumbing products, founded in 1953 and based in Mortdale, New South Wales.",
+            "category": "company"
           }
         },
         {
@@ -11922,6 +12612,12 @@
           "total_aud": 50000,
           "by_year": {
             "2021-22": 50000
+          },
+          "info": {
+            "link": "https://www.aubiz.net/company/omnioffices-pty-limited-010530677/",
+            "link_type": "website",
+            "description": "A New South Wales proprietary company registered in 1984 and located at Martin Place in central Sydney; its name and registration are confirmed by business-registry records, consistent with a serviced-office/property entity.",
+            "category": "company"
           }
         },
         {
@@ -11929,6 +12625,12 @@
           "total_aud": 50000,
           "by_year": {
             "2021-22": 50000
+          },
+          "info": {
+            "link": "https://www.precision.com.au/",
+            "link_type": "website",
+            "description": "Precision Group is a privately held, family-controlled Australian commercial property investment, development and management company founded in 1994 by Shaun Bonett, with a retail, commercial and hospitality portfolio across Australia and New Zealand.",
+            "category": "company"
           }
         },
         {
@@ -11943,6 +12645,12 @@
           "total_aud": 48500,
           "by_year": {
             "2023-24": 48500
+          },
+          "info": {
+            "link": "https://www.dnb.com/business-directory/company-profiles.gilpin_park_pty_ltd.b829ac6b346e3334627437492b533d4c.html",
+            "link_type": "website",
+            "description": "Gilpin Park Pty Ltd is a Western Australian company (registered 1982, based in Victoria Park, WA) acting as trustee for the JJH No1 Trust; it is classified as a holding/investment company.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -11950,6 +12658,12 @@
           "total_aud": 48200,
           "by_year": {
             "2022-23": 48200
+          },
+          "info": {
+            "link": "https://www.nationals.org.au/",
+            "link_type": "website",
+            "description": "The Nationals (National Party of Australia) is an Australian federal political party that has represented regional and rural Australia since the early 1900s and is the longstanding Coalition partner of the Liberal Party.",
+            "category": "political party body"
           }
         },
         {
@@ -11964,6 +12678,12 @@
           "total_aud": 45000,
           "by_year": {
             "2023-24": 45000
+          },
+          "info": {
+            "link": "https://www.waliberal.org.au/",
+            "link_type": "website",
+            "description": "The Liberal Party of Australia (Western Australian Division) is the WA state branch of the federal Liberal Party of Australia, a major centre-right political party.",
+            "category": "political party body"
           }
         },
         {
@@ -11978,6 +12698,12 @@
           "total_aud": 44000,
           "by_year": {
             "2024-25": 44000
+          },
+          "info": {
+            "link": "https://mafinancial.com/",
+            "link_type": "website",
+            "description": "MAFG Operations Pty Ltd is an Australian operating subsidiary of MA Financial Group (formerly Moelis & Company Australia), an ASX-listed asset management, lending and corporate advisory financial services group.",
+            "category": "company"
           }
         },
         {
@@ -11985,6 +12711,12 @@
           "total_aud": 42000,
           "by_year": {
             "2024-25": 42000
+          },
+          "info": {
+            "link": "https://nexbg.com.au/",
+            "link_type": "website",
+            "description": "NEX Building Group is an Australian residential and multi-residential home builder originating in the NSW Hunter region in 1987; it is majority owned by Japan's Asahi Kasei Homes and includes building, finance and manufacturing (Supaloc) businesses.",
+            "category": "company"
           }
         },
         {
@@ -12007,6 +12739,12 @@
           "by_year": {
             "2021-22": 20000,
             "2024-25": 20000
+          },
+          "info": {
+            "link": "https://abr.business.gov.au/ABN/View/30120598807",
+            "link_type": "website",
+            "description": "A Western Australian private investment/holding company (registered as Khaki Investments Pty Ltd, ABN 30 120 598 807) associated with the Clough family, now trading under the business names Clough Family Office and Jock Clough Foundation.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -12028,6 +12766,12 @@
           "by_year": {
             "2021-22": 20000,
             "2024-25": 20000
+          },
+          "info": {
+            "link": "https://www.bondipartners.com/",
+            "link_type": "website",
+            "description": "Bondi Partners is an advisory and investment firm sitting at the intersection of policy, politics and the private sector, founded in 2020 by former Australian Treasurer and Ambassador to the US Joe Hockey, with offices in Washington, Los Angeles, Sydney, Canberra and London.",
+            "category": "company"
           }
         },
         {
@@ -12035,6 +12779,12 @@
           "total_aud": 40000,
           "by_year": {
             "2024-25": 40000
+          },
+          "info": {
+            "link": "https://precisionpublicaffairs.com/",
+            "link_type": "website",
+            "description": "Precision Public Affairs is a Canberra-based bipartisan government relations and public affairs (lobbying) firm founded in 2020 by Sarah Cullens, advising clients on corporate affairs, government relations and public policy across sectors including defence, national security, health and ICT.",
+            "category": "company"
           }
         },
         {
@@ -12042,6 +12792,12 @@
           "total_aud": 40000,
           "by_year": {
             "2024-25": 40000
+          },
+          "info": {
+            "link": "https://www.lochinvardowns.com.au/",
+            "link_type": "website",
+            "description": "The trust vehicle behind Lochinvar Downs, a residential land subdivision and property development estate at Lochinvar in the Hunter Region of New South Wales.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -12049,6 +12805,12 @@
           "total_aud": 40000,
           "by_year": {
             "2023-24": 40000
+          },
+          "info": {
+            "link": "https://www.waliberal.org.au/",
+            "link_type": "website",
+            "description": "The corporate vehicle (ACN 008 672 848) of the Western Australian Division of the Liberal Party of Australia, the state branch of the centre-right Liberal Party, headquartered in West Perth.",
+            "category": "political party body"
           }
         },
         {
@@ -12084,6 +12846,12 @@
           "total_aud": 38500,
           "by_year": {
             "2022-23": 38500
+          },
+          "info": {
+            "link": "https://tas.liberal.org.au/",
+            "link_type": "website",
+            "description": "The Tasmanian Division of the Liberal Party of Australia, the state branch of the centre-right Liberal Party, headquartered in Hobart.",
+            "category": "political party body"
           }
         },
         {
@@ -12119,6 +12887,12 @@
           "total_aud": 33666,
           "by_year": {
             "2021-22": 33666
+          },
+          "info": {
+            "link": "https://www.access-solutions.com.au/",
+            "link_type": "website",
+            "description": "Access Solutions is a Tasmanian owned and operated company specialising in the supply, installation and servicing of lifts, escalators, disability access and vertical transport solutions for commercial and residential clients.",
+            "category": "company"
           }
         },
         {
@@ -12140,6 +12914,12 @@
           "total_aud": 32500,
           "by_year": {
             "2021-22": 32500
+          },
+          "info": {
+            "link": "https://kpmg.com/au/en.html",
+            "link_type": "website",
+            "description": "KPMG is one of the 'Big Four' professional services firms; KPMG Australia provides audit, tax and advisory services and is part of the global KPMG network.",
+            "category": "company"
           }
         },
         {
@@ -12147,6 +12927,12 @@
           "total_aud": 30000,
           "by_year": {
             "2024-25": 30000
+          },
+          "info": {
+            "link": "https://www.businessnews.com.au/Company/Australian-Gypsum-Industries",
+            "link_type": "website",
+            "description": "Australian Gypsum Industries (AGI) is a Western Australian building-materials distributor supplying plasterboard, insulation, ceilings, fibre cement and related products, based in Hazelmere, WA.",
+            "category": "company"
           }
         },
         {
@@ -12154,6 +12940,12 @@
           "total_aud": 30000,
           "by_year": {
             "2024-25": 30000
+          },
+          "info": {
+            "link": "https://www.mineralresources.com.au/",
+            "link_type": "website",
+            "description": "Mineral Resources Limited (MinRes, ASX:MIN) is a Western Australia-based diversified resources company with operations in lithium, iron ore, energy and mining services.",
+            "category": "company"
           }
         },
         {
@@ -12189,6 +12981,12 @@
           "total_aud": 30000,
           "by_year": {
             "2024-25": 30000
+          },
+          "info": {
+            "link": "https://www.kingroup.com.au/",
+            "link_type": "website",
+            "description": "Kin Group is the private family-office investment vehicle of Raphael and Fiona Geminder (Fiona being a daughter of the late Richard Pratt), holding interests across packaging, manufacturing, property and technology.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -12196,6 +12994,12 @@
           "total_aud": 30000,
           "by_year": {
             "2024-25": 30000
+          },
+          "info": {
+            "link": "https://www.aada.asn.au/",
+            "link_type": "website",
+            "description": "The Australian Automotive Dealer Association (AADA) is the national industry body exclusively representing franchised new-car and truck dealers in Australia.",
+            "category": "industry body"
           }
         },
         {
@@ -12224,6 +13028,12 @@
           "total_aud": 30000,
           "by_year": {
             "2023-24": 30000
+          },
+          "info": {
+            "link": "https://vic.liberal.org.au/",
+            "link_type": "website",
+            "description": "The Victorian Division of the Liberal Party of Australia, the state branch of one of Australia's two major political parties.",
+            "category": "political party body"
           }
         },
         {
@@ -12252,6 +13062,12 @@
           "total_aud": 30000,
           "by_year": {
             "2021-22": 30000
+          },
+          "info": {
+            "link": "https://jjswaste.com.au/",
+            "link_type": "website",
+            "description": "J.J. Richards & Sons Pty Ltd (trading as JJ's Waste & Recycling) is a wholly Australian-owned family-operated waste management and recycling company operating since 1932.",
+            "category": "company"
           }
         },
         {
@@ -12266,6 +13082,12 @@
           "total_aud": 30000,
           "by_year": {
             "2021-22": 30000
+          },
+          "info": {
+            "link": "https://holmes.edu.au/",
+            "link_type": "website",
+            "description": "Holmes Institute is a privately owned Australian higher education and vocational provider established in 1963, offering diplomas and degrees in business, IT, accounting and related fields, with campuses in Melbourne, Sydney, Brisbane and the Gold Coast. It is registered with TEQSA as part of the Holmes Education Group.",
+            "category": "company"
           }
         },
         {
@@ -12287,6 +13109,12 @@
           "total_aud": 30000,
           "by_year": {
             "2021-22": 30000
+          },
+          "info": {
+            "link": "https://higgins200club.com.au/",
+            "link_type": "website",
+            "description": "The Higgins 200 Club is a Liberal Party fundraising and supporters' club established in 1993 to support the federal effort in the seat of Higgins (Victoria), hosting member functions with policymakers and business figures. AEC data records it donating predominantly to the Liberal Party of Australia and its Victorian division.",
+            "category": "political party body"
           }
         },
         {
@@ -12301,6 +13129,12 @@
           "total_aud": 30000,
           "by_year": {
             "2021-22": 30000
+          },
+          "info": {
+            "link": "https://membershealth.com.au/",
+            "link_type": "website",
+            "description": "Members Health Fund Alliance is the peak industry body representing Australia's not-for-profit, member-owned, regional and community-based private health insurers, advocating on behalf of around two dozen funds covering several million members.",
+            "category": "industry body"
           }
         },
         {
@@ -12315,6 +13149,12 @@
           "total_aud": 30000,
           "by_year": {
             "2021-22": 30000
+          },
+          "info": {
+            "link": "https://mafinancial.com/",
+            "link_type": "website",
+            "description": "MAFG Operations Pty Ltd is an operating entity of MA Financial Group (formerly Moelis Australia), an ASX-listed diversified financial services firm providing asset management, corporate advisory and lending, headquartered in Sydney.",
+            "category": "company"
           }
         },
         {
@@ -12329,6 +13169,12 @@
           "total_aud": 28000,
           "by_year": {
             "2021-22": 28000
+          },
+          "info": {
+            "link": "http://regentmotors.com.au/",
+            "link_type": "website",
+            "description": "Regent Motors Group is a third-generation, family-owned automotive retail group founded in 1962 and based in Subiaco, Western Australia, operating multiple new and used vehicle dealerships across WA and the Northern Territory.",
+            "category": "company"
           }
         },
         {
@@ -12343,6 +13189,12 @@
           "total_aud": 27000,
           "by_year": {
             "2023-24": 27000
+          },
+          "info": {
+            "link": "https://www.johnhughes.com.au/",
+            "link_type": "website",
+            "description": "A Perth-based motor vehicle retailer founded by John Hughes in 1969, described as the largest single-location car dealership in Australia, selling multiple new car brands plus used vehicles and offering servicing, parts and finance.",
+            "category": "company"
           }
         },
         {
@@ -12392,6 +13244,12 @@
           "total_aud": 25000,
           "by_year": {
             "2024-25": 25000
+          },
+          "info": {
+            "link": "https://www.nioa.com.au/",
+            "link_type": "website",
+            "description": "A privately owned Australian armaments and munitions company headquartered in Brisbane, owned by the Nioa family (CEO Robert Nioa), supplying arms and ammunition to military, law enforcement and sporting markets, and the largest Australian-owned munitions supplier to the ADF and NZ Defence Force.",
+            "category": "company"
           }
         },
         {
@@ -12413,6 +13271,12 @@
           "total_aud": 25000,
           "by_year": {
             "2024-25": 25000
+          },
+          "info": {
+            "link": "https://gcfinvestments.com.au/",
+            "link_type": "website",
+            "description": "A private investment group operated by the Gwinnett family office, established in 1983 in South Australia, investing across sectors including property, equities, agriculture, medical and manufacturing; its operating business is the Arrowcrest Group.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -12434,6 +13298,12 @@
           "total_aud": 25000,
           "by_year": {
             "2024-25": 25000
+          },
+          "info": {
+            "link": "https://parkleadevelopments.com.au/",
+            "link_type": "website",
+            "description": "Parklea Developments, a Victorian residential property developer founded in 1974 and associated with the Facey family, developing residential estates across south-east Melbourne and Gippsland (including Berwick, Officer, Pakenham and Warragul).",
+            "category": "company"
           }
         },
         {
@@ -12455,6 +13325,12 @@
           "total_aud": 25000,
           "by_year": {
             "2024-25": 25000
+          },
+          "info": {
+            "link": "https://esteemdevelopment.com.au/",
+            "link_type": "website",
+            "description": "Esteem Development, a residential property development and construction firm operating in Sydney (Quakers Hill, NSW) and Brisbane (QLD), specialising in dual-occupancy homes, townhouses, custom developments and land subdivisions.",
+            "category": "company"
           }
         },
         {
@@ -12497,6 +13373,12 @@
           "total_aud": 25000,
           "by_year": {
             "2024-25": 25000
+          },
+          "info": {
+            "link": "https://www.kingroup.com.au/",
+            "link_type": "website",
+            "description": "The Melbourne-based family office investment vehicle of Raphael and Fiona Geminder (Fiona is a daughter of packaging magnate Richard Pratt), investing across sectors with a focus on food, technology and manufacturing, and historically linked to Pact Group and Kinrise.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -12518,6 +13400,12 @@
           "total_aud": 25000,
           "by_year": {
             "2024-25": 25000
+          },
+          "info": {
+            "link": "https://www.sarinarusso.com.au/training-education/higher-education/",
+            "link_type": "website",
+            "description": "A higher-education provider within the Sarina Russo Group (founded by Sarina Russo) based in Brisbane, which partners with James Cook University to deliver undergraduate and postgraduate degree programs at the JCU Brisbane campus.",
+            "category": "company"
           }
         },
         {
@@ -12545,6 +13433,12 @@
           "total_aud": 25000,
           "by_year": {
             "2023-24": 25000
+          },
+          "info": {
+            "link": "https://aquaterro.com/",
+            "link_type": "website",
+            "description": "P. & B. Bulte (No 2) Pty Ltd, trading as Aquaterro, an Australian company (founded 1994, CEO Graeme Bulte) supplying operational, tactical and safety equipment to law enforcement, border protection and defence agencies, including the Australian Defence Force.",
+            "category": "company"
           }
         },
         {
@@ -12566,6 +13460,12 @@
           "total_aud": 25000,
           "by_year": {
             "2023-24": 25000
+          },
+          "info": {
+            "link": "https://www.toga.com.au/",
+            "link_type": "website",
+            "description": "TOGA, a Sydney-based, family-owned and operated property group founded in 1963 by Ervin and Charlotte Vidor and Antonino Stillone, developing and managing residential, commercial, hotel and retail projects across Australia, New Zealand and Europe.",
+            "category": "company"
           }
         },
         {
@@ -12580,6 +13480,12 @@
           "total_aud": 25000,
           "by_year": {
             "2022-23": 25000
+          },
+          "info": {
+            "link": "https://au.linkedin.com/company/ecovisclarkjacobs",
+            "link_type": "linkedin",
+            "description": "ECOVIS Clark Jacobs, an independent accounting and advisory firm based in the Sydney CBD providing tax, accounting, audit and business advisory services, and the sole Australian affiliate of the global ECOVIS International network.",
+            "category": "company"
           }
         },
         {
@@ -12587,6 +13493,12 @@
           "total_aud": 25000,
           "by_year": {
             "2021-22": 25000
+          },
+          "info": {
+            "link": "https://www.liberal.org.au/donate/enid-lyons-fighting-fund",
+            "link_type": "website",
+            "description": "A fundraising vehicle of the Liberal Party of Australia (the Enid Lyons Fighting Fund), which raises money to support the campaigns of Liberal women candidates in key seats. Named after Dame Enid Lyons, the first woman elected to the House of Representatives.",
+            "category": "political party body"
           }
         },
         {
@@ -12594,6 +13506,12 @@
           "total_aud": 25000,
           "by_year": {
             "2021-22": 25000
+          },
+          "info": {
+            "link": "https://www.liberal.org.au/donate/enid-lyons-fighting-fund",
+            "link_type": "website",
+            "description": "A fundraising vehicle of the Liberal Party of Australia (the Enid Lyons Fighting Fund), which raises money to support the campaigns of Liberal women candidates in key seats. Named after Dame Enid Lyons, the first woman elected to the House of Representatives.",
+            "category": "political party body"
           }
         },
         {
@@ -12601,6 +13519,12 @@
           "total_aud": 25000,
           "by_year": {
             "2021-22": 25000
+          },
+          "info": {
+            "link": "https://ateco.com.au/",
+            "link_type": "website",
+            "description": "Australia's largest independent, privately owned motor vehicle distributor and automotive services provider, founded in 1985 and headquartered at Sydney Olympic Park. It distributes brands including LDV, Maserati, RAM Trucks and Renault in Australia and New Zealand.",
+            "category": "company"
           }
         },
         {
@@ -12608,6 +13532,12 @@
           "total_aud": 25000,
           "by_year": {
             "2021-22": 25000
+          },
+          "info": {
+            "link": "https://group.reece.com/",
+            "link_type": "website",
+            "description": "Australia's largest supplier of plumbing and bathroom products, listed on the ASX (REH) and founded in 1920. It supplies plumbing, bathroom, HVAC, waterworks and refrigeration products through more than 900 branches in Australia, New Zealand and the US, and is majority-owned by the Wilson family.",
+            "category": "company"
           }
         },
         {
@@ -12649,6 +13579,12 @@
           "total_aud": 25000,
           "by_year": {
             "2021-22": 25000
+          },
+          "info": {
+            "link": "https://mafinancial.com/",
+            "link_type": "website",
+            "description": "An ASX-listed (MAF) diversified financial services firm specialising in alternative asset management, lending and corporate advisory. Founded in 2009 as Moelis Australia, it rebranded to MA Financial Group in 2021 and manages tens of billions of dollars in assets.",
+            "category": "company"
           }
         },
         {
@@ -12656,6 +13592,12 @@
           "total_aud": 25000,
           "by_year": {
             "2021-22": 25000
+          },
+          "info": {
+            "link": "https://group.reece.com/",
+            "link_type": "website",
+            "description": "Australia's largest supplier of plumbing and bathroom products, listed on the ASX (REH) and founded in 1920. It supplies plumbing, bathroom, HVAC, waterworks and refrigeration products through more than 900 branches in Australia, New Zealand and the US, and is majority-owned by the Wilson family.",
+            "category": "company"
           }
         },
         {
@@ -12663,6 +13605,12 @@
           "total_aud": 25000,
           "by_year": {
             "2021-22": 25000
+          },
+          "info": {
+            "link": "https://au.linkedin.com/company/henroth-investments-pty-ltd",
+            "link_type": "linkedin",
+            "description": "A Sydney-based private family investment company established in 1960 as the investment vehicle for the Roth family, deploying capital across real estate, equities and unlisted investments. Based in Edgecliff, NSW.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -12691,6 +13639,12 @@
           "total_aud": 25000,
           "by_year": {
             "2021-22": 25000
+          },
+          "info": {
+            "link": "https://www.dnb.com/business-directory/company-profiles.mapp_group_holdings_pty_limited.d433dcb0f1e81a61ccea392136dc0430.html",
+            "link_type": "website",
+            "description": "A private Australian holding company based at 1 Farrer Place, Sydney, incorporated in 1970 and operating in the management of companies and enterprises (a corporate holding/investment vehicle).",
+            "category": "investment vehicle"
           }
         },
         {
@@ -12733,6 +13687,12 @@
           "total_aud": 22000,
           "by_year": {
             "2024-25": 22000
+          },
+          "info": {
+            "link": "https://www.sarinarusso.com.au/",
+            "link_type": "website",
+            "description": "A Brisbane-based, Australian-owned private-sector employment, training and education provider (part of the Sarina Russo Group), delivering government-funded employment services such as Workforce Australia across Queensland, Victoria and NSW.",
+            "category": "company"
           }
         },
         {
@@ -12754,6 +13714,12 @@
           "total_aud": 22000,
           "by_year": {
             "2024-25": 22000
+          },
+          "info": {
+            "link": "https://www.zag.com.au/",
+            "link_type": "website",
+            "description": "A Melbourne-based business associated with the Zagame family, whose interests include the Zagame Automotive Group (a major luxury and prestige car retailer) and hospitality ventures.",
+            "category": "company"
           }
         },
         {
@@ -12775,6 +13741,12 @@
           "total_aud": 21000,
           "by_year": {
             "2024-25": 21000
+          },
+          "info": {
+            "link": "https://brightbeginningslc.com.au/",
+            "link_type": "website",
+            "description": "A long day-care / early childhood education centre in Glendenning, NSW, providing centre-based care for children from six weeks to six years of age.",
+            "category": "company"
           }
         },
         {
@@ -12782,6 +13754,12 @@
           "total_aud": 20400,
           "by_year": {
             "2022-23": 20400
+          },
+          "info": {
+            "link": "https://www.ogilvypr.com.au/",
+            "link_type": "website",
+            "description": "An Australian public relations and communications agency, part of the global Ogilvy / WPP network, with offices in Sydney, Melbourne and Canberra offering corporate, brand, healthcare, public affairs and digital communications services.",
+            "category": "company"
           }
         },
         {
@@ -12796,6 +13774,12 @@
           "total_aud": 20000,
           "by_year": {
             "2024-25": 20000
+          },
+          "info": {
+            "link": "https://hallprior.com.au/",
+            "link_type": "website",
+            "description": "A family-owned Australian residential aged-care and home-care provider operating dozens of aged-care homes across Western Australia, New South Wales and the ACT.",
+            "category": "company"
           }
         },
         {
@@ -12838,6 +13822,12 @@
           "total_aud": 20000,
           "by_year": {
             "2024-25": 20000
+          },
+          "info": {
+            "link": "https://schaffer.com.au/",
+            "link_type": "website",
+            "description": "An ASX-listed (SFC) diversified Western Australian industrial and investment company based in West Perth, with operations in automotive leather manufacturing (supplying brands such as Land Rover, Audi and Porsche), precast concrete building materials and property investment.",
+            "category": "company"
           }
         },
         {
@@ -12859,6 +13849,12 @@
           "total_aud": 20000,
           "by_year": {
             "2024-25": 20000
+          },
+          "info": {
+            "link": "https://vic.liberal.org.au/",
+            "link_type": "website",
+            "description": "The Victorian Division of the Liberal Party of Australia (Liberal Victoria), the state branch of one of Australia's two major political parties.",
+            "category": "political party body"
           }
         },
         {
@@ -12985,6 +13981,12 @@
           "total_aud": 20000,
           "by_year": {
             "2024-25": 20000
+          },
+          "info": {
+            "link": "https://www.facebook.com/p/Active-Care-Nursing-Agency-PTY-LTD-100071397475073/",
+            "link_type": "facebook",
+            "description": "An Australian nursing/healthcare staffing agency based in Mildura, Victoria (ACN 646 895 589), providing nursing and care services.",
+            "category": "company"
           }
         },
         {
@@ -13006,6 +14008,12 @@
           "total_aud": 20000,
           "by_year": {
             "2024-25": 20000
+          },
+          "info": {
+            "link": "https://www.btcmarkets.net/",
+            "link_type": "website",
+            "description": "An Australian cryptocurrency exchange founded in 2013 and based in Richmond, Victoria; an AUSTRAC-registered, 100% Australian-owned digital asset trading platform.",
+            "category": "company"
           }
         },
         {
@@ -13013,6 +14021,12 @@
           "total_aud": 20000,
           "by_year": {
             "2024-25": 20000
+          },
+          "info": {
+            "link": "https://www.coinspot.com.au/",
+            "link_type": "website",
+            "description": "Casey Block Services Pty Ltd (ABN 19 619 574 186) trading as CoinSpot, one of Australia's largest AUSTRAC-registered cryptocurrency exchanges, founded in 2013 by Russell Wilson and based in Melbourne.",
+            "category": "company"
           }
         },
         {
@@ -13020,6 +14034,12 @@
           "total_aud": 20000,
           "by_year": {
             "2024-25": 20000
+          },
+          "info": {
+            "link": "https://www.catenadigital.com.au/",
+            "link_type": "website",
+            "description": "An Australian financial-technology company that provides Australian-dollar-backed stablecoin and blockchain payment infrastructure for businesses, digital-asset exchanges and individuals.",
+            "category": "company"
           }
         },
         {
@@ -13027,6 +14047,12 @@
           "total_aud": 20000,
           "by_year": {
             "2024-25": 20000
+          },
+          "info": {
+            "link": "https://chawlatransport.com/",
+            "link_type": "website",
+            "description": "An Australian road transport and logistics company (ACN 142 249 278), based in Victoria.",
+            "category": "company"
           }
         },
         {
@@ -13034,6 +14060,12 @@
           "total_aud": 20000,
           "by_year": {
             "2024-25": 20000
+          },
+          "info": {
+            "link": "https://thewhiskyark.com.au/",
+            "link_type": "website",
+            "description": "Australian company that operates The Whisky Ark, a premium whisky and rare spirits retailer located in the Queen Victoria Building in Sydney's CBD, holding a NSW packaged liquor licence.",
+            "category": "company"
           }
         },
         {
@@ -13041,6 +14073,12 @@
           "total_aud": 20000,
           "by_year": {
             "2024-25": 20000
+          },
+          "info": {
+            "link": "https://crypto.com/au",
+            "link_type": "website",
+            "description": "Part of the Foris corporate group that operates the cryptocurrency trading and investment platform Crypto.com in Australia; the group holds Australian Financial Services Licence 467462 and is registered with AUSTRAC as a digital currency exchange.",
+            "category": "company"
           }
         },
         {
@@ -13048,6 +14086,12 @@
           "total_aud": 20000,
           "by_year": {
             "2024-25": 20000
+          },
+          "info": {
+            "link": "https://www.hawklogistics.com.au/",
+            "link_type": "website",
+            "description": "Melbourne-headquartered freight and supply-chain (transport and logistics) company founded in 2014 by Amrit Paul and Harmanpreet Singh, with depots along the eastern seaboard and a focus on refrigerated and ambient transport for food suppliers.",
+            "category": "company"
           }
         },
         {
@@ -13055,6 +14099,12 @@
           "total_aud": 20000,
           "by_year": {
             "2024-25": 20000
+          },
+          "info": {
+            "link": "https://www.immutable.com/",
+            "link_type": "website",
+            "description": "Sydney-headquartered Australian Web3 technology company (formerly Fuel Games) founded in 2018 that builds blockchain gaming infrastructure and NFTs, including the Immutable X Ethereum layer-2 platform and games such as Gods Unchained.",
+            "category": "company"
           }
         },
         {
@@ -13062,6 +14112,12 @@
           "total_aud": 20000,
           "by_year": {
             "2024-25": 20000
+          },
+          "info": {
+            "link": "https://www.independentreserve.com/",
+            "link_type": "website",
+            "description": "Australian digital-currency (cryptocurrency) exchange founded in 2013, registered with AUSTRAC as a digital currency exchange; it was acquired by IG Group Holdings plc in January 2026.",
+            "category": "company"
           }
         },
         {
@@ -13076,6 +14132,12 @@
           "total_aud": 20000,
           "by_year": {
             "2024-25": 20000
+          },
+          "info": {
+            "link": "https://lpcmilk.com/history/",
+            "link_type": "website",
+            "description": "Perich family-owned dairy enterprise at Bringelly, NSW, established in 1951; one of Australia's largest dairy operations, milking around 2,000 cows, and part of the broader Perich family agribusiness and property interests.",
+            "category": "company"
           }
         },
         {
@@ -13083,6 +14145,12 @@
           "total_aud": 20000,
           "by_year": {
             "2024-25": 20000
+          },
+          "info": {
+            "link": "https://saliberal.org.au/",
+            "link_type": "website",
+            "description": "The South Australian Division of the Liberal Party of Australia, a centre-right political party that traces its origins to the Liberal and Country League formed in 1932.",
+            "category": "political party body"
           }
         },
         {
@@ -13097,6 +14165,12 @@
           "total_aud": 20000,
           "by_year": {
             "2024-25": 20000
+          },
+          "info": {
+            "link": "https://www.momentummarkets.com.au/",
+            "link_type": "website",
+            "description": "Australian B2B media, events and marketing business (parent of Momentum Media) serving vertical markets such as wealth, mortgages, legal, accounting, real estate, defence and aviation; it has also made acquisitions in financial media and property-management technology.",
+            "category": "company"
           }
         },
         {
@@ -13118,6 +14192,12 @@
           "total_aud": 20000,
           "by_year": {
             "2024-25": 20000
+          },
+          "info": {
+            "link": "https://au.linkedin.com/company/ngp-melbourne-investments-pty-limited",
+            "link_type": "linkedin",
+            "description": "An entity within the Australian NGP Group, an automotive dealership and property business associated with Nick Politis; in 2023 the NGP Group agreed to sell a portfolio of motor-vehicle dealerships and dealership properties to Eagers Automotive.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -13132,6 +14212,12 @@
           "total_aud": 20000,
           "by_year": {
             "2024-25": 20000
+          },
+          "info": {
+            "link": "https://www.simondsgroup.com.au/",
+            "link_type": "website",
+            "description": "ASX-listed (ASX:SIO) Australian homebuilding group whose principal business, Simonds Homes, is one of the country's largest detached home builders; founded by Gary Simonds in 1949 and still majority-owned by the Simonds family.",
+            "category": "company"
           }
         },
         {
@@ -13139,6 +14225,12 @@
           "total_aud": 20000,
           "by_year": {
             "2024-25": 20000
+          },
+          "info": {
+            "link": "https://au.linkedin.com/company/solike-family-office",
+            "link_type": "linkedin",
+            "description": "A single-family office based in Chatswood, Sydney, that manages and invests private family wealth across public and private markets and alternative strategies.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -13153,6 +14245,12 @@
           "total_aud": 20000,
           "by_year": {
             "2024-25": 20000
+          },
+          "info": {
+            "link": "https://techcouncil.com.au/",
+            "link_type": "website",
+            "description": "The Tech Council of Australia (Technology Council of Australia Limited) is the national industry body representing Australia's technology sector, founded in 2021 to advocate for tech companies.",
+            "category": "industry body"
           }
         },
         {
@@ -13208,6 +14306,12 @@
           "total_aud": 20000,
           "by_year": {
             "2023-24": 20000
+          },
+          "info": {
+            "link": "https://www.meriton.com.au/",
+            "link_type": "website",
+            "description": "Major Australian residential property developer and construction company founded in 1963 and owned by Harry Triguboff AO; it builds and sells apartments and operates the Meriton Suites serviced-apartment brand.",
+            "category": "company"
           }
         },
         {
@@ -13229,6 +14333,12 @@
           "total_aud": 20000,
           "by_year": {
             "2021-22": 20000
+          },
+          "info": {
+            "link": "https://nswliberal.org.au/our-structure",
+            "link_type": "website",
+            "description": "The Federal Electorate Conference (FEC) for the Division of Hume within the NSW Division of the Liberal Party of Australia, a local party organisational body covering the federal seat of Hume in southwestern NSW.",
+            "category": "political party body"
           }
         },
         {
@@ -13257,6 +14367,12 @@
           "total_aud": 20000,
           "by_year": {
             "2021-22": 20000
+          },
+          "info": {
+            "link": "https://www.built.com.au/",
+            "link_type": "website",
+            "description": "Australian-owned construction contractor and property developer that designs and builds commercial offices, hotels, residential, hospitals and data centres across Australia; chaired and founded by Marco Rossi.",
+            "category": "company"
           }
         },
         {
@@ -13306,6 +14422,12 @@
           "total_aud": 20000,
           "by_year": {
             "2021-22": 20000
+          },
+          "info": {
+            "link": "https://ahansw.com.au/",
+            "link_type": "website",
+            "description": "The NSW branch of the Australian Hotels Association, the peak hospitality-industry body representing around 1,800 licensed premises (pubs and hotels) in New South Wales.",
+            "category": "industry body"
           }
         },
         {
@@ -13313,6 +14435,12 @@
           "total_aud": 20000,
           "by_year": {
             "2021-22": 20000
+          },
+          "info": {
+            "link": "https://www.asoeye.org/",
+            "link_type": "website",
+            "description": "Australian medico-political and professional body for ophthalmologists (eye surgeons), established in 1982, undertaking advocacy, education and charitable eye-health programs on behalf of its members.",
+            "category": "professional body"
           }
         },
         {
@@ -13320,6 +14448,12 @@
           "total_aud": 20000,
           "by_year": {
             "2021-22": 20000
+          },
+          "info": {
+            "link": "https://www.hunterland.com.au/",
+            "link_type": "website",
+            "description": "Regional property developer based at Thornton in the Newcastle/Hunter region of NSW, operating since 1993 and specialising in commercial and industrial employment estates in regional New South Wales.",
+            "category": "company"
           }
         },
         {
@@ -13334,6 +14468,12 @@
           "total_aud": 20000,
           "by_year": {
             "2021-22": 20000
+          },
+          "info": {
+            "link": "https://au.linkedin.com/company/ngp-melbourne-investments-pty-limited",
+            "link_type": "linkedin",
+            "description": "Melbourne-based entity within the Australian NGP Group automotive dealership and property group (associated with Nick Politis), historically deriving revenue from the sale of new and used motor vehicles; dealership assets were sold to Eagers Automotive in 2023.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -13439,6 +14579,12 @@
           "total_aud": 15000,
           "by_year": {
             "2021-22": 15000
+          },
+          "info": {
+            "link": "https://www.airtasker.com/au/",
+            "link_type": "website",
+            "description": "Airtasker Ltd is a Sydney-based, ASX-listed (ASX:ART) online marketplace founded in 2012 that lets users outsource local everyday tasks and services to community 'Taskers', operating in Australia and several international markets.",
+            "category": "company"
           }
         },
         {
@@ -13875,6 +15021,12 @@
           "total_aud": 50000,
           "by_year": {
             "2024-25": 50000
+          },
+          "info": {
+            "link": "https://www.ufua.asn.au/",
+            "link_type": "website",
+            "description": "The United Firefighters Union of Australia (UFUA) is a registered trade union representing professional firefighters and support staff across Australia through its state, territory and aviation branches.",
+            "category": "union"
           }
         },
         {
@@ -13924,6 +15076,12 @@
           "total_aud": 50000,
           "by_year": {
             "2021-22": 50000
+          },
+          "info": {
+            "link": "https://www.dominet.com.au/",
+            "link_type": "website",
+            "description": "A boutique investment and consulting group based in Cremorne, Victoria, focused on digital and technology ventures, founded by Australian entrepreneur Domenic Carosa.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -14059,6 +15217,12 @@
           "total_aud": 20000,
           "by_year": {
             "2024-25": 20000
+          },
+          "info": {
+            "link": "https://dominet.net/en/about/",
+            "link_type": "website",
+            "description": "Melbourne-based (Cremorne, Victoria) boutique investment and consulting group focused on digital, technology and innovation ventures, reporting investments in dozens of technology companies across Australia, the US and Europe.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -14094,6 +15258,12 @@
           "total_aud": 20000,
           "by_year": {
             "2021-22": 20000
+          },
+          "info": {
+            "link": "https://en.wikipedia.org/wiki/Climate_200",
+            "link_type": "wikipedia",
+            "description": "An Australian private company used as a donor vehicle by investors Fred Woollard and Therese Cochrane to support community-backed independent political candidates, including donations associated with the Climate 200 ecosystem.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -14686,6 +15856,12 @@
           "total_aud": 50000,
           "by_year": {
             "2024-25": 50000
+          },
+          "info": {
+            "link": "https://www.caravanindustry.com.au/",
+            "link_type": "website",
+            "description": "The peak national not-for-profit body for the caravanning and camping industry in Australia, with a membership base drawn from the state caravanning and camping associations.",
+            "category": "industry body"
           }
         },
         {
@@ -14693,6 +15869,12 @@
           "total_aud": 50000,
           "by_year": {
             "2024-25": 50000
+          },
+          "info": {
+            "link": "https://www.coalaustralia.com/",
+            "link_type": "website",
+            "description": "A not-for-profit membership organisation founded in 2023 to advocate for and promote the Australian coal industry, with members spanning thermal and metallurgical coal producers, suppliers and customers.",
+            "category": "industry body"
           }
         },
         {
@@ -14715,6 +15897,12 @@
           "total_aud": 50000,
           "by_year": {
             "2024-25": 50000
+          },
+          "info": {
+            "link": "https://www.meteredenergy.com.au/",
+            "link_type": "website",
+            "description": "A privately owned, Australian, Brisbane-based energy retailer established in 2012 that supplies electricity, gas and hot water within embedded networks (such as apartment blocks) in Queensland and is an authorised electricity retailer.",
+            "category": "company"
           }
         },
         {
@@ -14722,6 +15910,12 @@
           "total_aud": 50000,
           "by_year": {
             "2024-25": 50000
+          },
+          "info": {
+            "link": "https://seasonsliving.com.au/",
+            "link_type": "website",
+            "description": "A privately owned Australian retirement living and aged-care provider operating seniors' living communities with onsite care, predominantly across Queensland.",
+            "category": "company"
           }
         },
         {
@@ -14737,6 +15931,12 @@
           "total_aud": 50000,
           "by_year": {
             "2023-24": 50000
+          },
+          "info": {
+            "link": "https://trilogycare.com.au/",
+            "link_type": "website",
+            "description": "A Queensland-based Australian home-care provider offering self-managed and fully coordinated aged-care Home Care / Support at Home packages nationally.",
+            "category": "company"
           }
         },
         {
@@ -14744,6 +15944,12 @@
           "total_aud": 50000,
           "by_year": {
             "2022-23": 50000
+          },
+          "info": {
+            "link": "https://www.bigrigsaustralia.com.au/",
+            "link_type": "website",
+            "description": "A Brisbane-based truck body builder and manufacturer, established in 1989, producing ready-to-work truck bodies (such as curtainsiders and pantechs) for OEMs and truck dealerships.",
+            "category": "company"
           }
         },
         {
@@ -14800,6 +16006,12 @@
           "total_aud": 49500,
           "by_year": {
             "2021-22": 49500
+          },
+          "info": {
+            "link": "https://jjrichards.com.au/",
+            "link_type": "website",
+            "description": "J.J. Richards & Sons Pty Ltd (trading as JJ's Waste & Recycling) is Australia's largest privately owned, family-run waste management and recycling company, established in 1932 and operating nationally as well as in New Zealand and the USA.",
+            "category": "company"
           }
         },
         {
@@ -14808,6 +16020,12 @@
           "by_year": {
             "2022-23": 25000,
             "2024-25": 20000
+          },
+          "info": {
+            "link": "https://www.sentinelpg.com.au/",
+            "link_type": "website",
+            "description": "Sentinel Property Group Pty Ltd is a Brisbane-based commercial property investment and funds-management firm (AFSL 405462) that manages unlisted wholesale property trusts across retail, industrial and office assets in Australia.",
+            "category": "company"
           }
         },
         {
@@ -14852,6 +16070,12 @@
           "by_year": {
             "2021-22": 20000,
             "2024-25": 20000
+          },
+          "info": {
+            "link": "https://au.linkedin.com/company/yfg-shopping-centres-pty-ltd.",
+            "link_type": "linkedin",
+            "description": "YFG Shopping Centres is a Sunnybank, Queensland family-owned property company that owns and invests in more than 20 retail shopping centres across south-east Queensland (including Australia Fair, Brookside, Sunnybank Plaza and Toowong Village). It is controlled by the Fu family, led by managing director Yu-Feng Fu.",
+            "category": "company"
           }
         },
         {
@@ -14867,6 +16091,12 @@
           "by_year": {
             "2021-22": 15000,
             "2022-23": 22000
+          },
+          "info": {
+            "link": "https://creditorwatch.com.au/credit/profile/95164616988/GOLDEN-VISION-RETAIL-PTY-LTD",
+            "link_type": "website",
+            "description": "Golden Vision Retail Pty Ltd is an active Queensland private company (ABN 95 164 616 988, registered 2013) based at Eight Mile Plains/Mount Gravatt, operating in the retail and food sector including the '8 Street' Asian dining business.",
+            "category": "company"
           }
         },
         {
@@ -14887,6 +16117,12 @@
           "total_aud": 33000,
           "by_year": {
             "2024-25": 33000
+          },
+          "info": {
+            "link": "https://senexenergy.com.au/",
+            "link_type": "website",
+            "description": "Senex Energy is an Australian natural gas producer operating in the Surat Basin of southern Queensland. Formerly ASX-listed, it is now privately owned by South Korea's POSCO International and Hancock Prospecting.",
+            "category": "company"
           }
         },
         {
@@ -14894,6 +16130,12 @@
           "total_aud": 33000,
           "by_year": {
             "2021-22": 33000
+          },
+          "info": {
+            "link": "https://www.nioa.com.au/",
+            "link_type": "website",
+            "description": "The Nioa family trust/nominee vehicle associated with NIOA, a privately-owned Brisbane-based global armaments and munitions company established in 1973 that is the largest privately-owned supplier of munitions to Australian and New Zealand defence and law-enforcement markets. NIOA's founder/CEO is Robert Nioa.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -14901,6 +16143,12 @@
           "total_aud": 32000,
           "by_year": {
             "2024-25": 32000
+          },
+          "info": {
+            "link": "https://www.outbackmag.com.au/babbiloora-beef/",
+            "link_type": "website",
+            "description": "Babbiloora is a large beef cattle station in central Queensland and the largest of the Australian Country Choice (ACC) stations; ACC is a family-owned (Lee family) vertically integrated beef supply business.",
+            "category": "company"
           }
         },
         {
@@ -14908,6 +16156,12 @@
           "total_aud": 30000,
           "by_year": {
             "2024-25": 30000
+          },
+          "info": {
+            "link": "https://www.mdh.net.au/",
+            "link_type": "website",
+            "description": "MDH Pty Ltd is one of Australia's largest beef cattle operations, family-owned and operated by the McDonald family, running about 150,000 head across 14 Queensland properties from its head office at Devoncourt Station near Cloncurry.",
+            "category": "company"
           }
         },
         {
@@ -14950,6 +16204,12 @@
           "total_aud": 30000,
           "by_year": {
             "2022-23": 30000
+          },
+          "info": {
+            "link": "https://cocoons.com.au/",
+            "link_type": "website",
+            "description": "Cocoon SDA Care is an Australian NDIS-registered provider of Specialist Disability Accommodation (SDA) and Supported Independent Living (SIL) services, designing and building disability housing and providing personalised support across Australia.",
+            "category": "company"
           }
         },
         {
@@ -14964,6 +16224,12 @@
           "total_aud": 30000,
           "by_year": {
             "2021-22": 30000
+          },
+          "info": {
+            "link": "https://www.facebook.com/lrtasa/",
+            "link_type": "facebook",
+            "description": "The Livestock and Rural Transporters Association of SA Inc is the South Australian state association representing road transport businesses that carry livestock and rural freight, forming part of the federated Australian Livestock and Rural Transporters Association (ALRTA).",
+            "category": "industry body"
           }
         },
         {
@@ -14978,6 +16244,12 @@
           "total_aud": 27500,
           "by_year": {
             "2021-22": 27500
+          },
+          "info": {
+            "link": "https://morgans.com.au/",
+            "link_type": "website",
+            "description": "Morgans Financial Limited is one of Australia's largest national full-service retail stockbroking and wealth management firms, founded in 1982 and headquartered in Brisbane, providing stockbroking, financial planning and capital-raising services through a national branch network.",
+            "category": "company"
           }
         },
         {
@@ -14985,6 +16257,12 @@
           "total_aud": 27500,
           "by_year": {
             "2021-22": 27500
+          },
+          "info": {
+            "link": "https://www.stbcapitalpartners.com.au/",
+            "link_type": "website",
+            "description": "The St Baker Energy Innovation Trust/Fund is the private investment vehicle of Australian energy entrepreneur Trevor St Baker, backing early-stage energy and e-mobility technology companies (managed under StB Capital Partners).",
+            "category": "investment vehicle"
           }
         },
         {
@@ -14992,6 +16270,12 @@
           "total_aud": 25500,
           "by_year": {
             "2023-24": 25500
+          },
+          "info": {
+            "link": "https://kennedystimbers.com.au/",
+            "link_type": "website",
+            "description": "Kennedy's Classic Aged Timbers (Kennedy's Timbers) is an Australian supplier of recycled and eco-sustainable hardwood timber products such as flooring, decking, beams and posts, sourced from redundant power poles and bridge timbers, with a head office in Narangba, Queensland.",
+            "category": "company"
           }
         },
         {
@@ -14999,6 +16283,12 @@
           "total_aud": 25000,
           "by_year": {
             "2024-25": 25000
+          },
+          "info": {
+            "link": "https://www.blackskyindustries.com.au/",
+            "link_type": "website",
+            "description": "An Australian aerospace and defence company headquartered in Logan, Queensland (now operating as Black Sky Industries), and Australia's only sovereign developer and supplier of solid rocket propellant and solid rocket motors, also offering sub-orbital launch services and UAV rocket-assisted take-off systems.",
+            "category": "company"
           }
         },
         {
@@ -15006,6 +16296,12 @@
           "total_aud": 25000,
           "by_year": {
             "2024-25": 25000
+          },
+          "info": {
+            "link": "https://gamuda.com.au/",
+            "link_type": "website",
+            "description": "The Australian subsidiary of Malaysian infrastructure group Gamuda Berhad, delivering infrastructure design, engineering and construction across rail, roads, tunnelling, water and renewable energy, with offices in Sydney and Melbourne.",
+            "category": "company"
           }
         },
         {
@@ -15033,6 +16329,12 @@
           "total_aud": 25000,
           "by_year": {
             "2023-24": 25000
+          },
+          "info": {
+            "link": "https://www.zoominfo.com/c/phosphate-international-pty-ltd/365418715",
+            "link_type": "website",
+            "description": "An Australian phosphate exploration and development company holding tenements in the Northern Territory and Queensland, aiming to supply rock phosphate for fertiliser markets.",
+            "category": "company"
           }
         },
         {
@@ -15040,6 +16342,12 @@
           "total_aud": 25000,
           "by_year": {
             "2023-24": 25000
+          },
+          "info": {
+            "link": "https://www.sentinelpg.com.au/",
+            "link_type": "website",
+            "description": "A Brisbane-based unlisted commercial property fund manager founded in 2009 by Warren Ebert, managing a national portfolio of retail, industrial, office and other commercial property trusts with over $2 billion in assets under management.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -15068,6 +16376,12 @@
           "total_aud": 25000,
           "by_year": {
             "2021-22": 25000
+          },
+          "info": {
+            "link": "https://www.marlandmushrooms.com.au/",
+            "link_type": "website",
+            "description": "A privately owned Queensland mushroom grower based at Stapylton, operating climate-controlled growing facilities and supplying mushrooms to major retailers; the business traces its origins to 1947.",
+            "category": "company"
           }
         },
         {
@@ -15089,6 +16403,12 @@
           "total_aud": 25000,
           "by_year": {
             "2021-22": 25000
+          },
+          "info": {
+            "link": "https://www.washit.com.au/",
+            "link_type": "website",
+            "description": "A Brisbane-founded mobile fleet washing company established in 2010, providing on-site truck and vehicle washing services to transport and logistics fleets across Australia.",
+            "category": "company"
           }
         },
         {
@@ -15103,6 +16423,12 @@
           "total_aud": 22500,
           "by_year": {
             "2022-23": 22500
+          },
+          "info": {
+            "link": "https://www.ords.com.au/",
+            "link_type": "website",
+            "description": "An Australian wealth management and stockbroking firm with origins dating to 1951, providing full-service stockbroking, financial planning, portfolio services and institutional equities; majority owned by its employees following a 2019 management buyout.",
+            "category": "company"
           }
         },
         {
@@ -15110,6 +16436,12 @@
           "total_aud": 22000,
           "by_year": {
             "2022-23": 22000
+          },
+          "info": {
+            "link": "https://hmwgroup.com.au/",
+            "link_type": "website",
+            "description": "A Brisbane-based accounting and advisory firm established in 1991, offering tax and accounting, business advisory, corporate and debt finance, and financial planning services.",
+            "category": "company"
           }
         },
         {
@@ -15117,6 +16449,12 @@
           "total_aud": 22000,
           "by_year": {
             "2021-22": 22000
+          },
+          "info": {
+            "link": "https://cryptoloc.com/",
+            "link_type": "website",
+            "description": "A Brisbane-headquartered cybersecurity and data-security company founded in 2010, offering encrypted cloud storage, backup and document-transfer products built on its patented three-key encryption technology, with offices internationally.",
+            "category": "company"
           }
         },
         {
@@ -15124,6 +16462,12 @@
           "total_aud": 22000,
           "by_year": {
             "2021-22": 22000
+          },
+          "info": {
+            "link": "https://www.allhomes.com.au/agency/golden-vision-biggera-waters-gc-pty-ltd-987643/",
+            "link_type": "website",
+            "description": "A Queensland real-estate agency/property entity associated with the Biggera Waters area on the Gold Coast, listed as a real-estate agency with a Brisbane CBD registered address.",
+            "category": "company"
           }
         },
         {
@@ -15438,6 +16782,12 @@
           "total_aud": 15000,
           "by_year": {
             "2021-22": 15000
+          },
+          "info": {
+            "link": "https://www.airtasker.com/au/",
+            "link_type": "website",
+            "description": "Airtasker Ltd is a Sydney-based, ASX-listed (ASX:ART) online marketplace founded in 2012 that lets users outsource local everyday tasks and services to community 'Taskers', operating in Australia and several international markets.",
+            "category": "company"
           }
         },
         {
@@ -15814,6 +17164,12 @@
           "total_aud": 50000,
           "by_year": {
             "2024-25": 50000
+          },
+          "info": {
+            "link": "https://www.lnp.org.au/",
+            "link_type": "website",
+            "description": "The Liberal National Party of Queensland (LNP), a major conservative political party formed in 2008 by the merger of the Queensland divisions of the Liberal and National parties.",
+            "category": "political party body"
           }
         },
         {
@@ -15841,6 +17197,12 @@
           "total_aud": 50000,
           "by_year": {
             "2021-22": 50000
+          },
+          "info": {
+            "link": "https://www.manildra.com.au/",
+            "link_type": "website",
+            "description": "Manildra Group is a privately owned Australian agribusiness and food/industrial ingredients producer, operating Australia's largest flour mill and being the country's leading producer of ethanol, wheat starches, gluten and related products.",
+            "category": "company"
           }
         },
         {
@@ -15855,6 +17217,12 @@
           "total_aud": 49761,
           "by_year": {
             "2024-25": 49761
+          },
+          "info": {
+            "link": "https://abr.business.gov.au/ABN/View/81118367918",
+            "link_type": "website",
+            "description": "Procon Developments (Australia) Pty Ltd (ABN 81 118 367 918) is an Australian private company incorporated in 2006, operating in property development and land subdivision/construction.",
+            "category": "company"
           }
         },
         {
@@ -15862,6 +17230,12 @@
           "total_aud": 45000,
           "by_year": {
             "2021-22": 45000
+          },
+          "info": {
+            "link": "https://www.guild.org.au/",
+            "link_type": "website",
+            "description": "The Pharmacy Guild of Australia is the national peak employers' organisation representing community pharmacy owners, registered under the Fair Work Act.",
+            "category": "employer association"
           }
         },
         {
@@ -15876,6 +17250,12 @@
           "total_aud": 30500,
           "by_year": {
             "2021-22": 30500
+          },
+          "info": {
+            "link": "https://www.adcon.com.au/",
+            "link_type": "website",
+            "description": "Adcon Vic Pty Ltd was a Victorian construction company specialising in formwork and concrete works on major civil and building projects; the Adcon group of companies was placed in administration in 2024.",
+            "category": "company"
           }
         },
         {
@@ -15883,6 +17263,12 @@
           "total_aud": 28500,
           "by_year": {
             "2024-25": 28500
+          },
+          "info": {
+            "link": "https://www.washooting.org/",
+            "link_type": "website",
+            "description": "The W.A. Shooting Association Inc is a Western Australian advocacy body representing licensed recreational and competitive shooters, clubs and associations, working to influence firearms legislation and promote ballistic sports.",
+            "category": "industry body"
           }
         },
         {
@@ -15890,6 +17276,12 @@
           "total_aud": 25000,
           "by_year": {
             "2024-25": 25000
+          },
+          "info": {
+            "link": "https://transparency.aec.gov.au/ClientEntity/EntityDetail?clientIdentifier=47421&clientType=reforgdonor",
+            "link_type": "website",
+            "description": "A private investment company acting as trustee for the Fenwick Family Trust, controlled by Elizabeth and Simon Fenwick. Simon Fenwick is co-founder of US-based investment firm International Value Advisers and a board member of the Institute of Public Affairs.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -15897,6 +17289,12 @@
           "total_aud": 25000,
           "by_year": {
             "2024-25": 25000
+          },
+          "info": {
+            "link": "https://abr.business.gov.au/ABN/View/91000029274",
+            "link_type": "website",
+            "description": "A New South Wales registered company (National Club Ltd, ABN 91 000 029 274), an Australian private members' club entity.",
+            "category": "club"
           }
         },
         {
@@ -15904,6 +17302,12 @@
           "total_aud": 25000,
           "by_year": {
             "2021-22": 25000
+          },
+          "info": {
+            "link": "https://www.aimpe.asn.au/",
+            "link_type": "website",
+            "description": "A registered Australian trade union and professional association (AIMPE) representing marine and power engineers in coastal shipping, the offshore oil and gas industry, towing and dredging. Founded in 1881 and affiliated with the ACTU.",
+            "category": "union"
           }
         },
         {
@@ -15911,6 +17315,12 @@
           "total_aud": 25000,
           "by_year": {
             "2021-22": 25000
+          },
+          "info": {
+            "link": "https://www.nationalredress.gov.au/institutions/idameneo-no-123-pty-ltd-acn-002-968-185-trustee-artlu-unit-trust",
+            "link_type": "website",
+            "description": "A New South Wales unit trust whose trustee is Idameneo (No 123) Pty Ltd, the corporate vehicle that operates the Primary Health Care / Primary Dental medical and dental centres under parent company Healius Limited (formerly Primary Health Care Ltd).",
+            "category": "investment vehicle"
           }
         },
         {
@@ -15932,6 +17342,12 @@
           "total_aud": 22000,
           "by_year": {
             "2024-25": 22000
+          },
+          "info": {
+            "link": "https://abr.business.gov.au/ABN/View/77065295016",
+            "link_type": "website",
+            "description": "A Victorian (East Bendigo) company incorporated in 1994 that trades as Southern Shorthaul Railroad, a full-service rail-freight operator and rolling-stock maintenance and manufacturing business operating across Australia.",
+            "category": "company"
           }
         },
         {
@@ -16145,6 +17561,12 @@
           "total_aud": 30000,
           "by_year": {
             "2021-22": 30000
+          },
+          "info": {
+            "link": "https://creditorwatch.com.au/credit/profile/85008799620/william-taylor-nominees-pty-ltd",
+            "link_type": "website",
+            "description": "William Taylor Nominees Pty Ltd (ABN 85 008 799 620) is an Australian private investment company, classified under investment pools and funds, that holds and manages investments including ventures in the biotechnology sector.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -16330,6 +17752,12 @@
           "total_aud": 30000,
           "by_year": {
             "2024-25": 30000
+          },
+          "info": {
+            "link": "https://www.whitepages.com.au/gaymark-property-group-10119004/fannie-bay-nt-10119000B",
+            "link_type": "website",
+            "description": "Gaymark Group Pty Ltd (also trading as Gaymark Property Group) is a Northern Territory-based property development company located in Fannie Bay, Darwin, associated with the Finocchiaro family and involved in residential and commercial property projects.",
+            "category": "company"
           }
         },
         {
@@ -16344,6 +17772,12 @@
           "total_aud": 25000,
           "by_year": {
             "2024-25": 25000
+          },
+          "info": {
+            "link": "https://www.randazzoproperties.com.au/",
+            "link_type": "website",
+            "description": "A family-run Northern Territory commercial real estate, property development and management business based in Darwin, with offices and assets across Darwin, Palmerston and Katherine.",
+            "category": "company"
           }
         },
         {
@@ -16358,6 +17792,12 @@
           "total_aud": 25000,
           "by_year": {
             "2023-24": 25000
+          },
+          "info": {
+            "link": "https://www.randazzoproperties.com.au/",
+            "link_type": "website",
+            "description": "A family-run Northern Territory commercial real estate, property development and management business based in Darwin, with offices and assets across Darwin, Palmerston and Katherine.",
+            "category": "company"
           }
         },
         {
@@ -16372,6 +17812,12 @@
           "total_aud": 25000,
           "by_year": {
             "2021-22": 25000
+          },
+          "info": {
+            "link": "https://vic.liberal.org.au/",
+            "link_type": "website",
+            "description": "The Kooyong electorate body of the Liberal Party of Australia (Victorian Division), branded Liberal Victoria, the Victorian state division of the federal Liberal Party.",
+            "category": "political party body"
           }
         },
         {
@@ -16537,6 +17983,12 @@
           "total_aud": 45000,
           "by_year": {
             "2024-25": 45000
+          },
+          "info": {
+            "link": "https://greenaus.com.au/",
+            "link_type": "website",
+            "description": "Green Australia Wholesale Pty Ltd is a Victorian private company (ABN 12 651 811 200, registered 2022, also trading as Cannabate and Easykind) operating in the alternative/plant-medicine wholesale healthcare sector.",
+            "category": "company"
           }
         },
         {
@@ -16698,6 +18150,12 @@
           "total_aud": 25000,
           "by_year": {
             "2024-25": 25000
+          },
+          "info": {
+            "link": "https://transparency.aec.gov.au/ClientEntity/EntityDetail?clientIdentifier=37124&clientType=organisationdonor",
+            "link_type": "website",
+            "description": "A New South Wales private holding company owned by Sam Kennard, chief executive of Kennards Self Storage, used as a personal/family investment vehicle.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -16705,6 +18163,12 @@
           "total_aud": 25000,
           "by_year": {
             "2024-25": 25000
+          },
+          "info": {
+            "link": "https://independentaustralia.net/politics/politics-display/white-mans-dark-money-meet-the-no-campaign-bankrollers,18043",
+            "link_type": "website",
+            "description": "A private investment company associated with Elizabeth and Simon Fenwick, used as a family investment and donation vehicle (Silver River Investment Holdings, as trustee for the Fenwick Family Trust). Simon Fenwick co-founded US investment firm International Value Advisers and is a board member of the Institute of Public Affairs.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -16762,6 +18226,12 @@
           "total_aud": 30000,
           "by_year": {
             "2021-22": 30000
+          },
+          "info": {
+            "link": "https://webdrill.com.au/",
+            "link_type": "website",
+            "description": "Webdrill Australia Pty Ltd is a Western Australian underground diamond drilling contractor based in Landsdale, providing core sampling and exploration drilling services to underground mines; it was founded by Jared and Sheree Webb.",
+            "category": "company"
           }
         },
         {
@@ -16769,6 +18239,12 @@
           "total_aud": 26000,
           "by_year": {
             "2021-22": 26000
+          },
+          "info": {
+            "link": "https://wrenoil.com.au/",
+            "link_type": "website",
+            "description": "A privately owned Western Australian company trading as Wren Oil, operating a used-oil recycling and re-refining facility near Bunbury that collects and processes waste lubricating oil and hydrocarbons across WA.",
+            "category": "company"
           }
         },
         {
@@ -17061,6 +18537,12 @@
           "total_aud": 35000,
           "by_year": {
             "2021-22": 35000
+          },
+          "info": {
+            "link": "https://usu.org.au/",
+            "link_type": "website",
+            "description": "The United Services Union (USU) is a NSW/ACT trade union of about 30,000 members representing local government, clerical, administrative, energy, airlines and utilities workers. It is affiliated with the ACTU and Australian Labor Party.",
+            "category": "union"
           }
         },
         {
@@ -17068,6 +18550,12 @@
           "total_aud": 30000,
           "by_year": {
             "2023-24": 30000
+          },
+          "info": {
+            "link": "https://www.facebook.com/Federationhuntingclubs/",
+            "link_type": "facebook",
+            "description": "The Federation of Hunting Clubs Inc is an Australian peak body, based in Baulkham Hills NSW and established in 1996, that represents member hunting and shooting clubs and is recognised under NSW firearms regulation as an approved hunting organisation.",
+            "category": "club"
           }
         }
       ],
@@ -17191,6 +18679,12 @@
           "total_aud": 40000,
           "by_year": {
             "2024-25": 40000
+          },
+          "info": {
+            "link": "https://www.animaljusticefoundation.org/",
+            "link_type": "website",
+            "description": "The Animal Justice Foundation is an Australian not-for-profit foundation that invests bequeathed funds to provide perpetual grants and awards supporting animal-welfare and animal-justice charities, activists and organisations.",
+            "category": "foundation"
           }
         },
         {
@@ -17223,6 +18717,12 @@
           "total_aud": 30000,
           "by_year": {
             "2021-22": 30000
+          },
+          "info": {
+            "link": "https://cfmmeu.org.au/",
+            "link_type": "website",
+            "description": "The CFMEU (Construction, Forestry and Maritime Employees Union) is a major Australian trade union representing workers in the building, construction, forestry, maritime and related industries, with offices in capital cities and regional centres nationwide.",
+            "category": "union"
           }
         },
         {
@@ -17377,6 +18877,12 @@
           "total_aud": 25000,
           "by_year": {
             "2021-22": 25000
+          },
+          "info": {
+            "link": "https://transparency.aec.gov.au/ClientEntity/EntityDetail?clientIdentifier=47421&clientType=reforgdonor",
+            "link_type": "website",
+            "description": "An Australian private investment/holding company acting as trustee for the Fenwick Family Trust, controlled by Simon Fenwick (co-founder of US-based International Value Advisers) and Elizabeth Fenwick.",
+            "category": "investment vehicle"
           }
         }
       ],

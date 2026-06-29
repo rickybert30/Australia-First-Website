@@ -472,7 +472,13 @@
                 "publisher": "Australian Electoral Commission",
                 "date": ""
               }
-            ]
+            ],
+            "info": {
+              "link": "https://abr.business.gov.au/ABN/View?id=94655747050",
+              "link_type": "website",
+              "description": "Polka Dot Ventures Pty Limited is an Australian private company registered in New South Wales (ABN 94 655 747 050), operating as a private investment/venture vehicle.",
+              "category": "investment vehicle"
+            }
           },
           {
             "donor": "Keep Them Honest Pty Ltd",
@@ -628,7 +634,13 @@
                 "publisher": "Australian Electoral Commission",
                 "date": ""
               }
-            ]
+            ],
+            "info": {
+              "link": "https://abr.business.gov.au/ABN/View?id=94655747050",
+              "link_type": "website",
+              "description": "Polka Dot Ventures Pty Limited is an Australian private company registered in New South Wales (ABN 94 655 747 050), operating as a private investment/venture vehicle.",
+              "category": "investment vehicle"
+            }
           },
           {
             "donor": "Polka Dot Ventures Pty Ltd",
@@ -642,7 +654,13 @@
                 "publisher": "Australian Electoral Commission",
                 "date": ""
               }
-            ]
+            ],
+            "info": {
+              "link": "https://abr.business.gov.au/ABN/View?id=94655747050",
+              "link_type": "website",
+              "description": "Polka Dot Ventures Pty Limited is an Australian private company registered in New South Wales (ABN 94 655 747 050), operating as a private investment/venture vehicle.",
+              "category": "investment vehicle"
+            }
           }
         ],
         "sources": [
@@ -2960,7 +2978,13 @@
                 "publisher": "Australian Electoral Commission",
                 "date": ""
               }
-            ]
+            ],
+            "info": {
+              "link": "https://transparency.aec.gov.au/ClientEntity/EntityDetail?clientIdentifier=44961&clientType=organisationdonor",
+              "link_type": "website",
+              "description": "Keep Them Honest Pty Ltd is an Australian company registered as a political donor on the Australian Electoral Commission's Transparency Register, which has funded independent ('teal') and Climate 200-aligned candidates.",
+              "category": "other"
+            }
           },
           {
             "donor": "Keep Them Honest Pty Limited",
@@ -2974,7 +2998,13 @@
                 "publisher": "Australian Electoral Commission",
                 "date": ""
               }
-            ]
+            ],
+            "info": {
+              "link": "https://transparency.aec.gov.au/ClientEntity/EntityDetail?clientIdentifier=44961&clientType=organisationdonor",
+              "link_type": "website",
+              "description": "Keep Them Honest Pty Ltd is an Australian company registered as a political donor on the Australian Electoral Commission's Transparency Register, which has funded independent ('teal') and Climate 200-aligned candidates.",
+              "category": "other"
+            }
           },
           {
             "donor": "Keep Them Honest Pty Limited",
@@ -2988,7 +3018,13 @@
                 "publisher": "Australian Electoral Commission",
                 "date": ""
               }
-            ]
+            ],
+            "info": {
+              "link": "https://transparency.aec.gov.au/ClientEntity/EntityDetail?clientIdentifier=44961&clientType=organisationdonor",
+              "link_type": "website",
+              "description": "Keep Them Honest Pty Ltd is an Australian company registered as a political donor on the Australian Electoral Commission's Transparency Register, which has funded independent ('teal') and Climate 200-aligned candidates.",
+              "category": "other"
+            }
           },
           {
             "donor": "Climate 200 Pty Limited",
@@ -3002,7 +3038,13 @@
                 "publisher": "Australian Electoral Commission",
                 "date": ""
               }
-            ]
+            ],
+            "info": {
+              "link": "https://www.climate200.com.au/",
+              "link_type": "website",
+              "description": "Climate 200 Pty Ltd is an Australian political funding vehicle convened by Simon Holmes a Court that pools donations to support community-backed independent candidates campaigning on climate action, integrity and gender equity.",
+              "category": "investment vehicle"
+            }
           },
           {
             "donor": "Mr Matthias Krups",
