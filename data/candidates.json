@@ -16212,6 +16212,18 @@
             }
           ],
           "verified": true
+        },
+        "drugs_law_order": {
+          "summary": "Nationals MP for Dubbo who has pressed for a tougher law-and-order response to regional youth crime. In February 2025 he said \"youth crime isn't just a Moree problem, it's a regional NSW problem ... getting worse and worse by the day,\" and criticised the Government's youth bail laws as insufficient, noting the Coalition warned the temporary bail laws (extended to 2028) \"aren't enough to solve the regional crime crisis and have proved unsuccessful for the past 12 months.\"",
+          "sources": [
+            {
+              "title": "NSW youth crime crisis deepens with regional neglect",
+              "url": "https://www.dailyliberal.com.au/story/8889282/nsw-youth-crime-crisis-deepens-with-regional-neglect/",
+              "publisher": "Daily Liberal",
+              "date": "2025-02-11"
+            }
+          ],
+          "verified": true
         }
       },
       "roster_source": {
@@ -18215,7 +18227,20 @@
       "state": "NSW",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "drugs_law_order": {
+          "summary": "Labor MLC and former Principal Legal Officer at the Aboriginal Legal Service (NSW/ACT). On the Government's 2024 youth bail changes he said: \"I think there should be changes to bail laws but it's really important we look at long-term answers like programs,\" adding on crime and domestic violence that \"this is a social problem and I try not to look at it in a sensational, simplistic way\" and \"I think we need to look at what works and build from there to find solutions.\"",
+          "sources": [
+            {
+              "title": "Griffith-born Labor MLC Stephen Lawrence revisits the area",
+              "url": "https://www.areanews.com.au/story/8700929/griffith-born-labor-mlc-stephen-lawrence-revisits-the-area/",
+              "publisher": "The Area News",
+              "date": "2024-07-19"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the New South Wales Legislative Council, 2023–2027",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Council,_2023%E2%80%932027",
