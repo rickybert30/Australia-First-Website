@@ -7339,7 +7339,13 @@
                 "publisher": "Australian Electoral Commission",
                 "date": ""
               }
-            ]
+            ],
+            "info": {
+              "link": "https://www.nrl.com/about-us/",
+              "link_type": "website",
+              "description": "The National Rugby League (NRL) is the premier professional rugby league competition in Australia and New Zealand, administered by the Australian Rugby League Commission, which is the governing body for the sport in Australia.",
+              "category": "other"
+            }
           }
         ],
         "sources": [
@@ -11856,7 +11862,13 @@
                 "publisher": "Australian Electoral Commission",
                 "date": ""
               }
-            ]
+            ],
+            "info": {
+              "link": "https://www.climate200.com.au/",
+              "link_type": "website",
+              "description": "Climate 200 Pty Ltd is an Australian political fundraising/crowdfunding vehicle, convened by Simon Holmes a Court, that pools donations to support community-backed independent (\"teal\") candidates campaigning on climate, integrity and gender equity.",
+              "category": "other"
+            }
           },
           {
             "donor": "Climate 200 Pty Ltd",
