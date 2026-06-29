@@ -1,4 +1,10 @@
 {
+  "aaron-violi-casey": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/10971.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/aaron_violi/casey",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
+  },
   "act-andrew-barr-kurrajong": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Andrew_Barr_June_2025.jpg/330px-Andrew_Barr_June_2025.jpg",
     "page_title": "Andrew Barr",
@@ -114,6 +120,30 @@
     "page_title": "Ali France",
     "page_url": "https://en.wikipedia.org/wiki/Ali_France"
   },
+  "alice-jordan-baird-gorton": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/11043.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/alice_jordan-baird/gorton",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
+  },
+  "alicia-payne-canberra": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/10919.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/alicia_payne/canberra",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
+  },
+  "alison-byrnes-cunningham": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/10973.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/alison_byrnes/cunningham",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
+  },
+  "alison-penfold-lyne": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/11046.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/alison_penfold/lyne",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
+  },
   "allegra-spender-wentworth": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Allegra_Spender_Unearthed_Entrepreneurs_2018_%28cropped%29.png",
     "page_title": "Allegra Spender",
@@ -174,6 +204,12 @@
     "page_title": "Andrew Willcox",
     "page_url": "https://en.wikipedia.org/wiki/Andrew_Willcox"
   },
+  "angie-bell-moncrieff": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/10936.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/angie_bell/moncrieff",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
+  },
   "angus-taylor-hume": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Angus_Taylor_2018_portrait_black.jpg/330px-Angus_Taylor_2018_portrait_black.jpg",
     "page_title": "Angus Taylor",
@@ -199,6 +235,18 @@
     "page_title": "Anne Ruston",
     "page_url": "https://en.wikipedia.org/wiki/Anne_Ruston"
   },
+  "anne-urquhart-braddon": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/10763.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/anne_urquhart/braddon",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
+  },
+  "anne-webster-mallee": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/10935.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/anne_webster/mallee",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
+  },
   "anthony-albanese-grayndler": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Anthony_Albanese_portrait_%28re-crop%29.jpg/330px-Anthony_Albanese_portrait_%28re-crop%29.jpg",
     "page_title": "Anthony Albanese",
@@ -208,6 +256,12 @@
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Anthony_Chisholm.jpg/330px-Anthony_Chisholm.jpg",
     "page_title": "Anthony Chisholm (politician)",
     "page_url": "https://en.wikipedia.org/wiki/Anthony_Chisholm_%28politician%29"
+  },
+  "ash-ambihaipahar-barton": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/11025.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/ash_ambihaipahar/barton",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
   },
   "barbara-pocock-sa": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Barbara_Pocock_%28cropped%29.jpg/330px-Barbara_Pocock_%28cropped%29.jpg",
@@ -224,6 +278,12 @@
     "page_title": "Basem Abdo",
     "page_url": "https://en.wikipedia.org/wiki/Basem_Abdo"
   },
+  "ben-small-forrest": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/10962.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/ben_small/forrest",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
+  },
   "bob-katter-kennedy": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bob_Katter.jpg/330px-Bob_Katter.jpg",
     "page_title": "Bob Katter",
@@ -234,10 +294,22 @@
     "page_title": "Bridget McKenzie",
     "page_url": "https://en.wikipedia.org/wiki/Bridget_McKenzie"
   },
+  "cameron-caldwell-fadden": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/11016.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/cameron_caldwell/fadden",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
+  },
   "carina-garland-chisholm": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Carina_Garland_at_ECLC_Chisholm_federal_election_candidates_forum_%281%29_%E2%80%94_May_2022.jpg/330px-Carina_Garland_at_ECLC_Chisholm_federal_election_candidates_forum_%281%29_%E2%80%94_May_2022.jpg",
     "page_title": "Carina Garland",
     "page_url": "https://en.wikipedia.org/wiki/Carina_Garland"
+  },
+  "carol-berry-whitlam": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/11027.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/carol_berry/whitlam",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
   },
   "carol-brown-tas": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Carol_Brown.jpg/330px-Carol_Brown.jpg",
@@ -264,6 +336,18 @@
     "page_title": "Chris Bowen",
     "page_url": "https://en.wikipedia.org/wiki/Chris_Bowen"
   },
+  "claire-chandler-tas": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/10955.jpg",
+    "page_url": "https://www.openaustralia.org.au/senator/claire_chandler/tasmania",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
+  },
+  "claire-clutterham-sturt": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/11033.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/claire_clutterham/sturt",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
+  },
   "clare-o-neil-hotham": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Clare_O%27Neil_%282023%29.jpg/330px-Clare_O%27Neil_%282023%29.jpg",
     "page_title": "Clare O'Neil",
@@ -273,6 +357,12 @@
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/RockyRingRoadRally5.jpg/330px-RockyRingRoadRally5.jpg",
     "page_title": "Colin Boyce",
     "page_url": "https://en.wikipedia.org/wiki/Colin_Boyce"
+  },
+  "corinne-mulholland-qld": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/11057.jpg",
+    "page_url": "https://www.openaustralia.org.au/senator/corinne_mulholland/queensland",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
   },
   "dai-le-fowler": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Dai_Le_headshot.jpg/330px-Dai_Le_headshot.jpg",
@@ -304,10 +394,22 @@
     "page_title": "Dave Sharma",
     "page_url": "https://en.wikipedia.org/wiki/Dave_Sharma"
   },
+  "david-batt-hinkler": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/11026.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/david_batt/hinkler",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
+  },
   "david-littleproud-maranoa": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/David_Littleproud.jpg/330px-David_Littleproud.jpg",
     "page_title": "David Littleproud",
     "page_url": "https://en.wikipedia.org/wiki/David_Littleproud"
+  },
+  "david-moncrieff-hughes": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/11044.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/david_moncrieff/hughes",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
   },
   "david-pocock-act": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/David_Pocock_park_%281%29.jpg/330px-David_Pocock_park_%281%29.jpg",
@@ -318,6 +420,12 @@
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Senator_David_Shoebridge_2022.jpg/330px-Senator_David_Shoebridge_2022.jpg",
     "page_title": "David Shoebridge",
     "page_url": "https://en.wikipedia.org/wiki/David_Shoebridge"
+  },
+  "david-smith-bean": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/10910.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/david_smith/bean",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
   },
   "dean-smith-wa": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Smith_Smith_20200054-41.jpg/330px-Smith_Smith_20200054-41.jpg",
@@ -349,6 +457,12 @@
     "page_title": "Elizabeth Watson-Brown",
     "page_url": "https://en.wikipedia.org/wiki/Elizabeth_Watson-Brown"
   },
+  "ellie-whiteaker-wa": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/11059.jpg",
+    "page_url": "https://www.openaustralia.org.au/senator/ellie_whiteaker/wa",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
+  },
   "emma-comer-petrie": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Emma_Comer.jpg",
     "page_title": "Emma Comer",
@@ -369,6 +483,12 @@
     "page_title": "Fiona Phillips (politician)",
     "page_url": "https://en.wikipedia.org/wiki/Fiona_Phillips_%28politician%29"
   },
+  "gabriel-ng-menzies": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/11045.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/gabriel_ng/menzies",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
+  },
   "garth-hamilton-groom": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Garth_Hamilton_Geoscience_Australia_2022_%28cropped%29.jpg",
     "page_title": "Garth Hamilton",
@@ -384,6 +504,12 @@
     "page_title": "Glenn Sterle",
     "page_url": "https://en.wikipedia.org/wiki/Glenn_Sterle"
   },
+  "gordon-reid-robertson": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/10996.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/gordon_reid/robertson",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
+  },
   "helen-haines-indi": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Cropped_portrait_of_Helen_Haines_%E2%80%94_June_2022.jpg/330px-Cropped_portrait_of_Helen_Haines_%E2%80%94_June_2022.jpg",
     "page_title": "Helen Haines",
@@ -393,6 +519,12 @@
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Senator_Helen_Polley.jpg/330px-Senator_Helen_Polley.jpg",
     "page_title": "Helen Polley",
     "page_url": "https://en.wikipedia.org/wiki/Helen_Polley"
+  },
+  "henry-pike-bowman": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/10969.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/henry_pike/bowman",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
   },
   "jacinta-nampijinpa-price-nt": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Jacinta_Nampijinpa_Price_speaking_at_ARC_Forum_2023%2C_Day_2%2C_31_October_2023_%28cropped%29.jpg/330px-Jacinta_Nampijinpa_Price_speaking_at_ARC_Forum_2023%2C_Day_2%2C_31_October_2023_%28cropped%29.jpg",
@@ -413,6 +545,12 @@
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/James_Paterson_at_Fraser_Symposium_%283%29_%28cropped%29.jpg/330px-James_Paterson_at_Fraser_Symposium_%283%29_%28cropped%29.jpg",
     "page_title": "James Paterson (Australian politician)",
     "page_url": "https://en.wikipedia.org/wiki/James_Paterson_%28Australian_politician%29"
+  },
+  "jamie-chaffey-parkes": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/11032.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/jamie_chaffey/parkes",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
   },
   "jana-stewart-vic": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Jana_Stewart_2019.jpg/330px-Jana_Stewart_2019.jpg",
@@ -444,10 +582,22 @@
     "page_title": "Jerome Laxale",
     "page_url": "https://en.wikipedia.org/wiki/Jerome_Laxale"
   },
+  "jess-teesdale-bass": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/11050.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/jess_teesdale/bass",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
+  },
   "jess-walsh-vic": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/JWHeadshotCrop.jpg/330px-JWHeadshotCrop.jpg",
     "page_title": "Jess Walsh",
     "page_url": "https://en.wikipedia.org/wiki/Jess_Walsh"
+  },
+  "jessica-collins-nsw": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/11055.jpg",
+    "page_url": "https://www.openaustralia.org.au/senator/jessica_collins/nsw",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
   },
   "jim-chalmers-rankin": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Jim_Chalmers_Jobs_and_Skills_Summit_2022_%28cropped%29.jpg/330px-Jim_Chalmers_Jobs_and_Skills_Summit_2022_%28cropped%29.jpg",
@@ -483,6 +633,12 @@
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Josh_Burns_2022.jpg/330px-Josh_Burns_2022.jpg",
     "page_title": "Josh Burns (politician)",
     "page_url": "https://en.wikipedia.org/wiki/Josh_Burns_%28politician%29"
+  },
+  "josh-dolega-tas": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/11054.jpg",
+    "page_url": "https://www.openaustralia.org.au/senator/josh_dolega/tasmania",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
   },
   "josh-wilson-fremantle": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Josh_Wilson_cropped.jpg",
@@ -559,6 +715,18 @@
     "page_title": "Larissa Waters",
     "page_url": "https://en.wikipedia.org/wiki/Larissa_Waters"
   },
+  "leah-blyth-sa": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/11022.jpg",
+    "page_url": "https://www.openaustralia.org.au/senator/leah_blyth/sa",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
+  },
+  "leon-rebello-mcpherson": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/11047.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/leon_rebello/mcpherson",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
+  },
   "libby-coker-corangamite": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Libby_Coker_2022.jpg/330px-Libby_Coker_2022.jpg",
     "page_title": "Libby Coker",
@@ -573,6 +741,12 @@
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Lisa_Chesters_with_volunteers.jpg/330px-Lisa_Chesters_with_volunteers.jpg",
     "page_title": "Lisa Chesters",
     "page_url": "https://en.wikipedia.org/wiki/Lisa_Chesters"
+  },
+  "lisa-darmanin-vic": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/11021.jpg",
+    "page_url": "https://www.openaustralia.org.au/senator/lisa_darmanin/victoria",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
   },
   "llew-o-brien-wide-bay": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Llew_O%27Brien_%28cropped%29.jpg/330px-Llew_O%27Brien_%28cropped%29.jpg",
@@ -634,6 +808,12 @@
     "page_title": "Mark Dreyfus",
     "page_url": "https://en.wikipedia.org/wiki/Mark_Dreyfus"
   },
+  "mary-aldred-monash": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/11024.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/mary_aldred/monash",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
+  },
   "mary-doyle-aston": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mary_Doyle_at_2025_Aston_results_declaration_%28cropped%29.jpg/330px-Mary_Doyle_at_2025_Aston_results_declaration_%28cropped%29.jpg",
     "page_title": "Mary Doyle",
@@ -644,6 +824,12 @@
     "page_title": "Matt Burnell",
     "page_url": "https://en.wikipedia.org/wiki/Matt_Burnell"
   },
+  "matt-gregg-deakin": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/11040.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/matt_gregg/deakin",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
+  },
   "matt-keogh-burt": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Matt_Keogh_2023.jpg/330px-Matt_Keogh_2023.jpg",
     "page_title": "Matt Keogh",
@@ -653,6 +839,12 @@
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Senator_Matt_O%27Sullivan_addressing_National_Prayer_Breakfast_at_the_Parliament_of_Australia%2C_November_2013.jpg/330px-Senator_Matt_O%27Sullivan_addressing_National_Prayer_Breakfast_at_the_Parliament_of_Australia%2C_November_2013.jpg",
     "page_title": "Matt O'Sullivan",
     "page_url": "https://en.wikipedia.org/wiki/Matt_O%27Sullivan"
+  },
+  "matt-smith-leichhardt": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/11048.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/matt_smith/leichhardt",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
   },
   "matt-thistlethwaite-kingsford-smith": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Matt_Thistlethwaite_Portrait_2025.jpg/330px-Matt_Thistlethwaite_Portrait_2025.jpg",
@@ -694,6 +886,12 @@
     "page_title": "Michaelia Cash",
     "page_url": "https://en.wikipedia.org/wiki/Michaelia_Cash"
   },
+  "michelle-ananda-rajah-vic": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/10983.jpg",
+    "page_url": "https://www.openaustralia.org.au/senator/michelle_ananda-rajah/victoria",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
+  },
   "michelle-landry-capricornia": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Michelle_Landry.png/330px-Michelle_Landry.png",
     "page_title": "Michelle Landry",
@@ -703,6 +901,12 @@
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Michelle_Rowland.jpg/330px-Michelle_Rowland.jpg",
     "page_title": "Michelle Rowland",
     "page_url": "https://en.wikipedia.org/wiki/Michelle_Rowland"
+  },
+  "mike-freelander-macarthur": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/10872.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/mike_freelander/macarthur",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
   },
   "milton-dick-oxley": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Cathaoirleach_of_Seanad_%C3%89ireann%2C_Senator_Jerry_Buttimer%2C_met_with_the_Speaker_of_the_House_of_Representatives_of_Australia%2C_Milton_Dick_MP_on_26_July_2023_04_%28cropped%29.jpg/330px-thumbnail.jpg",
@@ -1189,6 +1393,12 @@
     "page_title": "Patrick Gorman (politician)",
     "page_url": "https://en.wikipedia.org/wiki/Patrick_Gorman_%28politician%29"
   },
+  "paul-scarr-qld": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/10949.jpg",
+    "page_url": "https://www.openaustralia.org.au/senator/paul_scarr/queensland",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
+  },
   "pauline-hanson-qld": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Pauline_Hanson_2016_01_%28cropped%29.jpg/330px-Pauline_Hanson_2016_01_%28cropped%29.jpg",
     "page_title": "Pauline Hanson",
@@ -1424,6 +1634,12 @@
     "page_title": "Richard Colbeck",
     "page_url": "https://en.wikipedia.org/wiki/Richard_Colbeck"
   },
+  "richard-dowling-tas": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/11056.jpg",
+    "page_url": "https://www.openaustralia.org.au/senator/richard_dowling/tasmania",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
+  },
   "richard-marles-corio": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Richard_marles_2022_portrait.jpg/330px-Richard_marles_2022_portrait.jpg",
     "page_title": "Richard Marles",
@@ -1434,6 +1650,24 @@
     "page_title": "Rick Wilson (Australian politician)",
     "page_url": "https://en.wikipedia.org/wiki/Rick_Wilson_%28Australian_politician%29"
   },
+  "rob-mitchell-mcewen": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/10733.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/rob_mitchell/mcewen",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
+  },
+  "ross-cadell-nsw": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/11004.jpg",
+    "page_url": "https://www.openaustralia.org.au/senator/ross_cadell/nsw",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
+  },
+  "rowan-holzberger-forde": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/11041.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/rowan_holzberger/forde",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
+  },
   "sally-sitou-reid": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sally_Sitou_2023.png/330px-Sally_Sitou_2023.png",
     "page_title": "Sally Sitou",
@@ -1443,6 +1677,18 @@
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Sam_Birrell_Member_for_Nicholls_2022_-2025.jpg/330px-Sam_Birrell_Member_for_Nicholls_2022_-2025.jpg",
     "page_title": "Sam Birrell",
     "page_url": "https://en.wikipedia.org/wiki/Sam_Birrell"
+  },
+  "sam-lim-tangney": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/11000.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/sam_lim/tangney",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
+  },
+  "sam-rae-hawke": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/10982.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/sam_rae/hawke",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
   },
   "sarah-hanson-young-sa": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/SarahHansonYoung.jpg/330px-SarahHansonYoung.jpg",
@@ -1464,10 +1710,22 @@
     "page_title": "Scott Buchholz",
     "page_url": "https://en.wikipedia.org/wiki/Scott_Buchholz"
   },
+  "sharon-claydon-newcastle": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/10805.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/sharon_claydon/newcastle",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
+  },
   "shayne-neumann-blair": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Shayne_Neumann_MP.png/330px-Shayne_Neumann_MP.png",
     "page_title": "Shayne Neumann",
     "page_url": "https://en.wikipedia.org/wiki/Shayne_Neumann"
+  },
+  "simon-kennedy-cook": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/11019.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/simon_kennedy/cook",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
   },
   "slade-brockman-wa": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Joint_Standing_Committee_on_the_Parliamentary_Library_2023_%28Brockman_cropped%29.png",
@@ -1704,6 +1962,12 @@
     "page_title": "Sue Lines",
     "page_url": "https://en.wikipedia.org/wiki/Sue_Lines"
   },
+  "susan-mcdonald-qld": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/10951.jpg",
+    "page_url": "https://www.openaustralia.org.au/senator/susan_mcdonald/queensland",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
+  },
   "susan-templeman-macquarie": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Susan_Templeman_MP.png",
     "page_title": "Susan Templeman",
@@ -1718,6 +1982,12 @@
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Tammy_Tyrrell_2024.jpg/330px-Tammy_Tyrrell_2024.jpg",
     "page_title": "Tammy Tyrrell",
     "page_url": "https://en.wikipedia.org/wiki/Tammy_Tyrrell"
+  },
+  "tania-lawrence-hasluck": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/10981.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/tania_lawrence/hasluck",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
   },
   "tanya-plibersek-sydney": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Tanya_Plibersek.png",
@@ -1849,10 +2119,28 @@
     "page_title": "Tim Wilson (Australian politician)",
     "page_url": "https://en.wikipedia.org/wiki/Tim_Wilson_%28Australian_politician%29"
   },
+  "tom-french-moore": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/11039.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/tom_french/moore",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
+  },
+  "tom-venning-grey": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/11051.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/tom_venning/grey",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
+  },
   "tony-burke-watson": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Tony_Burke.jpg/330px-Tony_Burke.jpg",
     "page_title": "Tony Burke",
     "page_url": "https://en.wikipedia.org/wiki/Tony_Burke"
+  },
+  "tony-pasin-barker": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/10784.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/tony_pasin/barker",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
   },
   "tony-sheldon-nsw": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/COSBOA_National_Small_Business_Summit_2023_%28cropped%29.png",
@@ -1864,15 +2152,406 @@
     "page_title": "Tony Zappia",
     "page_url": "https://en.wikipedia.org/wiki/Tony_Zappia"
   },
+  "tracey-roberts-pearce": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/10994.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/tracey_roberts/pearce",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
+  },
+  "trish-cook-bullwinkel": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/11037.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/trish_cook/bullwinkel",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
+  },
   "tyron-whitten-wa": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tyron_Whitten.png/330px-Tyron_Whitten.png",
     "page_title": "Tyron Whitten",
     "page_url": "https://en.wikipedia.org/wiki/Tyron_Whitten"
   },
+  "varun-ghosh-wa": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/11017.jpg",
+    "page_url": "https://www.openaustralia.org.au/senator/varun_ghosh/wa",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
+  },
+  "victoria-adem-somyurek-northern-metropolitan": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Adem_Somyurek_portrait%2C_2015.jpg",
+    "page_title": "Adem Somyurek",
+    "page_url": "https://en.wikipedia.org/wiki/Adem_Somyurek"
+  },
+  "victoria-aiv-puglielli-north-eastern-metropolitan": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Aiv_Puglielli.png/330px-Aiv_Puglielli.png",
+    "page_title": "Aiv Puglielli",
+    "page_url": "https://en.wikipedia.org/wiki/Aiv_Puglielli"
+  },
+  "victoria-anasina-gray-barberio-northern-metropolitan": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Anasina_Gray-Barberio.jpg/330px-Anasina_Gray-Barberio.jpg",
+    "page_title": "Anasina Gray-Barberio",
+    "page_url": "https://en.wikipedia.org/wiki/Anasina_Gray-Barberio"
+  },
+  "victoria-ann-marie-hermans-south-eastern-metropolitan": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Frankstonphoto_%28cropped%29.jpg/330px-Frankstonphoto_%28cropped%29.jpg",
+    "page_title": "Ann-Marie Hermans",
+    "page_url": "https://en.wikipedia.org/wiki/Ann-Marie_Hermans"
+  },
+  "victoria-annabelle-cleeland-euroa": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/The_Nationals%27_Member_for_Euroa%2C_Annabelle_Cleeland.jpg/330px-The_Nationals%27_Member_for_Euroa%2C_Annabelle_Cleeland.jpg",
+    "page_title": "Annabelle Cleeland",
+    "page_url": "https://en.wikipedia.org/wiki/Annabelle_Cleeland"
+  },
+  "victoria-anthony-carbines-ivanhoe": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Anthony_Carbines.png/330px-Anthony_Carbines.png",
+    "page_title": "Anthony Carbines",
+    "page_url": "https://en.wikipedia.org/wiki/Anthony_Carbines"
+  },
+  "victoria-anthony-marsh-nepean": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Anthony_Marsh_speaking_at_Peninsula_Aero_Club_Toy_Run_2025_%28cropped%29.jpg/330px-Anthony_Marsh_speaking_at_Peninsula_Aero_Club_Toy_Run_2025_%28cropped%29.jpg",
+    "page_title": "Anthony Marsh",
+    "page_url": "https://en.wikipedia.org/wiki/Anthony_Marsh"
+  },
+  "victoria-ben-carroll-niddrie": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Ben_Carroll_%28cropped%29.jpg/330px-Ben_Carroll_%28cropped%29.jpg",
+    "page_title": "Ben Carroll",
+    "page_url": "https://en.wikipedia.org/wiki/Ben_Carroll"
+  },
+  "victoria-bev-mcarthur-western-victoria": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/MBev.jpg",
+    "page_title": "Bev McArthur",
+    "page_url": "https://en.wikipedia.org/wiki/Bev_McArthur"
+  },
+  "victoria-brad-battin-berwick": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Brad_Battin_at_Rural_Press_Club_event_%28cropped%293.jpg/330px-Brad_Battin_at_Rural_Press_Club_event_%28cropped%293.jpg",
+    "page_title": "Brad Battin",
+    "page_url": "https://en.wikipedia.org/wiki/Brad_Battin"
+  },
+  "victoria-brad-rowswell-sandringham": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Brad_Rowswell.jpg/330px-Brad_Rowswell.jpg",
+    "page_title": "Brad Rowswell",
+    "page_url": "https://en.wikipedia.org/wiki/Brad_Rowswell"
+  },
+  "victoria-bronwyn-halfpenny-thomastown": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Bronwyn_Halfpenny_at_Refugee_Action_Collective_event_at_Trades_Hall_-_February_2026_%28cropped%29.jpg/330px-Bronwyn_Halfpenny_at_Refugee_Action_Collective_event_at_Trades_Hall_-_February_2026_%28cropped%29.jpg",
+    "page_title": "Bronwyn Halfpenny",
+    "page_url": "https://en.wikipedia.org/wiki/Bronwyn_Halfpenny"
+  },
+  "victoria-chris-crewther-mornington": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Chris_Crewther_Portrait.jpg/330px-Chris_Crewther_Portrait.jpg",
+    "page_title": "Chris Crewther",
+    "page_url": "https://en.wikipedia.org/wiki/Chris_Crewther"
+  },
+  "victoria-christine-couzens-geelong": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Pako_Festa_2022_%28cropped%29.jpg/330px-Pako_Festa_2022_%28cropped%29.jpg",
+    "page_title": "Christine Couzens",
+    "page_url": "https://en.wikipedia.org/wiki/Christine_Couzens"
+  },
+  "victoria-danny-o-brien-gippsland-south": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Danny_O%27Brien_MP_-_July_2021_%28cropped%292.jpg/330px-Danny_O%27Brien_MP_-_July_2021_%28cropped%292.jpg",
+    "page_title": "Danny O'Brien (politician)",
+    "page_url": "https://en.wikipedia.org/wiki/Danny_O%27Brien_%28politician%29"
+  },
+  "victoria-darren-cheeseman-south-barwon": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Darren-Cheeseman-Thumbs-Up.jpg/330px-Darren-Cheeseman-Thumbs-Up.jpg",
+    "page_title": "Darren Cheeseman",
+    "page_url": "https://en.wikipedia.org/wiki/Darren_Cheeseman"
+  },
+  "victoria-david-davis-southern-metropolitan": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Hon._David_Davis.JPG/330px-Hon._David_Davis.JPG",
+    "page_title": "David Davis (Australian politician)",
+    "page_url": "https://en.wikipedia.org/wiki/David_Davis_%28Australian_politician%29"
+  },
+  "victoria-david-ettershank-western-metropolitan": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/David_Ettershank_speaking_at_No_Waste_Incinerator_protest_%284%29_%28cropped%29.jpg/330px-David_Ettershank_speaking_at_No_Waste_Incinerator_protest_%284%29_%28cropped%29.jpg",
+    "page_title": "David Ettershank",
+    "page_url": "https://en.wikipedia.org/wiki/David_Ettershank"
+  },
+  "victoria-david-hodgett-croydon": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/David_Hodgett_at_Parliament_2021_%28cropped%29_b.jpg/330px-David_Hodgett_at_Parliament_2021_%28cropped%29_b.jpg",
+    "page_title": "David Hodgett",
+    "page_url": "https://en.wikipedia.org/wiki/David_Hodgett"
+  },
+  "victoria-david-limbrick-south-eastern-metropolitan": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/David_Limbrick_at_Manningham_Hotel_%281%29_%28cropped%29.jpg/330px-David_Limbrick_at_Manningham_Hotel_%281%29_%28cropped%29.jpg",
+    "page_title": "David Limbrick",
+    "page_url": "https://en.wikipedia.org/wiki/David_Limbrick"
+  },
+  "victoria-david-southwick-caulfield": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/David_Southwick_at_Rye_Civic_Hall%2C_2026_%28cropped%29.jpg/330px-David_Southwick_at_Rye_Civic_Hall%2C_2026_%28cropped%29.jpg",
+    "page_title": "David Southwick",
+    "page_url": "https://en.wikipedia.org/wiki/David_Southwick"
+  },
+  "victoria-ellen-sandell-melbourne": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Ellen_Sandell_cropped.jpg/330px-Ellen_Sandell_cropped.jpg",
+    "page_title": "Ellen Sandell",
+    "page_url": "https://en.wikipedia.org/wiki/Ellen_Sandell"
+  },
+  "victoria-emma-vulin-pakenham": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Vulin%2CEmma-electorate030424_%2823_of_286%29.jpg/330px-Vulin%2CEmma-electorate030424_%2823_of_286%29.jpg",
+    "page_title": "Emma Vulin",
+    "page_url": "https://en.wikipedia.org/wiki/Emma_Vulin"
+  },
+  "victoria-enver-erdogan-northern-metropolitan": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Erdogan_-_TLV_presser_-_30_Jan_2026.jpg/330px-Erdogan_-_TLV_presser_-_30_Jan_2026.jpg",
+    "page_title": "Enver Erdogan",
+    "page_url": "https://en.wikipedia.org/wiki/Enver_Erdogan"
+  },
+  "victoria-evan-mulholland-northern-metropolitan": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Evan_Mulholland_February_2024_%28cropped%29.jpg/330px-Evan_Mulholland_February_2024_%28cropped%29.jpg",
+    "page_title": "Evan Mulholland",
+    "page_url": "https://en.wikipedia.org/wiki/Evan_Mulholland"
+  },
+  "victoria-gabrielle-de-vietri-richmond": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Gabrielle_de_Vietri_2022.jpg/330px-Gabrielle_de_Vietri_2022.jpg",
+    "page_title": "Gabrielle de Vietri",
+    "page_url": "https://en.wikipedia.org/wiki/Gabrielle_de_Vietri"
+  },
+  "victoria-gabrielle-williams-dandenong": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Gabrielle_Williams_MP_Official_Headshot.jpg/330px-Gabrielle_Williams_MP_Official_Headshot.jpg",
+    "page_title": "Gabrielle Williams",
+    "page_url": "https://en.wikipedia.org/wiki/Gabrielle_Williams"
+  },
+  "victoria-gary-maas-narre-warren-south": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Gary_Maas_MP.jpg/330px-Gary_Maas_MP.jpg",
+    "page_title": "Gary Maas",
+    "page_url": "https://en.wikipedia.org/wiki/Gary_Maas"
+  },
+  "victoria-georgie-crozier-southern-metropolitan": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Georgie_Crozier.jpg/330px-Georgie_Crozier.jpg",
+    "page_title": "Georgie Crozier",
+    "page_url": "https://en.wikipedia.org/wiki/Georgie_Crozier"
+  },
+  "victoria-georgie-purcell-northern-victoria": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Georgie_Purcell-2025.jpg/330px-Georgie_Purcell-2025.jpg",
+    "page_title": "Georgie Purcell",
+    "page_url": "https://en.wikipedia.org/wiki/Georgie_Purcell"
+  },
+  "victoria-harriet-shing-eastern-victoria": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Harriet_Shing_at_ABC_Suburban_Rail_Loop_forum_%281%29_%28cropped%29.jpg/330px-Harriet_Shing_at_ABC_Suburban_Rail_Loop_forum_%281%29_%28cropped%29.jpg",
+    "page_title": "Harriet Shing",
+    "page_url": "https://en.wikipedia.org/wiki/Harriet_Shing"
+  },
+  "victoria-jackson-taylor-bayswater": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Jackson_Taylor_Profile_Picture.jpg/330px-Jackson_Taylor_Profile_Picture.jpg",
+    "page_title": "Jackson Taylor",
+    "page_url": "https://en.wikipedia.org/wiki/Jackson_Taylor"
+  },
+  "victoria-jaclyn-symes-northern-victoria": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Jaclyn_Symes.png/330px-Jaclyn_Symes.png",
+    "page_title": "Jaclyn Symes",
+    "page_url": "https://en.wikipedia.org/wiki/Jaclyn_Symes"
+  },
+  "victoria-james-newbury-brighton": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Newbury_Image01_%28cropped%29_b.jpg/330px-Newbury_Image01_%28cropped%29_b.jpg",
+    "page_title": "James Newbury",
+    "page_url": "https://en.wikipedia.org/wiki/James_Newbury"
+  },
+  "victoria-jess-wilson-kew": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Jess_Wilson_0026_%28cropped%29.png/330px-Jess_Wilson_0026_%28cropped%29.png",
+    "page_title": "Jess Wilson",
+    "page_url": "https://en.wikipedia.org/wiki/Jess_Wilson"
+  },
+  "victoria-joe-mccracken-western-victoria": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/McCrackenjoe.jpg/330px-McCrackenjoe.jpg",
+    "page_title": "Joe McCracken",
+    "page_url": "https://en.wikipedia.org/wiki/Joe_McCracken"
+  },
+  "victoria-john-lister-werribee": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/John_Lister_%28cropped%29.jpg/330px-John_Lister_%28cropped%29.jpg",
+    "page_title": "John Lister (Australian politician)",
+    "page_url": "https://en.wikipedia.org/wiki/John_Lister_%28Australian_politician%29"
+  },
+  "victoria-john-pesutto-hawthorn": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Victorian_Liberal_Leader_John_Pesutto_b.jpg/330px-Victorian_Liberal_Leader_John_Pesutto_b.jpg",
+    "page_title": "John Pesutto",
+    "page_url": "https://en.wikipedia.org/wiki/John_Pesutto"
+  },
+  "victoria-josh-bull-sunbury": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Josh_Bull_speaking_at_No_Waste_Incinerator_protest_%282%29_%28cropped%29.jpg/330px-Josh_Bull_speaking_at_No_Waste_Incinerator_protest_%282%29_%28cropped%29.jpg",
+    "page_title": "Josh Bull",
+    "page_url": "https://en.wikipedia.org/wiki/Josh_Bull"
+  },
+  "victoria-juliana-addison-wendouree": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Juliana_Addison_MLA.jpg/330px-Juliana_Addison_MLA.jpg",
+    "page_title": "Juliana Addison",
+    "page_url": "https://en.wikipedia.org/wiki/Juliana_Addison"
+  },
+  "victoria-katherine-copsey-southern-metropolitan": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Kat_Copsey.png/330px-Kat_Copsey.png",
+    "page_title": "Katherine Copsey",
+    "page_url": "https://en.wikipedia.org/wiki/Katherine_Copsey"
+  },
+  "victoria-lee-tarlamis-south-eastern-metropolitan": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/251202_GBlue_Z9_0048-Edit_Lge_%281%29.jpg/330px-251202_GBlue_Z9_0048-Edit_Lge_%281%29.jpg",
+    "page_title": "Lee Tarlamis",
+    "page_url": "https://en.wikipedia.org/wiki/Lee_Tarlamis"
+  },
+  "victoria-lily-d-ambrosio-mill-park": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Lily_D%27Ambrosio_launches_Moreland_Council_renewables_powered_hydrogen_fuel_cell_heavy_vehicle_fleet_pilot_program.jpg/330px-Lily_D%27Ambrosio_launches_Moreland_Council_renewables_powered_hydrogen_fuel_cell_heavy_vehicle_fleet_pilot_program.jpg",
+    "page_title": "Lily D'Ambrosio",
+    "page_url": "https://en.wikipedia.org/wiki/Lily_D%27Ambrosio"
+  },
+  "victoria-martha-haylett-ripon": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Martha_Haylett_MP_-_Ripon.png/330px-Martha_Haylett_MP_-_Ripon.png",
+    "page_title": "Martha Haylett",
+    "page_url": "https://en.wikipedia.org/wiki/Martha_Haylett"
+  },
+  "victoria-matthew-guy-bulleen": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Matthew_Guy_at_ABC_Suburban_Rail_Loop_forum_%282%29_%28cropped%29.jpg/330px-Matthew_Guy_at_ABC_Suburban_Rail_Loop_forum_%282%29_%28cropped%29.jpg",
+    "page_title": "Matthew Guy",
+    "page_url": "https://en.wikipedia.org/wiki/Matthew_Guy"
+  },
+  "victoria-moira-deeming-western-metropolitan": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Moira_Deeming.png/330px-Moira_Deeming.png",
+    "page_title": "Moira Deeming",
+    "page_url": "https://en.wikipedia.org/wiki/Moira_Deeming"
+  },
+  "victoria-natalie-hutchins-sydenham": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Natalie_Hutchins_in_2026_%282%29_%28cropped%29.jpg/330px-Natalie_Hutchins_in_2026_%282%29_%28cropped%29.jpg",
+    "page_title": "Natalie Hutchins",
+    "page_url": "https://en.wikipedia.org/wiki/Natalie_Hutchins"
+  },
+  "victoria-natalie-suleyman-st-albans": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Natalie_Suleyman.png/330px-Natalie_Suleyman.png",
+    "page_title": "Natalie Suleyman",
+    "page_url": "https://en.wikipedia.org/wiki/Natalie_Suleyman"
+  },
+  "victoria-nick-staikos-bentleigh": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/McKinnon_Secondary_College_%28Cropped%29.png/330px-McKinnon_Secondary_College_%28Cropped%29.png",
+    "page_title": "Nick Staikos",
+    "page_url": "https://en.wikipedia.org/wiki/Nick_Staikos"
+  },
+  "victoria-nicole-werner-warrandyte": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Nicole_Werner-2023.jpg/330px-Nicole_Werner-2023.jpg",
+    "page_title": "Nicole Werner",
+    "page_url": "https://en.wikipedia.org/wiki/Nicole_Werner"
+  },
+  "victoria-nina-taylor-albert-park": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Nina_Headshot.jpg/330px-Nina_Headshot.jpg",
+    "page_title": "Nina Taylor",
+    "page_url": "https://en.wikipedia.org/wiki/Nina_Taylor"
+  },
+  "victoria-paul-edbrooke-frankston": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Paul_Edbrooke.png",
+    "page_title": "Paul Edbrooke",
+    "page_url": "https://en.wikipedia.org/wiki/Paul_Edbrooke"
+  },
+  "victoria-paul-mercurio-hastings": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Paul_Mercurio_at_Peninsula_Aero_Club_Toy_Run_2025_%28cropped%29.jpg/330px-Paul_Mercurio_at_Peninsula_Aero_Club_Toy_Run_2025_%28cropped%29.jpg",
+    "page_title": "Paul Mercurio",
+    "page_url": "https://en.wikipedia.org/wiki/Paul_Mercurio"
+  },
+  "victoria-peter-walsh-murray-plains": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Peter_Walsh_1974.jpg/330px-Peter_Walsh_1974.jpg",
+    "page_title": "Peter Walsh (Australian politician)",
+    "page_url": "https://en.wikipedia.org/wiki/Peter_Walsh_%28Australian_politician%29"
+  },
+  "victoria-rachel-westaway-prahran": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rachel_Westaway_and_Georgie_Crozier_at_Prahran_community_forum%2C_June_2026_%281%29_%28cropped_for_Rachel_Westaway%29.jpg/330px-Rachel_Westaway_and_Georgie_Crozier_at_Prahran_community_forum%2C_June_2026_%281%29_%28cropped_for_Rachel_Westaway%29.jpg",
+    "page_title": "Rachel Westaway",
+    "page_url": "https://en.wikipedia.org/wiki/Rachel_Westaway"
+  },
+  "victoria-renee-heath-eastern-victoria": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Heathphoto_b_%28cropped%29.jpg/330px-Heathphoto_b_%28cropped%29.jpg",
+    "page_title": "Renee Heath",
+    "page_url": "https://en.wikipedia.org/wiki/Renee_Heath"
+  },
+  "victoria-richard-riordan-polwarth": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Richard_Riordan%2C_1997.jpg/330px-Richard_Riordan%2C_1997.jpg",
+    "page_title": "Richard Riordan",
+    "page_url": "https://en.wikipedia.org/wiki/Richard_Riordan"
+  },
+  "victoria-richard-welch-north-eastern-metropolitan": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Welch_Richard_b_%28cropped%29.jpg/330px-Welch_Richard_b_%28cropped%29.jpg",
+    "page_title": "Richard Welch (Australian politician)",
+    "page_url": "https://en.wikipedia.org/wiki/Richard_Welch_%28Australian_politician%29"
+  },
+  "victoria-rikkie-lee-tyrrell-northern-victoria": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Rikkie_Lee_Tyrrell.jpg/330px-Rikkie_Lee_Tyrrell.jpg",
+    "page_title": "Rikkie-Lee Tyrrell",
+    "page_url": "https://en.wikipedia.org/wiki/Rikkie-Lee_Tyrrell"
+  },
+  "victoria-roma-britnell-south-west-coast": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Roma_Britnell_MP.jpg/330px-Roma_Britnell_MP.jpg",
+    "page_title": "Roma Britnell",
+    "page_url": "https://en.wikipedia.org/wiki/Roma_Britnell"
+  },
+  "victoria-sarah-connolly-laverton": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Connelly_Sarah-hs_studio291117_%285_of_40%29.tif/lossless-page1-330px-Connelly_Sarah-hs_studio291117_%285_of_40%29.tif.png",
+    "page_title": "Sarah Connolly (politician)",
+    "page_url": "https://en.wikipedia.org/wiki/Sarah_Connolly_%28politician%29"
+  },
+  "victoria-sarah-mansfield-western-victoria": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Sarah_Mansfield.jpg/330px-Sarah_Mansfield.jpg",
+    "page_title": "Sarah Mansfield",
+    "page_url": "https://en.wikipedia.org/wiki/Sarah_Mansfield"
+  },
+  "victoria-sheena-watt-northern-metropolitan": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/St_John_Volunteer_Awards-ASCM7400.jpg/330px-St_John_Volunteer_Awards-ASCM7400.jpg",
+    "page_title": "Sheena Watt",
+    "page_url": "https://en.wikipedia.org/wiki/Sheena_Watt"
+  },
+  "victoria-sonya-kilkenny-carrum": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Sonya_Kilkenny_%282018%29.jpg/330px-Sonya_Kilkenny_%282018%29.jpg",
+    "page_title": "Sonya Kilkenny",
+    "page_url": "https://en.wikipedia.org/wiki/Sonya_Kilkenny"
+  },
+  "victoria-steve-dimopoulos-oakleigh": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/250518_Hughesdale_4x5-07676.jpg/330px-250518_Hughesdale_4x5-07676.jpg",
+    "page_title": "Steve Dimopoulos",
+    "page_url": "https://en.wikipedia.org/wiki/Steve_Dimopoulos"
+  },
+  "victoria-steve-mcghie-melton": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Steve_McGhie_at_Cobblebank_Stadium_%281%29_%28cropped%29.jpg/330px-Steve_McGhie_at_Cobblebank_Stadium_%281%29_%28cropped%29.jpg",
+    "page_title": "Steve McGhie",
+    "page_url": "https://en.wikipedia.org/wiki/Steve_McGhie"
+  },
+  "victoria-tim-bull-gippsland-east": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Tim_Bull%2C_Nat.%2C_State_Member_Gipps._East%2C_jjron%2C_16.12.2010.jpg/330px-Tim_Bull%2C_Nat.%2C_State_Member_Gipps._East%2C_jjron%2C_16.12.2010.jpg",
+    "page_title": "Tim Bull",
+    "page_url": "https://en.wikipedia.org/wiki/Tim_Bull"
+  },
+  "victoria-tim-mccurdy-ovens-valley": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/McCurdy_outside_Office.png/330px-McCurdy_outside_Office.png",
+    "page_title": "Tim McCurdy",
+    "page_url": "https://en.wikipedia.org/wiki/Tim_McCurdy"
+  },
+  "victoria-tim-read-brunswick": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Tim_Read.png/330px-Tim_Read.png",
+    "page_title": "Tim Read",
+    "page_url": "https://en.wikipedia.org/wiki/Tim_Read"
+  },
+  "victoria-trung-luu-western-metropolitan": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Trung_Luu_and_Brad_Battin_February_2025.jpg/330px-Trung_Luu_and_Brad_Battin_February_2025.jpg",
+    "page_title": "Trung Luu",
+    "page_url": "https://en.wikipedia.org/wiki/Trung_Luu"
+  },
+  "victoria-will-fowles-ringwood": {
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Will_Fowles_MP_Parliament_of_Victoria.jpg/330px-Will_Fowles_MP_Parliament_of_Victoria.jpg",
+    "page_title": "Will Fowles",
+    "page_url": "https://en.wikipedia.org/wiki/Will_Fowles"
+  },
+  "wendy-askew-tas": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/10914.jpg",
+    "page_url": "https://www.openaustralia.org.au/senator/wendy_askew/tasmania",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
+  },
   "zali-steggall-warringah": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Zali_Steggall_official_campaign_image.jpg/330px-Zali_Steggall_official_campaign_image.jpg",
     "page_title": "Zali Steggall",
     "page_url": "https://en.wikipedia.org/wiki/Zali_Steggall"
+  },
+  "zaneta-mascarenhas-swan": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/10999.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/zaneta_mascarenhas/swan",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
+  },
+  "zhi-soon-banks": {
+    "photo_url": "https://www.openaustralia.org.au/images/mpsL/11049.jpg",
+    "page_url": "https://www.openaustralia.org.au/mp/zhi_soon/banks",
+    "page_title": "OpenAustralia.org",
+    "source": "OpenAustralia"
   },
   "zoe-mckenzie-flinders": {
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Zoe_McKenzie_%28Australian_politician%29_at_coast_2026_%28cropped%29.jpg/330px-Zoe_McKenzie_%28Australian_politician%29_at_coast_2026_%28cropped%29.jpg",

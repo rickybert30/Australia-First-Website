@@ -1000,5 +1000,77 @@
       }
     ],
     "verified": true
+  },
+  "victoria-brad-rowswell-sandringham": {
+    "summary": "Wikipedia reports that he \"once studied to be a Catholic priest,\" indicating a Catholic faith background.",
+    "sources": [
+      {
+        "title": "Brad Rowswell",
+        "url": "https://en.wikipedia.org/wiki/Brad_Rowswell",
+        "publisher": "Wikipedia",
+        "date": "2026-06-29"
+      }
+    ],
+    "verified": true
+  },
+  "victoria-moira-deeming-western-metropolitan": {
+    "summary": "Identifies as Presbyterian. Wikipedia states she \"identifies as Maori and a Presbyterian.\" She is widely reported as a devout Christian and has publicly defended retention of the Lord's Prayer in Parliament.",
+    "sources": [
+      {
+        "title": "Moira Deeming",
+        "url": "https://en.wikipedia.org/wiki/Moira_Deeming",
+        "publisher": "Wikipedia",
+        "date": "2026-06-29"
+      }
+    ],
+    "verified": true
+  },
+  "victoria-natalie-suleyman-st-albans": {
+    "summary": "Reported as the first Muslim woman elected to the Victorian Parliament. Wikipedia states she \"is the first person of Turkish origin, as well as the first Muslim woman, to be elected to the Victorian Parliament.\"",
+    "sources": [
+      {
+        "title": "Natalie Suleyman",
+        "url": "https://en.wikipedia.org/wiki/Natalie_Suleyman",
+        "publisher": "Wikipedia",
+        "date": "2026-06-29"
+      }
+    ],
+    "verified": true
+  },
+  "victoria-nicole-werner-warrandyte": {
+    "summary": "A Christian who previously worked as a youth pastor at the Pentecostal megachurch Planetshakers. In her maiden speech she spoke about discrimination she faced as a person of faith.",
+    "sources": [
+      {
+        "title": "Nicole Werner",
+        "url": "https://en.wikipedia.org/wiki/Nicole_Werner",
+        "publisher": "Wikipedia",
+        "date": "2026-06-29"
+      }
+    ],
+    "verified": true
+  },
+  "victoria-paul-hamer-box-hill": {
+    "summary": "Jewish. Wikipedia states \"He is Jewish.\" His father is a survivor of the Holocaust, and in his first speech he said \"after the horrors of the Holocaust it was Australia that gave my family a home.\"",
+    "sources": [
+      {
+        "title": "Paul Hamer",
+        "url": "https://en.wikipedia.org/wiki/Paul_Hamer",
+        "publisher": "Wikipedia",
+        "date": "2026-06-29"
+      }
+    ],
+    "verified": true
+  },
+  "victoria-renee-heath-eastern-victoria": {
+    "summary": "Reported as a lifelong member of the City Builders' church, a Pentecostal church led in Australia by her father, pastor Brian Heath. Described in reporting as a conservative Pentecostal Christian.",
+    "sources": [
+      {
+        "title": "Renee Heath",
+        "url": "https://en.wikipedia.org/wiki/Renee_Heath",
+        "publisher": "Wikipedia",
+        "date": "2026-06-29"
+      }
+    ],
+    "verified": true
   }
 }
