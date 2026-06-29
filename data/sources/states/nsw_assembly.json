@@ -1,0 +1,479 @@
+{
+  "jurisdiction": "New South Wales",
+  "chamber": "New South Wales Legislative Assembly",
+  "state": "NSW",
+  "source": {
+    "title": "Members of the New South Wales Legislative Assembly, 2023–2027",
+    "url": "https://en.wikipedia.org/wiki/Members_of_the_New_South_Wales_Legislative_Assembly,_2023%E2%80%932027",
+    "publisher": "Wikipedia",
+    "date": ""
+  },
+  "note": "93 single-member electoral districts. Elected at the March 2023 state election; reflects subsequent by-elections.",
+  "members": [
+    {
+      "name": "Jenny Aitchison",
+      "party": "Australian Labor Party",
+      "electorate": "Maitland"
+    },
+    {
+      "name": "Kevin Anderson",
+      "party": "The Nationals",
+      "electorate": "Tamworth"
+    },
+    {
+      "name": "Edmond Atalla",
+      "party": "Australian Labor Party",
+      "electorate": "Mount Druitt"
+    },
+    {
+      "name": "Tina Ayyad",
+      "party": "Liberal Party",
+      "electorate": "Holsworthy"
+    },
+    {
+      "name": "Stephen Bali",
+      "party": "Australian Labor Party",
+      "electorate": "Blacktown"
+    },
+    {
+      "name": "Clayton Barr",
+      "party": "Australian Labor Party",
+      "electorate": "Cessnock"
+    },
+    {
+      "name": "Liza Butler",
+      "party": "Australian Labor Party",
+      "electorate": "South Coast"
+    },
+    {
+      "name": "Roy Butler",
+      "party": "Independent",
+      "electorate": "Barwon"
+    },
+    {
+      "name": "Prue Car",
+      "party": "Australian Labor Party",
+      "electorate": "Londonderry"
+    },
+    {
+      "name": "Yasmin Catley",
+      "party": "Australian Labor Party",
+      "electorate": "Swansea"
+    },
+    {
+      "name": "Anoulack Chanthivong",
+      "party": "Australian Labor Party",
+      "electorate": "Macquarie Fields"
+    },
+    {
+      "name": "Justin Clancy",
+      "party": "Liberal Party",
+      "electorate": "Albury"
+    },
+    {
+      "name": "Steph Cooke",
+      "party": "The Nationals",
+      "electorate": "Cootamundra"
+    },
+    {
+      "name": "Sophie Cotsis",
+      "party": "Australian Labor Party",
+      "electorate": "Canterbury"
+    },
+    {
+      "name": "Mark Coure",
+      "party": "Liberal Party",
+      "electorate": "Oatley"
+    },
+    {
+      "name": "Tim Crakanthorp",
+      "party": "Australian Labor Party",
+      "electorate": "Newcastle"
+    },
+    {
+      "name": "Matt Cross",
+      "party": "Liberal Party",
+      "electorate": "Davidson"
+    },
+    {
+      "name": "Adam Crouch",
+      "party": "Liberal Party",
+      "electorate": "Terrigal"
+    },
+    {
+      "name": "Michael Daley",
+      "party": "Australian Labor Party",
+      "electorate": "Maroubra"
+    },
+    {
+      "name": "Helen Dalton",
+      "party": "Independent",
+      "electorate": "Murray"
+    },
+    {
+      "name": "Tanya Davies",
+      "party": "Liberal Party",
+      "electorate": "Badgerys Creek"
+    },
+    {
+      "name": "Donna Davis",
+      "party": "Australian Labor Party",
+      "electorate": "Parramatta"
+    },
+    {
+      "name": "Stephanie Di Pasqua",
+      "party": "Liberal Party",
+      "electorate": "Drummoyne"
+    },
+    {
+      "name": "Jihad Dib",
+      "party": "Australian Labor Party",
+      "electorate": "Bankstown"
+    },
+    {
+      "name": "Philip Donato",
+      "party": "Independent",
+      "electorate": "Orange"
+    },
+    {
+      "name": "Trish Doyle",
+      "party": "Australian Labor Party",
+      "electorate": "Blue Mountains"
+    },
+    {
+      "name": "Robert Dwyer",
+      "party": "Liberal Party",
+      "electorate": "Port Macquarie"
+    },
+    {
+      "name": "Julia Finn",
+      "party": "Australian Labor Party",
+      "electorate": "Granville"
+    },
+    {
+      "name": "Alex Greenwich",
+      "party": "Independent",
+      "electorate": "Sydney"
+    },
+    {
+      "name": "James Griffin",
+      "party": "Liberal Party",
+      "electorate": "Manly"
+    },
+    {
+      "name": "Nathan Hagarty",
+      "party": "Australian Labor Party",
+      "electorate": "Leppington"
+    },
+    {
+      "name": "Judy Hannan",
+      "party": "Independent",
+      "electorate": "Wollondilly"
+    },
+    {
+      "name": "David Harris",
+      "party": "Australian Labor Party",
+      "electorate": "Wyong"
+    },
+    {
+      "name": "Jodie Harrison",
+      "party": "Australian Labor Party",
+      "electorate": "Charlestown"
+    },
+    {
+      "name": "Jo Haylen",
+      "party": "Australian Labor Party",
+      "electorate": "Summer Hill"
+    },
+    {
+      "name": "Alister Henskens",
+      "party": "Liberal Party",
+      "electorate": "Wahroonga"
+    },
+    {
+      "name": "Mark Hodges",
+      "party": "Liberal Party",
+      "electorate": "Castle Hill"
+    },
+    {
+      "name": "Ron Hoenig",
+      "party": "Australian Labor Party",
+      "electorate": "Heffron"
+    },
+    {
+      "name": "Michael Holland",
+      "party": "Australian Labor Party",
+      "electorate": "Bega"
+    },
+    {
+      "name": "Sonia Hornery",
+      "party": "Australian Labor Party",
+      "electorate": "Wallsend"
+    },
+    {
+      "name": "Tim James",
+      "party": "Liberal Party",
+      "electorate": "Willoughby"
+    },
+    {
+      "name": "Charishma Kaliyanda",
+      "party": "Australian Labor Party",
+      "electorate": "Liverpool"
+    },
+    {
+      "name": "Steve Kamper",
+      "party": "Australian Labor Party",
+      "electorate": "Rockdale"
+    },
+    {
+      "name": "Michael Kemp",
+      "party": "The Nationals",
+      "electorate": "Oxley"
+    },
+    {
+      "name": "Warren Kirby",
+      "party": "Australian Labor Party",
+      "electorate": "Riverstone"
+    },
+    {
+      "name": "Jordan Lane Jordan Lane (politician)",
+      "party": "Liberal Party",
+      "electorate": "Ryde"
+    },
+    {
+      "name": "Dave Layzell",
+      "party": "The Nationals",
+      "electorate": "Upper Hunter"
+    },
+    {
+      "name": "Jenny Leong",
+      "party": "Australian Greens",
+      "electorate": "Newtown"
+    },
+    {
+      "name": "Jason Yat-Sen Li",
+      "party": "Australian Labor Party",
+      "electorate": "Strathfield"
+    },
+    {
+      "name": "Hugh McDermott",
+      "party": "Australian Labor Party",
+      "electorate": "Prospect"
+    },
+    {
+      "name": "Joe McGirr",
+      "party": "Independent",
+      "electorate": "Wagga Wagga"
+    },
+    {
+      "name": "Katelin McInerney",
+      "party": "Australian Labor Party",
+      "electorate": "Kiama"
+    },
+    {
+      "name": "Karen McKeown",
+      "party": "Australian Labor Party",
+      "electorate": "Penrith"
+    },
+    {
+      "name": "David Mehan",
+      "party": "Australian Labor Party",
+      "electorate": "The Entrance"
+    },
+    {
+      "name": "Chris Minns",
+      "party": "Australian Labor Party",
+      "electorate": "Kogarah"
+    },
+    {
+      "name": "Brendan Moylan",
+      "party": "The Nationals",
+      "electorate": "Northern Tablelands"
+    },
+    {
+      "name": "Marjorie O'Neill",
+      "party": "Australian Labor Party",
+      "electorate": "Coogee"
+    },
+    {
+      "name": "Ryan Park",
+      "party": "Australian Labor Party",
+      "electorate": "Keira"
+    },
+    {
+      "name": "Eleni Petinos",
+      "party": "Liberal Party",
+      "electorate": "Miranda"
+    },
+    {
+      "name": "Greg Piper",
+      "party": "Independent",
+      "electorate": "Lake Macquarie"
+    },
+    {
+      "name": "Robyn Preston",
+      "party": "Liberal Party",
+      "electorate": "Hawkesbury"
+    },
+    {
+      "name": "Geoff Provest",
+      "party": "The Nationals",
+      "electorate": "Tweed"
+    },
+    {
+      "name": "Sally Quinnell",
+      "party": "Australian Labor Party",
+      "electorate": "Camden"
+    },
+    {
+      "name": "Anthony Roberts",
+      "party": "Liberal Party",
+      "electorate": "Lane Cove"
+    },
+    {
+      "name": "Michael Regan",
+      "party": "Independent",
+      "electorate": "Wakehurst"
+    },
+    {
+      "name": "Janelle Saffin",
+      "party": "Australian Labor Party",
+      "electorate": "Lismore"
+    },
+    {
+      "name": "David Saliba",
+      "party": "Australian Labor Party",
+      "electorate": "Fairfield"
+    },
+    {
+      "name": "Dugald Saunders",
+      "party": "The Nationals",
+      "electorate": "Dubbo"
+    },
+    {
+      "name": "Jacqui Scruby",
+      "party": "Independent",
+      "electorate": "Pittwater"
+    },
+    {
+      "name": "Paul Scully",
+      "party": "Australian Labor Party",
+      "electorate": "Wollongong"
+    },
+    {
+      "name": "Kobi Shetty",
+      "party": "Australian Greens",
+      "electorate": "Balmain"
+    },
+    {
+      "name": "Gurmesh Singh",
+      "party": "The Nationals",
+      "electorate": "Coffs Harbour"
+    },
+    {
+      "name": "Kellie Sloane",
+      "party": "Liberal Party",
+      "electorate": "Vaucluse"
+    },
+    {
+      "name": "Tamara Smith",
+      "party": "Australian Greens",
+      "electorate": "Ballina"
+    },
+    {
+      "name": "Mark Speakman",
+      "party": "Liberal Party",
+      "electorate": "Cronulla"
+    },
+    {
+      "name": "Maryanne Stuart",
+      "party": "Australian Labor Party",
+      "electorate": "Heathcote"
+    },
+    {
+      "name": "Mark Taylor",
+      "party": "Liberal Party",
+      "electorate": "Winston Hills"
+    },
+    {
+      "name": "Liesl Tesch",
+      "party": "Australian Labor Party",
+      "electorate": "Gosford"
+    },
+    {
+      "name": "Tanya Thompson",
+      "party": "The Nationals",
+      "electorate": "Myall Lakes"
+    },
+    {
+      "name": "Paul Toole",
+      "party": "The Nationals",
+      "electorate": "Bathurst"
+    },
+    {
+      "name": "Wendy Tuckerman",
+      "party": "Liberal Party",
+      "electorate": "Goulburn"
+    },
+    {
+      "name": "Monica Tudehope",
+      "party": "Liberal Party",
+      "electorate": "Epping"
+    },
+    {
+      "name": "Tri Vo",
+      "party": "Australian Labor Party",
+      "electorate": "Cabramatta"
+    },
+    {
+      "name": "Lynda Voltz",
+      "party": "Australian Labor Party",
+      "electorate": "Auburn"
+    },
+    {
+      "name": "James Wallace",
+      "party": "Liberal Party",
+      "electorate": "Hornsby"
+    },
+    {
+      "name": "Greg Warren",
+      "party": "Australian Labor Party",
+      "electorate": "Campbelltown"
+    },
+    {
+      "name": "Kate Washington",
+      "party": "Australian Labor Party",
+      "electorate": "Port Stephens"
+    },
+    {
+      "name": "Anna Watson",
+      "party": "Australian Labor Party",
+      "electorate": "Shellharbour"
+    },
+    {
+      "name": "Steve Whan",
+      "party": "Australian Labor Party",
+      "electorate": "Monaro"
+    },
+    {
+      "name": "Kylie Wilkinson",
+      "party": "Australian Labor Party",
+      "electorate": "East Hills"
+    },
+    {
+      "name": "Ray Williams",
+      "party": "Liberal Party",
+      "electorate": "Kellyville"
+    },
+    {
+      "name": "Richie Williamson",
+      "party": "The Nationals",
+      "electorate": "Clarence"
+    },
+    {
+      "name": "Felicity Wilson",
+      "party": "Liberal Party",
+      "electorate": "North Shore"
+    }
+  ]
+}
