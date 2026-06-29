@@ -1072,5 +1072,119 @@
       }
     ],
     "verified": true
+  },
+  "western-australia-jags-krishnan-riverton": {
+    "summary": "Hindu. Wikipedia's biography states explicitly in its Personal life section: \"He is a Hindu.\"",
+    "sources": [
+      {
+        "title": "Jags Krishnan",
+        "url": "https://en.wikipedia.org/wiki/Jags_Krishnan",
+        "publisher": "Wikipedia",
+        "date": "2025"
+      }
+    ],
+    "verified": true
+  },
+  "western-australia-maryka-groenewald-statewide": {
+    "summary": "Christian. As leader of the Australian Christians and the party's first member elected to any Australian parliament, Groenewald is openly Christian. In her inaugural speech (19 June 2025) she said \"the story of Jesus, his resurrection and the transforming truth of the gospel remains the biggest game changer in my life,\" while adding \"I am not here to push my faith on anyone.\" She has spoken of her faith-based community work and praying weekly over her political work.",
+    "sources": [
+      {
+        "title": "Australian Christians Party Champions Christ and Christian Heritage in First Major Address",
+        "url": "https://dailydeclaration.org.au/2025/06/25/australian-christians-party/",
+        "publisher": "The Daily Declaration",
+        "date": "2025-06-25"
+      },
+      {
+        "title": "Speaker Announcement: Hon Maryka Groenewald MLC",
+        "url": "https://forpurposeleaders.com.au/speaker-announcement-hon-maryka-groenewald-mlc-2/",
+        "publisher": "For Purpose Leaders",
+        "date": "2025"
+      }
+    ],
+    "verified": true
+  },
+  "western-australia-nick-goiran-statewide": {
+    "summary": "Christian (conservative/evangelical). Wikipedia describes him as a \"conservative Christian\" and \"vocal conservative Christian.\" Goiran has stated \"I have known no part of my life, otherwise than with faith\" and \"The most important things to me in life are faith, family and friends.\" He attended Rehoboth Christian College (of which he is a patron) and is a leading figure of the WA Liberal Party's Christian right.",
+    "sources": [
+      {
+        "title": "Nick Goiran",
+        "url": "https://en.wikipedia.org/wiki/Nick_Goiran",
+        "publisher": "Wikipedia",
+        "date": "2025"
+      }
+    ],
+    "verified": true
+  },
+  "western-australia-parwinder-kaur-statewide": {
+    "summary": "Sikh. Kaur became the first Sikh woman elected to an Australian parliament and the first politician in Australia to be sworn in on Sikh scripture (the Gutka Sahib), standing barefoot with her head covered. She said \"Gurbani has helped shape my life\" and \"In Gurbani, we pray for sarbat da bhala (wellbeing for all)\" and stated that identifying openly with her religious beliefs helps her serve all Australians.",
+    "sources": [
+      {
+        "title": "Parwinder Kaur becomes first politician in Australia to be sworn in with Sikh scriptures",
+        "url": "https://www.sbs.com.au/language/punjabi/en/article/parwinder-kaur-becomes-first-politician-in-australia-to-be-sworn-in-with-sikh-scriptures/l493bx5no",
+        "publisher": "SBS Punjabi",
+        "date": "2025-05"
+      }
+    ],
+    "verified": true
+  },
+  "western-australia-phil-scott-statewide": {
+    "summary": "Christian. In his inaugural speech to the Legislative Council (27 May 2025) Scott opened by acknowledging \"the Lord Jesus Christ, the King of the Nations\" and gave thanks for the grace extended to him.",
+    "sources": [
+      {
+        "title": "Hon Philip Scott MLC - Inaugural Speech (Reprinted from Hansard)",
+        "url": "https://www.parliament.wa.gov.au/parliament/Memblist.nsf/(MemberPics)/D82E6F99AE43E6FC48258C830024C0E1/$file/LC_Philip+Scott_Inaugural+Speech+2025.pdf",
+        "publisher": "Parliament of Western Australia (Hansard)",
+        "date": "2025-05-27"
+      }
+    ],
+    "verified": true
+  },
+  "western-australia-pierre-yang-statewide": {
+    "summary": "Catholic. In his inaugural speech to the Legislative Council (25 May 2017) Yang said \"I am proud to be Labor and I am proud to be Catholic,\" thanked Father Timothy Corcoran of Thornlie Sacred Heart Catholic Church for bringing him to the Catholic faith, and spoke of the similarities between Labor values and Catholic traditions.",
+    "sources": [
+      {
+        "title": "Hon Pierre Yang MLC - Inaugural Speech (Reprinted from Hansard)",
+        "url": "https://www.parliament.wa.gov.au/parliament/Memblist.nsf/(MemberPics)/439E2E709DA9281E482580F3002060A9/$file/PierreYangInaug2017.pdf",
+        "publisher": "Parliament of Western Australia (Hansard)",
+        "date": "2017-05-25"
+      }
+    ],
+    "verified": true
+  },
+  "western-australia-rod-caddies-statewide": {
+    "summary": "Christian. Wikipedia states \"He is a Christian\" and notes \"Caddies has described himself as socially conservative and a Christian.\" In his inaugural speech (27 May 2025) he said \"Along my journey, I became a Christian. That decision changed my life. My faith gave me purpose, clarity and direction.\"",
+    "sources": [
+      {
+        "title": "Rod Caddies",
+        "url": "https://en.wikipedia.org/wiki/Rod_Caddies",
+        "publisher": "Wikipedia",
+        "date": "2025"
+      }
+    ],
+    "verified": true
+  },
+  "western-australia-simon-ehrenfeld-statewide": {
+    "summary": "Jewish. Wikipedia states plainly \"Ehrenfeld is Jewish\" and categorises him as a Jewish Australian politician. He is a congregant of the Perth Hebrew Congregation. His Jewish identity was the subject of a 2016 WA Liberal preselection controversy.",
+    "sources": [
+      {
+        "title": "Simon Ehrenfeld",
+        "url": "https://en.wikipedia.org/wiki/Simon_Ehrenfeld",
+        "publisher": "Wikipedia",
+        "date": "2025"
+      }
+    ],
+    "verified": true
+  },
+  "western-australia-terry-healy-southern-river": {
+    "summary": "Christian. Healy has said he is \"proud to call himself a Christian\" and argued that marriage equality is in line with Christian teachings.",
+    "sources": [
+      {
+        "title": "Terry Healy on why he wants to be in parliament",
+        "url": "https://www.outinperth.com/terry-healy-wants-parliament/",
+        "publisher": "OUTinPerth",
+        "date": "2017"
+      }
+    ],
+    "verified": true
   }
 }

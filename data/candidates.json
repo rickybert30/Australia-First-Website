@@ -35428,13 +35428,70 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "voluntary_assisted_dying": {
+          "summary": "Tony Buti voted FOR the Voluntary Assisted Dying Bill 2019 in the WA Legislative Assembly. On the conscience (free) vote, the member is recorded in the Ayes at the bill's second reading on 3 September 2019 (passed 44-12) and at the third reading on 24 September 2019 (passed 45-11).",
+          "sources": [
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — All Stages — Assembly Hansard (division lists)",
+              "url": "https://www.parliament.wa.gov.au/WebCMS/webcms.nsf/resources/file-vad-bill-2019---la/$file/Voluntary%20Assisted%20Dying%20Bill%202019%20-%20All%20Stages%20-%20Assembly%20-%20Hansard.pdf",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2019"
+            },
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — Bill Progress",
+              "url": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm=&ParentUNID=502E87F2E1B94E27482584A3003A757C",
+              "publisher": "Parliament of Western Australia",
+              "date": "2019"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Labor MLA (Armadale) and Attorney General. Buti is leading the Cook Labor Government's commitment to ban LGBTIQA+ conversion practices. He stated: \"Conversion practices that are used to attempt to suppress or change an individual's sexual orientation or gender identity are not therapeutic and they cause mental health harm to LGBTIQA+ people\" and \"The Cook Labor Government is committed to banning LGBTIQA+ conversion practices.\" He said legislation to criminalise conversion therapy, with a complementary civil response scheme for survivors, would be introduced to parliament in 2026, with continued stakeholder engagement on drafting.",
+          "sources": [
+            {
+              "title": "Tony Buti commits to introducing conversion therapy ban in 2026",
+              "url": "https://www.outinperth.com/cook-government-commits-to-action-on-international-day-to-end-conversion-therapy/",
+              "publisher": "OUTinPerth",
+              "date": "2026-01-07"
+            }
+          ],
+          "verified": true
+        },
+        "religious_freedom": {
+          "summary": "As WA Attorney General following the March 2025 election, Buti announced that a ban on conversion practices would be introduced to Parliament by the end of 2025, with a model including 'criminal prohibition and a civil response scheme.' Critics noted the proposed religious protection covers only 'a mere expression of belief or religious principle which is not intended to change or suppress an individual's sexual orientation or gender identity.' The Cook Government, in which Buti serves, has committed to reforming and narrowing the religious exemptions under the Equal Opportunity Act and to strengthening protections for LGBTIQA+ staff and students in religious schools. His office's response to Groenewald's June 2026 question on Christian freedom of expression committed to legislation that 'achieves a balance between the rights and interests of the diverse community.'",
+          "sources": [
+            {
+              "title": "WA Conversion Practices Ban",
+              "url": "https://freedomforfaith.org.au/articles/wa-ct/",
+              "publisher": "Freedom For Faith",
+              "date": "2025-07-17"
+            },
+            {
+              "title": "WA government targets 2025 for tackling religious exemptions to equal opportunity laws",
+              "url": "https://rationalist.com.au/wa-government-targets-2025-for-tackling-religious-exemptions-to-equal-opportunity-laws/",
+              "publisher": "Rationalist Society of Australia",
+              "date": "2024-10-22"
+            },
+            {
+              "title": "WA Parliament Told 92 Per Cent of Christians Feel Their Faith Is Now Riskier to Live Out",
+              "url": "https://dailydeclaration.org.au/2026/06/19/wa-parliament-told-92-per-cent-of-christians-feel-their-faith-is-now-riskier-to-live-out/",
+              "publisher": "The Daily Declaration",
+              "date": "2026-06-19"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Tony_Buti.jpg/330px-Tony_Buti.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Tony_Buti"
     },
     {
       "id": "western-australia-david-michael-balcatta",
@@ -35447,7 +35504,26 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "voluntary_assisted_dying": {
+          "summary": "David Michael voted FOR the Voluntary Assisted Dying Bill 2019 in the WA Legislative Assembly. On the conscience (free) vote, the member is recorded in the Ayes at the bill's second reading on 3 September 2019 (passed 44-12) and at the third reading on 24 September 2019 (passed 45-11).",
+          "sources": [
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — All Stages — Assembly Hansard (division lists)",
+              "url": "https://www.parliament.wa.gov.au/WebCMS/webcms.nsf/resources/file-vad-bill-2019---la/$file/Voluntary%20Assisted%20Dying%20Bill%202019%20-%20All%20Stages%20-%20Assembly%20-%20Hansard.pdf",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2019"
+            },
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — Bill Progress",
+              "url": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm=&ParentUNID=502E87F2E1B94E27482584A3003A757C",
+              "publisher": "Parliament of Western Australia",
+              "date": "2019"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
@@ -35466,7 +35542,44 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "voluntary_assisted_dying": {
+          "summary": "Reece Whitby voted FOR the Voluntary Assisted Dying Bill 2019 in the WA Legislative Assembly. On the conscience (free) vote, the member is recorded in the Ayes at the bill's second reading on 3 September 2019 (passed 44-12) and at the third reading on 24 September 2019 (passed 45-11).",
+          "sources": [
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — All Stages — Assembly Hansard (division lists)",
+              "url": "https://www.parliament.wa.gov.au/WebCMS/webcms.nsf/resources/file-vad-bill-2019---la/$file/Voluntary%20Assisted%20Dying%20Bill%202019%20-%20All%20Stages%20-%20Assembly%20-%20Hansard.pdf",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2019"
+            },
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — Bill Progress",
+              "url": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm=&ParentUNID=502E87F2E1B94E27482584A3003A757C",
+              "publisher": "Parliament of Western Australia",
+              "date": "2019"
+            }
+          ],
+          "verified": true
+        },
+        "drugs_law_order": {
+          "summary": "Whitby is Minister for Police; Road Safety; Tourism; Great Southern in the Cook Labor Government, overseeing the Western Australia Police Force. His portfolio includes enforcement of WA's knife and edged-weapon laws, which took effect on 20 December 2024 under the Police Legislation Amendment Act 2024. Those laws define 'edged weapons' to include knives, machetes, sickles, scythes and axes, make carrying an edged weapon without lawful excuse an offence (max 3 years jail and $36,000 fine), bar sale/supply to under-18s, and empower metal-detector ('wanding') searches, with 'personal defence' explicitly excluded as a lawful excuse.",
+          "sources": [
+            {
+              "title": "Reece Whitby | Western Australian Government",
+              "url": "https://www.wa.gov.au/government/premier-and-cabinet-ministers/reece-whitby",
+              "publisher": "Government of Western Australia",
+              "date": "2025"
+            },
+            {
+              "title": "WA knife and edged weapon laws",
+              "url": "https://www.wa.gov.au/organisation/western-australia-police-force/wa-knife-and-edged-weapon-laws",
+              "publisher": "Western Australia Police Force",
+              "date": "2024-12-20"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
@@ -35485,13 +35598,34 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "voluntary_assisted_dying": {
+          "summary": "Dave Kelly voted FOR the Voluntary Assisted Dying Bill 2019 in the WA Legislative Assembly. On the conscience (free) vote, the member is recorded in the Ayes at the bill's second reading on 3 September 2019 (passed 44-12) and at the third reading on 24 September 2019 (passed 45-11).",
+          "sources": [
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — All Stages — Assembly Hansard (division lists)",
+              "url": "https://www.parliament.wa.gov.au/WebCMS/webcms.nsf/resources/file-vad-bill-2019---la/$file/Voluntary%20Assisted%20Dying%20Bill%202019%20-%20All%20Stages%20-%20Assembly%20-%20Hansard.pdf",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2019"
+            },
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — Bill Progress",
+              "url": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm=&ParentUNID=502E87F2E1B94E27482584A3003A757C",
+              "publisher": "Parliament of Western Australia",
+              "date": "2019"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Dave_Kelly.jpg/330px-Dave_Kelly.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Dave_Kelly_%28politician%29"
     },
     {
       "id": "western-australia-kim-giddens-bateman",
@@ -35504,7 +35638,20 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "drugs_law_order": {
+          "summary": "Giddens announced (9 January 2025) a $14.5 million Cook Labor Government juvenile justice package targeting violent young offenders. Measures included trials for young repeat violent offenders within 28 days, immediate review of bail decisions for violent youth offenders, $1 million for tracking technology for offenders on bail, and penalties for responsible adults who fail to report bail curfew breaches. The package also funded a $13.5 million satellite Children's Court (former Armadale Court site) with an additional magistrate and a dedicated therapeutic court. Giddens said 'Every Western Australian has a right to feel safe in their own home,' describing the measures as 'common-sense reforms' delivering 'swifter outcomes for the victims and families of youth crime.'",
+          "sources": [
+            {
+              "title": "Commitment - Juvenile Justice Package",
+              "url": "https://www.kimgiddens.com.au/2025-election/roger-cook-s-plan-for-wa/commitment-juvenile-justice-package/",
+              "publisher": "Kim Giddens MLA",
+              "date": "2025-01-09"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
@@ -35523,7 +35670,26 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "voluntary_assisted_dying": {
+          "summary": "Cassie Rowe voted FOR the Voluntary Assisted Dying Bill 2019 in the WA Legislative Assembly. On the conscience (free) vote, the member is recorded in the Ayes at the bill's second reading on 3 September 2019 (passed 44-12) and at the third reading on 24 September 2019 (passed 45-11).",
+          "sources": [
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — All Stages — Assembly Hansard (division lists)",
+              "url": "https://www.parliament.wa.gov.au/WebCMS/webcms.nsf/resources/file-vad-bill-2019---la/$file/Voluntary%20Assisted%20Dying%20Bill%202019%20-%20All%20Stages%20-%20Assembly%20-%20Hansard.pdf",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2019"
+            },
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — Bill Progress",
+              "url": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm=&ParentUNID=502E87F2E1B94E27482584A3003A757C",
+              "publisher": "Parliament of Western Australia",
+              "date": "2019"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
@@ -35548,7 +35714,9 @@
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Sook_Yee_Lai_2025_01.jpg/330px-Sook_Yee_Lai_2025_01.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Sook_Yee_Lai"
     },
     {
       "id": "western-australia-lisa-o-malley-bicton",
@@ -35561,7 +35729,26 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "voluntary_assisted_dying": {
+          "summary": "Lisa O'Malley voted FOR the Voluntary Assisted Dying Bill 2019 in the WA Legislative Assembly. On the conscience (free) vote, the member is recorded in the Ayes at the bill's second reading on 3 September 2019 (passed 44-12) and at the third reading on 24 September 2019 (passed 45-11).",
+          "sources": [
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — All Stages — Assembly Hansard (division lists)",
+              "url": "https://www.parliament.wa.gov.au/WebCMS/webcms.nsf/resources/file-vad-bill-2019---la/$file/Voluntary%20Assisted%20Dying%20Bill%202019%20-%20All%20Stages%20-%20Assembly%20-%20Hansard.pdf",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2019"
+            },
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — Bill Progress",
+              "url": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm=&ParentUNID=502E87F2E1B94E27482584A3003A757C",
+              "publisher": "Parliament of Western Australia",
+              "date": "2019"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
@@ -35580,13 +35767,34 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "voluntary_assisted_dying": {
+          "summary": "Don Punch voted FOR the Voluntary Assisted Dying Bill 2019 in the WA Legislative Assembly. On the conscience (free) vote, the member is recorded in the Ayes at the bill's second reading on 3 September 2019 (passed 44-12) and at the third reading on 24 September 2019 (passed 45-11).",
+          "sources": [
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — All Stages — Assembly Hansard (division lists)",
+              "url": "https://www.parliament.wa.gov.au/WebCMS/webcms.nsf/resources/file-vad-bill-2019---la/$file/Voluntary%20Assisted%20Dying%20Bill%202019%20-%20All%20Stages%20-%20Assembly%20-%20Hansard.pdf",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2019"
+            },
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — Bill Progress",
+              "url": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm=&ParentUNID=502E87F2E1B94E27482584A3003A757C",
+              "publisher": "Parliament of Western Australia",
+              "date": "2019"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Don_Punch_at_farm.png/330px-Don_Punch_at_farm.png",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Don_Punch"
     },
     {
       "id": "western-australia-lorna-clarke-butler",
@@ -35643,7 +35851,9 @@
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Liam_Staltari_at_Parliament_House.jpg/330px-Liam_Staltari_at_Parliament_House.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Liam_Staltari"
     },
     {
       "id": "western-australia-lachlan-hunter-central-wheatbelt",
@@ -35681,7 +35891,9 @@
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Basil_Zempilas_on_the_day_of_his_election_as_Opposition_Leader_%28cropped%29.jpg/330px-Basil_Zempilas_on_the_day_of_his_election_as_Opposition_Leader_%28cropped%29.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Basil_Zempilas"
     },
     {
       "id": "western-australia-david-scaife-cockburn",
@@ -35700,7 +35912,9 @@
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/David_Scaife_MLA.png/330px-David_Scaife_MLA.png",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/David_Scaife"
     },
     {
       "id": "western-australia-jodie-hanns-collie-preston",
@@ -35738,7 +35952,9 @@
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sandra_Brewer.png/330px-Sandra_Brewer.png",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Sandra_Brewer"
     },
     {
       "id": "western-australia-hugh-jones-darling-range",
@@ -35789,7 +36005,26 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "voluntary_assisted_dying": {
+          "summary": "Stephen Price voted FOR the Voluntary Assisted Dying Bill 2019 in the WA Legislative Assembly. On the conscience (free) vote, the member is recorded in the Ayes at the bill's second reading on 3 September 2019 (passed 44-12) and at the third reading on 24 September 2019 (passed 45-11).",
+          "sources": [
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — All Stages — Assembly Hansard (division lists)",
+              "url": "https://www.parliament.wa.gov.au/WebCMS/webcms.nsf/resources/file-vad-bill-2019---la/$file/Voluntary%20Assisted%20Dying%20Bill%202019%20-%20All%20Stages%20-%20Assembly%20-%20Hansard.pdf",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2019"
+            },
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — Bill Progress",
+              "url": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm=&ParentUNID=502E87F2E1B94E27482584A3003A757C",
+              "publisher": "Parliament of Western Australia",
+              "date": "2019"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
@@ -35808,13 +36043,34 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "voluntary_assisted_dying": {
+          "summary": "Simone McGurk voted FOR the Voluntary Assisted Dying Bill 2019 in the WA Legislative Assembly. On the conscience (free) vote, the member is recorded in the Ayes at the bill's second reading on 3 September 2019 (passed 44-12) and at the third reading on 24 September 2019 (passed 45-11).",
+          "sources": [
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — All Stages — Assembly Hansard (division lists)",
+              "url": "https://www.parliament.wa.gov.au/WebCMS/webcms.nsf/resources/file-vad-bill-2019---la/$file/Voluntary%20Assisted%20Dying%20Bill%202019%20-%20All%20Stages%20-%20Assembly%20-%20Hansard.pdf",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2019"
+            },
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — Bill Progress",
+              "url": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm=&ParentUNID=502E87F2E1B94E27482584A3003A757C",
+              "publisher": "Parliament of Western Australia",
+              "date": "2019"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Simone_McGurk%2C_2015_%28cropped%29.jpg/330px-Simone_McGurk%2C_2015_%28cropped%29.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Simone_McGurk"
     },
     {
       "id": "western-australia-kirrilee-warr-geraldton",
@@ -35846,13 +36102,28 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "gender_lgbtq": {
+          "summary": "Labor MLA (Girrawheen). As Health Minister she handled the final stages of the surrogacy/ART reform legislation, advising in 2025 of an 18-month implementation period following passage of the bill that allows same-sex couples, single people and trans and intersex West Australians to access assisted reproductive technology and surrogacy.",
+          "sources": [
+            {
+              "title": "LGBTQ rights in Western Australia",
+              "url": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_Western_Australia",
+              "publisher": "Wikipedia",
+              "date": "2025"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Meredith_Hammat%2C_UnionsWA_Secretary%2C_in_2013_cropped.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Meredith_Hammat"
     },
     {
       "id": "western-australia-caitlin-collins-hillarys",
@@ -35871,7 +36142,9 @@
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Caitlin_Collins_WA_Election_2021.jpg/330px-Caitlin_Collins_WA_Election_2021.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Caitlin_Collins"
     },
     {
       "id": "western-australia-stephen-pratt-jandakot",
@@ -35903,7 +36176,26 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "voluntary_assisted_dying": {
+          "summary": "Emily Hamilton voted FOR the Voluntary Assisted Dying Bill 2019 in the WA Legislative Assembly. On the conscience (free) vote, the member is recorded in the Ayes at the bill's second reading on 3 September 2019 (passed 44-12) and at the third reading on 24 September 2019 (passed 45-11).",
+          "sources": [
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — All Stages — Assembly Hansard (division lists)",
+              "url": "https://www.parliament.wa.gov.au/WebCMS/webcms.nsf/resources/file-vad-bill-2019---la/$file/Voluntary%20Assisted%20Dying%20Bill%202019%20-%20All%20Stages%20-%20Assembly%20-%20Hansard.pdf",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2019"
+            },
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — Bill Progress",
+              "url": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm=&ParentUNID=502E87F2E1B94E27482584A3003A757C",
+              "publisher": "Parliament of Western Australia",
+              "date": "2019"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
@@ -35928,7 +36220,9 @@
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Adam_Hort.png/330px-Adam_Hort.png",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Adam_Hort"
     },
     {
       "id": "western-australia-ali-kent-kalgoorlie",
@@ -35979,7 +36273,26 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "voluntary_assisted_dying": {
+          "summary": "Jessica Stojkovski voted FOR the Voluntary Assisted Dying Bill 2019 in the WA Legislative Assembly. On the conscience (free) vote, the member is recorded in the Ayes at the bill's second reading on 3 September 2019 (passed 44-12) and at the third reading on 24 September 2019 (passed 45-11).",
+          "sources": [
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — All Stages — Assembly Hansard (division lists)",
+              "url": "https://www.parliament.wa.gov.au/WebCMS/webcms.nsf/resources/file-vad-bill-2019---la/$file/Voluntary%20Assisted%20Dying%20Bill%202019%20-%20All%20Stages%20-%20Assembly%20-%20Hansard.pdf",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2019"
+            },
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — Bill Progress",
+              "url": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm=&ParentUNID=502E87F2E1B94E27482584A3003A757C",
+              "publisher": "Parliament of Western Australia",
+              "date": "2019"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
@@ -35998,7 +36311,68 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "voluntary_assisted_dying": {
+          "summary": "Roger Cook voted FOR the Voluntary Assisted Dying Bill 2019 in the WA Legislative Assembly. On the conscience (free) vote, the member is recorded in the Ayes at the bill's second reading on 3 September 2019 (passed 44-12) and at the third reading on 24 September 2019 (passed 45-11).",
+          "sources": [
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — All Stages — Assembly Hansard (division lists)",
+              "url": "https://www.parliament.wa.gov.au/WebCMS/webcms.nsf/resources/file-vad-bill-2019---la/$file/Voluntary%20Assisted%20Dying%20Bill%202019%20-%20All%20Stages%20-%20Assembly%20-%20Hansard.pdf",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2019"
+            },
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — Bill Progress",
+              "url": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm=&ParentUNID=502E87F2E1B94E27482584A3003A757C",
+              "publisher": "Parliament of Western Australia",
+              "date": "2019"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Labor MLA (Kwinana); later WA Premier. As Health Minister, Cook publicly opposed gay conversion practices, stating on 3 July 2018: \"I am strongly opposed to and do not support the use of sexual orientation change efforts of any kind,\" and describing practices that attempt to change sexual orientation as \"abhorrent\" and damaging to the mental health of LGBTI people. As Premier (Cook Labor Government) his government committed to banning LGBTIQA+ conversion practices and delivered gender recognition reforms abolishing the Gender Reassignment Board.",
+          "sources": [
+            {
+              "title": "WA Health Minister voices his opposition to gay conversion therapies",
+              "url": "https://www.outinperth.com/73697-health-minister-roger-cook-against-gay-conversion-therapy/",
+              "publisher": "OUTinPerth",
+              "date": "2018-07-03"
+            },
+            {
+              "title": "Western Australia To Ban Anti-Gay Conversion Practices",
+              "url": "https://www.starobserver.com.au/news/western-australia-to-ban-anti-gay-conversion-practices/218801",
+              "publisher": "Star Observer",
+              "date": "2022-12-01"
+            }
+          ],
+          "verified": true
+        },
+        "religious_freedom": {
+          "summary": "As Premier leading the Cook Labor Government, Cook's government committed to reforming and narrowing the religious exemptions under the Equal Opportunity Act 1984 (following the Law Reform Commission's 2022 review, which recommended limiting faith-based bodies' exemptions) and to strengthening Equal Opportunity protections for LGBTIQA+ staff and students in religious schools, including limiting when Christian schools can hire or enrol based on their beliefs. His government has also committed to introducing a conversion practices ban. The Index report noted the re-elected Cook Government's commitment to limiting faith-based schools' hiring and enrolment on the basis of belief. Before the March 2025 election, Cook declined to commit to specific timelines for these reforms, with responses delegated to the Attorney General.",
+          "sources": [
+            {
+              "title": "WA government targets 2025 for tackling religious exemptions to equal opportunity laws",
+              "url": "https://rationalist.com.au/wa-government-targets-2025-for-tackling-religious-exemptions-to-equal-opportunity-laws/",
+              "publisher": "Rationalist Society of Australia",
+              "date": "2024-10-22"
+            },
+            {
+              "title": "Just.Equal Australia says it's concerning WA Premier Roger Cook won't commit to law reforms",
+              "url": "https://www.outinperth.com/just-equal-australia-says-its-concerning-wa-premier-roger-cook-wont-commit-to-law-reforms/",
+              "publisher": "OUTinPerth",
+              "date": "2024-12-17"
+            },
+            {
+              "title": "WA Parliament Told 92 Per Cent of Christians Feel Their Faith Is Now Riskier to Live Out",
+              "url": "https://dailydeclaration.org.au/2026/06/19/wa-parliament-told-92-per-cent-of-christians-feel-their-faith-is-now-riskier-to-live-out/",
+              "publisher": "The Daily Declaration",
+              "date": "2026-06-19"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
@@ -36093,13 +36467,34 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "voluntary_assisted_dying": {
+          "summary": "Shane Love voted AGAINST the Voluntary Assisted Dying Bill 2019 in the WA Legislative Assembly. On the conscience (free) vote, the member is recorded in the Noes at the bill's second reading on 3 September 2019 (passed 44-12) and at the third reading on 24 September 2019 (passed 45-11).",
+          "sources": [
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — All Stages — Assembly Hansard (division lists)",
+              "url": "https://www.parliament.wa.gov.au/WebCMS/webcms.nsf/resources/file-vad-bill-2019---la/$file/Voluntary%20Assisted%20Dying%20Bill%202019%20-%20All%20Stages%20-%20Assembly%20-%20Hansard.pdf",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2019"
+            },
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — Bill Progress",
+              "url": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm=&ParentUNID=502E87F2E1B94E27482584A3003A757C",
+              "publisher": "Parliament of Western Australia",
+              "date": "2019"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Shane_Love_MLA_2025.png",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Shane_Love"
     },
     {
       "id": "western-australia-mark-folkard-mindarie",
@@ -36112,7 +36507,26 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "voluntary_assisted_dying": {
+          "summary": "Mark Folkard voted FOR the Voluntary Assisted Dying Bill 2019 in the WA Legislative Assembly. On the conscience (free) vote, the member is recorded in the Ayes at the bill's second reading on 3 September 2019 (passed 44-12) and at the third reading on 24 September 2019 (passed 45-11).",
+          "sources": [
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — All Stages — Assembly Hansard (division lists)",
+              "url": "https://www.parliament.wa.gov.au/WebCMS/webcms.nsf/resources/file-vad-bill-2019---la/$file/Voluntary%20Assisted%20Dying%20Bill%202019%20-%20All%20Stages%20-%20Assembly%20-%20Hansard.pdf",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2019"
+            },
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — Bill Progress",
+              "url": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm=&ParentUNID=502E87F2E1B94E27482584A3003A757C",
+              "publisher": "Parliament of Western Australia",
+              "date": "2019"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
@@ -36131,7 +36545,50 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "voluntary_assisted_dying": {
+          "summary": "Amber-Jade Sanderson voted FOR the Voluntary Assisted Dying Bill 2019 in the WA Legislative Assembly. On the conscience (free) vote, the member is recorded in the Ayes at the bill's second reading on 3 September 2019 (passed 44-12) and at the third reading on 24 September 2019 (passed 45-11).",
+          "sources": [
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — All Stages — Assembly Hansard (division lists)",
+              "url": "https://www.parliament.wa.gov.au/WebCMS/webcms.nsf/resources/file-vad-bill-2019---la/$file/Voluntary%20Assisted%20Dying%20Bill%202019%20-%20All%20Stages%20-%20Assembly%20-%20Hansard.pdf",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2019"
+            },
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — Bill Progress",
+              "url": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm=&ParentUNID=502E87F2E1B94E27482584A3003A757C",
+              "publisher": "Parliament of Western Australia",
+              "date": "2019"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Labor MLA (Morley) and, as Health Minister, responsible for several LGBTQ-relevant reforms. In the 9 October 2018 surrogacy/ART debate she spoke in favour, saying the bill was \"fundamentally about removing discrimination\" and that the ability to be a parent had nothing to do with relationship status or sexuality. As Health Minister she said the government was \"absolutely committed to\" the 2024 surrogacy/ART legislation allowing same-sex couples, single people and trans and intersex West Australians to access surrogacy. In December 2024, responding to Liberal leader Libby Mettam's call to ban puberty blockers, Sanderson's spokesperson said the state had no immediate plans to review gender identity services but would continue monitoring international best practice.",
+          "sources": [
+            {
+              "title": "WA Parliament allows surrogacy for gay couples and single men",
+              "url": "https://www.outinperth.com/wa-parliament-passes-bill-allow-surrogacy-gay-couples-single-men/",
+              "publisher": "OUTinPerth",
+              "date": "2018-10-09"
+            },
+            {
+              "title": "LGBTQ rights in Western Australia",
+              "url": "https://en.wikipedia.org/wiki/LGBTQ_rights_in_Western_Australia",
+              "publisher": "Wikipedia",
+              "date": "2025"
+            },
+            {
+              "title": "Libby Mettam steps up campaign to ban puberty blockers for trans youth",
+              "url": "https://www.outinperth.com/libby-mettam-steps-up-campaign-to-ban-puberty-blockers-for-trans-youth/",
+              "publisher": "OUTinPerth",
+              "date": "2024-12-14"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
@@ -36175,7 +36632,9 @@
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/David_Bolt.png/330px-David_Bolt.png",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/David_Bolt_%28politician%29"
     },
     {
       "id": "western-australia-jonathan-huston-nedlands",
@@ -36207,13 +36666,34 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "voluntary_assisted_dying": {
+          "summary": "Yaz Mubarakai voted FOR the Voluntary Assisted Dying Bill 2019 in the WA Legislative Assembly. On the conscience (free) vote, the member is recorded in the Ayes at the bill's second reading on 3 September 2019 (passed 44-12) and at the third reading on 24 September 2019 (passed 45-11).",
+          "sources": [
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — All Stages — Assembly Hansard (division lists)",
+              "url": "https://www.parliament.wa.gov.au/WebCMS/webcms.nsf/resources/file-vad-bill-2019---la/$file/Voluntary%20Assisted%20Dying%20Bill%202019%20-%20All%20Stages%20-%20Assembly%20-%20Hansard.pdf",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2019"
+            },
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — Bill Progress",
+              "url": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm=&ParentUNID=502E87F2E1B94E27482584A3003A757C",
+              "publisher": "Parliament of Western Australia",
+              "date": "2019"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Yaz_Mubarakai_2019.jpg/330px-Yaz_Mubarakai_2019.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Yaz_Mubarakai"
     },
     {
       "id": "western-australia-john-carey-perth",
@@ -36226,13 +36706,52 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "voluntary_assisted_dying": {
+          "summary": "John Carey voted FOR the Voluntary Assisted Dying Bill 2019 in the WA Legislative Assembly. On the conscience (free) vote, the member is recorded in the Ayes at the bill's second reading on 3 September 2019 (passed 44-12) and at the third reading on 24 September 2019 (passed 45-11).",
+          "sources": [
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — All Stages — Assembly Hansard (division lists)",
+              "url": "https://www.parliament.wa.gov.au/WebCMS/webcms.nsf/resources/file-vad-bill-2019---la/$file/Voluntary%20Assisted%20Dying%20Bill%202019%20-%20All%20Stages%20-%20Assembly%20-%20Hansard.pdf",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2019"
+            },
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — Bill Progress",
+              "url": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm=&ParentUNID=502E87F2E1B94E27482584A3003A757C",
+              "publisher": "Parliament of Western Australia",
+              "date": "2019"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Labor MLA for Perth and cabinet minister, openly gay and a long-standing advocate for LGBTQ+ inclusion. Before state parliament, as a City of Vincent councillor he initiated a same-sex relationship register in lieu of federal same-sex marriage, and was elected mayor in 2013. In the 9 October 2018 debate on the surrogacy/ART reform bill he spoke in favour, saying: \"I stand on behalf of the gay and lesbian community to support this important social change.\" He is listed among current openly LGBTQ WA state politicians.",
+          "sources": [
+            {
+              "title": "WA Parliament allows surrogacy for gay couples and single men",
+              "url": "https://www.outinperth.com/wa-parliament-passes-bill-allow-surrogacy-gay-couples-single-men/",
+              "publisher": "OUTinPerth",
+              "date": "2018-10-09"
+            },
+            {
+              "title": "List of LGBTQ holders of political offices in Australia",
+              "url": "https://en.wikipedia.org/wiki/List_of_LGBTQ_holders_of_political_offices_in_Australia",
+              "publisher": "Wikipedia",
+              "date": "2025"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/John_Carey_MLA_speaking_at_Transition_Town_Vincent_September_2017_cropped.jpg/330px-John_Carey_MLA_speaking_at_Transition_Town_Vincent_September_2017_cropped.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/John_Carey_%28Australian_politician%29"
     },
     {
       "id": "western-australia-kevin-michel-pilbara",
@@ -36245,7 +36764,26 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "voluntary_assisted_dying": {
+          "summary": "Kevin Michel voted FOR the Voluntary Assisted Dying Bill 2019 in the WA Legislative Assembly. On the conscience (free) vote, the member is recorded in the Ayes at the bill's second reading on 3 September 2019 (passed 44-12) and at the third reading on 24 September 2019 (passed 45-11).",
+          "sources": [
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — All Stages — Assembly Hansard (division lists)",
+              "url": "https://www.parliament.wa.gov.au/WebCMS/webcms.nsf/resources/file-vad-bill-2019---la/$file/Voluntary%20Assisted%20Dying%20Bill%202019%20-%20All%20Stages%20-%20Assembly%20-%20Hansard.pdf",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2019"
+            },
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — Bill Progress",
+              "url": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm=&ParentUNID=502E87F2E1B94E27482584A3003A757C",
+              "publisher": "Parliament of Western Australia",
+              "date": "2019"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
@@ -36264,13 +36802,28 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "faith": {
+          "summary": "Hindu. Wikipedia's biography states explicitly in its Personal life section: \"He is a Hindu.\"",
+          "sources": [
+            {
+              "title": "Jags Krishnan",
+              "url": "https://en.wikipedia.org/wiki/Jags_Krishnan",
+              "publisher": "Wikipedia",
+              "date": "2025"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Jags_Krishnan_1.jpg/330px-Jags_Krishnan_1.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Jags_Krishnan"
     },
     {
       "id": "western-australia-magenta-marshall-rockingham",
@@ -36302,7 +36855,26 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "voluntary_assisted_dying": {
+          "summary": "Peter Rundle voted FOR the Voluntary Assisted Dying Bill 2019 in the WA Legislative Assembly. On the conscience (free) vote, the member is recorded in the Ayes at the bill's third reading on 24 September 2019 (passed 45-11). He was not recorded in the second reading division of 3 September 2019.",
+          "sources": [
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — All Stages — Assembly Hansard (division lists)",
+              "url": "https://www.parliament.wa.gov.au/WebCMS/webcms.nsf/resources/file-vad-bill-2019---la/$file/Voluntary%20Assisted%20Dying%20Bill%202019%20-%20All%20Stages%20-%20Assembly%20-%20Hansard.pdf",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2019"
+            },
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — Bill Progress",
+              "url": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm=&ParentUNID=502E87F2E1B94E27482584A3003A757C",
+              "publisher": "Parliament of Western Australia",
+              "date": "2019"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
@@ -36321,7 +36893,26 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "gender_lgbtq": {
+          "summary": "Labor MLA for Scarborough, openly gay, one of six openly LGBT MPs elected to the WA parliament at the 2021 state election. On 19 April 2022, during debate on the Health and Disability Services (Complaints) Amendment Bill 2021 (which extended a code of conduct to help protect people from sexual orientation and gender conversion practices), Aubrey gave an emotional speech disclosing his experience of coming out, depression and suicidal thoughts, declaring \"I am a proud gay man\" and supporting the legislation. He came out to close friends in September 2012, which he called \"one of the best days of my life.\" He rejected criticism of LGBTQ+ MPs by Mark Latham.",
+          "sources": [
+            {
+              "title": "WA MP Stuart Aubrey shares his coming out experience",
+              "url": "https://www.outinperth.com/wa-mp-stuart-aubrey-shares-his-coming-out-experience/",
+              "publisher": "OUTinPerth",
+              "date": "2022-04-19"
+            },
+            {
+              "title": "Stuart Aubrey",
+              "url": "https://en.wikipedia.org/wiki/Stuart_Aubrey",
+              "publisher": "Wikipedia",
+              "date": "2024"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
@@ -36340,13 +36931,46 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "voluntary_assisted_dying": {
+          "summary": "Paul Papalia voted FOR the Voluntary Assisted Dying Bill 2019 in the WA Legislative Assembly. On the conscience (free) vote, the member is recorded in the Ayes at the bill's second reading on 3 September 2019 (passed 44-12) and at the third reading on 24 September 2019 (passed 45-11).",
+          "sources": [
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — All Stages — Assembly Hansard (division lists)",
+              "url": "https://www.parliament.wa.gov.au/WebCMS/webcms.nsf/resources/file-vad-bill-2019---la/$file/Voluntary%20Assisted%20Dying%20Bill%202019%20-%20All%20Stages%20-%20Assembly%20-%20Hansard.pdf",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2019"
+            },
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — Bill Progress",
+              "url": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm=&ParentUNID=502E87F2E1B94E27482584A3003A757C",
+              "publisher": "Parliament of Western Australia",
+              "date": "2019"
+            }
+          ],
+          "verified": true
+        },
+        "drugs_law_order": {
+          "summary": "As WA Police Minister, Papalia championed a prohibitionist, enforcement-led approach to methamphetamine. In March 2023 he announced legislation giving police the power to conduct warrantless random drug searches at locations near the state border, explicitly targeting methamphetamine. He cited COVID-era border controls, stating 'During Covid, there was a massive drop in meth use in Western Australia because of the border search power that was in place at that time,' and said reinstating the powers would deliver 'a huge return in community safety.' He has also rejected claims linking liquor restrictions in the Kimberley to rising meth use.",
+          "sources": [
+            {
+              "title": "WA's hard border is back to help police battle the war on drugs",
+              "url": "https://www.6pr.com.au/was-hard-border-is-back-to-help-police-battle-the-war-on-drugs/",
+              "publisher": "6PR",
+              "date": "2023-03-28"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Paul_Papalia_2021_01.jpg/330px-Paul_Papalia_2021_01.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Paul_Papalia"
     },
     {
       "id": "western-australia-terry-healy-southern-river",
@@ -36359,7 +36983,38 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "faith": {
+          "summary": "Christian. Healy has said he is \"proud to call himself a Christian\" and argued that marriage equality is in line with Christian teachings.",
+          "sources": [
+            {
+              "title": "Terry Healy on why he wants to be in parliament",
+              "url": "https://www.outinperth.com/terry-healy-wants-parliament/",
+              "publisher": "OUTinPerth",
+              "date": "2017"
+            }
+          ],
+          "verified": true
+        },
+        "voluntary_assisted_dying": {
+          "summary": "Terry Healy voted FOR the Voluntary Assisted Dying Bill 2019 in the WA Legislative Assembly. On the conscience (free) vote, the member is recorded in the Ayes at the bill's second reading on 3 September 2019 (passed 44-12) and at the third reading on 24 September 2019 (passed 45-11).",
+          "sources": [
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — All Stages — Assembly Hansard (division lists)",
+              "url": "https://www.parliament.wa.gov.au/WebCMS/webcms.nsf/resources/file-vad-bill-2019---la/$file/Voluntary%20Assisted%20Dying%20Bill%202019%20-%20All%20Stages%20-%20Assembly%20-%20Hansard.pdf",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2019"
+            },
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — Bill Progress",
+              "url": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm=&ParentUNID=502E87F2E1B94E27482584A3003A757C",
+              "publisher": "Parliament of Western Australia",
+              "date": "2019"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
@@ -36435,13 +37090,46 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "voluntary_assisted_dying": {
+          "summary": "Libby Mettam voted FOR the Voluntary Assisted Dying Bill 2019 in the WA Legislative Assembly. On the conscience (free) vote, the member is recorded in the Ayes at the bill's second reading on 3 September 2019 (passed 44-12) and at the third reading on 24 September 2019 (passed 45-11).",
+          "sources": [
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — All Stages — Assembly Hansard (division lists)",
+              "url": "https://www.parliament.wa.gov.au/WebCMS/webcms.nsf/resources/file-vad-bill-2019---la/$file/Voluntary%20Assisted%20Dying%20Bill%202019%20-%20All%20Stages%20-%20Assembly%20-%20Hansard.pdf",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2019"
+            },
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — Bill Progress",
+              "url": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm=&ParentUNID=502E87F2E1B94E27482584A3003A757C",
+              "publisher": "Parliament of Western Australia",
+              "date": "2019"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Liberal MLA (Vasse), former WA Liberal leader. Mettam has campaigned to ban puberty blockers and transgender health care for under-18s, making it a central plank of her pitch to be premier at the 2025 election. On 14 December 2024 she said Australia should follow the UK and immediately ban puberty blockers for youth gender dysphoria, urging MPs to \"simply put the ideology aside, look at the evidence\" and stating \"We must ensure that the treatment of children and young people with gender dysphoria is safe in the long term as well as the short term.\" Reporting noted she declined to meet with parents of transgender youth in her own electorate concerned about her approach.",
+          "sources": [
+            {
+              "title": "Libby Mettam steps up campaign to ban puberty blockers for trans youth",
+              "url": "https://www.outinperth.com/libby-mettam-steps-up-campaign-to-ban-puberty-blockers-for-trans-youth/",
+              "publisher": "OUTinPerth",
+              "date": "2024-12-14"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Libby_Mettam_2021.jpg/330px-Libby_Mettam_2021.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Libby_Mettam"
     },
     {
       "id": "western-australia-hannah-beazley-victoria-park",
@@ -36473,13 +37161,34 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "voluntary_assisted_dying": {
+          "summary": "Sabine Winton voted FOR the Voluntary Assisted Dying Bill 2019 in the WA Legislative Assembly. On the conscience (free) vote, the member is recorded in the Ayes at the bill's second reading on 3 September 2019 (passed 44-12) and at the third reading on 24 September 2019 (passed 45-11).",
+          "sources": [
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — All Stages — Assembly Hansard (division lists)",
+              "url": "https://www.parliament.wa.gov.au/WebCMS/webcms.nsf/resources/file-vad-bill-2019---la/$file/Voluntary%20Assisted%20Dying%20Bill%202019%20-%20All%20Stages%20-%20Assembly%20-%20Hansard.pdf",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2019"
+            },
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — Bill Progress",
+              "url": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm=&ParentUNID=502E87F2E1B94E27482584A3003A757C",
+              "publisher": "Parliament of Western Australia",
+              "date": "2019"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Sabine_Winton_MLA_at_Lake_Joondalup.jpg/330px-Sabine_Winton_MLA_at_Lake_Joondalup.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Sabine_Winton"
     },
     {
       "id": "western-australia-bevan-eatts-warren-blackwood",
@@ -36511,13 +37220,34 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "voluntary_assisted_dying": {
+          "summary": "Rita Saffioti voted FOR the Voluntary Assisted Dying Bill 2019 in the WA Legislative Assembly. On the conscience (free) vote, the member is recorded in the Ayes at the bill's second reading on 3 September 2019 (passed 44-12) and at the third reading on 24 September 2019 (passed 45-11).",
+          "sources": [
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — All Stages — Assembly Hansard (division lists)",
+              "url": "https://www.parliament.wa.gov.au/WebCMS/webcms.nsf/resources/file-vad-bill-2019---la/$file/Voluntary%20Assisted%20Dying%20Bill%202019%20-%20All%20Stages%20-%20Assembly%20-%20Hansard.pdf",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2019"
+            },
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — Bill Progress",
+              "url": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm=&ParentUNID=502E87F2E1B94E27482584A3003A757C",
+              "publisher": "Parliament of Western Australia",
+              "date": "2019"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Assembly, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Assembly,_2025%E2%80%932029",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Rita_Saffioti_2025_02.jpg/330px-Rita_Saffioti_2025_02.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Rita_Saffioti"
     },
     {
       "id": "western-australia-klara-andric-statewide",
@@ -36530,7 +37260,20 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted YES (Ayes) on the third reading of the Abortion Legislation Reform Bill 2023 in the WA Legislative Council on 20 September 2023, supporting the bill's passage. The bill decriminalised abortion (removing it from the Criminal Code), removed mandatory counselling and the doctor-referral requirement, and raised the gestational limit for additional restrictions from 20 to 23 weeks. The third reading passed 25 Ayes to 6 Noes.",
+          "sources": [
+            {
+              "title": "Extract from Hansard, Legislative Council, Wednesday 20 September 2023 (Abortion Legislation Reform Bill 2023, Third Reading division, p.4868)",
+              "url": "https://www.parliament.wa.gov.au/hansard/daily/uh/2023-09-20/pdf/download",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2023-09-20"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Council, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
@@ -36555,7 +37298,9 @@
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Jess_Beckerling_Greens_Profile.jpg/330px-Jess_Beckerling_Greens_Profile.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Jess_Beckerling"
     },
     {
       "id": "western-australia-michelle-boylan-statewide",
@@ -36587,13 +37332,40 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "faith": {
+          "summary": "Christian. Wikipedia states \"He is a Christian\" and notes \"Caddies has described himself as socially conservative and a Christian.\" In his inaugural speech (27 May 2025) he said \"Along my journey, I became a Christian. That decision changed my life. My faith gave me purpose, clarity and direction.\"",
+          "sources": [
+            {
+              "title": "Rod Caddies",
+              "url": "https://en.wikipedia.org/wiki/Rod_Caddies",
+              "publisher": "Wikipedia",
+              "date": "2025"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Pauline Hanson's One Nation MLC. During the November 2025 Legislative Council debate on Maryka Groenewald's motion on transparency over gender treatment information, Caddies described the current approach to gender-affirming care as \"irreversible medical experiments on children.\" He abandoned his speech after a point of order in which the acting president directed him to focus on transparency rather than treatment views.",
+          "sources": [
+            {
+              "title": "Australian Christians motion on transparency over gender treatment info fails",
+              "url": "https://www.outinperth.com/australian-christians-motion-on-transparency-over-gender-treatment-info-fails/",
+              "publisher": "OUTinPerth",
+              "date": "2025-11-13"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Council, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Rod_Caddies.png/330px-Rod_Caddies.png",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Rod_Caddies"
     },
     {
       "id": "western-australia-dan-caddy-statewide",
@@ -36606,7 +37378,32 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted YES (Ayes) on the third reading of the Abortion Legislation Reform Bill 2023 in the WA Legislative Council on 20 September 2023, supporting the bill's passage. The bill decriminalised abortion (removing it from the Criminal Code), removed mandatory counselling and the doctor-referral requirement, and raised the gestational limit for additional restrictions from 20 to 23 weeks. The third reading passed 25 Ayes to 6 Noes.",
+          "sources": [
+            {
+              "title": "Extract from Hansard, Legislative Council, Wednesday 20 September 2023 (Abortion Legislation Reform Bill 2023, Third Reading division, p.4868)",
+              "url": "https://www.parliament.wa.gov.au/hansard/daily/uh/2023-09-20/pdf/download",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2023-09-20"
+            }
+          ],
+          "verified": true
+        },
+        "religious_freedom": {
+          "summary": "Labor MLC who, as Parliamentary Secretary representing Attorney General Tony Buti, responded to Maryka Groenewald's question without notice on the Australian Christian Freedom Index in the Legislative Council (question put 9 June 2026). Reading from prepared notes, Caddy confirmed the Government was aware of the Index and stated that 'the various Christian communities make valuable contributions to the lives of many Western Australians.' His response contained no specific pledge on Christian freedom of expression, committing instead to Equal Opportunity legislation that is 'fair and effective' and 'achieves a balance between the rights and interests of the diverse community living in our State.'",
+          "sources": [
+            {
+              "title": "WA Parliament Told 92 Per Cent of Christians Feel Their Faith Is Now Riskier to Live Out",
+              "url": "https://dailydeclaration.org.au/2026/06/19/wa-parliament-told-92-per-cent-of-christians-feel-their-faith-is-now-riskier-to-live-out/",
+              "publisher": "The Daily Declaration",
+              "date": "2026-06-19"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Council, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
@@ -36625,13 +37422,28 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted YES (Ayes) on the third reading of the Abortion Legislation Reform Bill 2023 in the WA Legislative Council on 20 September 2023, supporting the bill's passage. The bill decriminalised abortion (removing it from the Criminal Code), removed mandatory counselling and the doctor-referral requirement, and raised the gestational limit for additional restrictions from 20 to 23 weeks. The third reading passed 25 Ayes to 6 Noes.",
+          "sources": [
+            {
+              "title": "Extract from Hansard, Legislative Council, Wednesday 20 September 2023 (Abortion Legislation Reform Bill 2023, Third Reading division, p.4868)",
+              "url": "https://www.parliament.wa.gov.au/hansard/daily/uh/2023-09-20/pdf/download",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2023-09-20"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Council, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Geraldton_state_electoral_district_2025.jpg/330px-Geraldton_state_electoral_district_2025.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Sandra_Carr"
     },
     {
       "id": "western-australia-lauren-cayoun-statewide",
@@ -36663,13 +37475,34 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "voluntary_assisted_dying": {
+          "summary": "Tim Clifford voted FOR the Voluntary Assisted Dying Bill 2019 in the WA Legislative Council. On the conscience (free) vote, the member is recorded in the Ayes at the bill's second reading on 23 October 2019 (passed 25-10) and at the third reading on 5 December 2019 (passed 24-11).",
+          "sources": [
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — All Stages — Council Hansard (division lists)",
+              "url": "https://www.parliament.wa.gov.au/WebCMS/webcms.nsf/resources/file-vad-bill-2019---lc/$file/Voluntary%20Assisted%20Dying%20Bill%202019%20-%20All%20Stages%20-%20Hansard%20-%20Council.pdf",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2019"
+            },
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — Bill Progress",
+              "url": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm=&ParentUNID=502E87F2E1B94E27482584A3003A757C",
+              "publisher": "Parliament of Western Australia",
+              "date": "2019"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Council, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tim_Clifford_Candidate_Photo_Cropped.jpg/330px-Tim_Clifford_Candidate_Photo_Cropped.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Tim_Clifford_%28politician%29"
     },
     {
       "id": "western-australia-alanna-clohesy-statewide",
@@ -36682,13 +37515,34 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "voluntary_assisted_dying": {
+          "summary": "Alanna Clohesy voted FOR the Voluntary Assisted Dying Bill 2019 in the WA Legislative Council. On the conscience (free) vote, the member is recorded in the Ayes at the bill's second reading on 23 October 2019 (passed 25-10) and at the third reading on 5 December 2019 (passed 24-11).",
+          "sources": [
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — All Stages — Council Hansard (division lists)",
+              "url": "https://www.parliament.wa.gov.au/WebCMS/webcms.nsf/resources/file-vad-bill-2019---lc/$file/Voluntary%20Assisted%20Dying%20Bill%202019%20-%20All%20Stages%20-%20Hansard%20-%20Council.pdf",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2019"
+            },
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — Bill Progress",
+              "url": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm=&ParentUNID=502E87F2E1B94E27482584A3003A757C",
+              "publisher": "Parliament of Western Australia",
+              "date": "2019"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Council, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Alanna_Clohesy.png/330px-Alanna_Clohesy.png",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Alanna_Clohesy"
     },
     {
       "id": "western-australia-stephen-dawson-statewide",
@@ -36701,13 +37555,64 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted YES (Ayes) on the third reading of the Abortion Legislation Reform Bill 2023 in the WA Legislative Council on 20 September 2023, supporting the bill's passage. The bill decriminalised abortion (removing it from the Criminal Code), removed mandatory counselling and the doctor-referral requirement, and raised the gestational limit for additional restrictions from 20 to 23 weeks. The third reading passed 25 Ayes to 6 Noes.",
+          "sources": [
+            {
+              "title": "Extract from Hansard, Legislative Council, Wednesday 20 September 2023 (Abortion Legislation Reform Bill 2023, Third Reading division, p.4868)",
+              "url": "https://www.parliament.wa.gov.au/hansard/daily/uh/2023-09-20/pdf/download",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2023-09-20"
+            }
+          ],
+          "verified": true
+        },
+        "voluntary_assisted_dying": {
+          "summary": "Stephen Dawson voted FOR the Voluntary Assisted Dying Bill 2019 in the WA Legislative Council. On the conscience (free) vote, the member is recorded in the Ayes at the bill's second reading on 23 October 2019 (passed 25-10) and at the third reading on 5 December 2019 (passed 24-11).",
+          "sources": [
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — All Stages — Council Hansard (division lists)",
+              "url": "https://www.parliament.wa.gov.au/WebCMS/webcms.nsf/resources/file-vad-bill-2019---lc/$file/Voluntary%20Assisted%20Dying%20Bill%202019%20-%20All%20Stages%20-%20Hansard%20-%20Council.pdf",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2019"
+            },
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — Bill Progress",
+              "url": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm=&ParentUNID=502E87F2E1B94E27482584A3003A757C",
+              "publisher": "Parliament of Western Australia",
+              "date": "2019"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Labor MLC since 2013 and cabinet minister; openly gay and a prominent LGBTQ legislator. In December 2013 he and his partner Dennis Liddelow became the first same-sex couple to be legally married in Australia, in an ACT midnight ceremony; the marriage was annulled six days later after the High Court struck down the ACT law under the federal Marriage Act. He is listed among current openly LGBTQ WA state politicians.",
+          "sources": [
+            {
+              "title": "Stephen Dawson (politician)",
+              "url": "https://en.wikipedia.org/wiki/Stephen_Dawson_(politician)",
+              "publisher": "Wikipedia",
+              "date": "2025"
+            },
+            {
+              "title": "List of LGBTQ holders of political offices in Australia",
+              "url": "https://en.wikipedia.org/wiki/List_of_LGBTQ_holders_of_political_offices_in_Australia",
+              "publisher": "Wikipedia",
+              "date": "2025"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Council, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Stephen_Dawson.jpg/330px-Stephen_Dawson.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Stephen_Dawson_%28politician%29"
     },
     {
       "id": "western-australia-amanda-dorn-statewide",
@@ -36739,13 +37644,34 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted NO (Noes) on the third reading of the Abortion Legislation Reform Bill 2023 in the WA Legislative Council on 20 September 2023, opposing the bill. A Labor member identified as pro-life, she questioned the bill extensively during debate and supported (unsuccessful) amendments including a ban on sex-selection abortion. The third reading passed 25 Ayes to 6 Noes.",
+          "sources": [
+            {
+              "title": "Extract from Hansard, Legislative Council, Wednesday 20 September 2023 (Abortion Legislation Reform Bill 2023, Third Reading division, p.4868)",
+              "url": "https://www.parliament.wa.gov.au/hansard/daily/uh/2023-09-20/pdf/download",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2023-09-20"
+            },
+            {
+              "title": "Reforms to WA's abortion laws pass state Parliament",
+              "url": "https://cathnews.com/2023/09/21/reforms-to-was-abortion-laws-pass-state-parliament/",
+              "publisher": "CathNews",
+              "date": "2023-09-21"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Council, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Hon_Kate_Doust.jpg/330px-Hon_Kate_Doust.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Kate_Doust"
     },
     {
       "id": "western-australia-simon-ehrenfeld-statewide",
@@ -36758,7 +37684,32 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "faith": {
+          "summary": "Jewish. Wikipedia states plainly \"Ehrenfeld is Jewish\" and categorises him as a Jewish Australian politician. He is a congregant of the Perth Hebrew Congregation. His Jewish identity was the subject of a 2016 WA Liberal preselection controversy.",
+          "sources": [
+            {
+              "title": "Simon Ehrenfeld",
+              "url": "https://en.wikipedia.org/wiki/Simon_Ehrenfeld",
+              "publisher": "Wikipedia",
+              "date": "2025"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Liberal MLC. Acting as President during the November 2025 Legislative Council debate on Maryka Groenewald's gender-treatment transparency motion, Ehrenfeld called One Nation MLC Rod Caddies to focus his remarks on transparency rather than his views on gender treatment. (Procedural role; no personal position on the substance recorded in the source.)",
+          "sources": [
+            {
+              "title": "Australian Christians motion on transparency over gender treatment info fails",
+              "url": "https://www.outinperth.com/australian-christians-motion-on-transparency-over-gender-treatment-info-fails/",
+              "publisher": "OUTinPerth",
+              "date": "2025-11-13"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Council, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
@@ -36796,7 +37747,74 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "faith": {
+          "summary": "Christian. As leader of the Australian Christians and the party's first member elected to any Australian parliament, Groenewald is openly Christian. In her inaugural speech (19 June 2025) she said \"the story of Jesus, his resurrection and the transforming truth of the gospel remains the biggest game changer in my life,\" while adding \"I am not here to push my faith on anyone.\" She has spoken of her faith-based community work and praying weekly over her political work.",
+          "sources": [
+            {
+              "title": "Australian Christians Party Champions Christ and Christian Heritage in First Major Address",
+              "url": "https://dailydeclaration.org.au/2025/06/25/australian-christians-party/",
+              "publisher": "The Daily Declaration",
+              "date": "2025-06-25"
+            },
+            {
+              "title": "Speaker Announcement: Hon Maryka Groenewald MLC",
+              "url": "https://forpurposeleaders.com.au/speaker-announcement-hon-maryka-groenewald-mlc-2/",
+              "publisher": "For Purpose Leaders",
+              "date": "2025"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Leader of the Australian Christians party and, after the 2025 state election, the first member of her party elected to any Australian state parliament (WA Legislative Council; inaugural speech 19 June 2025). The Australian Christians platform opposes same-sex marriage and homosexuality. Groenewald has made transgender health care a primary focus, repeatedly demanding the WA government publicly release the Child and Adolescent Gender Diversity Service's Standards of Care and accusing the government of \"secrecy.\" Her amended transparency motion was defeated 19-17 in November 2025; she said it \"has always been about ensuring that Parliament reaffirms its commitment to genuine transparency.\" She opposes gender-affirming care for minors. In a March 2026 Facebook post about a menopause health seminar she wrote: \"A MAN cannot be a WOMAN.\"",
+          "sources": [
+            {
+              "title": "Maryka Groenewald",
+              "url": "https://en.wikipedia.org/wiki/Maryka_Groenewald",
+              "publisher": "Wikipedia",
+              "date": "2025"
+            },
+            {
+              "title": "Australian Christians motion on transparency over gender treatment info fails",
+              "url": "https://www.outinperth.com/australian-christians-motion-on-transparency-over-gender-treatment-info-fails/",
+              "publisher": "OUTinPerth",
+              "date": "2025-11-13"
+            },
+            {
+              "title": "How media and MPs twist the news to attack transgender people",
+              "url": "https://www.outinperth.com/how-media-and-mps-twist-the-news-to-attack-transgender-people/",
+              "publisher": "OUTinPerth",
+              "date": "2026-03-29"
+            }
+          ],
+          "verified": true
+        },
+        "religious_freedom": {
+          "summary": "Australian Christians MLC and party leader, elected to the Legislative Council in 2025 as the first member of her party to win a state parliamentary seat. In her inaugural speech (19 June 2025) she championed Australia's 'Christian heritage' and argued that separation of church and state 'was always about preventing an exertion of the power of the state over the church, and vice versa' rather than limiting Christian expression in public. She listed party concerns including opposing 'moves to strip Christian schools of their freedom to employ staff who want to live out their faith,' preserving parental choice in education, protecting Christian teachers, and 'stopping aggressive activist LGBTQ+ legislation from making prayer a thought crime.' On 9 June 2026 she put a question without notice to the Legislative Council citing the Australian Christian Freedom Index (which ranked WA the 'least restrictive' jurisdiction in Australia), asking whether the Government would commit to protecting Christians' right to express their faith freely under any changes to the Equal Opportunity Act.",
+          "sources": [
+            {
+              "title": "Australian Christians Party Champions Christ and Christian Heritage in First Major Address",
+              "url": "https://dailydeclaration.org.au/2025/06/25/australian-christians-party/",
+              "publisher": "The Daily Declaration",
+              "date": "2025-06-25"
+            },
+            {
+              "title": "WA Parliament Told 92 Per Cent of Christians Feel Their Faith Is Now Riskier to Live Out",
+              "url": "https://dailydeclaration.org.au/2026/06/19/wa-parliament-told-92-per-cent-of-christians-feel-their-faith-is-now-riskier-to-live-out/",
+              "publisher": "The Daily Declaration",
+              "date": "2026-06-19"
+            },
+            {
+              "title": "The Biggest Week Yet for Life, Faith, Family and Freedom in WA Parliament",
+              "url": "https://dailydeclaration.org.au/2025/12/09/life-faith-family-freedom-wa/",
+              "publisher": "The Daily Declaration",
+              "date": "2025-12-09"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Council, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
@@ -36872,13 +37890,124 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "faith": {
+          "summary": "Christian (conservative/evangelical). Wikipedia describes him as a \"conservative Christian\" and \"vocal conservative Christian.\" Goiran has stated \"I have known no part of my life, otherwise than with faith\" and \"The most important things to me in life are faith, family and friends.\" He attended Rehoboth Christian College (of which he is a patron) and is a leading figure of the WA Liberal Party's Christian right.",
+          "sources": [
+            {
+              "title": "Nick Goiran",
+              "url": "https://en.wikipedia.org/wiki/Nick_Goiran",
+              "publisher": "Wikipedia",
+              "date": "2025"
+            }
+          ],
+          "verified": true
+        },
+        "abortion": {
+          "summary": "Voted NO (Noes) on the third reading of the Abortion Legislation Reform Bill 2023 in the WA Legislative Council on 20 September 2023, opposing the bill. A Liberal MLC and prominent pro-life campaigner, he led the opposition's questioning over about nine sitting days and moved numerous (unsuccessful) amendments. The bill decriminalised abortion, removed mandatory counselling and the doctor-referral requirement, and raised the gestational limit from 20 to 23 weeks. The third reading passed 25 Ayes to 6 Noes.",
+          "sources": [
+            {
+              "title": "Extract from Hansard, Legislative Council, Wednesday 20 September 2023 (Abortion Legislation Reform Bill 2023, Third Reading division, p.4868)",
+              "url": "https://www.parliament.wa.gov.au/hansard/daily/uh/2023-09-20/pdf/download",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2023-09-20"
+            },
+            {
+              "title": "Reforms to WA's abortion laws pass state Parliament",
+              "url": "https://cathnews.com/2023/09/21/reforms-to-was-abortion-laws-pass-state-parliament/",
+              "publisher": "CathNews",
+              "date": "2023-09-21"
+            },
+            {
+              "title": "Nick Goiran",
+              "url": "https://en.wikipedia.org/wiki/Nick_Goiran",
+              "publisher": "Wikipedia",
+              "date": "2026-06-29"
+            }
+          ],
+          "verified": true
+        },
+        "voluntary_assisted_dying": {
+          "summary": "Nick Goiran voted AGAINST the Voluntary Assisted Dying Bill 2019 in the WA Legislative Council. On the conscience (free) vote, the member is recorded in the Noes at the bill's second reading on 23 October 2019 (passed 25-10) and at the third reading on 5 December 2019 (passed 24-11).",
+          "sources": [
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — All Stages — Council Hansard (division lists)",
+              "url": "https://www.parliament.wa.gov.au/WebCMS/webcms.nsf/resources/file-vad-bill-2019---lc/$file/Voluntary%20Assisted%20Dying%20Bill%202019%20-%20All%20Stages%20-%20Hansard%20-%20Council.pdf",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2019"
+            },
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — Bill Progress",
+              "url": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm=&ParentUNID=502E87F2E1B94E27482584A3003A757C",
+              "publisher": "Parliament of Western Australia",
+              "date": "2019"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Liberal MLC and a leading social conservative in the WA Liberal Party. During the 2019 debate on gender reassignment/recognition legislation, Goiran argued gender dysphoria should be treated as a psychological matter, stating: \"In essence there are only two alternatives. One perspective believes the solution is a physical one... Whereas others, including me, believe the solution should be to treat it psychologically.\" He raised concerns about young people accessing gender services at Perth Children's Hospital. In August 2013 he opposed same-sex marriage in parliamentary remarks (comments criticised by then-Premier Colin Barnett). In March 2023 he publicly supported Victorian Liberal MP Moira Deeming. In September 2024 he opposed the process used to pass the Births, Deaths and Marriages Registration Amendment (Sex or Gender Changes) Bill, calling the government's use of urgent legislation a \"political battering ram.\" He is described as one of the staunchest pro-life campaigners in WA parliament.",
+          "sources": [
+            {
+              "title": "Nick Goiran calls for \"psychological intervention\" for gender dysphoria",
+              "url": "https://www.outinperth.com/liberal-mp-nick-goiran/",
+              "publisher": "OUTinPerth",
+              "date": "2019-02-13"
+            },
+            {
+              "title": "Nick Goiran",
+              "url": "https://en.wikipedia.org/wiki/Nick_Goiran",
+              "publisher": "Wikipedia",
+              "date": "2024"
+            },
+            {
+              "title": "Bill to abolish the WA Gender Board passed by the Legislative Council",
+              "url": "https://www.outinperth.com/births-deaths-and-marriages-registration-amendment-sex-or-gender-changes-bill-2024-passes/",
+              "publisher": "OUTinPerth",
+              "date": "2024-09-11"
+            }
+          ],
+          "verified": true
+        },
+        "religious_freedom": {
+          "summary": "Long-serving Liberal MLC (since 2009) and Leader of the Opposition in the Legislative Council since May 2025, also Shadow Attorney General. A self-described conservative Christian who attended Christian schools and served on the board of the Association for Christian Education. He sponsors a campaign titled 'Leave Faith-Based Schools Alone,' reflecting his support for protecting faith-based educational institutions. Historically he opposed same-sex marriage, speaking against it in parliament in August 2013, and is pro-life and opposed to euthanasia and surrogacy.",
+          "sources": [
+            {
+              "title": "About - HNG (Nick Goiran)",
+              "url": "https://www.nickgoiran.com.au/about/",
+              "publisher": "Nick Goiran MLC",
+              "date": "2025-01-01"
+            },
+            {
+              "title": "Nick Goiran",
+              "url": "https://en.wikipedia.org/wiki/Nick_Goiran",
+              "publisher": "Wikipedia",
+              "date": "2025-05-01"
+            }
+          ],
+          "verified": true
+        },
+        "drugs_law_order": {
+          "summary": "A barrister and one of the WA Parliament's most prominent socially conservative members, Goiran has served as Shadow Attorney General (April 2021-February 2023, and again from December 2024) and is Leader of the Opposition in the Legislative Council. On law and order, in 2025 he vocally opposed Labor proposals to raise the age of criminal responsibility from 10 to 12 or 14, arguing against increased leniency for young offenders. He has a long record of justice-related advocacy, including a 2017 parliamentary motion for an inquiry into elder abuse seeking to make it a specific criminal offence.",
+          "sources": [
+            {
+              "title": "Nick Goiran",
+              "url": "https://en.wikipedia.org/wiki/Nick_Goiran",
+              "publisher": "Wikipedia",
+              "date": "2025"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Council, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Nick_Goiran_in_2024.jpg/330px-Nick_Goiran_in_2024.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Nick_Goiran"
     },
     {
       "id": "western-australia-jackie-jarvis-statewide",
@@ -36891,7 +38020,20 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted YES (Ayes) on the third reading of the Abortion Legislation Reform Bill 2023 in the WA Legislative Council on 20 September 2023, supporting the bill's passage. The bill decriminalised abortion (removing it from the Criminal Code), removed mandatory counselling and the doctor-referral requirement, and raised the gestational limit for additional restrictions from 20 to 23 weeks. The third reading passed 25 Ayes to 6 Noes.",
+          "sources": [
+            {
+              "title": "Extract from Hansard, Legislative Council, Wednesday 20 September 2023 (Abortion Legislation Reform Bill 2023, Third Reading division, p.4868)",
+              "url": "https://www.parliament.wa.gov.au/hansard/daily/uh/2023-09-20/pdf/download",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2023-09-20"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Council, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
@@ -36910,13 +38052,28 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted YES (Ayes) on the third reading of the Abortion Legislation Reform Bill 2023 in the WA Legislative Council on 20 September 2023, supporting the bill's passage. The bill decriminalised abortion (removing it from the Criminal Code), removed mandatory counselling and the doctor-referral requirement, and raised the gestational limit for additional restrictions from 20 to 23 weeks. The third reading passed 25 Ayes to 6 Noes.",
+          "sources": [
+            {
+              "title": "Extract from Hansard, Legislative Council, Wednesday 20 September 2023 (Abortion Legislation Reform Bill 2023, Third Reading division, p.4868)",
+              "url": "https://www.parliament.wa.gov.au/hansard/daily/uh/2023-09-20/pdf/download",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2023-09-20"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Council, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ayor_makur_chuot.jpg/330px-Ayor_makur_chuot.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Ayor_Makur_Chuot"
     },
     {
       "id": "western-australia-sophie-mcneill-statewide",
@@ -36935,7 +38092,9 @@
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Sophie_McNeill.png/330px-Sophie_McNeill.png",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Sophie_McNeill"
     },
     {
       "id": "western-australia-steve-martin-statewide",
@@ -36948,7 +38107,20 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted NO (Noes) on the third reading of the Abortion Legislation Reform Bill 2023 in the WA Legislative Council on 20 September 2023, opposing the bill's passage. The bill decriminalised abortion (removing it from the Criminal Code), removed mandatory counselling and the doctor-referral requirement, and raised the gestational limit for additional restrictions from 20 to 23 weeks. The bill nonetheless passed the Council 25 Ayes to 6 Noes.",
+          "sources": [
+            {
+              "title": "Extract from Hansard, Legislative Council, Wednesday 20 September 2023 (Abortion Legislation Reform Bill 2023, Third Reading division, p.4868)",
+              "url": "https://www.parliament.wa.gov.au/hansard/daily/uh/2023-09-20/pdf/download",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2023-09-20"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Council, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
@@ -36986,13 +38158,70 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted YES (Ayes) on the third reading of the Abortion Legislation Reform Bill 2023 in the WA Legislative Council on 20 September 2023, supporting the bill's passage. The bill decriminalised abortion (removing it from the Criminal Code), removed mandatory counselling and the doctor-referral requirement, and raised the gestational limit for additional restrictions from 20 to 23 weeks. The third reading passed 25 Ayes to 6 Noes.",
+          "sources": [
+            {
+              "title": "Extract from Hansard, Legislative Council, Wednesday 20 September 2023 (Abortion Legislation Reform Bill 2023, Third Reading division, p.4868)",
+              "url": "https://www.parliament.wa.gov.au/hansard/daily/uh/2023-09-20/pdf/download",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2023-09-20"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "WA Greens parliamentary leader and the party's LGBTQIA+ spokesperson. Pettitt has been a vocal advocate for banning conversion practices, reforming the Equal Opportunity Act, and gender recognition reform via a self-identification (statutory declaration) model. On the 2024 Births, Deaths and Marriages Registration Amendment (Sex or Gender Changes) Bill (which abolished the Gender Reassignment Board), he supported abolishing the board but opposed the bill as written, saying the government's handling was \"undemocratic\" and that the bill \"continues to medicalise trans, intersex and gender-diverse identities,\" while calling the Gender Reassignment Board \"a cruel, unnecessary, and humiliating barrier.\" In the November 2025 debate on Maryka Groenewald's gender-treatment transparency motion, he said \"We want the LGBTQIA+ community to be granted equality and autonomy over medical processes,\" supporting trans youth access to care.",
+          "sources": [
+            {
+              "title": "Greens centre LGBTQIA+ priorities in election platform",
+              "url": "https://greens.org.au/wa/news/greens-centre-lgbtqia-priorities-election-platform",
+              "publisher": "Greens WA",
+              "date": "2025-02-12"
+            },
+            {
+              "title": "Bill to abolish the WA Gender Board passed by the Legislative Council",
+              "url": "https://www.outinperth.com/births-deaths-and-marriages-registration-amendment-sex-or-gender-changes-bill-2024-passes/",
+              "publisher": "OUTinPerth",
+              "date": "2024-09-11"
+            },
+            {
+              "title": "Australian Christians motion on transparency over gender treatment info fails",
+              "url": "https://www.outinperth.com/australian-christians-motion-on-transparency-over-gender-treatment-info-fails/",
+              "publisher": "OUTinPerth",
+              "date": "2025-11-13"
+            }
+          ],
+          "verified": true
+        },
+        "religious_freedom": {
+          "summary": "Greens MLC who has advocated for banning conversion practices in WA and for reforming the Equal Opportunity Act. Launching the Greens' LGBTQIA+ election platform priorities (12 February 2025), Pettitt said: 'In the next Parliament...the Greens (WA) will fight to ensure that life-changing reforms to the Equal Opportunity Act and the banning of archaic and harmful conversion practices...are finally realised.' He has criticised WA Labor's failure to deliver on promises to reform the Equal Opportunity Act, ban conversion practices and scrap the gender reassignment board, and stated the Greens have long pushed the government to reform the Act.",
+          "sources": [
+            {
+              "title": "Greens Centre LGBTQIA+ Priorities in Election Platform",
+              "url": "https://greens.org.au/wa/news/greens-centre-lgbtqia-priorities-election-platform",
+              "publisher": "Greens WA",
+              "date": "2025-02-12"
+            },
+            {
+              "title": "Brad Pettitt's February Update",
+              "url": "https://greens.org.au/wa/news/brad-pettitts-february-update",
+              "publisher": "Greens WA",
+              "date": "2024-03-22"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Council, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Brad_Pettitt.jpg/330px-Brad_Pettitt.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Brad_Pettitt"
     },
     {
       "id": "western-australia-katrina-stratton-statewide",
@@ -37011,7 +38240,9 @@
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Katrina_Stratton%2C_MLA_Nedlands%2C_with_a_dog.jpg/330px-Katrina_Stratton%2C_MLA_Nedlands%2C_with_a_dog.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Katrina_Stratton"
     },
     {
       "id": "western-australia-samantha-rowe-statewide",
@@ -37024,13 +38255,46 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted YES (Ayes) on the third reading of the Abortion Legislation Reform Bill 2023 in the WA Legislative Council on 20 September 2023, supporting the bill's passage. The bill decriminalised abortion (removing it from the Criminal Code), removed mandatory counselling and the doctor-referral requirement, and raised the gestational limit for additional restrictions from 20 to 23 weeks. The third reading passed 25 Ayes to 6 Noes.",
+          "sources": [
+            {
+              "title": "Extract from Hansard, Legislative Council, Wednesday 20 September 2023 (Abortion Legislation Reform Bill 2023, Third Reading division, p.4868)",
+              "url": "https://www.parliament.wa.gov.au/hansard/daily/uh/2023-09-20/pdf/download",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2023-09-20"
+            }
+          ],
+          "verified": true
+        },
+        "voluntary_assisted_dying": {
+          "summary": "Samantha Rowe voted FOR the Voluntary Assisted Dying Bill 2019 in the WA Legislative Council. On the conscience (free) vote, the member is recorded in the Ayes at the bill's second reading on 23 October 2019 (passed 25-10) and at the third reading on 5 December 2019 (passed 24-11).",
+          "sources": [
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — All Stages — Council Hansard (division lists)",
+              "url": "https://www.parliament.wa.gov.au/WebCMS/webcms.nsf/resources/file-vad-bill-2019---lc/$file/Voluntary%20Assisted%20Dying%20Bill%202019%20-%20All%20Stages%20-%20Hansard%20-%20Council.pdf",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2019"
+            },
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — Bill Progress",
+              "url": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm=&ParentUNID=502E87F2E1B94E27482584A3003A757C",
+              "publisher": "Parliament of Western Australia",
+              "date": "2019"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Council, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Samantha_Rowe.jpg/330px-Samantha_Rowe.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Samantha_Rowe"
     },
     {
       "id": "western-australia-phil-scott-statewide",
@@ -37043,13 +38307,28 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "faith": {
+          "summary": "Christian. In his inaugural speech to the Legislative Council (27 May 2025) Scott opened by acknowledging \"the Lord Jesus Christ, the King of the Nations\" and gave thanks for the grace extended to him.",
+          "sources": [
+            {
+              "title": "Hon Philip Scott MLC - Inaugural Speech (Reprinted from Hansard)",
+              "url": "https://www.parliament.wa.gov.au/parliament/Memblist.nsf/(MemberPics)/D82E6F99AE43E6FC48258C830024C0E1/$file/LC_Philip+Scott_Inaugural+Speech+2025.pdf",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2025-05-27"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Council, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Phil_Scott.png/330px-Phil_Scott.png",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Phil_Scott_%28Australian_politician%29"
     },
     {
       "id": "western-australia-tjorn-sibma-statewide",
@@ -37062,7 +38341,38 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted NO (Noes) on the third reading of the Abortion Legislation Reform Bill 2023 in the WA Legislative Council on 20 September 2023, opposing the bill's passage. The bill decriminalised abortion (removing it from the Criminal Code), removed mandatory counselling and the doctor-referral requirement, and raised the gestational limit for additional restrictions from 20 to 23 weeks. The bill nonetheless passed the Council 25 Ayes to 6 Noes.",
+          "sources": [
+            {
+              "title": "Extract from Hansard, Legislative Council, Wednesday 20 September 2023 (Abortion Legislation Reform Bill 2023, Third Reading division, p.4868)",
+              "url": "https://www.parliament.wa.gov.au/hansard/daily/uh/2023-09-20/pdf/download",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2023-09-20"
+            }
+          ],
+          "verified": true
+        },
+        "voluntary_assisted_dying": {
+          "summary": "Tjorn Sibma voted FOR the Voluntary Assisted Dying Bill 2019 in the WA Legislative Council. On the conscience (free) vote, the member is recorded in the Ayes at the bill's second reading on 23 October 2019 (passed 25-10) and at the third reading on 5 December 2019 (passed 24-11).",
+          "sources": [
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — All Stages — Council Hansard (division lists)",
+              "url": "https://www.parliament.wa.gov.au/WebCMS/webcms.nsf/resources/file-vad-bill-2019---lc/$file/Voluntary%20Assisted%20Dying%20Bill%202019%20-%20All%20Stages%20-%20Hansard%20-%20Council.pdf",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2019"
+            },
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — Bill Progress",
+              "url": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm=&ParentUNID=502E87F2E1B94E27482584A3003A757C",
+              "publisher": "Parliament of Western Australia",
+              "date": "2019"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Council, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
@@ -37100,13 +38410,46 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted YES (Ayes) on the third reading of the Abortion Legislation Reform Bill 2023 in the WA Legislative Council on 20 September 2023, supporting the bill's passage. The bill decriminalised abortion (removing it from the Criminal Code), removed mandatory counselling and the doctor-referral requirement, and raised the gestational limit for additional restrictions from 20 to 23 weeks. The third reading passed 25 Ayes to 6 Noes.",
+          "sources": [
+            {
+              "title": "Extract from Hansard, Legislative Council, Wednesday 20 September 2023 (Abortion Legislation Reform Bill 2023, Third Reading division, p.4868)",
+              "url": "https://www.parliament.wa.gov.au/hansard/daily/uh/2023-09-20/pdf/download",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2023-09-20"
+            }
+          ],
+          "verified": true
+        },
+        "voluntary_assisted_dying": {
+          "summary": "Matthew Swinbourn voted FOR the Voluntary Assisted Dying Bill 2019 in the WA Legislative Council. On the conscience (free) vote, the member is recorded in the Ayes at the bill's second reading on 23 October 2019 (passed 25-10) and at the third reading on 5 December 2019 (passed 24-11).",
+          "sources": [
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — All Stages — Council Hansard (division lists)",
+              "url": "https://www.parliament.wa.gov.au/WebCMS/webcms.nsf/resources/file-vad-bill-2019---lc/$file/Voluntary%20Assisted%20Dying%20Bill%202019%20-%20All%20Stages%20-%20Hansard%20-%20Council.pdf",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2019"
+            },
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — Bill Progress",
+              "url": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm=&ParentUNID=502E87F2E1B94E27482584A3003A757C",
+              "publisher": "Parliament of Western Australia",
+              "date": "2019"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Council, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Portrait_of_Matthew_Swinbourn_at_Serpentine_National_Park.jpg/330px-Portrait_of_Matthew_Swinbourn_at_Serpentine_National_Park.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Matthew_Swinbourn"
     },
     {
       "id": "western-australia-parwinder-kaur-statewide",
@@ -37119,7 +38462,20 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "faith": {
+          "summary": "Sikh. Kaur became the first Sikh woman elected to an Australian parliament and the first politician in Australia to be sworn in on Sikh scripture (the Gutka Sahib), standing barefoot with her head covered. She said \"Gurbani has helped shape my life\" and \"In Gurbani, we pray for sarbat da bhala (wellbeing for all)\" and stated that identifying openly with her religious beliefs helps her serve all Australians.",
+          "sources": [
+            {
+              "title": "Parwinder Kaur becomes first politician in Australia to be sworn in with Sikh scriptures",
+              "url": "https://www.sbs.com.au/language/punjabi/en/article/parwinder-kaur-becomes-first-politician-in-australia-to-be-sworn-in-with-sikh-scriptures/l493bx5no",
+              "publisher": "SBS Punjabi",
+              "date": "2025-05"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Council, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
@@ -37138,7 +38494,26 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "voluntary_assisted_dying": {
+          "summary": "Steve Thomas voted AGAINST the Voluntary Assisted Dying Bill 2019 in the WA Legislative Council. On the conscience (free) vote, the member is recorded in the Noes at the bill's second reading on 23 October 2019 (passed 25-10) and at the third reading on 5 December 2019 (passed 24-11).",
+          "sources": [
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — All Stages — Council Hansard (division lists)",
+              "url": "https://www.parliament.wa.gov.au/WebCMS/webcms.nsf/resources/file-vad-bill-2019---lc/$file/Voluntary%20Assisted%20Dying%20Bill%202019%20-%20All%20Stages%20-%20Hansard%20-%20Council.pdf",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2019"
+            },
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — Bill Progress",
+              "url": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm=&ParentUNID=502E87F2E1B94E27482584A3003A757C",
+              "publisher": "Parliament of Western Australia",
+              "date": "2019"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Council, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
@@ -37157,7 +38532,20 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted NO (Noes) on the third reading of the Abortion Legislation Reform Bill 2023 in the WA Legislative Council on 20 September 2023, opposing the bill's passage. The bill decriminalised abortion (removing it from the Criminal Code), removed mandatory counselling and the doctor-referral requirement, and raised the gestational limit for additional restrictions from 20 to 23 weeks. The bill nonetheless passed the Council 25 Ayes to 6 Noes.",
+          "sources": [
+            {
+              "title": "Extract from Hansard, Legislative Council, Wednesday 20 September 2023 (Abortion Legislation Reform Bill 2023, Third Reading division, p.4868)",
+              "url": "https://www.parliament.wa.gov.au/hansard/daily/uh/2023-09-20/pdf/download",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2023-09-20"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Council, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
@@ -37195,7 +38583,38 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "abortion": {
+          "summary": "Voted YES (Ayes) on the third reading of the Abortion Legislation Reform Bill 2023 in the WA Legislative Council on 20 September 2023, supporting the bill's passage. The bill decriminalised abortion (removing it from the Criminal Code), removed mandatory counselling and the doctor-referral requirement, and raised the gestational limit for additional restrictions from 20 to 23 weeks. The third reading passed 25 Ayes to 6 Noes.",
+          "sources": [
+            {
+              "title": "Extract from Hansard, Legislative Council, Wednesday 20 September 2023 (Abortion Legislation Reform Bill 2023, Third Reading division, p.4868)",
+              "url": "https://www.parliament.wa.gov.au/hansard/daily/uh/2023-09-20/pdf/download",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2023-09-20"
+            }
+          ],
+          "verified": true
+        },
+        "drugs_law_order": {
+          "summary": "Leader of the Legalise Cannabis WA Party and a GP, Walker is the WA Parliament's leading advocate for cannabis law reform. On 19 March 2026 he introduced the Misuse of Drugs (Lawful Personal Use of Cannabis) Amendment Bill 2026 in the Legislative Council, which would amend the Misuse of Drugs Act 1981 to allow adults to cultivate up to six cannabis plants at their primary residence, possess up to 50 grams for personal use, and gift up to 50 grams to other adults (no commercial sale, no public use, no use around children), and would void existing infringement notices for conduct made lawful. He framed it as 'treating adults like adults' and argued the decades-long prohibition is 'without merit' since medicinal cannabis was legalised in 2016. He became party leader in May 2024 and was re-elected in the 2025 state election.",
+          "sources": [
+            {
+              "title": "Cannabis Bill 2026",
+              "url": "https://www.brianwalkermlc.com.au/cannabis-bill-2026",
+              "publisher": "Hon Dr Brian Walker MLC",
+              "date": "2026-03-19"
+            },
+            {
+              "title": "Brian Walker (politician)",
+              "url": "https://en.wikipedia.org/wiki/Brian_Walker_(politician)",
+              "publisher": "Wikipedia",
+              "date": "2026"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Council, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
@@ -37214,13 +38633,70 @@
       "state": "WA",
       "status": "incumbent",
       "last_updated": "2026-06-26",
-      "positions": {},
+      "positions": {
+        "faith": {
+          "summary": "Catholic. In his inaugural speech to the Legislative Council (25 May 2017) Yang said \"I am proud to be Labor and I am proud to be Catholic,\" thanked Father Timothy Corcoran of Thornlie Sacred Heart Catholic Church for bringing him to the Catholic faith, and spoke of the similarities between Labor values and Catholic traditions.",
+          "sources": [
+            {
+              "title": "Hon Pierre Yang MLC - Inaugural Speech (Reprinted from Hansard)",
+              "url": "https://www.parliament.wa.gov.au/parliament/Memblist.nsf/(MemberPics)/439E2E709DA9281E482580F3002060A9/$file/PierreYangInaug2017.pdf",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2017-05-25"
+            }
+          ],
+          "verified": true
+        },
+        "abortion": {
+          "summary": "Voted YES (Ayes) on the third reading of the Abortion Legislation Reform Bill 2023 in the WA Legislative Council on 20 September 2023, supporting the bill's passage. The bill decriminalised abortion (removing it from the Criminal Code), removed mandatory counselling and the doctor-referral requirement, and raised the gestational limit for additional restrictions from 20 to 23 weeks. The third reading passed 25 Ayes to 6 Noes.",
+          "sources": [
+            {
+              "title": "Extract from Hansard, Legislative Council, Wednesday 20 September 2023 (Abortion Legislation Reform Bill 2023, Third Reading division, p.4868)",
+              "url": "https://www.parliament.wa.gov.au/hansard/daily/uh/2023-09-20/pdf/download",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2023-09-20"
+            }
+          ],
+          "verified": true
+        },
+        "voluntary_assisted_dying": {
+          "summary": "Pierre Yang voted FOR the Voluntary Assisted Dying Bill 2019 in the WA Legislative Council. On the conscience (free) vote, the member is recorded in the Ayes at the bill's second reading on 23 October 2019 (passed 25-10) and at the third reading on 5 December 2019 (passed 24-11).",
+          "sources": [
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — All Stages — Council Hansard (division lists)",
+              "url": "https://www.parliament.wa.gov.au/WebCMS/webcms.nsf/resources/file-vad-bill-2019---lc/$file/Voluntary%20Assisted%20Dying%20Bill%202019%20-%20All%20Stages%20-%20Hansard%20-%20Council.pdf",
+              "publisher": "Parliament of Western Australia (Hansard)",
+              "date": "2019"
+            },
+            {
+              "title": "Voluntary Assisted Dying Bill 2019 — Bill Progress",
+              "url": "https://www.parliament.wa.gov.au/parliament/bills.nsf/BillProgressPopup?openForm=&ParentUNID=502E87F2E1B94E27482584A3003A757C",
+              "publisher": "Parliament of Western Australia",
+              "date": "2019"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "Labor MLC. In the November 2025 Legislative Council debate on Australian Christians MLC Maryka Groenewald's motion seeking public disclosure of the Child and Adolescent Gender Diversity Service's Standards of Care, Yang opposed the motion and voted against it, saying: \"These concerns are not about secrecy; they are about safeguarding the wellbeing of patients.\" The motion was defeated 19-17.",
+          "sources": [
+            {
+              "title": "Australian Christians motion on transparency over gender treatment info fails",
+              "url": "https://www.outinperth.com/australian-christians-motion-on-transparency-over-gender-treatment-info-fails/",
+              "publisher": "OUTinPerth",
+              "date": "2025-11-13"
+            }
+          ],
+          "verified": true
+        }
+      },
       "roster_source": {
         "title": "Members of the Western Australian Legislative Council, 2025–2029",
         "url": "https://en.wikipedia.org/wiki/Members_of_the_Western_Australian_Legislative_Council,_2025%E2%80%932029",
         "publisher": "Wikipedia",
         "date": ""
-      }
+      },
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Pierre_Yang%2C_Portrait.jpg",
+      "photo_credit_url": "https://en.wikipedia.org/wiki/Pierre_Yang"
     }
   ]
 }
