@@ -26131,6 +26131,18 @@
       "status": "incumbent",
       "last_updated": "2026-06-26",
       "positions": {
+        "faith": {
+          "summary": "Bernardi is described as a conservative Catholic; in his 2006 Senate maiden speech he pledged to be guided by Judeo-Christian principles.",
+          "sources": [
+            {
+              "title": "Cory Bernardi",
+              "url": "https://en.wikipedia.org/wiki/Cory_Bernardi",
+              "publisher": "Wikipedia",
+              "date": ""
+            }
+          ],
+          "verified": true
+        },
         "abortion": {
           "summary": "Voted in favour of Sarah Game's bill to restrict access to late-term abortions in the Legislative Council on 17 June 2026, where it passed 10 votes to 9 before being defeated in the House of Assembly.",
           "sources": [
@@ -26157,6 +26169,18 @@
               "url": "https://www.starobserver.com.au/news/cory-bernardi-speech-walkout/241900",
               "publisher": "Star Observer",
               "date": "2026-05-20"
+            }
+          ],
+          "verified": true
+        },
+        "religious_freedom": {
+          "summary": "Bernardi has a long record advocating freedom of conscience and warning of risks to religious freedom. In July 2019, as a federal Senator for SA, he tabled an 'Australian Freedoms Bill' intended to 'ring-fence Australia's key freedoms', and warned that a religious freedom act, 'unless handled carefully, gravely risks a slippery slope towards blasphemy laws.'",
+          "sources": [
+            {
+              "title": "Rights are cannibalising each other: Bernardi takes aim",
+              "url": "https://www.canberratimes.com.au/story/6289548/rights-are-cannibalising-each-other-bernardi-takes-aim/",
+              "publisher": "The Canberra Times",
+              "date": "2019-07-24"
             }
           ],
           "verified": true
@@ -26264,6 +26288,18 @@
             }
           ],
           "verified": true
+        },
+        "religious_freedom": {
+          "summary": "Centofanti, Liberal Leader in the Legislative Council, states on her official website: 'I believe in the fundamental rights and freedoms of every person, including the freedom of thought, speech, worship and association.' She opposed the Conversion Practices Prohibition Bill 2024, questioning its necessity (a Liberal conscience vote).",
+          "sources": [
+            {
+              "title": "The Hon. Nicola Centofanti MLC",
+              "url": "https://www.nicolacentofanti.com.au/",
+              "publisher": "Nicola Centofanti (official website)",
+              "date": ""
+            }
+          ],
+          "verified": true
         }
       },
       "roster_source": {
@@ -26287,6 +26323,18 @@
       "status": "incumbent",
       "last_updated": "2026-06-26",
       "positions": {
+        "faith": {
+          "summary": "Wikipedia records El Dannawi as the first Muslim member of the South Australian Parliament.",
+          "sources": [
+            {
+              "title": "Mira El Dannawi",
+              "url": "https://en.wikipedia.org/wiki/Mira_El_Dannawi",
+              "publisher": "Wikipedia",
+              "date": ""
+            }
+          ],
+          "verified": true
+        },
         "abortion": {
           "summary": "Voted against Sarah Game's bill to restrict access to late-term abortions in the Legislative Council on 17 June 2026; the bill passed the upper house 10 votes to 9 but was later defeated in the House of Assembly. Also voted against Liberal MLC Ben Hood's 2024 Termination of Pregnancy amendment bill, which was defeated in the Legislative Council 10 votes to 9 in October 2024.",
           "sources": [
@@ -26542,6 +26590,18 @@
             }
           ],
           "verified": true
+        },
+        "religious_freedom": {
+          "summary": "In the Legislative Council on the Conversion Practices Prohibition Bill 2024 (a Liberal conscience vote) Henderson spoke against the bill, raising religious-freedom concerns including that religious schools might lack protection for expressing biblical viewpoints on sexuality.",
+          "sources": [
+            {
+              "title": "Conversion Practices Prohibition Bill",
+              "url": "https://laurahenderson.com.au/posts/conversion-practices-prohibition-bill",
+              "publisher": "Hon Laura Henderson MLC (official website)",
+              "date": "2024-09-24"
+            }
+          ],
+          "verified": true
         }
       },
       "roster_source": {
@@ -26637,6 +26697,18 @@
       "status": "incumbent",
       "last_updated": "2026-06-26",
       "positions": {
+        "faith": {
+          "summary": "Hood converted to Christianity at age 19 and continues to attend church regularly; he is identified as a Baptist and has referred to his Christian convictions in relation to his political positions.",
+          "sources": [
+            {
+              "title": "Dennis Hood",
+              "url": "https://en.wikipedia.org/wiki/Dennis_Hood",
+              "publisher": "Wikipedia",
+              "date": ""
+            }
+          ],
+          "verified": true
+        },
         "abortion": {
           "summary": "Voted in favour of Sarah Game's bill to restrict access to late-term abortions in the Legislative Council on 17 June 2026, where it passed 10 votes to 9 before being defeated in the House of Assembly.",
           "sources": [
@@ -26657,6 +26729,36 @@
               "url": "https://www.vadsa.org.au/vad_passes_overwhelmingly_in_sa_legislative_council",
               "publisher": "Voluntary Assisted Dying South Australia (VADSA)",
               "date": "2021-05-06"
+            }
+          ],
+          "verified": true
+        },
+        "religious_freedom": {
+          "summary": "Hood has a record of supporting faith-based exemptions and religious observance. In 2007 he defended prayer in parliament; in 2009 he rejected the Greens' call to name religious schools that discriminate on sexual orientation; and in 2016 he proposed an amendment allowing medical professionals to refuse reproductive assistance on conscientious-objection grounds.",
+          "sources": [
+            {
+              "title": "Dennis Hood",
+              "url": "https://en.wikipedia.org/wiki/Dennis_Hood",
+              "publisher": "Wikipedia",
+              "date": ""
+            }
+          ],
+          "verified": true
+        },
+        "drugs_law_order": {
+          "summary": "Hood has a long, publicly documented record opposing drug liberalisation and favouring enforcement. He has praised abstinence-based drug policy, pushed for tougher cannabis penalties (proposing in 2013 raising maximum fines for small grows), opposed medicinal cannabis arguing 'the harm outweighs the therapeutic benefits,' and advocated minimum sentences for repeat offenders.",
+          "sources": [
+            {
+              "title": "Dennis Hood",
+              "url": "https://en.wikipedia.org/wiki/Dennis_Hood",
+              "publisher": "Wikipedia",
+              "date": ""
+            },
+            {
+              "title": "Drug Free Australia parliamentary speech of the Hon Dennis Hood",
+              "url": "https://wfad.se/activity/member-activity/drug-free-australia-speech-by-parliamentary-speech-of-the-honorable-dennis-hood-government-of-south-australia-australia/",
+              "publisher": "World Federation Against Drugs",
+              "date": "2018-09-05"
             }
           ],
           "verified": true
@@ -26683,6 +26785,18 @@
       "status": "incumbent",
       "last_updated": "2026-06-26",
       "positions": {
+        "faith": {
+          "summary": "Hunter is an atheist; he contributed a chapter titled 'Parliament and Prayer' to the 2010 Australian Book of Atheism and has publicly described opening parliament with prayer as archaic.",
+          "sources": [
+            {
+              "title": "Ian Hunter (politician)",
+              "url": "https://en.wikipedia.org/wiki/Ian_Hunter_(politician)",
+              "publisher": "Wikipedia",
+              "date": ""
+            }
+          ],
+          "verified": true
+        },
         "abortion": {
           "summary": "Voted against Sarah Game's bill to restrict access to late-term abortions in the Legislative Council on 17 June 2026; the bill passed the upper house 10 votes to 9 but was later defeated in the House of Assembly. Also voted against Liberal MLC Ben Hood's 2024 Termination of Pregnancy amendment bill, which was defeated in the Legislative Council 10 votes to 9 in October 2024.",
           "sources": [
@@ -26726,6 +26840,18 @@
               "title": "Conversion practices",
               "url": "https://www.saraa.org.au/conversion-practices/",
               "publisher": "SA Rainbow Advocacy Alliance",
+              "date": "2024"
+            }
+          ],
+          "verified": true
+        },
+        "religious_freedom": {
+          "summary": "Hunter, an atheist, has advocated secular reform, repeatedly calling for the removal of prayers from the opening of parliament, and in late 2023 called for South Australia to ban conversion practices in step with other states.",
+          "sources": [
+            {
+              "title": "Labor MP calls for ban on conversion practices in South Australia",
+              "url": "https://rationalist.com.au/labor-mp-calls-for-ban-on-conversion-practices-in-south-australia/",
+              "publisher": "Rationalist Society of Australia",
               "date": "2024"
             }
           ],
@@ -26779,6 +26905,18 @@
               "url": "https://www.vadsa.org.au/vad_passes_overwhelmingly_in_sa_legislative_council",
               "publisher": "Voluntary Assisted Dying South Australia (VADSA)",
               "date": "2021-05-06"
+            }
+          ],
+          "verified": true
+        },
+        "religious_freedom": {
+          "summary": "Lensink, a Liberal MLC, spoke in the Legislative Council on 24 September 2024 to support the Conversion Practices Prohibition Bill 2024, saying 'I rise to indicate that I will be supporting this legislation' and that she would not support amendments to it.",
+          "sources": [
+            {
+              "title": "Conversion Practices Prohibition Bill (Hansard, Legislative Council)",
+              "url": "https://www.abbi.org.au/2024/09/conversion-practices-prohibition-bill-sa/",
+              "publisher": "Australian Baptists / SA Hansard transcript",
+              "date": "2024-09-24"
             }
           ],
           "verified": true
@@ -27144,6 +27282,18 @@
             }
           ],
           "verified": true
+        },
+        "religious_freedom": {
+          "summary": "On 28 August 2024 Greens MLC Simms introduced the Equal Opportunity (Religious Bodies) Amendment Bill into the Legislative Council, seeking to remove exemptions in the Equal Opportunity Act that allow religious bodies such as schools and welfare providers to discriminate on grounds including sexual orientation and gender identity.",
+          "sources": [
+            {
+              "title": "Simms calls on Malinauskas to remove South Australia's religious exemptions to discrimination laws",
+              "url": "https://rationalist.com.au/simms-calls-on-malinauskas-to-show-leadership-and-remove-south-australias-religious-exemptions-to-discrimination-laws/",
+              "publisher": "Rationalist Society of Australia",
+              "date": "2024-08-28"
+            }
+          ],
+          "verified": true
         }
       },
       "roster_source": {
@@ -27294,6 +27444,18 @@
             }
           ],
           "verified": true
+        },
+        "drugs_law_order": {
+          "summary": "Batty, Shadow Minister for Community Safety, Police and Corrections, has campaigned on tough bail and sentencing. In February 2025 he announced Liberal legislation for a mandatory minimum six-month sentence for assaulting police ('If you assault a police officer, you will go to jail'), and in January 2026 backed a 'Break bail, face jail' presumption against bail for serious repeat offenders.",
+          "sources": [
+            {
+              "title": "Liberals introduce new laws to crack down on attacks on police",
+              "url": "https://jackbatty.com.au/media-release/liberals-introduce-new-laws-to-crack-down-on-attacks-on-police",
+              "publisher": "Jack Batty MP",
+              "date": "2025-02"
+            }
+          ],
+          "verified": true
         }
       },
       "roster_source": {
@@ -27421,6 +27583,18 @@
               "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
               "publisher": "InDaily",
               "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "In March 2026 Boyer publicly criticised the SA Liberal Party over a preselected candidate who had made anti-LGBTIQ statements, calling the preselection 'shambolic' and the candidate's views 'shocking' and 'extreme'.",
+          "sources": [
+            {
+              "title": "SA Liberal candidate claims homosexuality opens demonic realms",
+              "url": "https://www.outinperth.com/sa-liberal-candidate-claims-homosexuality-opens-demonic-realms-same-sex-marriage-is-not-real-and-gender-transition-is-an-illusion/",
+              "publisher": "OUTinPerth",
+              "date": "2026-03-11"
             }
           ],
           "verified": true
@@ -27560,6 +27734,18 @@
             }
           ],
           "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "In a 20 August 2025 parliamentary speech marking 50 years since SA decriminalised homosexuality, Clancy said the conversion-practices ban 'sends a clear message to all South Australians of diverse genders and sexualities: you are not broken, you do not need fixing, and you are loved and valued for who you are.'",
+          "sources": [
+            {
+              "title": "Decriminalisation of Homosexuality in South Australia (speech)",
+              "url": "https://www.nadiaclancy.com.au/parliament/v/pc2m862d9rjnk4m7g4xzcfxd67bcew",
+              "publisher": "Nadia Clancy MP (official website)",
+              "date": "2025-08-20"
+            }
+          ],
+          "verified": true
         }
       },
       "roster_source": {
@@ -27641,6 +27827,18 @@
       "status": "incumbent",
       "last_updated": "2026-06-26",
       "positions": {
+        "faith": {
+          "summary": "In his February 2025 first speech, Dighton spoke of his Catholic faith, recounting that his family regularly attended Sunday Mass at St Joseph's Kingswood, that he was educated at Cabra Dominican College, and that he continues to celebrate Mass in the Cabra Chapel community.",
+          "sources": [
+            {
+              "title": "Grace-filled start to political life",
+              "url": "https://thesoutherncross.org.au/news/2025/03/07/grace-filled-start-to-political-life/",
+              "publisher": "The Southern Cross",
+              "date": "2025-03-07"
+            }
+          ],
+          "verified": true
+        },
         "abortion": {
           "summary": "Did not vote on Sarah Game's June 2026 late-term abortion restriction bill in the House of Assembly as he was on paternity leave.",
           "sources": [
@@ -27705,6 +27903,18 @@
       "status": "incumbent",
       "last_updated": "2026-06-26",
       "positions": {
+        "faith": {
+          "summary": "Hildyard is a practising Catholic, per her Wikipedia biography which cites her 2014 first speech in the South Australian Hansard.",
+          "sources": [
+            {
+              "title": "Katrine Hildyard",
+              "url": "https://en.wikipedia.org/wiki/Katrine_Hildyard",
+              "publisher": "Wikipedia",
+              "date": ""
+            }
+          ],
+          "verified": true
+        },
         "abortion": {
           "summary": "Voted against Family First MLC Sarah Game's bill to restrict access to late-term abortions in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
           "sources": [
@@ -27713,6 +27923,18 @@
               "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
               "publisher": "InDaily",
               "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "As Minister, Hildyard announced an $80,000 South Australian government commitment to the Adelaide Pride March at the 2026 SA Pride Gala on 6 June 2026.",
+          "sources": [
+            {
+              "title": "SA Gov't announces $80k commitment to Pride March at 2026 SA Pride Gala",
+              "url": "https://www.starobserver.com.au/news/sa-govt-announces-80k-commitment-to-pride-march-at-2026-sa-pride-gala/242107",
+              "publisher": "Star Observer",
+              "date": "2026-06-09"
             }
           ],
           "verified": true
@@ -27836,6 +28058,18 @@
             }
           ],
           "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "During 2012 South Australian parliamentary debate, Koutsantonis stated his belief that marriage should be between a man and a woman, opposing same-sex marriage while supporting civil unions and legal rights for same-sex couples.",
+          "sources": [
+            {
+              "title": "Tom Koutsantonis",
+              "url": "https://en.wikipedia.org/wiki/Tom_Koutsantonis",
+              "publisher": "Wikipedia",
+              "date": ""
+            }
+          ],
+          "verified": true
         }
       },
       "roster_source": {
@@ -27859,6 +28093,18 @@
       "status": "incumbent",
       "last_updated": "2026-06-26",
       "positions": {
+        "faith": {
+          "summary": "Malinauskas identifies as Catholic; he comes from a Catholic family, was educated at the Catholic Mercedes College, and has publicly described his Catholic faith as important to him.",
+          "sources": [
+            {
+              "title": "Peter Malinauskas",
+              "url": "https://en.wikipedia.org/wiki/Peter_Malinauskas",
+              "publisher": "Wikipedia",
+              "date": ""
+            }
+          ],
+          "verified": true
+        },
         "abortion": {
           "summary": "Voted in favour of Family First MLC Sarah Game's bill to restrict access to late-term abortions when it was debated in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
           "sources": [
@@ -27867,6 +28113,18 @@
               "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
               "publisher": "InDaily",
               "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "As Premier, Malinauskas leads the Labor government that passed the Conversion Practices Prohibition Act 2024. Reflecting on 50 years since SA decriminalised homosexuality, he said 'we have come a long way, the march of progress is on the side of decency of love,' and tasked Ian Hunter with chairing the commemorative committee.",
+          "sources": [
+            {
+              "title": "South Australia Premier on 50 years since gay decriminalisation",
+              "url": "https://qnews.com.au/sa-premier-reflects-on-50-years-since-gay-decriminalisation/",
+              "publisher": "QNews",
+              "date": "2025"
             }
           ],
           "verified": true
@@ -28149,6 +28407,18 @@
       "status": "incumbent",
       "last_updated": "2026-06-26",
       "positions": {
+        "faith": {
+          "summary": "Paton has publicly said his Christian faith was integral to his recovery after two near-fatal cycling accidents.",
+          "sources": [
+            {
+              "title": "'Hit by car': One Nation MP on surviving two near-death cycling accidents",
+              "url": "https://www.indailysa.com.au/news/in-depth/2026/05/28/hit-by-car-one-nation-mp-on-surviving-two-near-death-cycling-accidents",
+              "publisher": "InDaily",
+              "date": "2026-05-28"
+            }
+          ],
+          "verified": true
+        },
         "abortion": {
           "summary": "Voted in favour of Family First MLC Sarah Game's bill to restrict access to late-term abortions when it was debated in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
           "sources": [
@@ -28192,6 +28462,18 @@
             }
           ],
           "verified": true
+        },
+        "drugs_law_order": {
+          "summary": "As Minister for Correctional Services, Pearce's office stated in November 2025 that South Australia has the lowest recidivism rate in the nation, attributing this partly to employment programs (Work Ready, Release Ready) and funding for drug and alcohol support for former detainees.",
+          "sources": [
+            {
+              "title": "SA ex-prisoner's call on drugs as user numbers surge in courts",
+              "url": "https://www.indailysa.com.au/news/in-depth/2025/11/24/sa-ex-prisoners-call-on-drugs-as-user-numbers-surge-in-courts",
+              "publisher": "InDaily",
+              "date": "2025-11-24"
+            }
+          ],
+          "verified": true
         }
       },
       "roster_source": {
@@ -28223,6 +28505,18 @@
               "url": "https://www.indailysa.com.au/news/just-in/2026/06/17/how-your-mp-voted-on-the-abortion-bill",
               "publisher": "InDaily",
               "date": "2026-06-17"
+            }
+          ],
+          "verified": true
+        },
+        "gender_lgbtq": {
+          "summary": "As Health Minister, Picton said on gender-affirming healthcare for trans young people that 'medical decisions should be made by doctors, not by politicians,' pointing to reviews in NSW and Queensland that found such services safe and evidence-based, and committing to consider the national NHMRC review.",
+          "sources": [
+            {
+              "title": "SA Health Minister responds to concerns about trans youth healthcare",
+              "url": "https://www.saraa.org.au/sa-health-minister-responds-to-concerns-about-trans-youth-healthcare/",
+              "publisher": "SA Rainbow Advocacy Alliance",
+              "date": "2025-06-15"
             }
           ],
           "verified": true
@@ -28381,6 +28675,18 @@
       "status": "incumbent",
       "last_updated": "2026-06-26",
       "positions": {
+        "faith": {
+          "summary": "In his May 2026 maiden speech Roylance spoke of his Christian faith, recounting discovering it through the underground church while teaching in China, saying he was in Parliament 'because of (God's) will', and closing with 'Viva Cristo Rey' ('long live Christ the King').",
+          "sources": [
+            {
+              "title": "Robert Roylance promises to be 'voice for everyday people' in maiden speech",
+              "url": "https://www.murraybridge.news/robert-roylance-promises-to-be-voice-for-everyday-people-in-maiden-speech/",
+              "publisher": "Murray Bridge News",
+              "date": "2026-05-20"
+            }
+          ],
+          "verified": true
+        },
         "abortion": {
           "summary": "Voted in favour of Family First MLC Sarah Game's bill to restrict access to late-term abortions when it was debated in the House of Assembly on 18 June 2026; the bill was defeated in the lower house 36 votes to 9.",
           "sources": [
