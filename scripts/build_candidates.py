@@ -159,6 +159,8 @@ def aec_donor_source(name, fy):
 
 def build_donors():
     """Return {norm_key: (display_name, chamber, donor_block)} from AEC returns."""
+    import donor_info as donor_info_mod
+    registry = donor_info_mod.load()
     totals = defaultdict(list)   # name -> [(fy, total, count)]
     items = defaultdict(list)    # name -> [(fy, donor, amount)]
     chamber_of = {}
@@ -190,11 +192,14 @@ def build_donors():
             + "Note: member returns capture only donations made directly to the member, "
             "not money received via a party; figures are partial."
         )
-        entries = [
-            {"donor": donor, "amount_aud": amount, "financial_year": fy,
-             "source_type": "unknown", "sources": [aec_donor_source(name, fy)]}
-            for fy, donor, amount in sorted(items.get(name, []), reverse=True)
-        ]
+        entries = []
+        for fy, donor, amount in sorted(items.get(name, []), reverse=True):
+            entry = {"donor": donor, "amount_aud": amount, "financial_year": fy,
+                     "source_type": "unknown", "sources": [aec_donor_source(name, fy)]}
+            info = donor_info_mod.info_for(donor, registry)
+            if info:
+                entry["info"] = info
+            entries.append(entry)
         latest_fy = yt[0][0] if yt else ""
         key = norm_key(name)
         key = ALIASES.get(key, key)

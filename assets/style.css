@@ -63,6 +63,11 @@ body {
 .party-years { margin: 0 0 .5rem; color: var(--muted); font-size: .82rem; }
 .party-more { margin: .5rem 0 0; color: var(--muted); font-size: .78rem; font-style: italic; }
 .donor-name { }
+.donor-link { color: var(--accent, #0b6); text-decoration: none; border-bottom: 1px dotted currentColor; }
+.donor-link:hover { text-decoration: none; border-bottom-style: solid; }
+.donor-linktype { display: inline-block; margin-left: .35rem; font-size: .62rem; text-transform: uppercase; letter-spacing: .03em; color: var(--muted); border: 1px solid var(--line); border-radius: 3px; padding: 0 .25rem; vertical-align: middle; }
+.donor-cat { display: inline-block; margin-left: .35rem; font-size: .66rem; color: var(--muted); font-style: italic; }
+.donor-desc { color: var(--muted); font-size: .76rem; margin-top: .15rem; line-height: 1.35; max-width: 48ch; }
 .donor-years { color: var(--muted); font-size: .74rem; margin-top: .1rem; }
 .controls input,
 .controls select {

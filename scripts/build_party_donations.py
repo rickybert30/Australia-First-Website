@@ -20,6 +20,8 @@ import json
 import os
 from collections import defaultdict
 
+import donor_info as donor_info_mod
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 SRC = os.path.join(HERE, "..", "data", "sources", "aec_party_donations.csv")
 DEST = os.path.join(HERE, "..", "data", "party_donations.json")
@@ -67,6 +69,7 @@ def family(name):
 
 
 def main():
+    registry = donor_info_mod.load()
     # party -> donor -> {fy: amount}
     donors = defaultdict(lambda: defaultdict(lambda: defaultdict(float)))
     fys = defaultdict(set)
@@ -93,11 +96,15 @@ def main():
             dtotal = sum(years.values())
             for fy, amt in years.items():
                 totals_by_year[fy] += amt
-            donor_list.append({
+            entry = {
                 "donor": donor,
                 "total_aud": round(dtotal),
                 "by_year": {fy: round(amt) for fy, amt in sorted(years.items())},
-            })
+            }
+            info = donor_info_mod.info_for(donor, registry)
+            if info:
+                entry["info"] = info
+            donor_list.append(entry)
         donor_list.sort(key=lambda d: d["total_aud"], reverse=True)
         parties.append({
             "party": party,

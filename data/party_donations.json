@@ -26,6 +26,12 @@
           "by_year": {
             "2021-22": 116844852,
             "2022-23": 7088865
+          },
+          "info": {
+            "link": "https://mineralogy.com.au/",
+            "link_type": "website",
+            "description": "Mineralogy is a privately held mining and exploration company, principally involved in iron ore (magnetite) in Western Australia's Pilbara region, founded and owned by businessman Clive Palmer.",
+            "category": "company"
           }
         }
       ],
@@ -59,6 +65,12 @@
             "2021-22": 1600000,
             "2023-24": 800000,
             "2024-25": 4010000
+          },
+          "info": {
+            "link": "https://transparency.aec.gov.au/ClientEntity/EntityDetail?clientIdentifier=1156&clientType=associatedentity",
+            "link_type": "website",
+            "description": "Labor Holdings Pty Ltd is a fundraising and investment vehicle registered with the Australian Electoral Commission as an associated entity of the Australian Labor Party (Queensland branch).",
+            "category": "investment vehicle"
           }
         },
         {
@@ -69,6 +81,12 @@
             "2022-23": 1000000,
             "2023-24": 1000000,
             "2024-25": 2000000
+          },
+          "info": {
+            "link": "https://en.wikipedia.org/wiki/Anthony_Pratt",
+            "link_type": "wikipedia",
+            "description": "Pratt Holdings Proprietary Limited is the private holding company of the Pratt family's Visy group, a paper, packaging and recycling business; it is controlled by Australian businessman Anthony Pratt, chairman of Visy.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -76,6 +94,12 @@
           "total_aud": 3115000,
           "by_year": {
             "2024-25": 3115000
+          },
+          "info": {
+            "link": "https://meu.org.au/",
+            "link_type": "website",
+            "description": "The Mining and Energy Union (MEU) is an Australian trade union representing workers in the coal mining and energy industries; it became an independent registered organisation in December 2023 after withdrawing from the CFMMEU.",
+            "category": "union"
           }
         },
         {
@@ -86,6 +110,12 @@
             "2022-23": 4510,
             "2023-24": 57500,
             "2024-25": 1249862
+          },
+          "info": {
+            "link": "https://unitedworkers.org.au/",
+            "link_type": "website",
+            "description": "The United Workers Union (UWU) is an Australian trade union covering more than 150,000 workers across over 45 industries, formed in 2019 from the merger of United Voice and the National Union of Workers.",
+            "category": "union"
           }
         },
         {
@@ -95,6 +125,12 @@
             "2021-22": 963921,
             "2022-23": 33954,
             "2024-25": 1323144
+          },
+          "info": {
+            "link": "https://www.alp.org.au/",
+            "link_type": "website",
+            "description": "The Victorian Branch of the Australian Labor Party is the Victorian state division of the ALP, one of Australia's two major political parties.",
+            "category": "political party body"
           }
         },
         {
@@ -103,6 +139,12 @@
           "by_year": {
             "2021-22": 250000,
             "2024-25": 1580260
+          },
+          "info": {
+            "link": "https://www.alp.org.au/",
+            "link_type": "website",
+            "description": "The Queensland Branch of the Australian Labor Party is the Queensland state division of the ALP, one of Australia's two major political parties.",
+            "category": "political party body"
           }
         },
         {
@@ -119,6 +161,12 @@
             "2021-22": 598000,
             "2022-23": 598000,
             "2023-24": 180000
+          },
+          "info": {
+            "link": "https://transparency.aec.gov.au/ClientEntity/EntityDetail?clientIdentifier=1156&clientType=associatedentity",
+            "link_type": "website",
+            "description": "Labor Services & Holdings is a trustee/holding vehicle associated with the Australian Labor Party, used to hold assets and channel funds; entities of this name are registered in the AEC's associated-entity disclosures for the ALP.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -126,6 +174,12 @@
           "total_aud": 1060000,
           "by_year": {
             "2021-22": 1060000
+          },
+          "info": {
+            "link": "https://www.etunational.asn.au/",
+            "link_type": "website",
+            "description": "The Electrical Trades Union (ETU) is an Australian trade union of more than 60,000 electricians, apprentices and electrical workers; it is the largest division of the Communications, Electrical and Plumbing Union (CEPU).",
+            "category": "union"
           }
         },
         {
@@ -134,6 +188,12 @@
           "by_year": {
             "2021-22": 1000000,
             "2023-24": 50000
+          },
+          "info": {
+            "link": "https://cg.cfmeu.org/",
+            "link_type": "website",
+            "description": "The Construction and General Division of the Construction, Forestry and Maritime Employees Union (CFMEU) is an Australian trade union representing construction workers; it was placed under external administration in August 2024.",
+            "category": "union"
           }
         },
         {
@@ -142,6 +202,12 @@
           "by_year": {
             "2021-22": 170000,
             "2024-25": 870000
+          },
+          "info": {
+            "link": "https://www.alp.org.au/",
+            "link_type": "website",
+            "description": "The Western Australian Branch of the Australian Labor Party is the WA state division of the ALP, one of Australia's two major political parties.",
+            "category": "political party body"
           }
         },
         {
@@ -150,6 +216,12 @@
           "by_year": {
             "2021-22": 1000000,
             "2023-24": 10000
+          },
+          "info": {
+            "link": "https://www.sda.au/",
+            "link_type": "website",
+            "description": "The Shop, Distributive and Allied Employees' Association (SDA) is an Australian private-sector trade union representing retail, fast-food and warehousing workers, and is one of the largest unions in the country.",
+            "category": "union"
           }
         },
         {
@@ -158,6 +230,12 @@
           "by_year": {
             "2021-22": 285025,
             "2024-25": 686452
+          },
+          "info": {
+            "link": "https://www.alp.org.au/",
+            "link_type": "website",
+            "description": "The New South Wales Branch of the Australian Labor Party is the NSW state division of the ALP, one of Australia's two major political parties.",
+            "category": "political party body"
           }
         },
         {
@@ -165,6 +243,12 @@
           "total_aud": 598000,
           "by_year": {
             "2024-25": 598000
+          },
+          "info": {
+            "link": "https://transparency.aec.gov.au/ClientEntity/EntityDetail?clientIdentifier=1156&clientType=associatedentity",
+            "link_type": "website",
+            "description": "Labor Services & Holding is a trustee/holding vehicle associated with the Australian Labor Party, used to hold assets and channel funds; entities of this name appear in the AEC's associated-entity disclosures for the ALP.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -172,6 +256,12 @@
           "total_aud": 548000,
           "by_year": {
             "2024-25": 548000
+          },
+          "info": {
+            "link": "https://www.ppteu.asn.au/",
+            "link_type": "website",
+            "description": "The Plumbing and Pipe Trades Employees Union (PPTEU) is an Australian trade union covering plumbers, gasfitters, drainers and pipefitters; it forms the plumbing division of the Communications, Electrical and Plumbing Union (CEPU).",
+            "category": "union"
           }
         },
         {
@@ -180,6 +270,12 @@
           "by_year": {
             "2021-22": 169362,
             "2024-25": 367316
+          },
+          "info": {
+            "link": "https://www.alp.org.au/",
+            "link_type": "website",
+            "description": "The national campaign office and head office of the Australian Labor Party (ALP), a major centre-left Australian political party. It administers the ALP National Executive and is led by the National Secretary.",
+            "category": "political party body"
           }
         },
         {
@@ -188,6 +284,12 @@
           "by_year": {
             "2021-22": 53800,
             "2024-25": 480000
+          },
+          "info": {
+            "link": "https://www.sda.au/",
+            "link_type": "website",
+            "description": "The Shop, Distributive and Allied Employees' Association (SDA) is an Australian private-sector trade union representing retail, fast-food and warehousing workers, and is one of Australia's largest unions with over 200,000 members.",
+            "category": "union"
           }
         },
         {
@@ -195,6 +297,12 @@
           "total_aud": 500000,
           "by_year": {
             "2024-25": 500000
+          },
+          "info": {
+            "link": "https://www.businessnews.com.au/Company/Australian-Capital-Equity",
+            "link_type": "website",
+            "description": "Australian Capital Equity (ACE) is the main private investment company of businessman Kerry Stokes, founded in 1980. Its principal asset is a controlling stake in ASX-listed Seven Group Holdings, with interests across media, resources and other sectors.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -202,6 +310,12 @@
           "total_aud": 500000,
           "by_year": {
             "2024-25": 500000
+          },
+          "info": {
+            "link": "https://www.linfox.com/about-linfox/fox-group/",
+            "link_type": "website",
+            "description": "Fox Group Holdings is the private holding company of the Fox family, founded by businessman Lindsay Fox. The group's interests include the Linfox transport and logistics business, property, airports and Linfox Armaguard currency management.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -209,6 +323,12 @@
           "total_aud": 500000,
           "by_year": {
             "2021-22": 500000
+          },
+          "info": {
+            "link": "https://meu.org.au/",
+            "link_type": "website",
+            "description": "The Mining and Energy Union (MEU) is Australia's main trade union for the coal mining and energy sectors, covering mines, power stations and ports. It became a standalone registered union in December 2023 after withdrawing from the CFMEU.",
+            "category": "union"
           }
         },
         {
@@ -216,6 +336,12 @@
           "total_aud": 470000,
           "by_year": {
             "2024-25": 470000
+          },
+          "info": {
+            "link": "https://usu.org.au/",
+            "link_type": "website",
+            "description": "Trading as the United Services Union (USU), this is an Australian trade union representing local government, energy, utilities, airlines, clerical and administrative workers across NSW and the ACT. It is affiliated with the ACTU and the Labor Party.",
+            "category": "union"
           }
         },
         {
@@ -223,6 +349,12 @@
           "total_aud": 439381,
           "by_year": {
             "2024-25": 439381
+          },
+          "info": {
+            "link": "https://www.amwu.org.au/",
+            "link_type": "website",
+            "description": "The Australian Manufacturing Workers' Union (AMWU), officially the Automotive, Food, Metals, Engineering, Printing and Kindred Industries Union, is an Australian trade union representing workers in the manufacturing and industrial sectors. It is affiliated with the ACTU and the Labor Party.",
+            "category": "union"
           }
         },
         {
@@ -231,6 +363,12 @@
           "by_year": {
             "2021-22": 190000,
             "2024-25": 245000
+          },
+          "info": {
+            "link": "https://hsu.net.au/",
+            "link_type": "website",
+            "description": "The Health Services Union (HSU) is an Australian trade union representing workers in the healthcare and social assistance sectors, including hospital, ambulance, aged care and allied health staff. The NSW branch is part of the national HSU.",
+            "category": "union"
           }
         },
         {
@@ -238,6 +376,12 @@
           "total_aud": 400000,
           "by_year": {
             "2021-22": 400000
+          },
+          "info": {
+            "link": "https://vic.cfmeu.org/",
+            "link_type": "website",
+            "description": "The Victorian branch of the Construction and General Division of the Construction, Forestry and Maritime Employees Union (CFMEU), an Australian trade union representing construction workers in Victoria and Tasmania.",
+            "category": "union"
           }
         },
         {
@@ -246,6 +390,12 @@
           "by_year": {
             "2021-22": 230000,
             "2024-25": 163835
+          },
+          "info": {
+            "link": "https://www.alp.org.au/",
+            "link_type": "website",
+            "description": "The national campaign office and head office of the Australian Labor Party (ALP), a major centre-left Australian political party. It administers the ALP National Executive and is led by the National Secretary.",
+            "category": "political party body"
           }
         },
         {
@@ -254,6 +404,12 @@
           "by_year": {
             "2021-22": 254980,
             "2024-25": 111229
+          },
+          "info": {
+            "link": "https://www.alp.org.au/",
+            "link_type": "website",
+            "description": "The national campaign office and head office of the Australian Labor Party (ALP), a major centre-left Australian political party. It administers the ALP National Executive and is led by the National Secretary.",
+            "category": "political party body"
           }
         },
         {
@@ -261,6 +417,12 @@
           "total_aud": 360250,
           "by_year": {
             "2021-22": 360250
+          },
+          "info": {
+            "link": "https://www.sda.au/",
+            "link_type": "website",
+            "description": "The Shop, Distributive and Allied Employees' Association (SDA) is an Australian private-sector trade union representing retail, fast-food and warehousing workers, and is one of Australia's largest unions with over 200,000 members.",
+            "category": "union"
           }
         },
         {
@@ -275,6 +437,12 @@
           "total_aud": 350000,
           "by_year": {
             "2024-25": 350000
+          },
+          "info": {
+            "link": "https://ahansw.com.au/",
+            "link_type": "website",
+            "description": "The Australian Hotels Association NSW (AHA NSW) is the peak industry body representing licensed hotels and pubs in New South Wales, providing industrial relations, liquor licensing, legal and marketing services to its members.",
+            "category": "industry body"
           }
         },
         {
@@ -282,6 +450,12 @@
           "total_aud": 344000,
           "by_year": {
             "2021-22": 344000
+          },
+          "info": {
+            "link": "https://cg.cfmeu.org/",
+            "link_type": "website",
+            "description": "The ACT branch of the Construction and General Division of the Construction, Forestry and Maritime Employees Union (CFMEU), an Australian trade union representing construction workers in the Australian Capital Territory.",
+            "category": "union"
           }
         },
         {
@@ -296,6 +470,12 @@
           "total_aud": 300000,
           "by_year": {
             "2024-25": 300000
+          },
+          "info": {
+            "link": "https://www.sda.au/",
+            "link_type": "website",
+            "description": "The SDA (Shop, Distributive and Allied Employees' Association) is one of Australia's largest trade unions, representing workers in the retail, fast food and warehousing sectors, with branches in each state and territory. It is affiliated with the Australian Council of Trade Unions and the Australian Labor Party.",
+            "category": "union"
           }
         },
         {
@@ -304,6 +484,12 @@
           "by_year": {
             "2021-22": 246172,
             "2024-25": 16146
+          },
+          "info": {
+            "link": "https://www.cpsu.org.au/",
+            "link_type": "website",
+            "description": "The CPSU PSU Group is the Public Sector Union group of the Community and Public Sector Union, an Australian trade union representing Commonwealth, ACT and NT government employees and staff of former Commonwealth entities. The PSU Group is affiliated with the Australian Council of Trade Unions and the Australian Labor Party.",
+            "category": "union"
           }
         },
         {
@@ -318,6 +504,12 @@
           "total_aud": 245124,
           "by_year": {
             "2021-22": 245124
+          },
+          "info": {
+            "link": "https://www.hsu.asn.au/",
+            "link_type": "website",
+            "description": "The Health Services Union (NSW/ACT/QLD branch) is an Australian trade union representing workers across public and private health, aged care, disability support and ambulance services.",
+            "category": "union"
           }
         },
         {
@@ -325,6 +517,12 @@
           "total_aud": 233202,
           "by_year": {
             "2021-22": 233202
+          },
+          "info": {
+            "link": "https://www.cpsu.org.au/",
+            "link_type": "website",
+            "description": "The Community and Public Sector Union (PSU Group) is the Public Sector Union group of the CPSU, an Australian trade union representing Commonwealth, ACT and NT government employees and staff of former Commonwealth entities, affiliated with the ACTU and the Australian Labor Party.",
+            "category": "union"
           }
         },
         {
@@ -333,6 +531,12 @@
           "by_year": {
             "2021-22": 207903,
             "2023-24": 23911
+          },
+          "info": {
+            "link": "https://www.amwu.org.au/",
+            "link_type": "website",
+            "description": "The Australian Manufacturing Workers' Union (AMWU), formally the Automotive, Food, Metals, Engineering, Printing and Kindred Industries Union, is one of Australia's oldest trade unions, representing workers in manufacturing and related industrial sectors. It is affiliated with the ACTU and the Australian Labor Party.",
+            "category": "union"
           }
         },
         {
@@ -341,6 +545,12 @@
           "by_year": {
             "2021-22": 209168,
             "2024-25": 4825
+          },
+          "info": {
+            "link": "https://www.etunational.asn.au/",
+            "link_type": "website",
+            "description": "The Electrical Trades Union of Australia (ETU) is a trade union representing electricians, apprentices and electrical workers, operating as a division of the Communications, Electrical and Plumbing Union (CEPU).",
+            "category": "union"
           }
         },
         {
@@ -355,6 +565,12 @@
           "total_aud": 200000,
           "by_year": {
             "2021-22": 200000
+          },
+          "info": {
+            "link": "https://au.linkedin.com/company/pickard-group",
+            "link_type": "linkedin",
+            "description": "Pickard Capital is associated with the South Australian Pickard Group, a privately owned building and construction products supplier (part of the MSP Group) based in Adelaide, operating in building supplies, timber, steel and joinery.",
+            "category": "company"
           }
         },
         {
@@ -363,6 +579,12 @@
           "by_year": {
             "2021-22": 20000,
             "2024-25": 173000
+          },
+          "info": {
+            "link": "https://www.sa.alp.org.au/",
+            "link_type": "website",
+            "description": "The South Australian Branch of the Australian Labor Party, the centre-left major party in South Australia, currently in state government under Peter Malinauskas.",
+            "category": "political party body"
           }
         },
         {
@@ -370,6 +592,12 @@
           "total_aud": 188000,
           "by_year": {
             "2024-25": 188000
+          },
+          "info": {
+            "link": "https://together.org.au/",
+            "link_type": "website",
+            "description": "A Queensland trade union (branded 'Together') with around 30,000 members, covering public sector, health, administrative and related workers; it is the Queensland branch of the Australian Services Union.",
+            "category": "union"
           }
         },
         {
@@ -377,6 +605,12 @@
           "total_aud": 182365,
           "by_year": {
             "2021-22": 182365
+          },
+          "info": {
+            "link": "https://meu.org.au/home-northern-mining-and-nsw-energy-district/member-information/",
+            "link_type": "website",
+            "description": "The Northern Mining and NSW Energy District of the Mining and Energy Union (formerly part of the CFMEU/CFMMEU mining and energy division), a trade union covering coal mining and energy workers in NSW north of Sydney.",
+            "category": "union"
           }
         },
         {
@@ -387,6 +621,12 @@
             "2022-23": 5187,
             "2023-24": 16329,
             "2024-25": 81942
+          },
+          "info": {
+            "link": "https://www.mauriceblackburn.com.au/about-us/",
+            "link_type": "website",
+            "description": "An Australian plaintiff law firm founded in 1919 by Maurice Blackburn, specialising in personal injury, compensation, employment and class action law, headquartered in Melbourne.",
+            "category": "company"
           }
         },
         {
@@ -394,6 +634,12 @@
           "total_aud": 181066,
           "by_year": {
             "2021-22": 181066
+          },
+          "info": {
+            "link": "https://usu.org.au/",
+            "link_type": "website",
+            "description": "An Australian trade union (registered in NSW) representing local government, clerical/administrative, energy, utilities and airline workers across NSW and the ACT; a branch of the Australian Services Union.",
+            "category": "union"
           }
         },
         {
@@ -401,6 +647,12 @@
           "total_aud": 180000,
           "by_year": {
             "2024-25": 180000
+          },
+          "info": {
+            "link": "https://meu.org.au/about-us/",
+            "link_type": "website",
+            "description": "The Queensland District of the Mining and Energy Union, a trade union covering coal mining and energy industry workers throughout Queensland.",
+            "category": "union"
           }
         },
         {
@@ -410,6 +662,12 @@
             "2021-22": 119390,
             "2022-23": 15000,
             "2024-25": 41995
+          },
+          "info": {
+            "link": "https://www.anacta.com.au/",
+            "link_type": "website",
+            "description": "An Australian public affairs and government relations firm founded in 2019 and based in Brisbane, providing lobbying, campaigns, research and communications services; co-founded by former ALP figure Evan Moorhead.",
+            "category": "company"
           }
         },
         {
@@ -418,6 +676,12 @@
           "by_year": {
             "2021-22": 75000,
             "2024-25": 100000
+          },
+          "info": {
+            "link": "https://www.meriton.com.au/",
+            "link_type": "website",
+            "description": "Meriton is an Australian residential property development and construction company founded in 1963 by Harry Triguboff AO, who owns and runs it; it is Australia's largest apartment developer and also operates Meriton Suites serviced apartments.",
+            "category": "company"
           }
         },
         {
@@ -425,6 +689,12 @@
           "total_aud": 172000,
           "by_year": {
             "2024-25": 172000
+          },
+          "info": {
+            "link": "https://meu.org.au/",
+            "link_type": "website",
+            "description": "An Australian trade union representing coal mining and energy industry workers, with over 24,500 members; it became an independent union in December 2023 after withdrawing from the CFMMEU.",
+            "category": "union"
           }
         },
         {
@@ -434,6 +704,12 @@
             "2021-22": 116244,
             "2023-24": 8777,
             "2024-25": 39552
+          },
+          "info": {
+            "link": "https://www.mauriceblackburn.com.au/about-us/",
+            "link_type": "website",
+            "description": "An Australian plaintiff law firm founded in 1919 by Maurice Blackburn, specialising in personal injury, compensation, employment and class action law, headquartered in Melbourne.",
+            "category": "company"
           }
         },
         {
@@ -441,6 +717,12 @@
           "total_aud": 160000,
           "by_year": {
             "2021-22": 160000
+          },
+          "info": {
+            "link": "https://www.sda.au/",
+            "link_type": "website",
+            "description": "The national office of the Shop, Distributive and Allied Employees' Association (SDA), an Australian trade union representing retail, fast-food and warehouse workers, with branches in every state and territory.",
+            "category": "union"
           }
         },
         {
@@ -448,6 +730,12 @@
           "total_aud": 155000,
           "by_year": {
             "2024-25": 155000
+          },
+          "info": {
+            "link": "https://www.sda.au/",
+            "link_type": "website",
+            "description": "The Shop, Distributive and Allied Employees' Association (SDA) is one of Australia's largest trade unions, representing workers in the retail, fast food and warehousing sectors, with branches in every state and territory.",
+            "category": "union"
           }
         },
         {
@@ -456,6 +744,12 @@
           "by_year": {
             "2021-22": 100000,
             "2024-25": 50000
+          },
+          "info": {
+            "link": "https://www.precision.com.au/about",
+            "link_type": "website",
+            "description": "Precision Group is a privately owned Australian commercial property investment and management group founded in 1994 by Shaun Bonett, with a portfolio of retail, commercial and hospitality properties across Australia and New Zealand.",
+            "category": "company"
           }
         },
         {
@@ -466,6 +760,12 @@
             "2022-23": 56920,
             "2023-24": 36391,
             "2024-25": 1444
+          },
+          "info": {
+            "link": "https://www.ey.com/en_au",
+            "link_type": "website",
+            "description": "EY (Ernst & Young) is one of the 'Big Four' global professional services firms, providing assurance, consulting, tax and transaction services; its Australian operations employ several thousand people across the country.",
+            "category": "company"
           }
         },
         {
@@ -473,6 +773,12 @@
           "total_aud": 148150,
           "by_year": {
             "2024-25": 148150
+          },
+          "info": {
+            "link": "https://en.wikipedia.org/wiki/Australian_Manufacturing_Workers_Union",
+            "link_type": "wikipedia",
+            "description": "The Automotive, Food, Metals, Engineering, Printing and Kindred Industries Union, known as the Australian Manufacturing Workers' Union (AMWU), is a national trade union representing workers in the manufacturing, metals, automotive, food and printing industries.",
+            "category": "union"
           }
         },
         {
@@ -488,6 +794,12 @@
           "by_year": {
             "2023-24": 61396,
             "2024-25": 80570
+          },
+          "info": {
+            "link": "https://awu.net.au/qld/",
+            "link_type": "website",
+            "description": "The Australian Workers' Union (AWU) is Australia's oldest blue-collar trade union; its Queensland branch represents workers across manufacturing, mining, civil construction, health, aged care and hospitality.",
+            "category": "union"
           }
         },
         {
@@ -496,6 +808,12 @@
           "by_year": {
             "2021-22": 35000,
             "2024-25": 100000
+          },
+          "info": {
+            "link": "https://www.actlabor.org.au/",
+            "link_type": "website",
+            "description": "ACT Labor is the Australian Capital Territory branch of the Australian Labor Party, the centre-left political party operating in the ACT.",
+            "category": "political party body"
           }
         },
         {
@@ -504,6 +822,12 @@
           "by_year": {
             "2021-22": 60000,
             "2024-25": 70000
+          },
+          "info": {
+            "link": "https://www.etunational.asn.au/",
+            "link_type": "website",
+            "description": "The Electrical Trades Union (ETU) is the electrical division of the Communications, Electrical and Plumbing Union (CEPU), representing electricians, apprentices and electrical workers across Australia.",
+            "category": "union"
           }
         },
         {
@@ -512,6 +836,12 @@
           "by_year": {
             "2021-22": 39850,
             "2024-25": 86121
+          },
+          "info": {
+            "link": "https://awu.net.au/wa/",
+            "link_type": "website",
+            "description": "The Western Australian branch of the Australian Workers' Union (AWU), a blue-collar trade union with members in the mining, resources, manufacturing and offshore oil and gas industries.",
+            "category": "union"
           }
         },
         {
@@ -519,6 +849,12 @@
           "total_aud": 125651,
           "by_year": {
             "2021-22": 125651
+          },
+          "info": {
+            "link": "https://www.sda.au/sa-nt/",
+            "link_type": "website",
+            "description": "The South Australia, Northern Territory and Broken Hill branch of the Shop, Distributive and Allied Employees' Association (SDA), a trade union representing retail, fast food and warehouse workers.",
+            "category": "union"
           }
         },
         {
@@ -526,6 +862,12 @@
           "total_aud": 125000,
           "by_year": {
             "2021-22": 125000
+          },
+          "info": {
+            "link": "https://vic.cfmeu.org/",
+            "link_type": "website",
+            "description": "The Victorian-Tasmanian Construction & General branch of the CFMEU, a trade union representing construction workers in those states.",
+            "category": "union"
           }
         },
         {
@@ -541,6 +883,12 @@
           "by_year": {
             "2021-22": 121000,
             "2023-24": 3000
+          },
+          "info": {
+            "link": "https://www.cepu.asn.au/",
+            "link_type": "website",
+            "description": "The CEPU Plumbing Division is the plumbing division of the Communications, Electrical and Plumbing Union of Australia, a federally registered trade union whose plumbing arm represents workers in the plumbing and gasfitting trades.",
+            "category": "union"
           }
         },
         {
@@ -548,6 +896,12 @@
           "total_aud": 123047,
           "by_year": {
             "2021-22": 123047
+          },
+          "info": {
+            "link": "https://www.etu.org.au/",
+            "link_type": "website",
+            "description": "The Queensland and Northern Territory branch of the Electrical Division of the CEPU, operating as the Electrical Trades Union (ETU), representing electrical trades workers in those jurisdictions.",
+            "category": "union"
           }
         },
         {
@@ -578,6 +932,12 @@
           "by_year": {
             "2021-22": 2000,
             "2024-25": 100000
+          },
+          "info": {
+            "link": "https://www.guild.org.au/",
+            "link_type": "website",
+            "description": "The Pharmacy Guild of Australia is a national employers' organisation, established in 1927 and registered under the Fair Work Act, representing the owners of community pharmacies across Australia.",
+            "category": "employer association"
           }
         },
         {
@@ -1170,6 +1530,12 @@
           "by_year": {
             "2021-22": 50000,
             "2024-25": 2500
+          },
+          "info": {
+            "link": "https://www.manildra.com.au/",
+            "link_type": "website",
+            "description": "The Manildra Group is a privately owned Australian agribusiness based in Sydney, founded by the Honan family (Dick Honan), and is a major flour miller, wheat processor and Australia's leading producer of ethanol.",
+            "category": "company"
           }
         },
         {
@@ -2251,6 +2617,12 @@
           "total_aud": 20000,
           "by_year": {
             "2024-25": 20000
+          },
+          "info": {
+            "link": "https://hospitalitytasmania.com.au/",
+            "link_type": "website",
+            "description": "The Tasmanian Hospitality Association (also branded Hospitality Tasmania) is the peak industry body representing hotels, accommodation, restaurants, cafes, caterers and community, sporting and RSL clubs in Tasmania.",
+            "category": "industry body"
           }
         },
         {
@@ -3383,6 +3755,12 @@
           "total_aud": 10000,
           "by_year": {
             "2021-22": 10000
+          },
+          "info": {
+            "link": "https://en.wikipedia.org/wiki/Anthony_Pratt",
+            "link_type": "wikipedia",
+            "description": "Pratt Holdings Proprietary Limited is the private holding company of the Pratt family's Visy group, a paper, packaging and recycling business; it is controlled by Australian businessman Anthony Pratt, chairman of Visy.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -9099,6 +9477,12 @@
             "2022-23": 3460000,
             "2023-24": 1070000,
             "2024-25": 4700000
+          },
+          "info": {
+            "link": "https://en.wikipedia.org/wiki/Cormack_Foundation",
+            "link_type": "wikipedia",
+            "description": "The Cormack Foundation is an Australian investment company and registered associated entity of the Liberal Party of Australia (Victorian Division), established in 1988 with proceeds from the sale of Melbourne radio station 3XY.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -9113,6 +9497,12 @@
           "total_aud": 3000000,
           "by_year": {
             "2021-22": 3000000
+          },
+          "info": {
+            "link": "https://en.wikipedia.org/wiki/Cormack_Foundation",
+            "link_type": "wikipedia",
+            "description": "The Cormack Foundation is an Australian investment company and registered associated entity of the Liberal Party of Australia (Victorian Division), established in 1988 with proceeds from the sale of Melbourne radio station 3XY.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -9121,6 +9511,12 @@
           "by_year": {
             "2021-22": 1520000,
             "2024-25": 250000
+          },
+          "info": {
+            "link": "https://en.wikipedia.org/wiki/Anthony_Pratt",
+            "link_type": "wikipedia",
+            "description": "Pratt Holdings Proprietary Limited is the private holding company of the Pratt family's Visy group, a paper, packaging and recycling business; it is controlled by Australian businessman Anthony Pratt, chairman of Visy.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -9129,6 +9525,12 @@
           "by_year": {
             "2021-22": 250000,
             "2024-25": 1300000
+          },
+          "info": {
+            "link": "https://independentaustralia.net/politics/politics-display/lowy-family-use-loophole-to-donate-550000-to-liberal-party,17340",
+            "link_type": "website",
+            "description": "Oryxium Investments Limited is a private investment/holding company that forms part of the Lowy Family Group, the corporate network of the Lowy family (formerly behind the Westfield shopping-centre empire).",
+            "category": "investment vehicle"
           }
         },
         {
@@ -9137,6 +9539,12 @@
           "by_year": {
             "2023-24": 500000,
             "2024-25": 500000
+          },
+          "info": {
+            "link": "https://www.meriton.com.au/",
+            "link_type": "website",
+            "description": "Meriton is an Australian residential property development and construction company, the country's largest apartment developer, founded and owned by businessman Harry Triguboff.",
+            "category": "company"
           }
         },
         {
@@ -9144,6 +9552,12 @@
           "total_aud": 867871,
           "by_year": {
             "2021-22": 867871
+          },
+          "info": {
+            "link": "https://en.wikipedia.org/wiki/Cormack_Foundation",
+            "link_type": "wikipedia",
+            "description": "The Cormack Foundation is an Australian investment company and registered associated entity of the Liberal Party of Australia (Victorian Division), established in 1988 with proceeds from the sale of Melbourne radio station 3XY.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -9152,6 +9566,12 @@
           "by_year": {
             "2021-22": 65000,
             "2024-25": 750000
+          },
+          "info": {
+            "link": "https://en.wikipedia.org/wiki/Anthony_Pratt",
+            "link_type": "wikipedia",
+            "description": "Pratt Holdings Proprietary Limited is the private holding company of the Pratt family's Visy group, a paper, packaging and recycling business; it is controlled by Australian businessman Anthony Pratt, chairman of Visy.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -9160,6 +9580,12 @@
           "by_year": {
             "2021-22": 300000,
             "2024-25": 500000
+          },
+          "info": {
+            "link": "https://independentaustralia.net/politics/politics-display/lowy-family-use-loophole-to-donate-550000-to-liberal-party,17340",
+            "link_type": "website",
+            "description": "Oryxium Investments Limited is a private investment/holding company that forms part of the Lowy Family Group, the corporate network of the Lowy family (formerly behind the Westfield shopping-centre empire).",
+            "category": "investment vehicle"
           }
         },
         {
@@ -9167,6 +9593,12 @@
           "total_aud": 750000,
           "by_year": {
             "2024-25": 750000
+          },
+          "info": {
+            "link": "https://www.doordash.com/en-AU/",
+            "link_type": "website",
+            "description": "DoorDash Technologies Australia Pty Ltd is the Australian subsidiary of US-listed DoorDash, Inc. (NASDAQ: DASH), operating an online local-commerce platform for food, grocery and retail delivery.",
+            "category": "company"
           }
         },
         {
@@ -9174,6 +9606,12 @@
           "total_aud": 700000,
           "by_year": {
             "2021-22": 700000
+          },
+          "info": {
+            "link": "https://publicintegrity.org.au/",
+            "link_type": "website",
+            "description": "Sugolena Holdings Pty Ltd is a private holding/investment company owned by Sydney businessman and investor Isaac Wakil.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -9182,6 +9620,12 @@
           "by_year": {
             "2021-22": 385000,
             "2022-23": 192978
+          },
+          "info": {
+            "link": "https://icacpls.github.io/donations/donors/kooyong-200-club.html",
+            "link_type": "website",
+            "description": "The Kooyong 200 Club is a Liberal Party fundraising group based in the federal electorate of Kooyong (Victoria), historically associated with then-Treasurer Josh Frydenberg.",
+            "category": "club"
           }
         },
         {
@@ -9189,6 +9633,12 @@
           "total_aud": 538300,
           "by_year": {
             "2024-25": 538300
+          },
+          "info": {
+            "link": "https://www.liberal.org.au/",
+            "link_type": "website",
+            "description": "The Liberal Party of Australia is a major centre-right to right-wing Australian political party, founded in 1944 by Robert Menzies. It operates federally with autonomous state and territory divisions.",
+            "category": "political party body"
           }
         },
         {
@@ -9196,6 +9646,12 @@
           "total_aud": 500000,
           "by_year": {
             "2024-25": 500000
+          },
+          "info": {
+            "link": "https://www.businessnews.com.au/Company/Australian-Capital-Equity",
+            "link_type": "website",
+            "description": "Australian Capital Equity (ACE) is the main private investment company of businessman Kerry Stokes, founded in 1980. Its principal asset is a controlling stake in ASX-listed Seven Group Holdings, with interests across media, resources and other sectors.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -9203,6 +9659,12 @@
           "total_aud": 500000,
           "by_year": {
             "2024-25": 500000
+          },
+          "info": {
+            "link": "https://www.linfox.com/about-linfox/fox-group/",
+            "link_type": "website",
+            "description": "Fox Group Holdings is the private holding company of the Fox family, founded by businessman Lindsay Fox. The group's interests include the Linfox transport and logistics business, property, airports and Linfox Armaguard currency management.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -9226,6 +9688,12 @@
           "by_year": {
             "2021-22": 150000,
             "2023-24": 332491
+          },
+          "info": {
+            "link": "https://www.liberal.org.au/",
+            "link_type": "website",
+            "description": "The federal secretariat is the national administrative and campaign body of the Liberal Party of Australia, a major centre-right to right-wing Australian political party founded in 1944.",
+            "category": "political party body"
           }
         },
         {
@@ -9234,6 +9702,12 @@
           "by_year": {
             "2021-22": 50000,
             "2024-25": 418000
+          },
+          "info": {
+            "link": "https://www.liberal.org.au/",
+            "link_type": "website",
+            "description": "The Liberal Party of Australia is a major centre-right to right-wing Australian political party, founded in 1944 by Robert Menzies. It operates federally with autonomous state and territory divisions.",
+            "category": "political party body"
           }
         },
         {
@@ -9249,6 +9723,12 @@
           "total_aud": 450000,
           "by_year": {
             "2021-22": 450000
+          },
+          "info": {
+            "link": "https://www.sourcewatch.org/index.php/Greenfields_Foundation",
+            "link_type": "website",
+            "description": "The Greenfields Foundation is a financing entity historically linked to the Liberal Party of Australia, established in the mid-1990s in connection with managing party debt following the 1993 federal election.",
+            "category": "foundation"
           }
         },
         {
@@ -9263,6 +9743,12 @@
           "total_aud": 400000,
           "by_year": {
             "2024-25": 400000
+          },
+          "info": {
+            "link": "https://www.gsacapital.com.au/",
+            "link_type": "website",
+            "description": "GSA Capital (Australia) is a multi-strategy investment and capital management firm based in South Yarra, Victoria, with a portfolio spanning passive investments and operating businesses.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -9314,6 +9800,12 @@
           "total_aud": 300000,
           "by_year": {
             "2021-22": 300000
+          },
+          "info": {
+            "link": "https://www.apartments.com.au/developers/gandel-group",
+            "link_type": "website",
+            "description": "The Gandel Group is a privately held Australian property and shopping-centre development company controlled by billionaire retail landlord John Gandel AC; its assets include a major stake in Chadstone Shopping Centre in Melbourne, one of Australia's largest shopping malls.",
+            "category": "company"
           }
         },
         {
@@ -9321,6 +9813,12 @@
           "total_aud": 290000,
           "by_year": {
             "2021-22": 290000
+          },
+          "info": {
+            "link": "https://transparency.aec.gov.au/ClientEntity/EntityDetail?clientIdentifier=45450&clientType=organisationdonor",
+            "link_type": "website",
+            "description": "Sugolena is a private company associated with Sydney property owner and arts philanthropist Isaac Wakil and his late wife Susan, who built their wealth in the clothing trade and a Sydney property portfolio and are major benefactors of the Art Gallery of NSW and the University of Sydney.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -9336,6 +9834,12 @@
           "total_aud": 250000,
           "by_year": {
             "2024-25": 250000
+          },
+          "info": {
+            "link": "https://www.apartments.com.au/developers/gandel-group",
+            "link_type": "website",
+            "description": "Gandel Group Pty Ltd is the privately held Australian property and shopping-centre development company controlled by billionaire retail landlord John Gandel AC, with major holdings including a stake in Melbourne's Chadstone Shopping Centre.",
+            "category": "company"
           }
         },
         {
@@ -9350,6 +9854,12 @@
           "total_aud": 250000,
           "by_year": {
             "2024-25": 250000
+          },
+          "info": {
+            "link": "https://merivale.com/",
+            "link_type": "website",
+            "description": "Hemmes Trading is part of the Hemmes family's Merivale hospitality group, a Sydney-based company operating pubs, bars, restaurants and nightclubs, led by CEO Justin Hemmes.",
+            "category": "company"
           }
         },
         {
@@ -9357,6 +9867,12 @@
           "total_aud": 250000,
           "by_year": {
             "2021-22": 250000
+          },
+          "info": {
+            "link": "https://mineralogy.com.au/",
+            "link_type": "website",
+            "description": "Mineralogy is a privately held mining and exploration company, principally involved in iron ore (magnetite) in Western Australia's Pilbara region, founded and owned by businessman Clive Palmer.",
+            "category": "company"
           }
         },
         {
@@ -9364,6 +9880,12 @@
           "total_aud": 250000,
           "by_year": {
             "2021-22": 250000
+          },
+          "info": {
+            "link": "https://www.kingroup.com.au/",
+            "link_type": "website",
+            "description": "Kin Group is the Melbourne-based private investment office (family office) of Raphael and Fiona Geminder; Fiona is a daughter of the late Visy founder Richard Pratt. It invests across manufacturing, packaging, FMCG, technology, financial markets and real estate.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -9371,6 +9893,12 @@
           "total_aud": 230000,
           "by_year": {
             "2021-22": 230000
+          },
+          "info": {
+            "link": "https://www.meriton.com.au/",
+            "link_type": "website",
+            "description": "Meriton is Australia's largest apartment developer, a Sydney-based residential property development and serviced-apartment company founded and owned by billionaire Harry Triguboff.",
+            "category": "company"
           }
         },
         {
@@ -9378,6 +9906,12 @@
           "total_aud": 229749,
           "by_year": {
             "2024-25": 229749
+          },
+          "info": {
+            "link": "https://www.waliberal.org.au/",
+            "link_type": "website",
+            "description": "Records held by the Western Australian Electoral Commission identify 'Liberal Party WA Pty Ltd' as an associated entity of the Liberal Party of Australia (WA Division), the Western Australian branch of the federal Liberal Party.",
+            "category": "political party body"
           }
         },
         {
@@ -9386,6 +9920,12 @@
           "by_year": {
             "2023-24": 45000,
             "2024-25": 175000
+          },
+          "info": {
+            "link": "https://www.bloomberg.com/profile/company/0496667D:AU",
+            "link_type": "website",
+            "description": "Henroth Investments is a Sydney-based single family office and investment vehicle of the Roth family (founded by John Roth and the late Stanley Roth AM), focused on commercial real estate and listed equities, with assets including Chullora Marketplace.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -9394,6 +9934,12 @@
           "by_year": {
             "2023-24": 20000,
             "2024-25": 198500
+          },
+          "info": {
+            "link": "https://nswliberal.org.au/",
+            "link_type": "website",
+            "description": "The Liberal Party of Australia (NSW Division) is the New South Wales branch of the federal Liberal Party of Australia, a centre-right political party.",
+            "category": "political party body"
           }
         },
         {
@@ -9401,6 +9947,12 @@
           "total_aud": 210000,
           "by_year": {
             "2024-25": 210000
+          },
+          "info": {
+            "link": "https://hospitalitytasmania.com.au/",
+            "link_type": "website",
+            "description": "The Tasmanian Hospitality Association (also branded Hospitality Tasmania) is the peak industry body representing hotels, accommodation, restaurants, cafes, caterers and community, sporting and RSL clubs in Tasmania.",
+            "category": "industry body"
           }
         },
         {
@@ -9415,6 +9967,12 @@
           "total_aud": 200000,
           "by_year": {
             "2024-25": 200000
+          },
+          "info": {
+            "link": "https://www.toga.com.au/",
+            "link_type": "website",
+            "description": "A family-owned Australian property group founded in Sydney in 1963 by Ervin and Charlotte Vidor and Antonino Stillone, operating across residential and commercial development, construction, property investment, and hotels (TFE Hotels).",
+            "category": "company"
           }
         },
         {
@@ -9458,6 +10016,12 @@
           "total_aud": 200000,
           "by_year": {
             "2021-22": 200000
+          },
+          "info": {
+            "link": "https://michaelwest.com.au/paying-dues-party-card-is-just-the-ticket-for-media-giants/",
+            "link_type": "website",
+            "description": "A private investment company associated with Will Vicars, chief investment officer of Sydney- and New York-based investment manager Caledonia.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -9481,6 +10045,12 @@
           "by_year": {
             "2021-22": 149000,
             "2023-24": 50000
+          },
+          "info": {
+            "link": "https://www.servcorp.com/en/about-us/",
+            "link_type": "website",
+            "description": "Part of Servcorp Limited, an Australian multinational office services company founded in Sydney in 1978 by Alfred Moufarrige, providing serviced offices, virtual offices and coworking spaces; listed on the ASX (SRV).",
+            "category": "company"
           }
         },
         {
@@ -9488,6 +10058,12 @@
           "total_aud": 195000,
           "by_year": {
             "2021-22": 195000
+          },
+          "info": {
+            "link": "https://nswliberal.org.au/",
+            "link_type": "website",
+            "description": "The New South Wales state division of the Liberal Party of Australia, a centre-right political party, headquartered in Sydney.",
+            "category": "political party body"
           }
         },
         {
@@ -9510,6 +10086,12 @@
           "by_year": {
             "2021-22": 110000,
             "2024-25": 75000
+          },
+          "info": {
+            "link": "https://www.liberal.org.au/about/our-structure",
+            "link_type": "website",
+            "description": "The national federal organisational body of the Liberal Party of Australia, a centre-right political party, based at R.G. Menzies House in Barton, Canberra.",
+            "category": "political party body"
           }
         },
         {
@@ -9538,6 +10120,12 @@
           "total_aud": 169000,
           "by_year": {
             "2023-24": 169000
+          },
+          "info": {
+            "link": "https://saliberal.org.au/",
+            "link_type": "website",
+            "description": "The South Australian state division of the Liberal Party of Australia, a centre-right political party, headquartered in Unley, Adelaide.",
+            "category": "political party body"
           }
         },
         {
@@ -9547,6 +10135,12 @@
             "2021-22": 25000,
             "2023-24": 119940,
             "2024-25": 20000
+          },
+          "info": {
+            "link": "https://lnp.org.au/",
+            "link_type": "website",
+            "description": "The Liberal National Party of Queensland (LNP) is a major conservative political party in Queensland, formed in 2008 by the merger of the state Liberal and National parties. Its federal members sit with either the Liberal or National parties.",
+            "category": "political party body"
           }
         },
         {
@@ -9561,6 +10155,12 @@
           "total_aud": 155000,
           "by_year": {
             "2021-22": 155000
+          },
+          "info": {
+            "link": "https://www.thenewdaily.com.au/news/national/2019/09/18/jason-wood-office-pinnacle-club-fundraising",
+            "link_type": "website",
+            "description": "The Pinnacle Club is a Liberal Party fundraising forum that has organised paid donor events in Victoria, with funds disclosed to the Australian Electoral Commission.",
+            "category": "political party body"
           }
         },
         {
@@ -9632,6 +10232,12 @@
           "total_aud": 135000,
           "by_year": {
             "2024-25": 135000
+          },
+          "info": {
+            "link": "https://nswliberal.org.au/",
+            "link_type": "website",
+            "description": "The New South Wales Division of the Liberal Party of Australia is the NSW state branch of the centre-right Liberal Party.",
+            "category": "political party body"
           }
         },
         {
@@ -9639,6 +10245,12 @@
           "total_aud": 135000,
           "by_year": {
             "2024-25": 135000
+          },
+          "info": {
+            "link": "https://abr.business.gov.au/ABN/View?id=19670731718",
+            "link_type": "website",
+            "description": "Phoenix Lithium Pty Ltd is a privately owned Australian company in the lithium/battery sector, founded by Nicholas Wakim.",
+            "category": "company"
           }
         },
         {
@@ -9646,6 +10258,12 @@
           "total_aud": 130000,
           "by_year": {
             "2024-25": 130000
+          },
+          "info": {
+            "link": "https://www.coinbase.com/en-au",
+            "link_type": "website",
+            "description": "Coinbase Australia Pty Ltd is the local entity of Coinbase, a cryptocurrency exchange platform, registered with AUSTRAC and licensed by ASIC (AFSL 569752) to provide crypto trading services in Australia.",
+            "category": "company"
           }
         },
         {
@@ -9654,6 +10272,12 @@
           "by_year": {
             "2021-22": 50000,
             "2024-25": 75000
+          },
+          "info": {
+            "link": "https://au.linkedin.com/company/henroth-investments-pty-ltd",
+            "link_type": "linkedin",
+            "description": "Henroth (Henroth Investments Pty Ltd) is a privately owned Sydney-based property investment and development company, founded in 1960 and associated with the Roth family.",
+            "category": "company"
           }
         },
         {
@@ -9669,6 +10293,12 @@
           "by_year": {
             "2021-22": 85000,
             "2024-25": 40000
+          },
+          "info": {
+            "link": "https://payce.com.au/about-us/",
+            "link_type": "website",
+            "description": "PAYCE is a privately held Australian-owned property development group, operating since 1978 and based in Sydney, known for major urban-renewal residential, retail and commercial projects.",
+            "category": "company"
           }
         },
         {
@@ -9684,6 +10314,12 @@
           "total_aud": 120000,
           "by_year": {
             "2024-25": 120000
+          },
+          "info": {
+            "link": "https://www.linkedin.com/company/tmg-developments",
+            "link_type": "linkedin",
+            "description": "TMG Developments Pty Ltd is an Australian residential property development company, based in Double Bay/Bondi Junction, Sydney, with apartment projects across major Australian cities.",
+            "category": "company"
           }
         },
         {
@@ -9748,6 +10384,12 @@
           "total_aud": 105000,
           "by_year": {
             "2024-25": 105000
+          },
+          "info": {
+            "link": "https://www.hancockprospecting.com.au/",
+            "link_type": "website",
+            "description": "Hancock Prospecting is a privately owned Australian mining and agriculture company founded in 1955 by Lang Hancock, focused on iron ore and other minerals in Western Australia. It is controlled by executive chairman Gina Rinehart.",
+            "category": "company"
           }
         },
         {
@@ -9771,6 +10413,12 @@
           "by_year": {
             "2021-22": 50000,
             "2023-24": 55000
+          },
+          "info": {
+            "link": "https://www.mineralresources.com.au/",
+            "link_type": "website",
+            "description": "Mineral Resources Limited is an ASX-listed (MIN) Australian mining services and resources company founded in 2006 by Chris Ellison, with iron ore and lithium operations primarily in Western Australia.",
+            "category": "company"
           }
         },
         {
@@ -10589,6 +11237,12 @@
           "total_aud": 50000,
           "by_year": {
             "2021-22": 50000
+          },
+          "info": {
+            "link": "https://www.manildra.com.au/",
+            "link_type": "website",
+            "description": "The Manildra Group is a privately owned Australian agribusiness based in Sydney, founded by the Honan family (Dick Honan), and is a major flour miller, wheat processor and Australia's leading producer of ethanol.",
+            "category": "company"
           }
         },
         {
@@ -10772,6 +11426,12 @@
           "total_aud": 40000,
           "by_year": {
             "2024-25": 40000
+          },
+          "info": {
+            "link": "https://minerals.org.au/",
+            "link_type": "website",
+            "description": "The Minerals Council of Australia (MCA) is the national industry association representing companies in the mining and mining-services sector, undertaking policy advocacy on behalf of Australia's minerals industry.",
+            "category": "industry body"
           }
         },
         {
@@ -12324,6 +12984,12 @@
           "total_aud": 54079910,
           "by_year": {
             "2024-25": 54079910
+          },
+          "info": {
+            "link": "https://mineralogy.com.au/",
+            "link_type": "website",
+            "description": "Mineralogy is a privately held mining and exploration company, principally involved in iron ore (magnetite) in Western Australia's Pilbara region, founded and owned by businessman Clive Palmer.",
+            "category": "company"
           }
         }
       ],
@@ -12376,6 +13042,12 @@
             "2021-22": 350000,
             "2023-24": 360000,
             "2024-25": 170000
+          },
+          "info": {
+            "link": "https://transparency.aec.gov.au/ClientEntity/EntityDetail?clientIdentifier=45086&clientType=organisationdonor",
+            "link_type": "website",
+            "description": "LB Conservation Pty Ltd (as trustee for the LB Conservation Trust) is a private company/trust vehicle registered as an organisation donor in the Australian Electoral Commission's transparency register.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -12383,6 +13055,12 @@
           "total_aud": 600000,
           "by_year": {
             "2024-25": 600000
+          },
+          "info": {
+            "link": "https://www.cepu.asn.au/",
+            "link_type": "website",
+            "description": "The Electrical Division of the Communications, Electrical and Plumbing Union (CEPU) - operating as the Electrical Trades Union - is an Australian trade union representing electrical workers.",
+            "category": "union"
           }
         },
         {
@@ -12414,6 +13092,12 @@
           "total_aud": 250000,
           "by_year": {
             "2021-22": 250000
+          },
+          "info": {
+            "link": "https://www.etunational.asn.au/",
+            "link_type": "website",
+            "description": "The Electrical Trades Union of Australia (ETU) is a trade union representing electricians, apprentices and electrical workers, operating as a division of the Communications, Electrical and Plumbing Union (CEPU).",
+            "category": "union"
           }
         },
         {
@@ -12421,6 +13105,12 @@
           "total_aud": 238436,
           "by_year": {
             "2022-23": 238436
+          },
+          "info": {
+            "link": "https://greens.org.au/",
+            "link_type": "website",
+            "description": "The Australian Greens are a left-wing green Australian political party, a confederation of state and territory Greens parties, with core values of ecological sustainability, social justice, grassroots democracy, and peace and non-violence.",
+            "category": "political party body"
           }
         },
         {
@@ -12428,6 +13118,12 @@
           "total_aud": 215000,
           "by_year": {
             "2024-25": 215000
+          },
+          "info": {
+            "link": "https://greens.org.au/sa",
+            "link_type": "website",
+            "description": "The South Australian state branch (Australian Greens SA) of the Australian Greens, a green/progressive political party, formed in 1995 and represented in the SA Parliament and the federal Senate.",
+            "category": "political party body"
           }
         },
         {
@@ -12451,6 +13147,12 @@
           "total_aud": 140000,
           "by_year": {
             "2021-22": 140000
+          },
+          "info": {
+            "link": "https://www.cepu.asn.au/",
+            "link_type": "website",
+            "description": "The CEPU Plumbing Division is the plumbing division of the Communications, Electrical and Plumbing Union of Australia, a federally registered trade union whose plumbing arm represents workers in the plumbing and gasfitting trades.",
+            "category": "union"
           }
         },
         {
@@ -13102,6 +13804,12 @@
           "total_aud": 599998,
           "by_year": {
             "2024-25": 599998
+          },
+          "info": {
+            "link": "https://www.bravus.com.au/",
+            "link_type": "website",
+            "description": "Adani Mining Pty Ltd, trading as Bravus Mining and Resources, is the Australian mining subsidiary of India's Adani Group; it owns and operates the Carmichael coal mine in Queensland.",
+            "category": "company"
           }
         },
         {
@@ -13109,6 +13817,12 @@
           "total_aud": 325000,
           "by_year": {
             "2023-24": 325000
+          },
+          "info": {
+            "link": "https://www.hancockprospecting.com.au/",
+            "link_type": "website",
+            "description": "Hancock Prospecting is a privately owned Australian mining and agriculture company founded in 1955 by Lang Hancock, focused on iron ore and other minerals in Western Australia. It is controlled by executive chairman Gina Rinehart.",
+            "category": "company"
           }
         },
         {
@@ -13123,6 +13837,12 @@
           "total_aud": 215000,
           "by_year": {
             "2021-22": 215000
+          },
+          "info": {
+            "link": "https://grattan.edu.au/news/labor-is-in-power-but-the-coalition-still-attracts-the-most-money/",
+            "link_type": "website",
+            "description": "A Liberal Party (Victoria Division) fundraising body associated with the federal seat of Kooyong, originally run as Josh Frydenberg's fundraising group; it raises money for the Coalition.",
+            "category": "political party body"
           }
         },
         {
@@ -13138,6 +13858,12 @@
           "by_year": {
             "2021-22": 50000,
             "2024-25": 100000
+          },
+          "info": {
+            "link": "https://www.rmeglobal.com/who-we-are/",
+            "link_type": "website",
+            "description": "Russell Mineral Equipment (RME) is a Toowoomba-based, privately owned Australian original equipment manufacturer (founded 1985) of mill relining systems and machinery for the global mineral processing and mining industry.",
+            "category": "company"
           }
         },
         {
@@ -13173,6 +13899,12 @@
           "total_aud": 100000,
           "by_year": {
             "2021-22": 100000
+          },
+          "info": {
+            "link": "https://en.wikipedia.org/wiki/Carmichael_coal_mine",
+            "link_type": "wikipedia",
+            "description": "An Australian coal mining company, a subsidiary of India's Adani Group, that develops and operates the Carmichael thermal coal mine in Queensland; it was renamed Bravus Mining & Resources in November 2020.",
+            "category": "company"
           }
         },
         {
@@ -13375,6 +14107,12 @@
           "total_aud": 50000,
           "by_year": {
             "2021-22": 50000
+          },
+          "info": {
+            "link": "https://www.gsacapital.com.au/",
+            "link_type": "website",
+            "description": "GSA Capital (Australia) is a multi-strategy investment and capital management firm based in South Yarra, Victoria, with a portfolio spanning passive investments and operating businesses.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -13470,6 +14208,12 @@
           "total_aud": 35000,
           "by_year": {
             "2021-22": 35000
+          },
+          "info": {
+            "link": "https://en.wikipedia.org/wiki/Anthony_Pratt",
+            "link_type": "wikipedia",
+            "description": "Pratt Holdings Proprietary Limited is the private holding company of the Pratt family's Visy group, a paper, packaging and recycling business; it is controlled by Australian businessman Anthony Pratt, chairman of Visy.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -13603,6 +14347,12 @@
           "total_aud": 25000,
           "by_year": {
             "2024-25": 25000
+          },
+          "info": {
+            "link": "https://minerals.org.au/",
+            "link_type": "website",
+            "description": "The Minerals Council of Australia (MCA) is the national industry association representing companies in the mining and mining-services sector, undertaking policy advocacy on behalf of Australia's minerals industry.",
+            "category": "industry body"
           }
         },
         {
@@ -13778,6 +14528,12 @@
           "total_aud": 20000,
           "by_year": {
             "2024-25": 20000
+          },
+          "info": {
+            "link": "https://www.liberal.org.au/",
+            "link_type": "website",
+            "description": "The Liberal Party of Australia is a major centre-right to right-wing Australian political party, founded in 1944 by Robert Menzies. It operates federally with autonomous state and territory divisions.",
+            "category": "political party body"
           }
         },
         {
@@ -14166,6 +14922,12 @@
           "total_aud": 600000,
           "by_year": {
             "2021-22": 600000
+          },
+          "info": {
+            "link": "https://www.alp.org.au/about/national-policy-forum/",
+            "link_type": "website",
+            "description": "The National Policy Forum is the policy-development body of the Australian Labor Party that prepares the draft ALP National Platform; the associated trust serves as a financial vehicle linked to the ALP.",
+            "category": "political party body"
           }
         },
         {
@@ -14173,6 +14935,12 @@
           "total_aud": 348500,
           "by_year": {
             "2024-25": 348500
+          },
+          "info": {
+            "link": "https://lnp.org.au/",
+            "link_type": "website",
+            "description": "The Liberal National Party of Queensland (LNP) is a major conservative political party in Queensland, formed in 2008 by the merger of the state Liberal and National parties. Its federal members sit with either the Liberal or National parties.",
+            "category": "political party body"
           }
         },
         {
@@ -14183,6 +14951,12 @@
             "2022-23": 80000,
             "2023-24": 40000,
             "2024-25": 25000
+          },
+          "info": {
+            "link": "https://www.nationals.org.au/",
+            "link_type": "website",
+            "description": "John McEwen House Pty Ltd is the company associated with John McEwen House at 7 National Circuit, Barton, Canberra, the federal headquarters building of the National Party of Australia (named after former Deputy PM and Country Party leader John McEwen). The building was sold to superannuation fund ISPT in 2020 with the Nationals remaining as tenants.",
+            "category": "political party body"
           }
         },
         {
@@ -14190,6 +14964,12 @@
           "total_aud": 250000,
           "by_year": {
             "2021-22": 250000
+          },
+          "info": {
+            "link": "https://www.visy.com.au/",
+            "link_type": "website",
+            "description": "Pratt Holdings Pty Ltd, trading as Visy, is the privately owned Australian holding company for the Pratt family's packaging, paper and recycling business, chaired by billionaire Anthony Pratt and founded by his grandfather Leon Pratt in 1948.",
+            "category": "company"
           }
         },
         {
@@ -14197,6 +14977,12 @@
           "total_aud": 185000,
           "by_year": {
             "2021-22": 185000
+          },
+          "info": {
+            "link": "https://www.nationals.org.au/",
+            "link_type": "website",
+            "description": "The National Party of Australia (the Nationals) is a centre-right Australian political party that traditionally represents regional and rural Australia, and is the junior partner in the federal Coalition with the Liberal Party.",
+            "category": "political party body"
           }
         },
         {
@@ -14205,6 +14991,12 @@
           "by_year": {
             "2021-22": 90000,
             "2024-25": 90000
+          },
+          "info": {
+            "link": "https://www.gowings.com/",
+            "link_type": "website",
+            "description": "An ASX-listed (GOW), family-controlled Australian investment company founded in 1868, managing a diversified portfolio across property, retail, agriculture and other investments; led by John Gowing and the Gowing family.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -14212,6 +15004,12 @@
           "total_aud": 134000,
           "by_year": {
             "2024-25": 134000
+          },
+          "info": {
+            "link": "https://www.amcps.com.au/",
+            "link_type": "website",
+            "description": "Aitken Mount Capital Partners is a privately owned boutique investment advisory firm based in Double Bay, NSW, providing investment advice and equity-raising services to corporates, institutions, family offices and high-net-worth investors.",
+            "category": "company"
           }
         },
         {
@@ -14222,6 +15020,12 @@
             "2022-23": 42000,
             "2023-24": 25000,
             "2024-25": 22000
+          },
+          "info": {
+            "link": "https://www.manildra.com.au/",
+            "link_type": "website",
+            "description": "The Manildra Group is a privately owned Australian agribusiness based in Sydney, founded by the Honan family (Dick Honan), and is a major flour miller, wheat processor and Australia's leading producer of ethanol.",
+            "category": "company"
           }
         },
         {
@@ -14315,6 +15119,12 @@
           "total_aud": 50000,
           "by_year": {
             "2024-25": 50000
+          },
+          "info": {
+            "link": "https://minerals.org.au/",
+            "link_type": "website",
+            "description": "The Minerals Council of Australia (MCA) is the national industry association representing companies in the mining and mining-services sector, undertaking policy advocacy on behalf of Australia's minerals industry.",
+            "category": "industry body"
           }
         },
         {
@@ -14434,6 +15244,12 @@
           "total_aud": 20000,
           "by_year": {
             "2024-25": 20000
+          },
+          "info": {
+            "link": "https://www.guild.org.au/",
+            "link_type": "website",
+            "description": "The Pharmacy Guild of Australia is a national employers' organisation, established in 1927 and registered under the Fair Work Act, representing the owners of community pharmacies across Australia.",
+            "category": "employer association"
           }
         },
         {
@@ -14469,6 +15285,12 @@
           "total_aud": 20000,
           "by_year": {
             "2021-22": 20000
+          },
+          "info": {
+            "link": "https://www.mineralresources.com.au/",
+            "link_type": "website",
+            "description": "Mineral Resources Limited is an ASX-listed (MIN) Australian mining services and resources company founded in 2006 by Chris Ellison, with iron ore and lithium operations primarily in Western Australia.",
+            "category": "company"
           }
         },
         {
@@ -14558,6 +15380,12 @@
           "total_aud": 200000,
           "by_year": {
             "2024-25": 200000
+          },
+          "info": {
+            "link": "https://transparency.aec.gov.au/ClientEntity/EntityDetail?clientIdentifier=45117&clientType=organisationdonor",
+            "link_type": "website",
+            "description": "An Australian proprietary investment/holding company first registered with ASIC in 1976 and based in New South Wales. It is associated with investor James Taylor and is recorded on the AEC Transparency Register as a political donor.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -14687,6 +15515,12 @@
           "total_aud": 140000,
           "by_year": {
             "2021-22": 140000
+          },
+          "info": {
+            "link": "https://www.nationals.org.au/",
+            "link_type": "website",
+            "description": "The National Party of Australia (the Nationals) is a centre-right Australian political party that traditionally represents regional and rural Australia, and is the junior partner in the federal Coalition with the Liberal Party.",
+            "category": "political party body"
           }
         },
         {
@@ -14701,6 +15535,12 @@
           "total_aud": 120000,
           "by_year": {
             "2021-22": 120000
+          },
+          "info": {
+            "link": "https://nswliberal.org.au/",
+            "link_type": "website",
+            "description": "The Hume Federal Electorate Conference (FEC) is the local party body of the Liberal Party of Australia (NSW Division) for the federal electorate of Hume.",
+            "category": "political party body"
           }
         },
         {
@@ -14729,6 +15569,12 @@
           "total_aud": 75000,
           "by_year": {
             "2023-24": 75000
+          },
+          "info": {
+            "link": "https://www.hancockprospecting.com.au/",
+            "link_type": "website",
+            "description": "Hancock Prospecting is a privately owned Australian mining and agriculture company founded in 1955 by Lang Hancock, focused on iron ore and other minerals in Western Australia. It is controlled by executive chairman Gina Rinehart.",
+            "category": "company"
           }
         },
         {
@@ -14813,6 +15659,12 @@
           "total_aud": 20000,
           "by_year": {
             "2024-25": 20000
+          },
+          "info": {
+            "link": "https://www.guild.org.au/",
+            "link_type": "website",
+            "description": "The Pharmacy Guild of Australia is a national employers' organisation, established in 1927 and registered under the Fair Work Act, representing the owners of community pharmacies across Australia.",
+            "category": "employer association"
           }
         },
         {
@@ -14939,6 +15791,12 @@
           "total_aud": 402000,
           "by_year": {
             "2024-25": 402000
+          },
+          "info": {
+            "link": "https://transparency.aec.gov.au/ClientEntity/EntityDetail?clientIdentifier=33319&clientType=organisationdonor",
+            "link_type": "website",
+            "description": "An Australian private investment company associated with share trader Robert (Rob) Keldoulis. It is recorded on the AEC Transparency Register as a political donor.",
+            "category": "investment vehicle"
           }
         },
         {
@@ -14946,6 +15804,12 @@
           "total_aud": 150000,
           "by_year": {
             "2024-25": 150000
+          },
+          "info": {
+            "link": "https://www.ppteu.asn.au/",
+            "link_type": "website",
+            "description": "The Plumbing and Pipe Trades Employees Union (PPTEU) is an Australian trade union covering plumbers, gasfitters, drainers and pipefitters; it forms the plumbing division of the Communications, Electrical and Plumbing Union (CEPU).",
+            "category": "union"
           }
         },
         {
@@ -15211,6 +16075,12 @@
           "total_aud": 100000,
           "by_year": {
             "2024-25": 100000
+          },
+          "info": {
+            "link": "https://en.wikipedia.org/wiki/Carmichael_coal_mine",
+            "link_type": "wikipedia",
+            "description": "An Australian coal mining company, a subsidiary of India's Adani Group, that develops and operates the Carmichael thermal coal mine in Queensland; it was renamed Bravus Mining & Resources in November 2020.",
+            "category": "company"
           }
         },
         {
@@ -15356,6 +16226,12 @@
           "total_aud": 125000,
           "by_year": {
             "2024-25": 125000
+          },
+          "info": {
+            "link": "https://minerals.org.au/",
+            "link_type": "website",
+            "description": "The Minerals Council of Australia (MCA) is the national industry association representing companies in the mining and mining-services sector, undertaking policy advocacy on behalf of Australia's minerals industry.",
+            "category": "industry body"
           }
         },
         {
@@ -15395,6 +16271,12 @@
           "total_aud": 200000,
           "by_year": {
             "2021-22": 200000
+          },
+          "info": {
+            "link": "https://www.climate200.com.au/",
+            "link_type": "website",
+            "description": "Climate 200 is an Australian community crowd-funded initiative, convened by Simon Holmes a Court, that channels donations to support independent ('teal') political candidates focused on climate action, political integrity and gender equality.",
+            "category": "other"
           }
         }
       ],
@@ -15467,6 +16349,12 @@
           "total_aud": 84375,
           "by_year": {
             "2021-22": 84375
+          },
+          "info": {
+            "link": "https://www.climate200.com.au/",
+            "link_type": "website",
+            "description": "Climate 200 is an Australian community crowd-funded initiative, convened by Simon Holmes a Court, that channels donations to support independent ('teal') political candidates focused on climate action, political integrity and gender equality.",
+            "category": "other"
           }
         },
         {
@@ -15648,6 +16536,12 @@
           "total_aud": 30000,
           "by_year": {
             "2021-22": 30000
+          },
+          "info": {
+            "link": "https://au.linkedin.com/company/pickard-group",
+            "link_type": "linkedin",
+            "description": "Pickard Capital is associated with the South Australian Pickard Group, a privately owned building and construction products supplier (part of the MSP Group) based in Adelaide, operating in building supplies, timber, steel and joinery.",
+            "category": "company"
           }
         },
         {

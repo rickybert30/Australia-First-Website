@@ -109,10 +109,32 @@ function byYearLine(byYear) {
     .join(' · ');
 }
 
-function donorRow(donor, amount, byYear) {
+// Renders a donor's name, linking it to the donor's own website/social when a
+// donor_info record exists, plus a short sourced description and a category tag.
+function donorNameCell(name, info) {
+  const box = el('div', 'donor-name');
+  if (info && info.link) {
+    const a = document.createElement('a');
+    a.href = info.link; a.target = '_blank'; a.rel = 'noopener noreferrer';
+    a.className = 'donor-link';
+    a.textContent = name;
+    box.appendChild(a);
+    if (info.link_type) {
+      const tag = el('span', 'donor-linktype', info.link_type);
+      box.appendChild(tag);
+    }
+  } else {
+    box.appendChild(document.createTextNode(name));
+  }
+  if (info && info.category) box.appendChild(el('span', 'donor-cat', info.category));
+  if (info && info.description) box.appendChild(el('div', 'donor-desc', info.description));
+  return box;
+}
+
+function donorRow(donor, amount, byYear, info) {
   const tr = document.createElement('tr');
   const nameTd = el('td');
-  nameTd.appendChild(el('div', 'donor-name', donor));
+  nameTd.appendChild(donorNameCell(donor, info));
   const yl = byYearLine(byYear);
   if (yl) nameTd.appendChild(el('div', 'donor-years', yl));
   tr.appendChild(nameTd);
@@ -131,7 +153,7 @@ function renderParties(data) {
   partyState.donorIndex = [];
   partyState.parties.forEach((p) => {
     (p.donors || []).forEach((d) => {
-      partyState.donorIndex.push({ donor: d.donor, party: p.party, total_aud: d.total_aud, by_year: d.by_year });
+      partyState.donorIndex.push({ donor: d.donor, party: p.party, total_aud: d.total_aud, by_year: d.by_year, info: d.info });
     });
   });
 
@@ -146,7 +168,7 @@ function renderParties(data) {
     node.querySelector('.party-years').textContent =
       'By year: ' + Object.entries(p.totals_by_year || {}).map(([fy, a]) => `${shortFy(fy)} ${fmtAud(a)}`).join(' · ');
     const tbody = node.querySelector('.party-donors');
-    (p.donors || []).slice(0, TOP_SHOWN).forEach((d) => tbody.appendChild(donorRow(d.donor, d.total_aud, d.by_year)));
+    (p.donors || []).slice(0, TOP_SHOWN).forEach((d) => tbody.appendChild(donorRow(d.donor, d.total_aud, d.by_year, d.info)));
     const more = (p.donors || []).length - TOP_SHOWN;
     node.querySelector('.party-more').textContent = more > 0 ? `+ ${more} more disclosed donor(s) — use donor search to find them.` : '';
     const srcP = node.querySelector('.party-source');
@@ -178,7 +200,7 @@ function renderDonorSearch(query) {
   partyState.donorIndex
     .filter((r) => r.donor.toLowerCase().includes(q))
     .forEach((r) => {
-      if (!groups.has(r.donor)) groups.set(r.donor, { donor: r.donor, total: 0, rows: [] });
+      if (!groups.has(r.donor)) groups.set(r.donor, { donor: r.donor, total: 0, rows: [], info: r.info });
       const g = groups.get(r.donor);
       g.total += r.total_aud;
       g.rows.push(r);
@@ -193,8 +215,21 @@ function renderDonorSearch(query) {
     const card = el('article', 'card');
     const head = el('header', 'card-head');
     const ht = el('div', 'c-headtext');
-    ht.appendChild(el('h2', 'c-name', g.donor));
+    const h2 = el('h2', 'c-name');
+    if (g.info && g.info.link) {
+      const a = document.createElement('a');
+      a.href = g.info.link; a.target = '_blank'; a.rel = 'noopener noreferrer';
+      a.className = 'donor-link';
+      a.textContent = g.donor;
+      h2.appendChild(a);
+      if (g.info.link_type) h2.appendChild(el('span', 'donor-linktype', g.info.link_type));
+    } else {
+      h2.textContent = g.donor;
+    }
+    ht.appendChild(h2);
+    if (g.info && g.info.category) ht.appendChild(el('span', 'donor-cat', g.info.category));
     ht.appendChild(el('p', 'c-meta', `${fmtAud(g.total)} disclosed across ${g.rows.length} party/parties`));
+    if (g.info && g.info.description) ht.appendChild(el('p', 'donor-desc', g.info.description));
     head.appendChild(ht);
     card.appendChild(head);
     const table = el('table', 'donor-table');
@@ -366,7 +401,9 @@ function renderDonors(donors) {
     const tbody = document.createElement('tbody');
     donors.entries.forEach((d) => {
       const tr = document.createElement('tr');
-      tr.appendChild(el('td', null, d.donor || '—'));
+      const nameTd = el('td');
+      nameTd.appendChild(donorNameCell(d.donor || '—', d.info));
+      tr.appendChild(nameTd);
       tr.appendChild(el('td', null, d.amount_aud != null ? `$${Number(d.amount_aud).toLocaleString()}` : '—'));
       tr.appendChild(el('td', null, d.financial_year || '—'));
       tr.appendChild(el('td', null, d.source_type || 'unknown'));
