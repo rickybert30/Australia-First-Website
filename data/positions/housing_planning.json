@@ -1,1 +1,104 @@
-{}
+{
+  "new-south-wales-anoulack-chanthivong-macquarie-fields": {
+    "summary": "As Minister for Better Regulation and Fair Trading, Chanthivong championed the NSW rental reforms ending no-grounds evictions, saying 'Around a third of the people in NSW rent and they deserve secure and fair housing.' The reforms require landlords to give a reason to end both periodic and fixed-term tenancies.",
+    "sources": [
+      {
+        "title": "Making renting fairer in NSW",
+        "url": "https://www.nsw.gov.au/media-releases/making-renting-fairer-nsw",
+        "publisher": "NSW Government",
+        "date": "2024-07-28"
+      }
+    ],
+    "verified": true
+  },
+  "new-south-wales-chris-minns-kogarah": {
+    "summary": "As Premier, Minns backed the Minns Labor Government's landmark 2024 rental reforms ending no-grounds evictions and capping rent increases to once a year, while stressing landlords retained the ability to evict bad tenants: 'Bad tenants will still be able to be evicted. We don't want homeowners to have (to) put up with bad behaviour.'",
+    "sources": [
+      {
+        "title": "Making renting fairer in NSW",
+        "url": "https://www.nsw.gov.au/media-releases/making-renting-fairer-nsw",
+        "publisher": "NSW Government",
+        "date": "2024-07-28"
+      }
+    ],
+    "verified": true
+  },
+  "new-south-wales-rose-jackson-statewide": {
+    "summary": "As Minister for Housing and Homelessness, Jackson promoted the 2024 rental reforms ending no-grounds evictions, describing them as crucial to 'rebuilding our housing system' and stating renters 'deserve more security and ending no grounds evictions is an important first step.'",
+    "sources": [
+      {
+        "title": "Making renting fairer in NSW",
+        "url": "https://www.nsw.gov.au/media-releases/making-renting-fairer-nsw",
+        "publisher": "NSW Government",
+        "date": "2024-07-28"
+      }
+    ],
+    "verified": true
+  },
+  "queensland-meaghan-scanlon-gaven": {
+    "summary": "As Labor Minister for Housing, Local Government and Planning, Scanlon introduced the Housing Availability and Affordability (Planning and Other Legislation Amendment) Bill 2024 (part of the 'Homes for Queenslanders' plan), designed to speed up housing approvals: 'Our bill slashes planning barriers, speeds up infrastructure delivery, and fuels housing construction. More homes, faster - plain and simple.'",
+    "sources": [
+      {
+        "title": "Homes for Queenslanders: New legislation to build more homes, faster",
+        "url": "https://www.meaghanscanlon.com.au/news/media-releases/homes-for-queenslanders-new-legislation-to-build-more-homes-faster/",
+        "publisher": "Meaghan Scanlon MP",
+        "date": "2024-04-16"
+      }
+    ],
+    "verified": true
+  },
+  "queensland-sam-o-connor-bonney": {
+    "summary": "As LNP (Crisafulli Government) Minister for Housing and Public Works, O'Connor has prioritised increasing housing supply and cutting planning red tape, including a new Queensland Housing Code with simplified design/siting rules for detached homes, saying 'unlocking more housing supply is our number one priority' and 'We're rebuilding Queensland's housing system from the foundations up to get more homes for Queenslanders sooner.'",
+    "sources": [
+      {
+        "title": "Thousands Of New Homes For Queenslanders",
+        "url": "https://www.miragenews.com/thousands-of-new-homes-for-queenslanders-1675045/",
+        "publisher": "Mirage News",
+        "date": "2026-05-18"
+      },
+      {
+        "title": "Samuel (Sam) O'Connor MP - Minister for Housing and Public Works",
+        "url": "https://cabinet.qld.gov.au/ministers-portfolios/samuel-o-connor.aspx",
+        "publisher": "Queensland Cabinet and Ministerial Directory",
+        "date": "2025-01-01"
+      }
+    ],
+    "verified": true
+  },
+  "victoria-nick-staikos-bentleigh": {
+    "summary": "As Minister for Consumer Affairs, Staikos championed the Consumer and Planning Legislation Amendment (Housing Statement Reform) Bill 2024, which banned all forms of rental bidding, banned rental application fees, and lengthened notice periods for rent increases and notices to vacate: 'Victoria has the strongest rental protections in the country and this builds on our significant work to make renting fairer across the state.'",
+    "sources": [
+      {
+        "title": "New Laws Passed To Make Renting Fairer In Victoria",
+        "url": "https://www.premier.vic.gov.au/new-laws-passed-make-renting-fairer-victoria",
+        "publisher": "Premier of Victoria",
+        "date": "2025-03-06"
+      }
+    ],
+    "verified": true
+  },
+  "victoria-sonya-kilkenny-carrum": {
+    "summary": "As Minister for Planning, Kilkenny drove Victoria's Housing Statement planning reforms to boost housing supply (target of 800,000 new homes over a decade), including allowing small second homes/granny flats without a planning permit and streamlined 'townhouse and low-rise code' changes: 'These changes will boost housing supply in a way that's sensitive to every street, whether you're building a second home for your children or selling off your backyard to help someone else buy theirs.'",
+    "sources": [
+      {
+        "title": "A Planning System That Says Yes In My Backyard - Literally",
+        "url": "https://www.premier.vic.gov.au/planning-system-says-yes-my-backyard-literally",
+        "publisher": "Premier of Victoria",
+        "date": "2025-09-11"
+      }
+    ],
+    "verified": true
+  },
+  "western-australia-john-carey-perth": {
+    "summary": "As Minister for Planning, Lands, Housing and Homelessness, Carey led WA's planning reforms (effective 1 March 2024) cutting 'red tape' to accelerate housing delivery, including a permanent significant development pathway and expanded Development Assessment Panel system: 'The Cook Labor Government continues to lead the nation in driving planning reforms and cutting unnecessary red tape to accelerate the delivery of housing in Western Australia.'",
+    "sources": [
+      {
+        "title": "Modern planning system for WA to boost housing supply",
+        "url": "https://www.wa.gov.au/government/media-statements/Cook%20Labor%20Government/Modern-planning-system-for-WA-to-boost-housing-supply-20240301",
+        "publisher": "Western Australian Government",
+        "date": "2024-03-01"
+      }
+    ],
+    "verified": true
+  }
+}
