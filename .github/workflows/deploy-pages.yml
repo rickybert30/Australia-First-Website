@@ -30,6 +30,16 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Build SQLite database for the in-browser SQL explorer
+        # Generates data/candidates.db (git-ignored) from the committed JSON so
+        # explore.html can fetch and query it client-side.
+        run: python3 scripts/build_db.py
+
       - name: Configure Pages
         # Requires Pages to be enabled once in repo settings
         # (Settings -> Pages -> Build and deployment -> Source: GitHub Actions).

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Explore the data with SQL — Australian Candidate Transparency Database</title>
+  <link rel="icon" href="data:," />
+  <link rel="stylesheet" href="assets/style.css" />
+  <style>
+    .sql-wrap { max-width: 1100px; margin: 0 auto; padding: 0 1rem 3rem; }
+    .sql-intro { color: var(--muted); font-size: .9rem; line-height: 1.5; max-width: 70ch; }
+    .sql-examples { display: flex; flex-wrap: wrap; gap: .4rem; margin: .8rem 0; }
+    .sql-examples button {
+      font-size: .78rem; padding: .3rem .6rem; border: 1px solid var(--line);
+      background: var(--card, #fff); border-radius: 5px; cursor: pointer; color: inherit;
+    }
+    .sql-examples button:hover { border-color: var(--accent, #0b6); }
+    #sql { width: 100%; min-height: 8.5rem; font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+           font-size: .84rem; padding: .6rem; border: 1px solid var(--line); border-radius: 6px;
+           box-sizing: border-box; resize: vertical; }
+    .sql-bar { display: flex; align-items: center; gap: .8rem; margin: .5rem 0; }
+    #run { font-size: .9rem; padding: .4rem 1.1rem; border: 0; border-radius: 6px;
+           background: var(--accent, #0b6); color: #fff; cursor: pointer; }
+    #run:disabled { opacity: .5; cursor: default; }
+    #status { color: var(--muted); font-size: .8rem; }
+    .sql-error { color: #b00; font-size: .84rem; white-space: pre-wrap; font-family: ui-monospace, monospace; }
+    .sql-results { overflow-x: auto; margin-top: .6rem; }
+    table.sqlout { border-collapse: collapse; font-size: .82rem; width: 100%; }
+    table.sqlout th, table.sqlout td { border: 1px solid var(--line); padding: .3rem .5rem;
+      text-align: left; vertical-align: top; white-space: nowrap; }
+    table.sqlout th { background: var(--card, #f6f6f6); position: sticky; top: 0; }
+    table.sqlout td.num { text-align: right; font-variant-numeric: tabular-nums; }
+    .sql-count { color: var(--muted); font-size: .78rem; margin-top: .3rem; }
+    .schema-note code { font-size: .8rem; }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <h1>Explore the data with SQL</h1>
+    <p class="tagline">
+      Run your own SQL queries over the whole dataset — candidates, positions, donors and
+      donations — right in your browser. Nothing is sent to a server; the database is
+      downloaded once and queried locally. <a href="index.html">← Back to the database</a>
+    </p>
+  </header>
+
+  <main class="sql-wrap">
+    <p class="sql-intro">
+      This is the same data behind the site, as a relational SQLite database. Tables:
+      <code>candidate</code>, <code>position</code>, <code>donor</code>,
+      <code>donor_info</code>, <code>party_donation</code>, <code>member_donation</code>,
+      and a deduplicated <code>source</code>. The <code>donor.canonical_id</code> column
+      links spelling variants of the same donor to one entity — use
+      <code>COALESCE(canonical_id, name)</code> to roll them up. Queries are read-only.
+    </p>
+
+    <div class="sql-examples" id="examples" aria-label="Example queries"></div>
+
+    <textarea id="sql" spellcheck="false" aria-label="SQL query"></textarea>
+    <div class="sql-bar">
+      <button id="run" disabled>Run query</button>
+      <span id="status">Loading database…</span>
+    </div>
+
+    <div id="error" class="sql-error" hidden></div>
+    <div class="sql-results" id="results"></div>
+    <div class="sql-count" id="count"></div>
+  </main>
+
+  <!-- sql.js (WASM) vendored locally — no third-party requests, works offline -->
+  <script src="assets/vendor/sqljs/sql-wasm.js"></script>
+  <script src="assets/explore.js"></script>
+</body>
+</html>

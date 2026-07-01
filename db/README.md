@@ -68,10 +68,36 @@ WHERE name IN (SELECT donor_name FROM party_donation)
   AND name IN (SELECT donor_name FROM member_donation);
 ```
 
+## Donor consolidation
+
+`scripts/consolidate_donors.py` (run automatically by `build_db.py`) populates
+`donor.canonical_id`, mapping spelling variants of the same entity to one
+canonical name — 152 spellings folded into 112 entities. Roll spellings up with
+`COALESCE(canonical_id, name)`. It's conservative (strips only known corporate/
+trust boilerplate, never merges on a key under 4 characters) and does not change
+emitted JSON — donors keep their exact disclosed names.
+
+## Diffable serialised form
+
+`build_db.py` also writes **`db/candidates.sql`**, a deterministic text dump of
+the whole assembled dataset (`sqlite3 .dump`). That file is committed as the
+canonical, reviewable serialisation — schema changes and data edits show up as
+readable diffs, and the database can be rebuilt from it with
+`sqlite3 data/candidates.db < db/candidates.sql`. The binary `.db` stays
+git-ignored.
+
+## In-browser SQL explorer
+
+`explore.html` (+ `assets/explore.js`) runs these queries **client-side** with
+sql.js (WASM, vendored under `assets/vendor/sqljs/` — no third-party requests).
+It fetches `data/candidates.db`, which the GitHub Pages workflow builds at deploy
+time via `python3 scripts/build_db.py`. Nothing is sent to a server; readers get
+real ad-hoc SQL over the whole dataset. Linked from the main page's nav.
+
 ## Possible next steps (not done here)
 
-- **Donor consolidation:** populate `canonical_id` to collapse spelling variants.
-- **Ship the DB to the browser:** Datasette-lite or sql.js can run these queries
-  client-side from the static `.db` — real ad-hoc SQL for readers, still no server.
-- **Flip the source of truth:** author in the DB and generate all JSON from it
-  (would commit a SQL dump for diffable history rather than the binary `.db`).
+- **Flip authoring fully into the DB:** today the DB is assembled from the
+  committed JSON/CSV inputs; a full flip would author positions and donor_info
+  directly in the DB and generate all JSON from it.
+- **Surface consolidated donor totals in the main UI** (currently only the SQL
+  explorer rolls spellings up via `canonical_id`).
