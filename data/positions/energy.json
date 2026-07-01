@@ -1,1 +1,128 @@
-{}
+{
+  "new-south-wales-penny-sharpe-statewide": {
+    "summary": "NSW Minister for Climate Change, Energy, the Environment and Heritage (and Leader of the Government in the Legislative Council). Sharpe delivers the state's Electricity Infrastructure Roadmap, which manages the exit of ageing coal power stations while building Renewable Energy Zones, storage, firming and transmission; she frames the REZs and roadmap as ensuring NSW has the energy to run its economy by 'replacing coal-fired power with renewable energy.'",
+    "sources": [
+      {
+        "title": "The Hon. Penelope Gail SHARPE, MLC - member details",
+        "url": "https://www.parliament.nsw.gov.au/members/Pages/member-details.aspx?pk=28",
+        "publisher": "Parliament of NSW",
+        "date": "2023"
+      },
+      {
+        "title": "Accelerating the Energy Transition in New South Wales: Minister Penny Sharpe",
+        "url": "https://www.theclimategroup.org/our-work/case-studies/accelerating-energy-transition-new-south-wales-minister-penny-sharpe-states",
+        "publisher": "Climate Group",
+        "date": "2024"
+      }
+    ],
+    "verified": true
+  },
+  "queensland-david-crisafulli-broadwater": {
+    "summary": "LNP Premier (Opposition Leader at the 2024 election). Crisafulli supported Queensland's 75% by 2035 emissions reduction target but the LNP voted against the Clean Economy Jobs / Energy (Renewable Transformation and Jobs) legislation that set the pathway, and he committed to repeal the legislated 50%/70%/80% renewable energy targets, saying they would be 'ditched because there is no credible path to get there.' He said he wants to keep coal-fired power stations running 'indefinitely.'",
+    "sources": [
+      {
+        "title": "Bipartisan support for Qld's 2035 emissions target, but LNP votes against pathway to get there",
+        "url": "https://www.acf.org.au/bipartisan-support-for-qld-2035-emissions-target",
+        "publisher": "Australian Conservation Foundation",
+        "date": "2024-04-18"
+      },
+      {
+        "title": "New wind and solar may struggle in Sunshine state as LNP right wing lays ground for nuclear backflip",
+        "url": "https://reneweconomy.com.au/new-wind-and-solar-may-struggle-in-sunshine-state-as-lnp-right-wing-lays-ground-for-nuclear-backflip/",
+        "publisher": "RenewEconomy",
+        "date": "2024-10"
+      }
+    ],
+    "verified": true
+  },
+  "queensland-david-janetzki-toowoomba-south": {
+    "summary": "Treasurer and Minister for Energy in the Crisafulli LNP government. Janetzki delivered the Energy Roadmap Amendment Act 2025, which repealed Queensland's legislated renewable energy targets (50%/70%/80%) in favour of what the government calls a 'more realistic and market driven' approach focused on affordable, reliable electricity and existing (including coal) assets. On nuclear power he said the choice is 'a matter for the federal government.'",
+    "sources": [
+      {
+        "title": "David Janetzki MP - Ministers and Portfolios",
+        "url": "https://cabinet.qld.gov.au/ministers-portfolios/david-janetzki.aspx",
+        "publisher": "Queensland Cabinet",
+        "date": "2024"
+      },
+      {
+        "title": "New wind and solar may struggle in Sunshine state as LNP right wing lays ground for nuclear backflip",
+        "url": "https://reneweconomy.com.au/new-wind-and-solar-may-struggle-in-sunshine-state-as-lnp-right-wing-lays-ground-for-nuclear-backflip/",
+        "publisher": "RenewEconomy",
+        "date": "2024-10"
+      }
+    ],
+    "verified": true
+  },
+  "queensland-mick-de-brenni-springwood": {
+    "summary": "As Miles Labor government Minister for Energy, Renewables and Hydrogen, de Brenni introduced and passed the Energy (Renewable Transformation and Jobs) Act 2024, which legislated renewable energy targets of 50% by 2030, 70% by 2032 and 80% by 2035 plus a publicly-owned energy system and coal-worker job guarantees. He said the laws show 'Queensland is ready, willing and able to help tackle climate change.' Now in opposition, he opposed the Crisafulli government's repeal of those targets, noting Queensland was on track for about 60% renewables by 2030.",
+    "sources": [
+      {
+        "title": "Miles Labor Government locks in 100,000 jobs for the future",
+        "url": "https://statements.qld.gov.au/statements/100137",
+        "publisher": "Queensland Government Ministerial Media Statements",
+        "date": "2024-04-18"
+      },
+      {
+        "title": "New wind and solar may struggle in Sunshine state as LNP right wing lays ground for nuclear backflip",
+        "url": "https://reneweconomy.com.au/new-wind-and-solar-may-struggle-in-sunshine-state-as-lnp-right-wing-lays-ground-for-nuclear-backflip/",
+        "publisher": "RenewEconomy",
+        "date": "2024-10"
+      }
+    ],
+    "verified": true
+  },
+  "south-australia-tom-koutsantonis-west-torrens": {
+    "summary": "SA Minister for Energy and Mining, Koutsantonis pursues South Australia's push toward 100% net renewables (targeted around 2027) and led the $593m Hydrogen Jobs Plan/green-hydrogen tender centred on Whyalla. After the collapse of the Whyalla Steelworks he cancelled the flagship Whyalla hydrogen power plant and wound up the Office of Hydrogen Power, redirecting funds to steelworks support while maintaining the broader renewables agenda.",
+    "sources": [
+      {
+        "title": "South Australia disbands Hydrogen Power office as Whyalla project officially cancelled",
+        "url": "https://reneweconomy.com.au/south-australia-disbands-hydrogen-power-office-as-whyalla-project-officially-cancelled/",
+        "publisher": "RenewEconomy",
+        "date": "2025-05-05"
+      },
+      {
+        "title": "South Australia names winners of world-leading hydrogen tender in race to 100 pct renewables",
+        "url": "https://reneweconomy.com.au/south-australia-names-winners-of-world-leading-hydrogen-tender-in-race-to-100-pct-renewables/",
+        "publisher": "RenewEconomy",
+        "date": "2024"
+      }
+    ],
+    "verified": true
+  },
+  "victoria-lily-d-ambrosio-mill-park": {
+    "summary": "As Victorian Minister for Energy and Resources, Lily D'Ambrosio has driven Victoria's legislated renewable energy targets of 65% renewable generation by 2030 and 95% by 2035 (with the remaining ~5% gas), the revival of a state-owned State Electricity Commission (SEC), and a planned exit from coal-fired power. She stated Victoria's 'record investment in renewable energy is paying off - Victoria consistently has the lowest wholesale power prices in the country.'",
+    "sources": [
+      {
+        "title": "Victoria Powers Towards Next Renewable Energy Target",
+        "url": "https://www.premier.vic.gov.au/victoria-powers-towards-next-renewable-energy-target",
+        "publisher": "Premier of Victoria",
+        "date": "2023"
+      },
+      {
+        "title": "Victoria to target 95% renewable energy by 2035",
+        "url": "https://www.pv-magazine-australia.com/2022/10/20/victoria-to-target-95-renewable-energy-by-2035/",
+        "publisher": "pv magazine Australia",
+        "date": "2022-10-20"
+      }
+    ],
+    "verified": true
+  },
+  "western-australia-amber-jade-sanderson-morley": {
+    "summary": "Appointed WA Minister for Energy and Decarbonisation (succeeding Reece Whitby in the March 2025 reshuffle), Amber-Jade Sanderson is overseeing Labor's plan to exit state-owned coal generation (Collie and Muja) by 2030 and build out renewables and transmission. Announcing a $1.4bn grid investment ahead of coal closures she said the 'Clean Energy Link - East is a massive grid expansion for the state, which will deliver enough energy to power around 1 million homes and support industry to access cheaper, cleaner energy.'",
+    "sources": [
+      {
+        "title": "WA commits $1.4 billion to deliver clean energy ahead of coal plant closures",
+        "url": "https://www.pv-magazine-australia.com/2026/04/30/wa-commits-1-4-billion-to-deliver-clean-energy-ahead-of-coal-plant-closures/",
+        "publisher": "pv magazine Australia",
+        "date": "2026-04-30"
+      },
+      {
+        "title": "W.A. names new energy minister as it navigates transition beyond coal",
+        "url": "https://reneweconomy.com.au/w-a-names-new-energy-minister-as-it-navigates-transition-beyond-coal/",
+        "publisher": "RenewEconomy",
+        "date": "2025-03-18"
+      }
+    ],
+    "verified": true
+  }
+}

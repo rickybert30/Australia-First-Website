@@ -1,1 +1,86 @@
-{}
+{
+  "new-south-wales-penny-sharpe-statewide": {
+    "summary": "As NSW Minister for Climate Change, Energy, Environment and Heritage (Labor), Penny Sharpe championed the Climate Change (Net Zero Future) Act 2023, which legislated targets of 50% emissions reduction by 2030, 70% by 2035 and net zero by 2050. On its passage she said 'NSW Labor has followed through on its commitment to the people of NSW to take serious action on climate change and keep this government and future governments accountable for delivering on emissions reduction targets.' She also drove the September 2025 expansion of the NSW Return and Earn container deposit scheme to include wine and spirit bottles, saying the government was 'working with industry to ensure a smooth transition and to ensure return systems will be ready to handle the new containers by mid-2027.'",
+    "sources": [
+      {
+        "title": "NSW takes action: Labor's Climate Change Bill passes parliament with broad support",
+        "url": "https://www.nsw.gov.au/media-releases/climate-change-bill-passes-nsw-parliament",
+        "publisher": "NSW Government",
+        "date": "2023-11-30"
+      },
+      {
+        "title": "Container deposit legislation in Australia",
+        "url": "https://en.wikipedia.org/wiki/Container_deposit_legislation_in_Australia",
+        "publisher": "Wikipedia",
+        "date": "2026"
+      }
+    ],
+    "verified": true
+  },
+  "queensland-david-crisafulli-broadwater": {
+    "summary": "Queensland LNP Premier David Crisafulli committed to delivering the state's legislated 75% emissions reduction by 2035 target (set in Labor's Clean Economy Jobs Act 2024, which the LNP voted to support). The Australian Conservation Foundation noted that while the LNP voted in support of Labor's climate targets, the party rejected Labor's plan to deliver them, and called on Crisafulli to produce a credible pathway to meet the 75%-by-2035 goal.",
+    "sources": [
+      {
+        "title": "Crisafulli: credible plan needed for Qld climate and nature",
+        "url": "https://www.acf.org.au/news/crisafulli-credible-plan-needed-for-qld-climate-and-nature",
+        "publisher": "Australian Conservation Foundation",
+        "date": "2024"
+      }
+    ],
+    "verified": true
+  },
+  "tasmania-rosalie-woodruff-franklin": {
+    "summary": "Tasmanian Greens MP (and Safe Climate spokesperson) Rosalie Woodruff pressed the government to act on the independent review of the Climate Change (State Action) Act, calling for legislated sector emissions targets 'so the state's carbon emissions actually come down' and for restoration of 'the independent climate body that you axed more than a decade ago to increase accountability of government.' She urged the government to commit to amending the Act within the year.",
+    "sources": [
+      {
+        "title": "Climate Change Response (parliamentary questions)",
+        "url": "https://tasgreensmps.org/parliament/questions/climate-change-response/",
+        "publisher": "Tasmanian Greens MPs",
+        "date": "2023"
+      }
+    ],
+    "verified": true
+  },
+  "victoria-lily-d-ambrosio-mill-park": {
+    "summary": "As Victorian Minister for Climate Action, Energy and Resources (Labor), Lily D'Ambrosio introduced legislation locking in Victoria's renewable energy and climate targets: 95% renewable electricity generation by 2035 (with a 65% interim target for 2030), emissions reduction of 45-50% below 2005 levels by 2030 and 75-80% by 2035, and bringing net zero forward from 2050 to 2045. She said: 'These targets encourage investment in Victoria's renewable energy transition and show our commitment to bold climate action as we work towards net-zero emissions by 2045.'",
+    "sources": [
+      {
+        "title": "Locking In Leading Renewable Energy And Climate Targets",
+        "url": "https://www.premier.vic.gov.au/locking-leading-renewable-energy-and-climate-targets",
+        "publisher": "Premier of Victoria",
+        "date": "2023"
+      }
+    ],
+    "verified": true
+  },
+  "western-australia-brad-pettitt-statewide": {
+    "summary": "WA Greens MLC Brad Pettitt reintroduced Labor's own stalled Climate Change Bill in the 42nd Parliament as the Climate Action this Decade Bill 2025, adding a legislated 2030 emissions reduction target (WA being the only Australian state without one) and a plan to phase out fossil-fuel burning. He criticised the Cook Labor Government for climate inaction: 'Last term, the Cook Labor government promised climate action - they even spent millions of taxpayer dollars talking up their plan - but ultimately failed to deliver.'",
+    "sources": [
+      {
+        "title": "Climate Action This Decade: Greens reintroduce Labor's own climate bill",
+        "url": "https://www.bradpettitt.com/blog/climate-action-this-decade-greens-reintroduce-labors-own-climate-bill/",
+        "publisher": "Brad Pettitt MLC",
+        "date": "2025"
+      }
+    ],
+    "verified": true
+  },
+  "western-australia-reece-whitby-baldivis": {
+    "summary": "As WA Minister for Environment and Climate Action (Labor, Cook Government), Reece Whitby introduced the Climate Change Bill 2023 setting a long-term target of net zero emissions by 2050 and requiring the minister to report annually to Parliament on progress. He later led the Cook Government's Environmental Protection Amendment Bill 2024 overhauling WA's environmental approvals, which he defended as balanced: 'These reforms will ensure WA's high environmental protection standards are upheld while supporting efficient processes for business.' The reforms were criticised by conservation groups after the government indicated it would no longer impose greenhouse-gas emissions conditions on major fossil fuel projects.",
+    "sources": [
+      {
+        "title": "Major environmental approvals reforms pass Parliament",
+        "url": "https://www.wa.gov.au/government/media-statements/Cook-Labor-Government/Major-environmental-approvals-reforms-pass-Parliament-20241018",
+        "publisher": "Government of Western Australia",
+        "date": "2024-10-18"
+      },
+      {
+        "title": "Climate change legislation",
+        "url": "https://www.wa.gov.au/service/environment/environment-information-services/climate-change-legislation",
+        "publisher": "Government of Western Australia",
+        "date": "2023"
+      }
+    ],
+    "verified": true
+  }
+}
