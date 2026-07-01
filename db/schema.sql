@@ -41,12 +41,15 @@ CREATE TABLE candidate (
     chamber          TEXT,
     electorate       TEXT,
     state            TEXT,
-    status           TEXT,
+    status           TEXT,             -- incumbent | former | candidate
+    election         TEXT,             -- running candidates only, e.g. 'Victoria 2026'
+    poll_date        TEXT,             -- running candidates only
     official_page    TEXT,
     photo_url        TEXT,
     photo_credit_url TEXT,
     last_updated     TEXT,
-    roster_source_id INTEGER REFERENCES source(id),
+    roster_source_id     INTEGER REFERENCES source(id),
+    candidacy_source_id  INTEGER REFERENCES source(id),
     -- the member-return "donors" block header (nullable; only members with AEC returns)
     donor_summary    TEXT,
     donor_total_aud  INTEGER
