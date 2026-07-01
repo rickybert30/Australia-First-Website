@@ -46,6 +46,7 @@ body {
 }
 .tab.active { color: var(--text); border-color: var(--accent); }
 .tab:hover { color: var(--text); }
+.tab-link { text-decoration: none; margin-left: auto; display: inline-block; line-height: normal; }
 
 .controls {
   display: flex;

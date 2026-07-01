@@ -13,10 +13,13 @@ import json
 import os
 import sqlite3
 
+import consolidate_donors
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "..", "data")
 SCHEMA = os.path.join(HERE, "..", "db", "schema.sql")
 DB = os.path.join(DATA, "candidates.db")
+DUMP = os.path.join(HERE, "..", "db", "candidates.sql")
 
 
 def load(name):
@@ -122,13 +125,25 @@ def main():
                         (name, source_id(s), ord_))
 
     con.commit()
+
+    # group spelling variants of the same donor (adds donor.canonical_id; JSON unchanged)
+    consolidate_donors.run(con)
+
+    # write a diffable text dump of the assembled dataset as the canonical serialised form
+    with open(DUMP, "w", encoding="utf-8") as f:
+        for line in con.iterdump():
+            f.write(line + "\n")
+
     counts = {t: con.execute(f"SELECT COUNT(*) FROM {t}").fetchone()[0] for t in
               ("candidate", "position", "donor", "donor_info", "party_donation",
                "member_donation", "source")}
+    canon = con.execute("SELECT COUNT(*) FROM donor WHERE canonical_id IS NOT NULL").fetchone()[0]
     con.close()
     print("Wrote", DB)
     for t, n in counts.items():
         print(f"  {t}: {n}")
+    print(f"  donor spellings mapped to a canonical entity: {canon}")
+    print("Wrote", DUMP)
 
 
 if __name__ == "__main__":
