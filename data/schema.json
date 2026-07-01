@@ -92,7 +92,21 @@
         "voluntary_assisted_dying": { "$ref": "#/definitions/position", "description": "State issue: voluntary assisted dying positions and votes." },
         "gender_lgbtq": { "$ref": "#/definitions/position", "description": "State issue: gender and LGBTQ+ policy positions and votes." },
         "religious_freedom": { "$ref": "#/definitions/position", "description": "State issue: religious freedom / freedom of conscience positions." },
-        "drugs_law_order": { "$ref": "#/definitions/position", "description": "State issue: drug policy and law-and-order positions." }
+        "drugs_law_order": { "$ref": "#/definitions/position", "description": "State issue: drug policy and law-and-order positions." },
+        "gambling": { "$ref": "#/definitions/position", "description": "State issue: gambling / gaming (pokies) reform." },
+        "hunting": { "$ref": "#/definitions/position", "description": "State issue: recreational duck / native-bird hunting." },
+        "sex_work": { "$ref": "#/definitions/position", "description": "State issue: sex work decriminalisation / regulation." },
+        "native_forest_logging": { "$ref": "#/definitions/position", "description": "State issue: native / old-growth forest logging." },
+        "first_nations": { "$ref": "#/definitions/position", "description": "State issue: First Nations, treaty, truth-telling and land rights." },
+        "nuclear": { "$ref": "#/definitions/position", "description": "State issue: nuclear power / uranium mining and moratoriums." },
+        "integrity": { "$ref": "#/definitions/position", "description": "State issue: integrity / anti-corruption commissions and reforms." },
+        "housing_planning": { "$ref": "#/definitions/position", "description": "State issue: housing, planning and rental policy." },
+        "health": { "$ref": "#/definitions/position", "description": "State issue: public health and hospital policy." },
+        "education": { "$ref": "#/definitions/position", "description": "State issue: schools and education policy." },
+        "transport_infrastructure": { "$ref": "#/definitions/position", "description": "State issue: transport and infrastructure." },
+        "energy": { "$ref": "#/definitions/position", "description": "State issue: energy policy (coal/gas vs renewables)." },
+        "environment_water": { "$ref": "#/definitions/position", "description": "State issue: environment, climate and water." },
+        "animal_welfare": { "$ref": "#/definitions/position", "description": "State issue: animal welfare (greyhound racing, puppy farms, etc.)." }
       },
       "additionalProperties": false
     },

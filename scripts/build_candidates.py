@@ -39,7 +39,12 @@ BUILD_DATE = "2026-06-26"
 # data/positions/<issue>.json mapping candidate id -> {summary, sources, verified}.
 ISSUES = ["faith", "immigration", "foreign_policy", "economic_nationalism", "citizenship_eligibility",
           # State/territory conscience & social issues:
-          "abortion", "voluntary_assisted_dying", "gender_lgbtq", "religious_freedom", "drugs_law_order"]
+          "abortion", "voluntary_assisted_dying", "gender_lgbtq", "religious_freedom", "drugs_law_order",
+          # State conscience/values issues (often decided by named conscience-vote divisions):
+          "gambling", "hunting", "sex_work", "native_forest_logging", "first_nations", "nuclear", "integrity",
+          # Core state policy areas:
+          "housing_planning", "health", "education", "transport_infrastructure", "energy",
+          "environment_water", "animal_welfare"]
 
 AEC_HOUSE_URL = "https://results.aec.gov.au/31496/Website/HouseDownloadsMenu-31496-Csv.htm"
 AEC_DONOR_URL = "https://transparency.aec.gov.au/MemberOfParliament"
