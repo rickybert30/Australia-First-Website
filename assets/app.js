@@ -11,10 +11,26 @@ const POSITION_LABELS = {
   gender_lgbtq: 'Gender & LGBTQ+ policy',
   religious_freedom: 'Religious freedom',
   drugs_law_order: 'Drugs & law and order',
+  gambling: 'Gambling & gaming reform',
+  hunting: 'Hunting (duck & native birds)',
+  sex_work: 'Sex work decriminalisation',
+  native_forest_logging: 'Native forest logging',
+  first_nations: 'First Nations & treaty',
+  nuclear: 'Nuclear & uranium',
+  integrity: 'Integrity & anti-corruption',
+  housing_planning: 'Housing & planning',
+  health: 'Health',
+  education: 'Education',
+  transport_infrastructure: 'Transport & infrastructure',
+  energy: 'Energy',
+  environment_water: 'Environment & water',
+  animal_welfare: 'Animal welfare',
 };
 
 const ISSUE_KEYS = ['faith', 'immigration', 'foreign_policy', 'economic_nationalism', 'citizenship_eligibility',
-  'abortion', 'voluntary_assisted_dying', 'gender_lgbtq', 'religious_freedom', 'drugs_law_order'];
+  'abortion', 'voluntary_assisted_dying', 'gender_lgbtq', 'religious_freedom', 'drugs_law_order',
+  'gambling', 'hunting', 'sex_work', 'native_forest_logging', 'first_nations', 'nuclear', 'integrity',
+  'housing_planning', 'health', 'education', 'transport_infrastructure', 'energy', 'environment_water', 'animal_welfare'];
 const CHIP_LABELS = {
   faith: 'Faith',
   immigration: 'Immigration',
@@ -26,6 +42,20 @@ const CHIP_LABELS = {
   gender_lgbtq: 'Gender/LGBTQ+',
   religious_freedom: 'Religious freedom',
   drugs_law_order: 'Drugs/law',
+  gambling: 'Gambling',
+  hunting: 'Hunting',
+  sex_work: 'Sex work',
+  native_forest_logging: 'Forest logging',
+  first_nations: 'First Nations',
+  nuclear: 'Nuclear',
+  integrity: 'Integrity',
+  housing_planning: 'Housing',
+  health: 'Health',
+  education: 'Education',
+  transport_infrastructure: 'Transport',
+  energy: 'Energy',
+  environment_water: 'Environment',
+  animal_welfare: 'Animal welfare',
 };
 
 const state = {
