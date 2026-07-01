@@ -39165,6 +39165,3840 @@
       },
       "photo_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Pierre_Yang%2C_Portrait.jpg",
       "photo_credit_url": "https://en.wikipedia.org/wiki/Pierre_Yang"
+    },
+    {
+      "id": "victoria-2026-sonya-semmens-albert-park",
+      "name": "Sonya Semmens",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Albert Park",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Sonya Semmens (Albert Park)",
+        "url": "https://greens.org.au/vic/person/sonya-semmens",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-colleen-bolger-albert-park",
+      "name": "Colleen Bolger",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Albert Park",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Colleen Bolger (Albert Park)",
+        "url": "https://www.victoriansocialists.org.au/candidates/colleen-bolger",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-theo-zographos-ashwood",
+      "name": "Theo Zographos",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Ashwood",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Theo Zographos (Ashwood)",
+        "url": "https://www.heraldsun.com.au/news/victoria/backroom-baz-jess-wilsons-public-snub-reveals-deep-party-division/news-story/87d9022c55a6f2f61ef9f0ed48ac3935?amp&nk=28f5a6a5d1966c2f77da070e0c1a7035-1779153598",
+        "publisher": "heraldsun.com.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-tim-randall-ashwood",
+      "name": "Tim Randall",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Ashwood",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Tim Randall (Ashwood)",
+        "url": "https://greens.org.au/vic/person/tim-randall",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-jacob-van-der-eynden-ashwood",
+      "name": "Jacob van der Eynden",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Ashwood",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Jacob van der Eynden (Ashwood)",
+        "url": "https://www.victoriansocialists.org.au/candidates/jacob-van-der-eynden",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-chris-buckingham-bass",
+      "name": "Chris Buckingham",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Bass",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Chris Buckingham (Bass)",
+        "url": "https://www.sgst.com.au/news/labor-names-chris-buckingham-as-its-candidate-for-bass",
+        "publisher": "sgst.com.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-rochelle-halstead-bass",
+      "name": "Rochelle Halstead",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Bass",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Rochelle Halstead (Bass)",
+        "url": "https://www.sgst.com.au/liberals-rochelle-halstead-aims-to-take-care-of-unfinished-business/",
+        "publisher": "sgst.com.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-sophie-thorn-bass",
+      "name": "Sophie Thorn",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Bass",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Sophie Thorn (Bass)",
+        "url": "https://greens.org.au/vic/person/sophie-thorn",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-julie-buxton-bayswater",
+      "name": "Julie Buxton",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Bayswater",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Julie Buxton (Bayswater)",
+        "url": "https://www.facebook.com/JacksonTaylorMP/posts/ive-got-some-exciting-news-meet-julie-buxton-shes-labors-candidate-for-bayswater/1466501571933900/",
+        "publisher": "facebook.com",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-david-kitchen-bayswater",
+      "name": "David Kitchen",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Bayswater",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — David Kitchen (Bayswater)",
+        "url": "https://vic.liberal.org.au/team/david-kitchen",
+        "publisher": "vic.liberal.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-alec-ferguson-bayswater",
+      "name": "Alec Ferguson",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Bayswater",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Alec Ferguson (Bayswater)",
+        "url": "https://www.victoriansocialists.org.au/candidates/alec-ferguson",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-steve-martin-benambra",
+      "name": "Steve Martin",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Benambra",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Steve Martin (Benambra)",
+        "url": "https://www.wangarattachronicle.com.au/news/politics-and-government/libs-choose-steve-martin-for-benambra-tmtzgaqr",
+        "publisher": "wangarattachronicle.com.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-andrew-lethlean-bendigo-east",
+      "name": "Andrew Lethlean",
+      "party": "The Nationals",
+      "party_group": "Coalition",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Bendigo East",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Andrew Lethlean (Bendigo East)",
+        "url": "https://www.abc.net.au/news/2026-04-04/andrew-lethlean-to-challenge-jacinta-allan-victorian-election/106531610",
+        "publisher": "abc.net.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-owen-cosgriff-bendigo-east",
+      "name": "Owen Cosgriff",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Bendigo East",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Owen Cosgriff (Bendigo East)",
+        "url": "https://www.victoriansocialists.org.au/candidates/owen-cosgriff",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-liza-shaw-bendigo-west",
+      "name": "Liza Shaw",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Bendigo West",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Liza Shaw (Bendigo West)",
+        "url": "https://greens.org.au/vic/person/liza-shaw",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-tayne-shalevski-bendigo-west",
+      "name": "Tayne Shalevski",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Bendigo West",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Tayne Shalevski (Bendigo West)",
+        "url": "https://www.victoriansocialists.org.au/candidates/tayne-shalevski",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-rana-khan-berwick",
+      "name": "Rana Khan",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Berwick",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Rana Khan (Berwick)",
+        "url": "https://www.viclabor.org.au/our-team/rana-khan",
+        "publisher": "viclabor.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-nalinda-amarasiri-gunawardana-berwick",
+      "name": "Nalinda Amarasiri Gunawardana",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Berwick",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Nalinda Amarasiri Gunawardana (Berwick)",
+        "url": "https://www.victoriansocialists.org.au/candidates/nalinda-amarasiri-gunawardana",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-sally-houguet-box-hill",
+      "name": "Sally Houguet",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Box Hill",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Sally Houguet (Box Hill)",
+        "url": "https://vic.liberal.org.au/team/sally-houguet",
+        "publisher": "vic.liberal.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-aaron-qin-box-hill",
+      "name": "Aaron Qin",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Box Hill",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Aaron Qin (Box Hill)",
+        "url": "https://greens.org.au/vic/person/aaron-qin",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-saravina-afaj-box-hill",
+      "name": "Saravina Afaj",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Box Hill",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Saravina Afaj (Box Hill)",
+        "url": "https://www.victoriansocialists.org.au/candidates/saravina-afaj",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-ebony-bain-brighton",
+      "name": "Ebony Bain",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Brighton",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Ebony Bain (Brighton)",
+        "url": "https://greens.org.au/vic/person/ebony-bain",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-jessica-smith-brighton",
+      "name": "Jessica Smith",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Brighton",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Jessica Smith (Brighton)",
+        "url": "https://www.victoriansocialists.org.au/candidates/jessica-smith",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-mutullah-can-yolbulan-broadmeadows",
+      "name": "Mutullah Can Yolbulan",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Broadmeadows",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Mutullah Can Yolbulan (Broadmeadows)",
+        "url": "https://www.victoriansocialists.org.au/candidates/mutullah-can-yolbulan",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-gabriel-steger-brunswick",
+      "name": "Gabriel Steger",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Brunswick",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Gabriel Steger (Brunswick)",
+        "url": "https://brunswickvoice.com.au/labor-opts-for-fresh-face-in-battle-for-brunswick/",
+        "publisher": "brunswickvoice.com.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-adam-pulford-brunswick",
+      "name": "Adam Pulford",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Brunswick",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Adam Pulford (Brunswick)",
+        "url": "https://www.instagram.com/reels/DVzXgb2E_7u/",
+        "publisher": "instagram.com",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-naomi-farmer-brunswick",
+      "name": "Naomi Farmer",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Brunswick",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Naomi Farmer (Brunswick)",
+        "url": "https://www.victoriansocialists.org.au/candidates/naomi-farmer",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-dimitrios-tafidis-bulleen",
+      "name": "Dimitrios Tafidis",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Bulleen",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Dimitrios Tafidis (Bulleen)",
+        "url": "https://www.victoriansocialists.org.au/candidates/Dimitrios-Tafidis",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-nina-laitala-bundoora",
+      "name": "Nina Laitala",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Bundoora",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Nina Laitala (Bundoora)",
+        "url": "https://greens.org.au/vic/person/nina-laitala",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-sagar-sanyal-bundoora",
+      "name": "Sagar Sanyal",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Bundoora",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Sagar Sanyal (Bundoora)",
+        "url": "https://www.victoriansocialists.org.au/candidates/sagar-sanyal",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-mikaela-stafrace-caulfield",
+      "name": "Mikaela Stafrace",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Caulfield",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Mikaela Stafrace (Caulfield)",
+        "url": "https://www.facebook.com/johnbergermp/posts/it-was-great-to-join-labor-candidate-mikaela-stafrace-at-the-caufield-campaign-l/956988920429651/",
+        "publisher": "facebook.com",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-angel-dolejs-caulfield",
+      "name": "Angel Dolejsí",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Caulfield",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Angel Dolejsí (Caulfield)",
+        "url": "https://greens.org.au/vic/person/angel-dolejsi",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-malak-ababneh-caulfield",
+      "name": "Malak Ababneh",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Caulfield",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Malak Ababneh (Caulfield)",
+        "url": "https://www.victoriansocialists.org.au/candidates/malak-ababneh",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-kit-message-clarinda",
+      "name": "Kit Message",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Clarinda",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Kit Message (Clarinda)",
+        "url": "https://www.victoriansocialists.org.au/candidates/kit-message",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-annalise-mercer-cranbourne",
+      "name": "Annalise Mercer",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Cranbourne",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Annalise Mercer (Cranbourne)",
+        "url": "https://greens.org.au/vic/person/annalise-mercer",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-reem-yunis-cranbourne",
+      "name": "Reem Yunis",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Cranbourne",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Reem Yunis (Cranbourne)",
+        "url": "https://www.victoriansocialists.org.au/candidates/reem-yunis",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-richard-farr-croydon",
+      "name": "Richard Farr",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Croydon",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Richard Farr (Croydon)",
+        "url": "https://www.instagram.com/p/DXaO8XDkuo1/",
+        "publisher": "instagram.com",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-grant-hutchinson-croydon",
+      "name": "Grant Hutchinson",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Croydon",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Grant Hutchinson (Croydon)",
+        "url": "https://vic.liberal.org.au/team/grant-hutchinson",
+        "publisher": "vic.liberal.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-lini-fernando-croydon",
+      "name": "Lini Fernando",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Croydon",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Lini Fernando (Croydon)",
+        "url": "https://greens.org.au/vic/person/lini-fernando",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-jack-mcmahon-dandenong",
+      "name": "Jack McMahon",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Dandenong",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Jack McMahon (Dandenong)",
+        "url": "https://www.victoriansocialists.org.au/candidates/jack-mcmahon",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-paul-byrnes-eltham",
+      "name": "Paul Byrnes",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Eltham",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Paul Byrnes (Eltham)",
+        "url": "https://vic.liberal.org.au/team/paul-byrnes",
+        "publisher": "vic.liberal.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-rachel-busbridge-eltham",
+      "name": "Rachel Busbridge",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Eltham",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Rachel Busbridge (Eltham)",
+        "url": "https://greens.org.au/vic/person/rachel-busbridge",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-katerine-theodosis-essendon",
+      "name": "Katerine Theodosis",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Essendon",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Katerine Theodosis (Essendon)",
+        "url": "https://www.viclabor.org.au/our-team/katerine-theodosis",
+        "publisher": "viclabor.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-tommy-le-deux-essendon",
+      "name": "Tommy Le Deux",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Essendon",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Tommy Le Deux (Essendon)",
+        "url": "https://www.instagram.com/p/DXkqhxej9JV/",
+        "publisher": "instagram.com",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-james-williams-essendon",
+      "name": "James Williams",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Essendon",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — James Williams (Essendon)",
+        "url": "https://greens.org.au/vic/person/james-williams",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-michal-kedem-essendon",
+      "name": "Michal Kedem",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Essendon",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Michal Kedem (Essendon)",
+        "url": "https://www.victoriansocialists.org.au/candidates/michal-kedem",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-sam-mccoll-eureka",
+      "name": "Sam McColl",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Eureka",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Sam McColl (Eureka)",
+        "url": "https://greens.org.au/vic/person/sam-mccoll",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-alysia-regan-euroa",
+      "name": "Alysia Regan",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Euroa",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Alysia Regan (Euroa)",
+        "url": "https://greens.org.au/vic/person/alysia-regan",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-indah-johannes-evelyn",
+      "name": "Indah Johannes",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Evelyn",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Indah Johannes (Evelyn)",
+        "url": "https://www.viclabor.org.au/our-team/indah-johannes",
+        "publisher": "viclabor.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-andrew-henley-evelyn",
+      "name": "Andrew Henley",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Evelyn",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Andrew Henley (Evelyn)",
+        "url": "https://greens.org.au/vic/person/andrew-henley",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-elena-pereyra-footscray",
+      "name": "Elena Pereyra",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Footscray",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Elena Pereyra (Footscray)",
+        "url": "https://greens.org.au/vic/person/elena-pereyra",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-jasmine-duff-footscray",
+      "name": "Jasmine Duff",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Footscray",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Jasmine Duff (Footscray)",
+        "url": "https://www.victoriansocialists.org.au/candidates/jasmine-duff",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-katie-goulas-frankston",
+      "name": "Katie Goulas",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Frankston",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Katie Goulas (Frankston)",
+        "url": "https://greens.org.au/vic/person/katie-goulas",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-andrew-cheeseman-frankston",
+      "name": "Andrew Cheeseman",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Frankston",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Andrew Cheeseman (Frankston)",
+        "url": "https://www.victoriansocialists.org.au/candidates/andrew-cheeseman",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-emilie-flynn-geelong",
+      "name": "Emilie Flynn",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Geelong",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Emilie Flynn (Geelong)",
+        "url": "https://timesnewsgroup.com.au/geelongtimes/news/greens-lock-in-geelong-challenger/",
+        "publisher": "timesnewsgroup.com.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-ash-munro-gippsland-east",
+      "name": "Ash Munro",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Gippsland East",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Ash Munro (Gippsland East)",
+        "url": "https://greens.org.au/vic/person/ash-munro",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-zave-evans-gippsland-south",
+      "name": "Zave Evans",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Gippsland South",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Zave Evans (Gippsland South)",
+        "url": "https://greens.org.au/vic/person/zave-evans",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-jacky-sun-glen-waverley",
+      "name": "Jacky Sun",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Glen Waverley",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Jacky Sun (Glen Waverley)",
+        "url": "https://www.facebook.com/watch/?v=1677439927113045",
+        "publisher": "facebook.com",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-toyo-white-glen-waverley",
+      "name": "Toyo White",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Glen Waverley",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Toyo White (Glen Waverley)",
+        "url": "https://greens.org.au/vic/person/toyo-white",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-nicholas-siow-glen-waverley",
+      "name": "Nicholas Siow",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Glen Waverley",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Nicholas Siow (Glen Waverley)",
+        "url": "https://www.victoriansocialists.org.au/candidates/nicholas-siow",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-kirill-smelov-greenvale",
+      "name": "Kirill Smelov",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Greenvale",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Kirill Smelov (Greenvale)",
+        "url": "https://www.victoriansocialists.org.au/candidates/kirill-smelov",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-frank-schiefler-hastings",
+      "name": "Frank Schiefler",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Hastings",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Frank Schiefler (Hastings)",
+        "url": "https://vic.liberal.org.au/team/frank-schiefler",
+        "publisher": "vic.liberal.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-isaac-willoughby-hastings",
+      "name": "Isaac Willoughby",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Hastings",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Isaac Willoughby (Hastings)",
+        "url": "https://greens.org.au/vic/person/isaac-willoughby",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-clive-crosby-hawthorn",
+      "name": "Clive Crosby",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Hawthorn",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Clive Crosby (Hawthorn)",
+        "url": "https://www.viclabor.org.au/our-team/clive-crosby",
+        "publisher": "viclabor.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-kylie-rocha-hawthorn",
+      "name": "Kylie Rocha",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Hawthorn",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Kylie Rocha (Hawthorn)",
+        "url": "https://greens.org.au/vic/person/kylie-rocha",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-tess-mcenearney-hawthorn",
+      "name": "Tess McEnearney",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Hawthorn",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Tess McEnearney (Hawthorn)",
+        "url": "https://www.victoriansocialists.org.au/candidates/tess-mcenearney",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-oscar-lopez-ivanhoe",
+      "name": "Oscar Lopez",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Ivanhoe",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Oscar Lopez (Ivanhoe)",
+        "url": "https://vic.liberal.org.au/team/oscar-lopez",
+        "publisher": "vic.liberal.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-nina-crawley-ivanhoe",
+      "name": "Nina Crawley",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Ivanhoe",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Nina Crawley (Ivanhoe)",
+        "url": "https://greens.org.au/vic/person/nina-crawley",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-ben-milne-ivanhoe",
+      "name": "Ben Milne",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Ivanhoe",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Ben Milne (Ivanhoe)",
+        "url": "https://www.victoriansocialists.org.au/candidates/ben-milne",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-courtney-millett-kalkallo",
+      "name": "Courtney Millett",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Kalkallo",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Courtney Millett (Kalkallo)",
+        "url": "https://www.victoriansocialists.org.au/candidates/courtney-millett",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-david-sun-kew",
+      "name": "David Sun",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Kew",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — David Sun (Kew)",
+        "url": "https://www.viclabor.org.au/our-team/david-sun?sourcePage=/our-team/david-sun",
+        "publisher": "viclabor.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-jackie-carter-kew",
+      "name": "Jackie Carter",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Kew",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Jackie Carter (Kew)",
+        "url": "https://greens.org.au/vic/person/jackie-carter",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-rayan-hassan-kororoit",
+      "name": "Rayan Hassan",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Kororoit",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Rayan Hassan (Kororoit)",
+        "url": "https://www.victoriansocialists.org.au/candidates/rayan-hassan",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-theresa-slater-lara",
+      "name": "Theresa Slater",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Lara",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Theresa Slater (Lara)",
+        "url": "https://greens.org.au/vic/person/theresa-slater",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-lucy-nguyen-laverton",
+      "name": "Lucy Nguyen",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Laverton",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Lucy Nguyen (Laverton)",
+        "url": "https://greens.org.au/vic/person/lucy-nguyen",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-van-thanh-rudd-laverton",
+      "name": "Van Thanh Rudd",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Laverton",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Van Thanh Rudd (Laverton)",
+        "url": "https://www.victoriansocialists.org.au/candidates/van-thanh-rudd",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-annette-death-macedon",
+      "name": "Annette Death",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Macedon",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Annette Death (Macedon)",
+        "url": "https://www.viclabor.org.au/our-team/annette-death",
+        "publisher": "viclabor.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-marley-mcrae-mcleod-macedon",
+      "name": "Marley McRae McLeod",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Macedon",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Marley McRae McLeod (Macedon)",
+        "url": "https://greens.org.au/vic/person/marley-mcrae-mcleod",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-amelia-hamer-malvern",
+      "name": "Amelia Hamer",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Malvern",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Amelia Hamer (Malvern)",
+        "url": "https://www.theage.com.au/politics/victoria/amelia-hamer-holds-off-rivals-to-win-malvern-preselection-20251123-p5nhon.html",
+        "publisher": "theage.com.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-gavin-leonard-malvern",
+      "name": "Gavin Leonard",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Malvern",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Gavin Leonard (Malvern)",
+        "url": "https://www.victoriansocialists.org.au/candidates/gavin-leonard",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-davydd-griffiths-melbourne",
+      "name": "Davydd Griffiths",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Melbourne",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Davydd Griffiths (Melbourne)",
+        "url": "https://www.facebook.com/councillordavyddgriffiths/",
+        "publisher": "facebook.com",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-jordan-van-den-lamb-melbourne",
+      "name": "Jordan van den Lamb",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Melbourne",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Jordan van den Lamb (Melbourne)",
+        "url": "https://www.heraldsun.com.au/news/victoria/victorian-socialist-candidate-for-melbourne-jordan-van-den-lamb-pushing-to-fix-broken-housing-system/news-story/cfbb401944f573b44124b96dc3420110",
+        "publisher": "heraldsun.com.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-broden-borg-melton",
+      "name": "Broden Borg",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Melton",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Broden Borg (Melton)",
+        "url": "https://www.facebook.com/JacintaAllanBendigoEast/posts/im-proud-to-announce-broden-borg-labor-for-melton-is-our-victorian-labor-candida/1422234416377249/",
+        "publisher": "facebook.com",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-jarrod-bingham-melton",
+      "name": "Jarrod Bingham",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Melton",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Jarrod Bingham (Melton)",
+        "url": "https://vic.liberal.org.au/team/jarrod-bingham",
+        "publisher": "vic.liberal.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-veronika-levchenkova-melton",
+      "name": "Veronika Levchenkova",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Melton",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Veronika Levchenkova (Melton)",
+        "url": "https://greens.org.au/vic/person/veronika-levchenkova",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-joel-drysdale-mill-park",
+      "name": "Joel Drysdale",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Mill Park",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Joel Drysdale (Mill Park)",
+        "url": "https://vic.liberal.org.au/team/joel-drysdale",
+        "publisher": "vic.liberal.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-tim-drylie-mill-park",
+      "name": "Tim Drylie",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Mill Park",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Tim Drylie (Mill Park)",
+        "url": "https://greens.org.au/vic/person/tim-drylie",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-clare-fitzmaurice-monbulk",
+      "name": "Clare Fitzmaurice",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Monbulk",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Clare Fitzmaurice (Monbulk)",
+        "url": "https://www.miragenews.com/fitzmaurice-chosen-as-liberal-candidate-for-1639945/",
+        "publisher": "miragenews.com",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-alex-breskin-mordialloc",
+      "name": "Alex Breskin",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Mordialloc",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Alex Breskin (Mordialloc)",
+        "url": "https://greens.org.au/vic/person/alex-breskin",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-tracie-lund-morwell",
+      "name": "Tracie Lund",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Morwell",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Tracie Lund (Morwell)",
+        "url": "https://latrobevalleyexpress.com.au/news/2026/05/05/lund-officially-running-for-labor/",
+        "publisher": "latrobevalleyexpress.com.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-rochelle-hine-morwell",
+      "name": "Rochelle Hine",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Morwell",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Rochelle Hine (Morwell)",
+        "url": "https://greens.org.au/vic/person/rochelle-hine",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-connor-buchanan-mulgrave",
+      "name": "Connor Buchanan",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Mulgrave",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Connor Buchanan (Mulgrave)",
+        "url": "https://www.victoriansocialists.org.au/candidates/connor-buchanan",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-brett-hosking-murray-plains",
+      "name": "Brett Hosking",
+      "party": "The Nationals",
+      "party_group": "Coalition",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Murray Plains",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Brett Hosking (Murray Plains)",
+        "url": "https://www.loddonherald.com.au/it-s-official-hosking-gets-nationals-nod-2026-04-22",
+        "publisher": "loddonherald.com.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-zoe-cook-murray-plains",
+      "name": "Zoe Cook",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Murray Plains",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Zoe Cook (Murray Plains)",
+        "url": "https://greens.org.au/vic/person/zoe-cook",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-alyssa-weaver-narracan",
+      "name": "Alyssa Weaver",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Narracan",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Alyssa Weaver (Narracan)",
+        "url": "https://greens.org.au/vic/candidates/narracan",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-moss-page-narracan",
+      "name": "Moss Page",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Narracan",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Moss Page (Narracan)",
+        "url": "https://www.victoriansocialists.org.au/candidates/moss-page",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-bailey-mccracken-narre-warren-south",
+      "name": "Bailey McCracken",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Narre Warren South",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Bailey McCracken (Narre Warren South)",
+        "url": "https://www.victoriansocialists.org.au/candidates/bailey-mccracken",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-sianan-healy-nepean",
+      "name": "Sianan Healy",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Nepean",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Sianan Healy (Nepean)",
+        "url": "https://greens.org.au/vic/person/sianan-healy",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-campbell-gome-northcote",
+      "name": "Campbell Gome",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Northcote",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Campbell Gome (Northcote)",
+        "url": "https://www.heraldsun.com.au/news/victoria/backroom-baz-shortage-of-quality-election-candidates-has-senior-libs-starting-to-panic/news-story/19bca42e3998db7a0a6c052734044345",
+        "publisher": "heraldsun.com.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-kath-larkin-northcote",
+      "name": "Kath Larkin",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Northcote",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Kath Larkin (Northcote)",
+        "url": "https://www.victoriansocialists.org.au/candidates/kath-larkin",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-rowdy-bugter-oakleigh",
+      "name": "Rowdy Bugter",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Oakleigh",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Rowdy Bugter (Oakleigh)",
+        "url": "https://www.victoriansocialists.org.au/candidates/rowdy-bugter",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-alessandra-soliven-pakenham",
+      "name": "Alessandra Soliven",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Pakenham",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Alessandra Soliven (Pakenham)",
+        "url": "https://pakenhamnews.starcommunity.com.au/news/2025-11-06/labor-chose-gen-z-go-getter-to-hold-pakenham-in-2026-state-election/",
+        "publisher": "pakenhamnews.starcommunity.com.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-nasser-yawari-pakenham",
+      "name": "Nasser Yawari",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Pakenham",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Nasser Yawari (Pakenham)",
+        "url": "https://greens.org.au/vic/person/nasser-yawari",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-angelica-panopoulos-pascoe-vale",
+      "name": "Angelica Panopoulos",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Pascoe Vale",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Angelica Panopoulos (Pascoe Vale)",
+        "url": "https://brunswickvoice.com.au/greens-lock-in-candidates-for-next-years-state-election/",
+        "publisher": "brunswickvoice.com.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-yasemin-shamsili-pascoe-vale",
+      "name": "Yasemin Shamsili",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Pascoe Vale",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Yasemin Shamsili (Pascoe Vale)",
+        "url": "https://www.victoriansocialists.org.au/candidates/yasemin-shamsili",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-ponraj-krishna-pandi-point-cook",
+      "name": "Ponraj Krishna Pandi",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Point Cook",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Ponraj Krishna Pandi (Point Cook)",
+        "url": "https://greens.org.au/vic/person/ponraj-krishna-pandi",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-taylor-laine-point-cook",
+      "name": "Taylor Laine",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Point Cook",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Taylor Laine (Point Cook)",
+        "url": "https://www.victoriansocialists.org.au/candidates/taylor-laine",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-hutch-hussein-polwarth",
+      "name": "Hutch Hussein",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Polwarth",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Hutch Hussein (Polwarth)",
+        "url": "https://timesnewsgroup.com.au/surfcoasttimes/news/hussein-back-in-fight-for-polwarth/",
+        "publisher": "timesnewsgroup.com.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-jesse-holden-polwarth",
+      "name": "Jesse Holden",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Polwarth",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Jesse Holden (Polwarth)",
+        "url": "https://greens.org.au/vic/person/jesse-holden",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-meghan-hopper-prahran",
+      "name": "Meghan Hopper",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Prahran",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Meghan Hopper (Prahran)",
+        "url": "https://www.facebook.com/photo.php?fbid=1518538103164938&set=a.360651605620266&type=3",
+        "publisher": "facebook.com",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-angelica-di-camillo-prahran",
+      "name": "Angelica Di Camillo",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Prahran",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Angelica Di Camillo (Prahran)",
+        "url": "https://greens.org.au/vic/news/media-release/local-environmental-engineer-back-take-divided-liberals-prahran-offering",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-clayton-doueihi-prahran",
+      "name": "Clayton Doueihi",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Prahran",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Clayton Doueihi (Prahran)",
+        "url": "https://www.victoriansocialists.org.au/candidates/colleen-bolger",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-loki-sangarya-preston",
+      "name": "Loki Sangarya",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Preston",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Loki Sangarya (Preston)",
+        "url": "https://greens.org.au/vic/person/loki-sangarya",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-serena-ashmore-preston",
+      "name": "Serena Ashmore",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Preston",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Serena Ashmore (Preston)",
+        "url": "https://www.victoriansocialists.org.au/candidates/serena-ashmore",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-sarah-mckenzie-richmond",
+      "name": "Sarah McKenzie",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Richmond",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Sarah McKenzie (Richmond)",
+        "url": "https://www.instagram.com/reels/DVhe1snio7I/",
+        "publisher": "instagram.com",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-chris-dite-richmond",
+      "name": "Chris Dite",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Richmond",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Chris Dite (Richmond)",
+        "url": "https://www.victoriansocialists.org.au/candidates/chris-dite",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-rachel-halse-ringwood",
+      "name": "Rachel Halse",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Ringwood",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Rachel Halse (Ringwood)",
+        "url": "https://www.facebook.com/rachelforringwood",
+        "publisher": "facebook.com",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-amy-mills-ringwood",
+      "name": "Amy Mills",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Ringwood",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Amy Mills (Ringwood)",
+        "url": "https://greens.org.au/vic/person/amy-mills",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-jack-gardner-ringwood",
+      "name": "Jack Gardner",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Ringwood",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Jack Gardner (Ringwood)",
+        "url": "https://www.victoriansocialists.org.au/candidates",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-jo-armstrong-ripon",
+      "name": "Jo Armstrong",
+      "party": "The Nationals",
+      "party_group": "Coalition",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Ripon",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Jo Armstrong (Ripon)",
+        "url": "https://www.westvicnews.com.au/nationals-unveil-their-candidate-for-2026-04-14",
+        "publisher": "westvicnews.com.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-tim-drylie-ripon",
+      "name": "Tim Drylie",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Ripon",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Tim Drylie (Ripon)",
+        "url": "https://greens.org.au/vic/person/tim-drylie",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-muhammad-shahbaz-rowville",
+      "name": "Muhammad Shahbaz",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Rowville",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Muhammad Shahbaz (Rowville)",
+        "url": "https://www.viclabor.org.au/our-team/muhammad-shahbaz",
+        "publisher": "viclabor.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-max-williams-rowville",
+      "name": "Max Williams",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Rowville",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Max Williams (Rowville)",
+        "url": "https://www.facebook.com/VicYoungLiberals/photos/lets-go-max-from-the-yls-to-candidacy-you-will-be-a-powerful-voice-for-young-vic/1275171577970438/",
+        "publisher": "facebook.com",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-lars-hiemstra-rowville",
+      "name": "Lars Hiemstra",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Rowville",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Lars Hiemstra (Rowville)",
+        "url": "https://www.victoriansocialists.org.au/candidates/lars-hiemstra",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-anastasia-sagris-desmond-sandringham",
+      "name": "Anastasia Sagris-Desmond",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Sandringham",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Anastasia Sagris-Desmond (Sandringham)",
+        "url": "https://www.viclabor.org.au/our-team/anastasia-sagris-desmond",
+        "publisher": "viclabor.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-cayla-fin-shepparton",
+      "name": "Cayla Fin",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Shepparton",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Cayla Fin (Shepparton)",
+        "url": "https://www.viclabor.org.au/our-team/cayla-fin",
+        "publisher": "viclabor.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-grace-verney-shepparton",
+      "name": "Grace Verney",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Shepparton",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Grace Verney (Shepparton)",
+        "url": "https://www.instagram.com/p/DXoIebHEeVk/?img_index=1",
+        "publisher": "instagram.com",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-rebecca-thistleton-south-barwon",
+      "name": "Rebecca Thistleton",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "South Barwon",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Rebecca Thistleton (South Barwon)",
+        "url": "https://timesnewsgroup.com.au/surfcoasttimes/news/labor-south-barwon-thistleton/",
+        "publisher": "timesnewsgroup.com.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-izzy-scherrer-south-barwon",
+      "name": "Izzy Scherrer",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "South Barwon",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Izzy Scherrer (South Barwon)",
+        "url": "https://greens.org.au/vic/person/izzy-scherrer",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-leanna-nguyen-st-albans",
+      "name": "Leanna Nguyen",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "St Albans",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Leanna Nguyen (St Albans)",
+        "url": "https://www.victoriansocialists.org.au/candidates/leanna-nguyen",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-simmone-cottom-sunbury",
+      "name": "Simmone Cottom",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Sunbury",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Simmone Cottom (Sunbury)",
+        "url": "https://www.facebook.com/watch/?v=850982047896133",
+        "publisher": "facebook.com",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-adam-brenner-sunbury",
+      "name": "Adam Brenner",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Sunbury",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Adam Brenner (Sunbury)",
+        "url": "https://www.victoriansocialists.org.au/candidates/adam-brenner",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-uros-rasic-sydenham",
+      "name": "Uros Rasic",
+      "party": "Australian Labor Party",
+      "party_group": "Labor",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Sydenham",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Uros Rasic (Sydenham)",
+        "url": "https://www.facebook.com/photo/?fbid=1523060449379370&set=a.360651605620266",
+        "publisher": "facebook.com",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-shania-khan-sydenham",
+      "name": "Shania Khan",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Sydenham",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Shania Khan (Sydenham)",
+        "url": "https://www.victoriansocialists.org.au/candidates/shania-khan",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-rifai-raheem-tarneit",
+      "name": "Rifai Raheem",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Tarneit",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Rifai Raheem (Tarneit)",
+        "url": "https://greens.org.au/vic/person/rifai-raheem",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-priya-reddy-thomastown",
+      "name": "Priya Reddy",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Thomastown",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Priya Reddy (Thomastown)",
+        "url": "https://www.victoriansocialists.org.au/candidates/priya-reddy",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-john-stanley-warrandyte",
+      "name": "John Stanley",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Warrandyte",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — John Stanley (Warrandyte)",
+        "url": "https://www.victoriansocialists.org.au/candidates/john-stanley",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-reece-clark-werribee",
+      "name": "Reece Clark",
+      "party": "Liberal Party",
+      "party_group": "Coalition",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Werribee",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Reece Clark (Werribee)",
+        "url": "https://vic.liberal.org.au/team/reece-clark",
+        "publisher": "vic.liberal.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-tushar-kumar-werribee",
+      "name": "Tushar Kumar",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Werribee",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Tushar Kumar (Werribee)",
+        "url": "https://greens.org.au/vic/person/tushar-kumar",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-sue-munro-werribee",
+      "name": "Sue Munro",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Werribee",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Sue Munro (Werribee)",
+        "url": "https://www.victoriansocialists.org.au/candidates/sue-munro",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-oskar-martin-williamstown",
+      "name": "Oskar Martin",
+      "party": "Victorian Socialists",
+      "party_group": "Other / minor party",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Williamstown",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Oskar Martin (Williamstown)",
+        "url": "https://www.victoriansocialists.org.au/candidates/oskar-martin",
+        "publisher": "victoriansocialists.org.au",
+        "date": ""
+      }
+    },
+    {
+      "id": "victoria-2026-gufran-mohammed-yan-yean",
+      "name": "Gufran Mohammed",
+      "party": "Australian Greens",
+      "party_group": "Greens",
+      "jurisdiction": "Victoria",
+      "chamber": "Legislative Assembly",
+      "electorate": "Yan Yean",
+      "state": "VIC",
+      "status": "candidate",
+      "election": "Victoria 2026",
+      "poll_date": "2026-11-28",
+      "last_updated": "2026-06-26",
+      "positions": {},
+      "roster_source": {
+        "title": "Candidates of the 2026 Victorian state election",
+        "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+        "publisher": "Wikipedia",
+        "date": ""
+      },
+      "candidacy_source": {
+        "title": "Candidacy confirmed — Gufran Mohammed (Yan Yean)",
+        "url": "https://greens.org.au/vic/person/gufran-mohammed",
+        "publisher": "greens.org.au",
+        "date": ""
+      }
     }
   ]
 }

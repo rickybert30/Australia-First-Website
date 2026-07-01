@@ -1,0 +1,1010 @@
+{
+  "election": "Victoria 2026",
+  "jurisdiction": "Victoria",
+  "state": "VIC",
+  "chamber": "Legislative Assembly",
+  "poll_date": "2026-11-28",
+  "source": {
+    "title": "Candidates of the 2026 Victorian state election",
+    "url": "https://en.wikipedia.org/wiki/Candidates_of_the_2026_Victorian_state_election",
+    "publisher": "Wikipedia",
+    "date": ""
+  },
+  "note": "Announced/preselected non-incumbent candidates for the 28 November 2026 Victorian election (Legislative Assembly), from the four largest parties fielding candidates. Each candidate's own confirming source is recorded. Incumbents recontesting appear in the in-office section. Minor-party/independent 'Other' candidates and the Legislative Council are not yet included.",
+  "candidates": [
+    {
+      "name": "Sonya Semmens",
+      "party": "Australian Greens",
+      "electorate": "Albert Park",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/sonya-semmens"
+    },
+    {
+      "name": "Colleen Bolger",
+      "party": "Victorian Socialists",
+      "electorate": "Albert Park",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/colleen-bolger"
+    },
+    {
+      "name": "Theo Zographos",
+      "party": "Liberal Party",
+      "electorate": "Ashwood",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.heraldsun.com.au/news/victoria/backroom-baz-jess-wilsons-public-snub-reveals-deep-party-division/news-story/87d9022c55a6f2f61ef9f0ed48ac3935?amp&nk=28f5a6a5d1966c2f77da070e0c1a7035-1779153598"
+    },
+    {
+      "name": "Tim Randall",
+      "party": "Australian Greens",
+      "electorate": "Ashwood",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/tim-randall"
+    },
+    {
+      "name": "Jacob van der Eynden",
+      "party": "Victorian Socialists",
+      "electorate": "Ashwood",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/jacob-van-der-eynden"
+    },
+    {
+      "name": "Chris Buckingham",
+      "party": "Australian Labor Party",
+      "electorate": "Bass",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.sgst.com.au/news/labor-names-chris-buckingham-as-its-candidate-for-bass"
+    },
+    {
+      "name": "Rochelle Halstead",
+      "party": "Liberal Party",
+      "electorate": "Bass",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.sgst.com.au/liberals-rochelle-halstead-aims-to-take-care-of-unfinished-business/"
+    },
+    {
+      "name": "Sophie Thorn",
+      "party": "Australian Greens",
+      "electorate": "Bass",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/sophie-thorn"
+    },
+    {
+      "name": "Julie Buxton",
+      "party": "Australian Labor Party",
+      "electorate": "Bayswater",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.facebook.com/JacksonTaylorMP/posts/ive-got-some-exciting-news-meet-julie-buxton-shes-labors-candidate-for-bayswater/1466501571933900/"
+    },
+    {
+      "name": "David Kitchen",
+      "party": "Liberal Party",
+      "electorate": "Bayswater",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://vic.liberal.org.au/team/david-kitchen"
+    },
+    {
+      "name": "Alec Ferguson",
+      "party": "Victorian Socialists",
+      "electorate": "Bayswater",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/alec-ferguson"
+    },
+    {
+      "name": "Steve Martin",
+      "party": "Liberal Party",
+      "electorate": "Benambra",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.wangarattachronicle.com.au/news/politics-and-government/libs-choose-steve-martin-for-benambra-tmtzgaqr"
+    },
+    {
+      "name": "Andrew Lethlean",
+      "party": "The Nationals",
+      "electorate": "Bendigo East",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.abc.net.au/news/2026-04-04/andrew-lethlean-to-challenge-jacinta-allan-victorian-election/106531610"
+    },
+    {
+      "name": "Owen Cosgriff",
+      "party": "Victorian Socialists",
+      "electorate": "Bendigo East",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/owen-cosgriff"
+    },
+    {
+      "name": "Liza Shaw",
+      "party": "Australian Greens",
+      "electorate": "Bendigo West",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/liza-shaw"
+    },
+    {
+      "name": "Tayne Shalevski",
+      "party": "Victorian Socialists",
+      "electorate": "Bendigo West",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/tayne-shalevski"
+    },
+    {
+      "name": "Rana Khan",
+      "party": "Australian Labor Party",
+      "electorate": "Berwick",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.viclabor.org.au/our-team/rana-khan"
+    },
+    {
+      "name": "Nalinda Amarasiri Gunawardana",
+      "party": "Victorian Socialists",
+      "electorate": "Berwick",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/nalinda-amarasiri-gunawardana"
+    },
+    {
+      "name": "Sally Houguet",
+      "party": "Liberal Party",
+      "electorate": "Box Hill",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://vic.liberal.org.au/team/sally-houguet"
+    },
+    {
+      "name": "Aaron Qin",
+      "party": "Australian Greens",
+      "electorate": "Box Hill",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/aaron-qin"
+    },
+    {
+      "name": "Saravina Afaj",
+      "party": "Victorian Socialists",
+      "electorate": "Box Hill",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/saravina-afaj"
+    },
+    {
+      "name": "Ebony Bain",
+      "party": "Australian Greens",
+      "electorate": "Brighton",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/ebony-bain"
+    },
+    {
+      "name": "Jessica Smith",
+      "party": "Victorian Socialists",
+      "electorate": "Brighton",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/jessica-smith"
+    },
+    {
+      "name": "Mutullah Can Yolbulan",
+      "party": "Victorian Socialists",
+      "electorate": "Broadmeadows",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/mutullah-can-yolbulan"
+    },
+    {
+      "name": "Gabriel Steger",
+      "party": "Australian Labor Party",
+      "electorate": "Brunswick",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://brunswickvoice.com.au/labor-opts-for-fresh-face-in-battle-for-brunswick/"
+    },
+    {
+      "name": "Adam Pulford",
+      "party": "Australian Greens",
+      "electorate": "Brunswick",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.instagram.com/reels/DVzXgb2E_7u/"
+    },
+    {
+      "name": "Naomi Farmer",
+      "party": "Victorian Socialists",
+      "electorate": "Brunswick",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/naomi-farmer"
+    },
+    {
+      "name": "Dimitrios Tafidis",
+      "party": "Victorian Socialists",
+      "electorate": "Bulleen",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/Dimitrios-Tafidis"
+    },
+    {
+      "name": "Nina Laitala",
+      "party": "Australian Greens",
+      "electorate": "Bundoora",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/nina-laitala"
+    },
+    {
+      "name": "Sagar Sanyal",
+      "party": "Victorian Socialists",
+      "electorate": "Bundoora",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/sagar-sanyal"
+    },
+    {
+      "name": "Mikaela Stafrace",
+      "party": "Australian Labor Party",
+      "electorate": "Caulfield",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.facebook.com/johnbergermp/posts/it-was-great-to-join-labor-candidate-mikaela-stafrace-at-the-caufield-campaign-l/956988920429651/"
+    },
+    {
+      "name": "Angel Dolejsí",
+      "party": "Australian Greens",
+      "electorate": "Caulfield",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/angel-dolejsi"
+    },
+    {
+      "name": "Malak Ababneh",
+      "party": "Victorian Socialists",
+      "electorate": "Caulfield",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/malak-ababneh"
+    },
+    {
+      "name": "Kit Message",
+      "party": "Victorian Socialists",
+      "electorate": "Clarinda",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/kit-message"
+    },
+    {
+      "name": "Annalise Mercer",
+      "party": "Australian Greens",
+      "electorate": "Cranbourne",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/annalise-mercer"
+    },
+    {
+      "name": "Reem Yunis",
+      "party": "Victorian Socialists",
+      "electorate": "Cranbourne",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/reem-yunis"
+    },
+    {
+      "name": "Richard Farr",
+      "party": "Australian Labor Party",
+      "electorate": "Croydon",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.instagram.com/p/DXaO8XDkuo1/"
+    },
+    {
+      "name": "Grant Hutchinson",
+      "party": "Liberal Party",
+      "electorate": "Croydon",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://vic.liberal.org.au/team/grant-hutchinson"
+    },
+    {
+      "name": "Lini Fernando",
+      "party": "Australian Greens",
+      "electorate": "Croydon",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/lini-fernando"
+    },
+    {
+      "name": "Jack McMahon",
+      "party": "Victorian Socialists",
+      "electorate": "Dandenong",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/jack-mcmahon"
+    },
+    {
+      "name": "Paul Byrnes",
+      "party": "Liberal Party",
+      "electorate": "Eltham",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://vic.liberal.org.au/team/paul-byrnes"
+    },
+    {
+      "name": "Rachel Busbridge",
+      "party": "Australian Greens",
+      "electorate": "Eltham",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/rachel-busbridge"
+    },
+    {
+      "name": "Katerine Theodosis",
+      "party": "Australian Labor Party",
+      "electorate": "Essendon",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.viclabor.org.au/our-team/katerine-theodosis"
+    },
+    {
+      "name": "Tommy Le Deux",
+      "party": "Liberal Party",
+      "electorate": "Essendon",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.instagram.com/p/DXkqhxej9JV/"
+    },
+    {
+      "name": "James Williams",
+      "party": "Australian Greens",
+      "electorate": "Essendon",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/james-williams"
+    },
+    {
+      "name": "Michal Kedem",
+      "party": "Victorian Socialists",
+      "electorate": "Essendon",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/michal-kedem"
+    },
+    {
+      "name": "Sam McColl",
+      "party": "Australian Greens",
+      "electorate": "Eureka",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/sam-mccoll"
+    },
+    {
+      "name": "Alysia Regan",
+      "party": "Australian Greens",
+      "electorate": "Euroa",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/alysia-regan"
+    },
+    {
+      "name": "Indah Johannes",
+      "party": "Australian Labor Party",
+      "electorate": "Evelyn",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.viclabor.org.au/our-team/indah-johannes"
+    },
+    {
+      "name": "Andrew Henley",
+      "party": "Australian Greens",
+      "electorate": "Evelyn",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/andrew-henley"
+    },
+    {
+      "name": "Elena Pereyra",
+      "party": "Australian Greens",
+      "electorate": "Footscray",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/elena-pereyra"
+    },
+    {
+      "name": "Jasmine Duff",
+      "party": "Victorian Socialists",
+      "electorate": "Footscray",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/jasmine-duff"
+    },
+    {
+      "name": "Katie Goulas",
+      "party": "Australian Greens",
+      "electorate": "Frankston",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/katie-goulas"
+    },
+    {
+      "name": "Andrew Cheeseman",
+      "party": "Victorian Socialists",
+      "electorate": "Frankston",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/andrew-cheeseman"
+    },
+    {
+      "name": "Emilie Flynn",
+      "party": "Australian Greens",
+      "electorate": "Geelong",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://timesnewsgroup.com.au/geelongtimes/news/greens-lock-in-geelong-challenger/"
+    },
+    {
+      "name": "Ash Munro",
+      "party": "Australian Greens",
+      "electorate": "Gippsland East",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/ash-munro"
+    },
+    {
+      "name": "Zave Evans",
+      "party": "Australian Greens",
+      "electorate": "Gippsland South",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/zave-evans"
+    },
+    {
+      "name": "Jacky Sun",
+      "party": "Liberal Party",
+      "electorate": "Glen Waverley",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.facebook.com/watch/?v=1677439927113045"
+    },
+    {
+      "name": "Toyo White",
+      "party": "Australian Greens",
+      "electorate": "Glen Waverley",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/toyo-white"
+    },
+    {
+      "name": "Nicholas Siow",
+      "party": "Victorian Socialists",
+      "electorate": "Glen Waverley",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/nicholas-siow"
+    },
+    {
+      "name": "Kirill Smelov",
+      "party": "Victorian Socialists",
+      "electorate": "Greenvale",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/kirill-smelov"
+    },
+    {
+      "name": "Frank Schiefler",
+      "party": "Liberal Party",
+      "electorate": "Hastings",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://vic.liberal.org.au/team/frank-schiefler"
+    },
+    {
+      "name": "Isaac Willoughby",
+      "party": "Australian Greens",
+      "electorate": "Hastings",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/isaac-willoughby"
+    },
+    {
+      "name": "Clive Crosby",
+      "party": "Australian Labor Party",
+      "electorate": "Hawthorn",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.viclabor.org.au/our-team/clive-crosby"
+    },
+    {
+      "name": "Kylie Rocha",
+      "party": "Australian Greens",
+      "electorate": "Hawthorn",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/kylie-rocha"
+    },
+    {
+      "name": "Tess McEnearney",
+      "party": "Victorian Socialists",
+      "electorate": "Hawthorn",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/tess-mcenearney"
+    },
+    {
+      "name": "Oscar Lopez",
+      "party": "Liberal Party",
+      "electorate": "Ivanhoe",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://vic.liberal.org.au/team/oscar-lopez"
+    },
+    {
+      "name": "Nina Crawley",
+      "party": "Australian Greens",
+      "electorate": "Ivanhoe",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/nina-crawley"
+    },
+    {
+      "name": "Ben Milne",
+      "party": "Victorian Socialists",
+      "electorate": "Ivanhoe",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/ben-milne"
+    },
+    {
+      "name": "Courtney Millett",
+      "party": "Victorian Socialists",
+      "electorate": "Kalkallo",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/courtney-millett"
+    },
+    {
+      "name": "David Sun",
+      "party": "Australian Labor Party",
+      "electorate": "Kew",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.viclabor.org.au/our-team/david-sun?sourcePage=/our-team/david-sun"
+    },
+    {
+      "name": "Jackie Carter",
+      "party": "Australian Greens",
+      "electorate": "Kew",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/jackie-carter"
+    },
+    {
+      "name": "Rayan Hassan",
+      "party": "Victorian Socialists",
+      "electorate": "Kororoit",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/rayan-hassan"
+    },
+    {
+      "name": "Theresa Slater",
+      "party": "Australian Greens",
+      "electorate": "Lara",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/theresa-slater"
+    },
+    {
+      "name": "Lucy Nguyen",
+      "party": "Australian Greens",
+      "electorate": "Laverton",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/lucy-nguyen"
+    },
+    {
+      "name": "Van Thanh Rudd",
+      "party": "Victorian Socialists",
+      "electorate": "Laverton",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/van-thanh-rudd"
+    },
+    {
+      "name": "Annette Death",
+      "party": "Australian Labor Party",
+      "electorate": "Macedon",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.viclabor.org.au/our-team/annette-death"
+    },
+    {
+      "name": "Marley McRae McLeod",
+      "party": "Australian Greens",
+      "electorate": "Macedon",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/marley-mcrae-mcleod"
+    },
+    {
+      "name": "Amelia Hamer",
+      "party": "Liberal Party",
+      "electorate": "Malvern",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.theage.com.au/politics/victoria/amelia-hamer-holds-off-rivals-to-win-malvern-preselection-20251123-p5nhon.html"
+    },
+    {
+      "name": "Gavin Leonard",
+      "party": "Victorian Socialists",
+      "electorate": "Malvern",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/gavin-leonard"
+    },
+    {
+      "name": "Davydd Griffiths",
+      "party": "Australian Labor Party",
+      "electorate": "Melbourne",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.facebook.com/councillordavyddgriffiths/"
+    },
+    {
+      "name": "Jordan van den Lamb",
+      "party": "Victorian Socialists",
+      "electorate": "Melbourne",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.heraldsun.com.au/news/victoria/victorian-socialist-candidate-for-melbourne-jordan-van-den-lamb-pushing-to-fix-broken-housing-system/news-story/cfbb401944f573b44124b96dc3420110"
+    },
+    {
+      "name": "Broden Borg",
+      "party": "Australian Labor Party",
+      "electorate": "Melton",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.facebook.com/JacintaAllanBendigoEast/posts/im-proud-to-announce-broden-borg-labor-for-melton-is-our-victorian-labor-candida/1422234416377249/"
+    },
+    {
+      "name": "Jarrod Bingham",
+      "party": "Liberal Party",
+      "electorate": "Melton",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://vic.liberal.org.au/team/jarrod-bingham"
+    },
+    {
+      "name": "Veronika Levchenkova",
+      "party": "Australian Greens",
+      "electorate": "Melton",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/veronika-levchenkova"
+    },
+    {
+      "name": "Joel Drysdale",
+      "party": "Liberal Party",
+      "electorate": "Mill Park",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://vic.liberal.org.au/team/joel-drysdale"
+    },
+    {
+      "name": "Tim Drylie",
+      "party": "Australian Greens",
+      "electorate": "Mill Park",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/tim-drylie"
+    },
+    {
+      "name": "Clare Fitzmaurice",
+      "party": "Liberal Party",
+      "electorate": "Monbulk",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.miragenews.com/fitzmaurice-chosen-as-liberal-candidate-for-1639945/"
+    },
+    {
+      "name": "Alex Breskin",
+      "party": "Australian Greens",
+      "electorate": "Mordialloc",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/alex-breskin"
+    },
+    {
+      "name": "Tracie Lund",
+      "party": "Australian Labor Party",
+      "electorate": "Morwell",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://latrobevalleyexpress.com.au/news/2026/05/05/lund-officially-running-for-labor/"
+    },
+    {
+      "name": "Rochelle Hine",
+      "party": "Australian Greens",
+      "electorate": "Morwell",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/rochelle-hine"
+    },
+    {
+      "name": "Connor Buchanan",
+      "party": "Victorian Socialists",
+      "electorate": "Mulgrave",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/connor-buchanan"
+    },
+    {
+      "name": "Brett Hosking",
+      "party": "The Nationals",
+      "electorate": "Murray Plains",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.loddonherald.com.au/it-s-official-hosking-gets-nationals-nod-2026-04-22"
+    },
+    {
+      "name": "Zoe Cook",
+      "party": "Australian Greens",
+      "electorate": "Murray Plains",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/zoe-cook"
+    },
+    {
+      "name": "Alyssa Weaver",
+      "party": "Australian Greens",
+      "electorate": "Narracan",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/candidates/narracan"
+    },
+    {
+      "name": "Moss Page",
+      "party": "Victorian Socialists",
+      "electorate": "Narracan",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/moss-page"
+    },
+    {
+      "name": "Bailey McCracken",
+      "party": "Victorian Socialists",
+      "electorate": "Narre Warren South",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/bailey-mccracken"
+    },
+    {
+      "name": "Sianan Healy",
+      "party": "Australian Greens",
+      "electorate": "Nepean",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/sianan-healy"
+    },
+    {
+      "name": "Campbell Gome",
+      "party": "Australian Greens",
+      "electorate": "Northcote",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.heraldsun.com.au/news/victoria/backroom-baz-shortage-of-quality-election-candidates-has-senior-libs-starting-to-panic/news-story/19bca42e3998db7a0a6c052734044345"
+    },
+    {
+      "name": "Kath Larkin",
+      "party": "Victorian Socialists",
+      "electorate": "Northcote",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/kath-larkin"
+    },
+    {
+      "name": "Rowdy Bugter",
+      "party": "Victorian Socialists",
+      "electorate": "Oakleigh",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/rowdy-bugter"
+    },
+    {
+      "name": "Alessandra Soliven",
+      "party": "Australian Labor Party",
+      "electorate": "Pakenham",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://pakenhamnews.starcommunity.com.au/news/2025-11-06/labor-chose-gen-z-go-getter-to-hold-pakenham-in-2026-state-election/"
+    },
+    {
+      "name": "Nasser Yawari",
+      "party": "Australian Greens",
+      "electorate": "Pakenham",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/nasser-yawari"
+    },
+    {
+      "name": "Angelica Panopoulos",
+      "party": "Australian Greens",
+      "electorate": "Pascoe Vale",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://brunswickvoice.com.au/greens-lock-in-candidates-for-next-years-state-election/"
+    },
+    {
+      "name": "Yasemin Shamsili",
+      "party": "Victorian Socialists",
+      "electorate": "Pascoe Vale",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/yasemin-shamsili"
+    },
+    {
+      "name": "Ponraj Krishna Pandi",
+      "party": "Australian Greens",
+      "electorate": "Point Cook",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/ponraj-krishna-pandi"
+    },
+    {
+      "name": "Taylor Laine",
+      "party": "Victorian Socialists",
+      "electorate": "Point Cook",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/taylor-laine"
+    },
+    {
+      "name": "Hutch Hussein",
+      "party": "Australian Labor Party",
+      "electorate": "Polwarth",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://timesnewsgroup.com.au/surfcoasttimes/news/hussein-back-in-fight-for-polwarth/"
+    },
+    {
+      "name": "Jesse Holden",
+      "party": "Australian Greens",
+      "electorate": "Polwarth",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/jesse-holden"
+    },
+    {
+      "name": "Meghan Hopper",
+      "party": "Australian Labor Party",
+      "electorate": "Prahran",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.facebook.com/photo.php?fbid=1518538103164938&set=a.360651605620266&type=3"
+    },
+    {
+      "name": "Angelica Di Camillo",
+      "party": "Australian Greens",
+      "electorate": "Prahran",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/news/media-release/local-environmental-engineer-back-take-divided-liberals-prahran-offering"
+    },
+    {
+      "name": "Clayton Doueihi",
+      "party": "Victorian Socialists",
+      "electorate": "Prahran",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/colleen-bolger"
+    },
+    {
+      "name": "Loki Sangarya",
+      "party": "Australian Greens",
+      "electorate": "Preston",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/loki-sangarya"
+    },
+    {
+      "name": "Serena Ashmore",
+      "party": "Victorian Socialists",
+      "electorate": "Preston",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/serena-ashmore"
+    },
+    {
+      "name": "Sarah McKenzie",
+      "party": "Australian Labor Party",
+      "electorate": "Richmond",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.instagram.com/reels/DVhe1snio7I/"
+    },
+    {
+      "name": "Chris Dite",
+      "party": "Victorian Socialists",
+      "electorate": "Richmond",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/chris-dite"
+    },
+    {
+      "name": "Rachel Halse",
+      "party": "Australian Labor Party",
+      "electorate": "Ringwood",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.facebook.com/rachelforringwood"
+    },
+    {
+      "name": "Amy Mills",
+      "party": "Australian Greens",
+      "electorate": "Ringwood",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/amy-mills"
+    },
+    {
+      "name": "Jack Gardner",
+      "party": "Victorian Socialists",
+      "electorate": "Ringwood",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates"
+    },
+    {
+      "name": "Jo Armstrong",
+      "party": "The Nationals",
+      "electorate": "Ripon",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.westvicnews.com.au/nationals-unveil-their-candidate-for-2026-04-14"
+    },
+    {
+      "name": "Tim Drylie",
+      "party": "Australian Greens",
+      "electorate": "Ripon",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/tim-drylie"
+    },
+    {
+      "name": "Muhammad Shahbaz",
+      "party": "Australian Labor Party",
+      "electorate": "Rowville",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.viclabor.org.au/our-team/muhammad-shahbaz"
+    },
+    {
+      "name": "Max Williams",
+      "party": "Liberal Party",
+      "electorate": "Rowville",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.facebook.com/VicYoungLiberals/photos/lets-go-max-from-the-yls-to-candidacy-you-will-be-a-powerful-voice-for-young-vic/1275171577970438/"
+    },
+    {
+      "name": "Lars Hiemstra",
+      "party": "Victorian Socialists",
+      "electorate": "Rowville",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/lars-hiemstra"
+    },
+    {
+      "name": "Anastasia Sagris-Desmond",
+      "party": "Australian Labor Party",
+      "electorate": "Sandringham",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.viclabor.org.au/our-team/anastasia-sagris-desmond"
+    },
+    {
+      "name": "Cayla Fin",
+      "party": "Australian Labor Party",
+      "electorate": "Shepparton",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.viclabor.org.au/our-team/cayla-fin"
+    },
+    {
+      "name": "Grace Verney",
+      "party": "Australian Greens",
+      "electorate": "Shepparton",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.instagram.com/p/DXoIebHEeVk/?img_index=1"
+    },
+    {
+      "name": "Rebecca Thistleton",
+      "party": "Australian Labor Party",
+      "electorate": "South Barwon",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://timesnewsgroup.com.au/surfcoasttimes/news/labor-south-barwon-thistleton/"
+    },
+    {
+      "name": "Izzy Scherrer",
+      "party": "Australian Greens",
+      "electorate": "South Barwon",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/izzy-scherrer"
+    },
+    {
+      "name": "Leanna Nguyen",
+      "party": "Victorian Socialists",
+      "electorate": "St Albans",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/leanna-nguyen"
+    },
+    {
+      "name": "Simmone Cottom",
+      "party": "Liberal Party",
+      "electorate": "Sunbury",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.facebook.com/watch/?v=850982047896133"
+    },
+    {
+      "name": "Adam Brenner",
+      "party": "Victorian Socialists",
+      "electorate": "Sunbury",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/adam-brenner"
+    },
+    {
+      "name": "Uros Rasic",
+      "party": "Australian Labor Party",
+      "electorate": "Sydenham",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.facebook.com/photo/?fbid=1523060449379370&set=a.360651605620266"
+    },
+    {
+      "name": "Shania Khan",
+      "party": "Victorian Socialists",
+      "electorate": "Sydenham",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/shania-khan"
+    },
+    {
+      "name": "Rifai Raheem",
+      "party": "Australian Greens",
+      "electorate": "Tarneit",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/rifai-raheem"
+    },
+    {
+      "name": "Priya Reddy",
+      "party": "Victorian Socialists",
+      "electorate": "Thomastown",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/priya-reddy"
+    },
+    {
+      "name": "John Stanley",
+      "party": "Victorian Socialists",
+      "electorate": "Warrandyte",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/john-stanley"
+    },
+    {
+      "name": "Reece Clark",
+      "party": "Liberal Party",
+      "electorate": "Werribee",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://vic.liberal.org.au/team/reece-clark"
+    },
+    {
+      "name": "Tushar Kumar",
+      "party": "Australian Greens",
+      "electorate": "Werribee",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/tushar-kumar"
+    },
+    {
+      "name": "Sue Munro",
+      "party": "Victorian Socialists",
+      "electorate": "Werribee",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/sue-munro"
+    },
+    {
+      "name": "Oskar Martin",
+      "party": "Victorian Socialists",
+      "electorate": "Williamstown",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://www.victoriansocialists.org.au/candidates/oskar-martin"
+    },
+    {
+      "name": "Gufran Mohammed",
+      "party": "Australian Greens",
+      "electorate": "Yan Yean",
+      "chamber": "Legislative Assembly",
+      "source_url": "https://greens.org.au/vic/person/gufran-mohammed"
+    }
+  ]
+}

@@ -50,8 +50,8 @@ def emit_candidates(c):
     for cand in c.execute("SELECT * FROM candidate ORDER BY seq").fetchall():
         rec = {"id": cand["id"], "name": cand["name"]}
         for k in ("official_page", "party", "party_group", "jurisdiction", "chamber",
-                  "electorate", "state", "status", "photo_url", "photo_credit_url",
-                  "last_updated"):
+                  "electorate", "state", "status", "election", "poll_date",
+                  "photo_url", "photo_credit_url", "last_updated"):
             if cand[k] is not None:
                 rec[k] = cand[k]
 
@@ -67,6 +67,11 @@ def emit_candidates(c):
                           (cand["roster_source_id"],)).fetchone()
             rec["roster_source"] = {"title": s["title"], "url": s["url"],
                                     "publisher": s["publisher"], "date": s["date"]}
+        if cand["candidacy_source_id"] is not None:
+            s = c.execute("SELECT title,url,publisher,date FROM source WHERE id=?",
+                          (cand["candidacy_source_id"],)).fetchone()
+            rec["candidacy_source"] = {"title": s["title"], "url": s["url"],
+                                       "publisher": s["publisher"], "date": s["date"]}
 
         if cand["donor_summary"] is not None:
             entries = []

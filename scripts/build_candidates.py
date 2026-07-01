@@ -306,6 +306,51 @@ def load_state_rosters():
     return records
 
 
+def load_candidate_rosters():
+    """Build records for people RUNNING at an upcoming election (non-incumbents),
+    from data/sources/candidates/*.json. These are kept separate from incumbents
+    via status="candidate" and an `election` field; the front end shows them in
+    their own section. No donor data (they are not members)."""
+    import glob as _glob
+    from urllib.parse import urlparse
+    cdir = os.path.join(SRC, "candidates")
+    records = []
+    for path in sorted(_glob.glob(os.path.join(cdir, "*.json"))):
+        with open(path, encoding="utf-8") as f:
+            j = json.load(f)
+        election = j["election"]
+        elslug = re.sub(r"[^a-z0-9]+", "-", election.lower()).strip("-")
+        for m in j["candidates"]:
+            name = m["name"].strip()
+            electorate = m.get("electorate", "")
+            rec = {
+                "id": f"{elslug}-{slugify(name, electorate)}",
+                "name": name,
+                "party": m["party"],
+                "party_group": party_group(m["party"]),
+                "jurisdiction": j.get("jurisdiction", ""),
+                "chamber": m.get("chamber", j.get("chamber", "")),
+                "electorate": electorate,
+                "state": j.get("state", ""),
+                "status": "candidate",
+                "election": election,
+                "poll_date": j.get("poll_date", ""),
+                "last_updated": BUILD_DATE,
+                "positions": {},
+                "roster_source": j["source"],
+            }
+            url = m.get("source_url")
+            if url:
+                rec["candidacy_source"] = {
+                    "title": f"Candidacy confirmed — {name} ({electorate})",
+                    "url": url,
+                    "publisher": urlparse(url).netloc.replace("www.", ""),
+                    "date": "",
+                }
+            records.append(rec)
+    return records
+
+
 def load_photos():
     """Load member portrait URLs (Wikipedia/Wikimedia Commons) keyed by id."""
     path = os.path.join(HERE, "..", "data", "photos.json")
@@ -398,8 +443,10 @@ def main():
         rec["party_group"] = party_group(rec.get("party", ""))
         rec["jurisdiction"] = "Federal"
 
-    # Append state/territory members (roster only; positions/photos merge below).
+    # Append state/territory members and upcoming-election candidates
+    # (roster only; positions/photos merge below).
     all_records += load_state_rosters()
+    all_records += load_candidate_rosters()
 
     photos = load_photos()
     for rec in all_records:

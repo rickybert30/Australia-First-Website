@@ -60,8 +60,10 @@
     "status": {
       "type": "string",
       "enum": ["incumbent", "candidate", "former"],
-      "description": "Current standing."
+      "description": "Current standing. 'candidate' = a non-incumbent running at an upcoming election (shown in the Running candidates section)."
     },
+    "election": { "type": "string", "description": "Running candidates only: the election contested, e.g. 'Victoria 2026'." },
+    "poll_date": { "type": "string", "description": "Running candidates only: ISO polling date." },
     "photo_url": { "type": "string", "description": "Portrait image URL (Wikimedia Commons via Wikipedia)." },
     "photo_credit_url": { "type": "string", "description": "Source page (Wikipedia article) for image attribution." },
     "official_page": { "type": "string", "description": "Link to APH/parliament profile." },
@@ -69,6 +71,10 @@
     "roster_source": {
       "allOf": [{ "$ref": "#/definitions/source" }],
       "description": "Citation for the roster facts (party, electorate, state, chamber)."
+    },
+    "candidacy_source": {
+      "allOf": [{ "$ref": "#/definitions/source" }],
+      "description": "Running candidates only: citation confirming the person is standing at the election."
     },
     "positions": {
       "type": "object",

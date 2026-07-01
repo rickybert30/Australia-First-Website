@@ -65,17 +65,20 @@ def main():
     # ---- candidates, positions, member donations ----
     for seq, c in enumerate(cand["candidates"]):
         rs_id = source_id(c["roster_source"]) if c.get("roster_source") else None
+        cs_id = source_id(c["candidacy_source"]) if c.get("candidacy_source") else None
         donors = c.get("donors") or {}
         con.execute(
             """INSERT INTO candidate(id,seq,name,party,party_group,jurisdiction,chamber,
-                 electorate,state,status,official_page,photo_url,photo_credit_url,
-                 last_updated,roster_source_id,donor_summary,donor_total_aud)
-               VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""",
+                 electorate,state,status,election,poll_date,official_page,photo_url,
+                 photo_credit_url,last_updated,roster_source_id,candidacy_source_id,
+                 donor_summary,donor_total_aud)
+               VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""",
             (c["id"], seq, c["name"], c.get("party"), c.get("party_group"),
              c.get("jurisdiction"), c.get("chamber"), c.get("electorate"),
-             c.get("state"), c.get("status"), c.get("official_page"),
-             c.get("photo_url"), c.get("photo_credit_url"), c.get("last_updated"),
-             rs_id, donors.get("summary"), donors.get("total_aud")))
+             c.get("state"), c.get("status"), c.get("election"), c.get("poll_date"),
+             c.get("official_page"), c.get("photo_url"), c.get("photo_credit_url"),
+             c.get("last_updated"), rs_id, cs_id,
+             donors.get("summary"), donors.get("total_aud")))
 
         for issue, p in (c.get("positions") or {}).items():
             cur = con.execute(

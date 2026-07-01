@@ -32,6 +32,7 @@ const state = {
   all: [],
   partyPositions: {},
   sort: 'name',
+  view: 'incumbents', // 'incumbents' (in office + former) or 'running' (candidates for an upcoming election)
   filters: { search: '', jurisdiction: '', chamber: '', group: '', party: '', state: '', status: '', issue: '' },
 };
 
@@ -252,14 +253,22 @@ function renderDonorSearch(query) {
 }
 
 function wireTabs() {
-  const views = { candidates: document.getElementById('view-candidates'),
-                  parties: document.getElementById('view-parties') };
-  document.querySelectorAll('.tab').forEach((btn) => {
+  const vc = document.getElementById('view-candidates');
+  const vp = document.getElementById('view-parties');
+  // Only wire button tabs (the Explore link navigates away on its own).
+  document.querySelectorAll('button.tab').forEach((btn) => {
     btn.addEventListener('click', () => {
       document.querySelectorAll('.tab').forEach((b) => b.classList.toggle('active', b === btn));
       const v = btn.dataset.view;
-      views.candidates.hidden = v !== 'candidates';
-      views.parties.hidden = v !== 'parties';
+      if (v === 'parties') {
+        vc.hidden = true;
+        vp.hidden = false;
+      } else {
+        vp.hidden = true;
+        vc.hidden = false;
+        state.view = v === 'running' ? 'running' : 'incumbents';
+        render();
+      }
     });
   });
 }
@@ -329,6 +338,10 @@ function sortCandidates(list) {
 
 function matches(c) {
   const f = state.filters;
+  // Base split: the "Running candidates" view shows only upcoming-election
+  // candidates; every other view shows people in (or formerly in) office.
+  const isCandidate = c.status === 'candidate';
+  if (state.view === 'running' ? !isCandidate : isCandidate) return false;
   if (f.jurisdiction && c.jurisdiction !== f.jurisdiction) return false;
   if (f.chamber && c.chamber !== f.chamber) return false;
   if (f.group && c.party_group !== f.group) return false;
@@ -435,26 +448,30 @@ function renderCard(c) {
     // If the image fails to load, hide the broken element.
     img.addEventListener('error', () => { link.hidden = true; });
   }
+  const isCandidate = c.status === 'candidate';
   const metaBits = [
     c.party,
     c.jurisdiction && c.jurisdiction !== 'Federal' ? c.jurisdiction : null,
     c.chamber,
     c.electorate ? `${c.electorate} (${c.state || ''})` : c.state,
-    c.status,
+    isCandidate ? (c.election ? `candidate · ${c.election}` : 'candidate') : c.status,
   ].filter(Boolean);
   const meta = node.querySelector('.c-meta');
   meta.textContent = metaBits.join(' · ');
-  if (c.roster_source && c.roster_source.url) {
+  const sourceLink = (src, label) => {
+    if (!src || !src.url) return;
     meta.appendChild(document.createTextNode(' · '));
     const a = document.createElement('a');
     a.className = 'roster-src';
-    a.href = c.roster_source.url;
+    a.href = src.url;
     a.target = '_blank';
     a.rel = 'noopener noreferrer';
-    a.textContent = 'roster source';
-    a.title = c.roster_source.title || '';
+    a.textContent = label;
+    a.title = src.title || '';
     meta.appendChild(a);
-  }
+  };
+  sourceLink(c.roster_source, 'roster source');
+  sourceLink(c.candidacy_source, 'candidacy source');
 
   // At-a-glance chips: which issues this member has data for.
   const chipRow = el('div', 'chips');
@@ -489,7 +506,10 @@ function render() {
   const countEl = document.getElementById('count');
   results.innerHTML = '';
   const filtered = sortCandidates(state.all.filter(matches));
-  countEl.textContent = `${filtered.length} of ${state.all.length} record(s)`;
+  const viewTotal = state.all.filter((c) =>
+    state.view === 'running' ? c.status === 'candidate' : c.status !== 'candidate').length;
+  const noun = state.view === 'running' ? 'candidate(s)' : 'record(s)';
+  countEl.textContent = `${filtered.length} of ${viewTotal} ${noun}`;
   const note = document.getElementById('sort-note');
   if (note) {
     const isSpectrum = state.sort === 'lr' || state.sort === 'rl';
