@@ -30,6 +30,7 @@ body {
 
 .tabs {
   display: flex;
+  flex-wrap: wrap;
   gap: .5rem;
   max-width: 1000px;
   margin: 0 auto;
@@ -47,6 +48,14 @@ body {
 .tab.active { color: var(--text); border-color: var(--accent); }
 .tab:hover { color: var(--text); }
 .tab-link { text-decoration: none; margin-left: auto; display: inline-block; line-height: normal; }
+.tab-link-tight { margin-left: 0; }
+.table-scroll { overflow-x: auto; }
+
+@media (max-width: 480px) {
+  .site-header h1 { font-size: 1.25rem; }
+  .site-header { padding: 1.2rem 1rem .8rem; }
+  .tabs, .controls { padding-left: 1rem; padding-right: 1rem; }
+}
 
 .controls {
   display: flex;
@@ -94,6 +103,10 @@ body {
   margin: 0 auto;
   padding: 0 1.25rem 3rem;
   display: grid;
+  /* minmax(0,…) lets cards shrink below their content's intrinsic width on
+     phones — wide donor tables then scroll inside .table-scroll instead of
+     blowing the whole page out sideways. */
+  grid-template-columns: minmax(0, 1fr);
   gap: 1rem;
 }
 
@@ -147,7 +160,7 @@ body {
   font-size: .8rem;
 }
 
-.positions { margin: 0; display: grid; gap: .8rem; }
+.positions { margin: 0; display: grid; grid-template-columns: minmax(0, 1fr); gap: .8rem; }
 .pos { background: var(--panel-2); border-radius: 8px; padding: .7rem .8rem; }
 .pos-label {
   font-size: .72rem;

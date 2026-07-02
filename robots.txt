@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rigbygroyp.github.io/Australia-First/sitemap.xml

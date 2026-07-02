@@ -110,7 +110,6 @@ async function load() {
   wireTabs();
   wireDonorSearch();
   render();
-  loadPartyDonations();
 }
 
 function wireDonorSearch() {
@@ -118,13 +117,19 @@ function wireDonorSearch() {
   if (input) input.addEventListener('input', () => renderDonorSearch(input.value));
 }
 
+// Lazily fetched on the first visit to the Party donations tab — 673 KB that
+// most visits to the candidate views never need.
+let partyDonationsLoaded = false;
 async function loadPartyDonations() {
+  if (partyDonationsLoaded) return;
+  partyDonationsLoaded = true;
   try {
     const res = await fetch('data/party_donations.json');
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
     renderParties(data);
   } catch (err) {
+    partyDonationsLoaded = false; // allow a retry on next tab visit
     document.getElementById('party-results').innerHTML =
       `<p class="empty">Could not load party donations (${err.message}).</p>`;
   }
@@ -298,6 +303,7 @@ function wireTabs() {
       if (v === 'parties') {
         vc.hidden = true;
         vp.hidden = false;
+        loadPartyDonations();
       } else {
         vp.hidden = true;
         vc.hidden = false;
@@ -511,7 +517,11 @@ function renderDonors(donors) {
       tbody.appendChild(tr);
     });
     table.appendChild(tbody);
-    wrap.appendChild(table);
+    // Scroll wrapper: donor tables have nowrap cells and can exceed a phone's
+    // viewport — scroll the table, not the whole page.
+    const scroller = el('div', 'table-scroll');
+    scroller.appendChild(table);
+    wrap.appendChild(scroller);
   }
   return wrap;
 }

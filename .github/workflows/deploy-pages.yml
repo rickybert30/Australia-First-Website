@@ -41,6 +41,17 @@ jobs:
         # explore.html can fetch and query it client-side.
         run: python3 scripts/build_db.py
 
+      - name: Stage the public site
+        # Publish only the site itself — not build scripts, the db/ dump, or repo
+        # docs (those stay on GitHub and are linked from the About page). data/ is
+        # published in full deliberately: the dataset is the product.
+        run: |
+          mkdir _site
+          cp index.html explore.html about.html 404.html robots.txt sitemap.xml .nojekyll _site/
+          [ -f CNAME ] && cp CNAME _site/ || true
+          cp -r assets _site/assets
+          cp -r data _site/data
+
       - name: Configure Pages
         # Requires Pages to be enabled once in repo settings
         # (Settings -> Pages -> Build and deployment -> Source: GitHub Actions).
@@ -50,7 +61,7 @@ jobs:
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .
+          path: _site
 
       - name: Deploy to GitHub Pages
         id: deployment

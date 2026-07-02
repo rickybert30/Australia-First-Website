@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>About &amp; methodology — Australian Candidate Transparency Database</title>
+  <meta name="description" content="How the Australian Candidate Transparency Database is built: sourcing standards, editorial rules, data sources, coverage, corrections, and downloads." />
+  <meta name="theme-color" content="#0f1115" />
+  <link rel="canonical" href="https://rigbygroyp.github.io/Australia-First/about.html" />
+  <meta property="og:title" content="About &amp; methodology — Australian Candidate Transparency Database" />
+  <meta property="og:description" content="Every claim links to its source. How the database is built, what it records, and what it deliberately does not." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://rigbygroyp.github.io/Australia-First/about.html" />
+  <meta name="twitter:card" content="summary" />
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg" />
+  <link rel="stylesheet" href="assets/style.css" />
+  <style>
+    .about-wrap { max-width: 800px; margin: 0 auto; padding: 0 1.25rem 3rem; }
+    .about-wrap h2 { margin-top: 2.2rem; font-size: 1.15rem; }
+    .about-wrap p, .about-wrap li { line-height: 1.6; color: var(--text); font-size: .95rem; }
+    .about-wrap li { margin: .35rem 0; }
+    .about-wrap table { border-collapse: collapse; width: 100%; font-size: .88rem; margin: .8rem 0; }
+    .about-wrap th, .about-wrap td { border: 1px solid var(--line); padding: .45rem .6rem; text-align: left; vertical-align: top; }
+    .about-wrap th { color: var(--muted); font-weight: 600; }
+    .about-wrap a { color: var(--accent); }
+    .about-note { color: var(--muted); font-size: .85rem; }
+  </style>
+</head>
+<body>
+  <header class="site-header">
+    <h1>About this database</h1>
+    <p class="tagline">
+      What we record, how it's sourced, and what we deliberately don't do.
+    </p>
+  </header>
+
+  <nav class="tabs" aria-label="View">
+    <a class="tab" href="index.html">← Back to the database</a>
+    <a class="tab tab-link" href="explore.html">Explore with SQL →</a>
+  </nav>
+
+  <main class="about-wrap">
+    <h2>What this is</h2>
+    <p>
+      A factual, fully-sourced reference on Australian politicians and candidates —
+      the federal Parliament, all eight state and territory parliaments, and announced
+      candidates for upcoming elections. The goal is to help voters make informed
+      decisions by gathering publicly available, verifiable information about where
+      candidates stand, with a source link attached to every claim.
+      <strong>This is an information resource, not a scorecard.</strong>
+    </p>
+
+    <h2>Editorial rules</h2>
+    <ul>
+      <li><strong>Every claim needs a source.</strong> Nothing is published without a
+        citation — Hansard, an AEC disclosure, a party platform, or an on-the-record
+        public statement that was actually retrieved. Entries lacking a confirmed
+        source are omitted rather than guessed.</li>
+      <li><strong>Positions are recorded, never graded.</strong> We summarise what a
+        person has said or done and link the source. No ideological score, no
+        endorsement, no ranking. Readers draw their own conclusions.</li>
+      <li><strong>Public record only.</strong> Public statements and conduct. No
+        ethnicity, ancestry, national origin or heritage is recorded, and private
+        belief is never inferred — faith appears only where someone has publicly
+        self-identified it.</li>
+      <li><strong>Citizenship = constitutional eligibility.</strong> The citizenship
+        field records Section&nbsp;44 eligibility only (a genuine legal matter), never
+        heritage or origin.</li>
+      <li><strong>No inference from party.</strong> A member's position is recorded
+        from their own vote or statement, not assumed from their party. Where a
+        federal party platform is shown as a fallback it is clearly labelled as the
+        party's position, not the member's.</li>
+    </ul>
+
+    <h2>What's tracked</h2>
+    <p>
+      Sourced positions across 24 issues: five federal issues (immigration, faith,
+      economic nationalism, foreign policy &amp; aid, s44 citizenship eligibility) and
+      nineteen state issues — conscience matters that produce named parliamentary
+      divisions (abortion, voluntary assisted dying, gender &amp; LGBTQ+ policy,
+      religious freedom, drugs &amp; law and order, gambling, hunting, sex work,
+      First Nations &amp; treaty, integrity) and core state policy areas (forestry,
+      nuclear, housing, health, education, transport, energy, environment &amp; water,
+      animal welfare). Plus disclosed political donations, both to individual members
+      and to parties, with a donor-information registry describing who each
+      identifiable donor organisation actually is.
+    </p>
+
+    <h2>Where the data comes from</h2>
+    <table>
+      <tr><th>Data</th><th>Source</th></tr>
+      <tr><td>Federal roster</td><td><a href="https://results.aec.gov.au/31496/Website/HouseDownloadsMenu-31496-Csv.htm" rel="noopener">AEC Tally Room</a> (House) and <a href="https://www.openaustralia.org.au/senators/" rel="noopener">OpenAustralia.org</a> (Senate)</td></tr>
+      <tr><td>State/territory rosters</td><td>Parliamentary member lists, each roster carrying its own citation (shown on every card as “roster source”)</td></tr>
+      <tr><td>Election candidates</td><td>Party preselection pages, electoral commissions and reputable media — every candidate carries a “candidacy source” link</td></tr>
+      <tr><td>Positions</td><td>Hansard division records and Votes &amp; Proceedings, committee reports, members' own statements, reputable media — cited per entry</td></tr>
+      <tr><td>Donations</td><td><a href="https://transparency.aec.gov.au/" rel="noopener">AEC Transparency Register</a> (member returns and party detailed receipts)</td></tr>
+      <tr><td>Portraits</td><td>Wikimedia Commons via each member's Wikipedia article, with OpenAustralia.org backfill; every portrait links to its source page</td></tr>
+    </table>
+
+    <h2>Coverage — and honest gaps</h2>
+    <p>
+      Coverage is partial <em>by design</em>. A position appears only where it is
+      concretely stated and backed by a retrieved source. Issues decided by named
+      conscience-vote divisions (abortion, voluntary assisted dying, sex work, treaty,
+      nuclear) have deep per-person coverage; executive-driven policy areas mostly
+      surface ministers with sourced records. Newly elected members often have little
+      public record yet — their cards fill in as they build one. Per-member donor
+      data covers only donations made directly to a member; most political money
+      flows through party returns, which are shown separately, and the AEC publishes
+      itemised member receipts for House members only.
+    </p>
+
+    <h2>Corrections</h2>
+    <p>
+      Found an error or a stale entry? <a href="https://github.com/RigbyGroyp/Australia-First/issues" rel="noopener">Open an issue</a>
+      with a better source. Corrections backed by a stronger source always win. The
+      full editing workflow is documented in
+      <a href="https://github.com/RigbyGroyp/Australia-First/blob/main/CONTRIBUTING.md" rel="noopener">CONTRIBUTING.md</a>.
+    </p>
+
+    <h2 id="download-the-data">Download the data</h2>
+    <ul>
+      <li><a href="data/candidates.json">candidates.json</a> — the full dataset (records, positions, member donors)</li>
+      <li><a href="data/party_donations.json">party_donations.json</a> — donations to parties, per financial year</li>
+      <li><a href="data/donor_info.json">donor_info.json</a> — the donor-information registry</li>
+      <li><a href="data/candidates.db">candidates.db</a> — the whole dataset as a relational SQLite database (or query it in your browser on the <a href="explore.html">SQL explorer</a>)</li>
+      <li><a href="https://github.com/RigbyGroyp/Australia-First" rel="noopener">Source repository</a> — build scripts, raw inputs, and full history</li>
+    </ul>
+
+    <h2>Privacy</h2>
+    <p class="about-note">
+      This site sets no cookies and collects no personal data. All pages are static;
+      the SQL explorer runs entirely in your browser and sends nothing anywhere.
+      If anonymous page-count analytics are ever enabled they will be cookie-free
+      and this notice will say so.
+    </p>
+  </main>
+
+  <footer class="site-footer">
+    <p>
+      Records public statements and conduct only. No ethnicity, ancestry, or heritage
+      is recorded. <a href="index.html">Back to the database</a>.
+    </p>
+  </footer>
+
+  <!-- GoatCounter (cookie-free page counts). To enable: create a free account at
+       goatcounter.com, replace YOURCODE, and uncomment. See DEPLOYMENT.md.
+  <script data-goatcounter="https://YOURCODE.goatcounter.com/count"
+          async src="//gc.zgo.at/count.js"></script>
+  -->
+</body>
+</html>

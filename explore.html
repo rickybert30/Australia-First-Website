@@ -4,7 +4,15 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Explore the data with SQL — Australian Candidate Transparency Database</title>
-  <link rel="icon" href="data:," />
+  <meta name="description" content="Run your own SQL queries over the full Australian candidate transparency dataset — candidates, positions, donors and donations — entirely in your browser." />
+  <meta name="theme-color" content="#0f1115" />
+  <link rel="canonical" href="https://rigbygroyp.github.io/Australia-First/explore.html" />
+  <meta property="og:title" content="Explore the data with SQL — Australian Candidate Transparency Database" />
+  <meta property="og:description" content="Run your own SQL over the whole dataset, entirely in your browser. Nothing is sent to a server." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://rigbygroyp.github.io/Australia-First/explore.html" />
+  <meta name="twitter:card" content="summary" />
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg" />
   <link rel="stylesheet" href="assets/style.css" />
   <style>
     .sql-wrap { max-width: 1100px; margin: 0 auto; padding: 0 1rem 3rem; }
@@ -40,7 +48,7 @@
     <p class="tagline">
       Run your own SQL queries over the whole dataset — candidates, positions, donors and
       donations — right in your browser. Nothing is sent to a server; the database is
-      downloaded once and queried locally. <a href="index.html">← Back to the database</a>
+      downloaded once and queried locally. <a href="index.html">← Back to the database</a> · <a href="about.html">About &amp; methodology</a>
     </p>
   </header>
 
@@ -70,5 +78,11 @@
   <!-- sql.js (WASM) vendored locally — no third-party requests, works offline -->
   <script src="assets/vendor/sqljs/sql-wasm.js"></script>
   <script src="assets/explore.js"></script>
+
+  <!-- GoatCounter (cookie-free page counts). To enable: create a free account at
+       goatcounter.com, replace YOURCODE, and uncomment. See DEPLOYMENT.md.
+  <script data-goatcounter="https://YOURCODE.goatcounter.com/count"
+          async src="//gc.zgo.at/count.js"></script>
+  -->
 </body>
 </html>

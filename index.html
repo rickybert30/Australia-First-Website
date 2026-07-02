@@ -3,15 +3,25 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Australian Federal Candidate Transparency Database</title>
-  <link rel="icon" href="data:," />
+  <title>Australian Candidate Transparency Database</title>
+  <meta name="description" content="Factual, fully-sourced positions, votes and disclosed donations for Australian federal and state politicians and election candidates. Every claim links to its source." />
+  <meta name="theme-color" content="#0f1115" />
+  <link rel="canonical" href="https://rigbygroyp.github.io/Australia-First/" />
+  <meta property="og:title" content="Australian Candidate Transparency Database" />
+  <meta property="og:description" content="Factual, fully-sourced positions, votes and disclosed donations for Australian politicians. An information resource, not a scorecard." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://rigbygroyp.github.io/Australia-First/" />
+  <meta name="twitter:card" content="summary" />
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg" />
+  <link rel="preload" href="data/candidates.json" as="fetch" crossorigin="anonymous" />
   <link rel="stylesheet" href="assets/style.css" />
 </head>
 <body>
   <header class="site-header">
-    <h1>Australian Federal Candidate Transparency Database</h1>
+    <h1>Australian Candidate Transparency Database</h1>
     <p class="tagline">
-      Publicly sourced, factual information on federal candidates and members.
+      Publicly sourced, factual information on Australia's federal and state
+      politicians and election candidates.
       Every claim links to its source. This is an information resource, not a scorecard.
     </p>
   </header>
@@ -20,7 +30,8 @@
     <button id="tab-candidates" class="tab active" role="tab" aria-selected="true" aria-controls="view-candidates" data-view="incumbents">In office</button>
     <button id="tab-running" class="tab" role="tab" aria-selected="false" aria-controls="view-candidates" data-view="running">Running candidates</button>
     <button id="tab-parties" class="tab" role="tab" aria-selected="false" aria-controls="view-parties" data-view="parties">Party donations</button>
-    <a class="tab tab-link" href="explore.html">Explore with SQL →</a>
+    <a class="tab tab-link" href="about.html">About &amp; methodology</a>
+    <a class="tab tab-link tab-link-tight" href="explore.html">Explore with SQL →</a>
   </nav>
 
   <section id="view-candidates">
@@ -118,6 +129,13 @@
       Wikipedia article) or, where unavailable, from OpenAustralia.org. Click a
       portrait for its source and image licensing.
     </p>
+    <p>
+      <a href="about.html">About &amp; methodology</a> ·
+      <a href="about.html#download-the-data">Download the data</a> ·
+      <a href="explore.html">SQL explorer</a> ·
+      <a href="https://github.com/RigbyGroyp/Australia-First" rel="noopener">Source on GitHub</a> ·
+      No cookies, no tracking.
+    </p>
   </footer>
 
   <template id="card-template">
@@ -154,5 +172,11 @@
   </template>
 
   <script src="assets/app.js"></script>
+
+  <!-- GoatCounter (cookie-free page counts). To enable: create a free account at
+       goatcounter.com, replace YOURCODE, and uncomment. See DEPLOYMENT.md.
+  <script data-goatcounter="https://YOURCODE.goatcounter.com/count"
+          async src="//gc.zgo.at/count.js"></script>
+  -->
 </body>
 </html>
